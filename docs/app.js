@@ -189,6 +189,10 @@ function renderChart(seriesObj) {
   const empty = el("chart-empty");
   const legend = el("legend");
   const seriesList = Object.values(seriesObj).filter((s) => s.points.length > 0);
+  // Rank order — highest current prestige first — regardless of the order
+  // the data arrived in or players were added, so the legend/colors always
+  // read top-to-bottom the same way the leaderboard does.
+  seriesList.sort((a, b) => b.points[b.points.length - 1].prestigeLevel - a.points[a.points.length - 1].prestigeLevel);
 
   if (seriesList.length === 0 || !seriesList.some((s) => s.points.length > 1)) {
     svg.innerHTML = "";
