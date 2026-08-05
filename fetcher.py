@@ -1,7 +1,6 @@
 import logging
 import threading
-import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import requests
 
@@ -36,10 +35,20 @@ def fetch_once():
         log.exception("Fetch failed")
 
 
+def _seconds_until_next_hour() -> float:
+    now = datetime.now(timezone.utc)
+    next_hour = (now.replace(minute=0, second=0, microsecond=0) + timedelta(hours=1))
+    return (next_hour - now).total_seconds()
+
+
 def _loop():
+    fetch_once()
     while not _stop_event.is_set():
+        # Recomputed each cycle (rather than a flat 3600s sleep) so the
+        # schedule stays pinned to :00 and can't drift over time.
+        if _stop_event.wait(_seconds_until_next_hour()):
+            break
         fetch_once()
-        _stop_event.wait(FETCH_INTERVAL_SECONDS)
 
 
 def start_background_fetching():
