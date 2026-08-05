@@ -237,17 +237,27 @@ function renderChart(seriesObj) {
   seriesList.forEach((s, i) => {
     const colorVar = SERIES_COLORS[i % SERIES_COLORS.length];
     const color = cssVar(colorVar);
+    // Beyond 8 series the fixed palette has to repeat a hue (never invent an
+    // unvalidated 9th color) — dash the line and hollow the markers for the
+    // repeats so they stay visually distinct from their color-twin, not just
+    // legend-distinct.
+    const isRepeat = i >= SERIES_COLORS.length;
     const pts = [...s.points].sort((a, b) => new Date(a.t) - new Date(b.t));
     const pathD = pts.map((p, idx) => `${idx === 0 ? "M" : "L"} ${x(new Date(p.t).getTime()).toFixed(2)} ${y(p.prestigeLevel).toFixed(2)}`).join(" ");
-    svgParts.push(`<path d="${pathD}" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />`);
+    svgParts.push(`<path d="${pathD}" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"${isRepeat ? ' stroke-dasharray="6 4"' : ""} />`);
 
     const last = pts[pts.length - 1];
     const lx = x(new Date(last.t).getTime());
     const ly = y(last.prestigeLevel);
-    svgParts.push(`<circle cx="${lx}" cy="${ly}" r="5" fill="${color}" stroke="var(--surface-1)" stroke-width="2" />`);
+    svgParts.push(isRepeat
+      ? `<circle cx="${lx}" cy="${ly}" r="5" fill="var(--surface-1)" stroke="${color}" stroke-width="2.5" />`
+      : `<circle cx="${lx}" cy="${ly}" r="5" fill="${color}" stroke="var(--surface-1)" stroke-width="2" />`);
     endpoints.push({ lx, ly, name: s.displayName });
 
-    legendItems.push(`<div class="legend-item"><span class="legend-swatch" style="background:${color}"></span>${escapeHtml(s.displayName)}</div>`);
+    const swatch = isRepeat
+      ? `style="background:transparent;border:2px solid ${color}"`
+      : `style="background:${color}"`;
+    legendItems.push(`<div class="legend-item"><span class="legend-swatch" ${swatch}></span>${escapeHtml(s.displayName)}</div>`);
   });
 
   const MIN_GAP = 14;
