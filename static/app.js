@@ -222,27 +222,33 @@ function renderChart(seriesObj) {
   const padL = 46, padR = 16, padT = 14, padB = 28;
   const plotW = W - padL - padR, plotH = H - padT - padB;
 
-  let tMin = Infinity, tMax = -Infinity, vMax = 0;
+  let tMin = Infinity, tMax = -Infinity, vMax = -Infinity, vMin = Infinity;
   for (const s of seriesList) {
     for (const p of s.points) {
       const t = new Date(p.t).getTime();
       if (t < tMin) tMin = t;
       if (t > tMax) tMax = t;
       if (p.prestigeLevel > vMax) vMax = p.prestigeLevel;
+      if (p.prestigeLevel < vMin) vMin = p.prestigeLevel;
     }
   }
   if (tMin === tMax) tMin -= 3600 * 1000;
   vMax = Math.max(1, Math.ceil(vMax * 1.15));
+  // Floor sits ~20 prestige below the lowest plotted value instead of always
+  // pinning to 0 — mirrors the headroom already given above the highest
+  // value, so small moves near the bottom of the chart aren't flattened out.
+  const vFloor = Math.max(0, Math.floor(vMin) - 20);
 
   const x = (t) => padL + ((t - tMin) / (tMax - tMin)) * plotW;
-  const y = (v) => padT + plotH - (v / vMax) * plotH;
+  const y = (v) => padT + plotH - ((v - vFloor) / (vMax - vFloor)) * plotH;
 
   let svgParts = [];
 
   // gridlines (4 horizontal steps)
   const steps = 4;
+  const vRange = vMax - vFloor;
   for (let i = 0; i <= steps; i++) {
-    const v = Math.round((vMax / steps) * i);
+    const v = Math.round(vFloor + (vRange / steps) * i);
     const gy = y(v);
     svgParts.push(`<line class="gridline" x1="${padL}" y1="${gy}" x2="${W - padR}" y2="${gy}" />`);
     svgParts.push(`<text class="axis-label" x="${padL - 8}" y="${gy + 4}" text-anchor="end">${v}</text>`);
