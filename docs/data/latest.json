@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-05T17:30:16.1113223+00:00",
-    "fetched_at": "2026-08-05T17:30:43.865275+00:00",
-    "total_entries": 1711
+    "generated_at": "2026-08-05T18:30:16.1103298+00:00",
+    "fetched_at": "2026-08-05T18:30:38.294483+00:00",
+    "total_entries": 1714
   },
   "entries": [
     {
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198119959603",
+      "display_name": "nick written by kitten",
+      "prestige_level": 55,
+      "achieved_at": "2026-08-05T17:53:29.271598+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
       "prestige_level": 54,
@@ -495,19 +503,11 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198028911393",
       "display_name": "MOLTEN",
       "prestige_level": 54,
       "achieved_at": "2026-07-14T00:41:43.209054+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198119959603",
-      "display_name": "nick written by kitten",
-      "prestige_level": 54,
-      "achieved_at": "2026-08-05T17:11:22.110456+00:00",
       "badge_id": ""
     },
     {
