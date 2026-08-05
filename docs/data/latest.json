@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-05T16:23:16.109765+00:00",
-    "fetched_at": "2026-08-05T16:23:47.779078+00:00",
-    "total_entries": 1709
+    "generated_at": "2026-08-05T17:15:16.1121368+00:00",
+    "fetched_at": "2026-08-05T17:15:32.973136+00:00",
+    "total_entries": 1711
   },
   "entries": [
     {
@@ -160,19 +160,19 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 87,
+      "achieved_at": "2026-08-05T16:55:35.763979+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198025781627",
       "display_name": "Tanner",
       "prestige_level": 86,
       "achieved_at": "2026-07-24T13:00:22.138318+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 21,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 86,
-      "achieved_at": "2026-08-04T20:45:16.5876+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 22,
@@ -506,8 +506,8 @@
       "rank": 63,
       "steam_id": "76561198119959603",
       "display_name": "nick written by kitten",
-      "prestige_level": 53,
-      "achieved_at": "2026-08-02T18:45:10.770377+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-08-05T17:11:22.110456+00:00",
       "badge_id": ""
     },
     {
@@ -568,18 +568,18 @@
     },
     {
       "rank": 71,
-      "steam_id": "76561198040755103",
-      "display_name": "Deadpan",
-      "prestige_level": 48,
-      "achieved_at": "2026-07-10T11:14:34.339785+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-05T17:05:38.669658+00:00",
       "badge_id": ""
     },
     {
       "rank": 72,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561198040755103",
+      "display_name": "Deadpan",
       "prestige_level": 48,
-      "achieved_at": "2026-08-03T21:24:51.327113+00:00",
+      "achieved_at": "2026-07-10T11:14:34.339785+00:00",
       "badge_id": ""
     },
     {
