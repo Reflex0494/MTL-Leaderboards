@@ -66,9 +66,9 @@ async function refreshStatus() {
     const ok = s.lastFetch && s.lastFetch.ok !== false;
     line.innerHTML = `<span class="dot${ok ? "" : " error"}"></span>` +
       (s.lastFetch && s.lastFetch.at
-        ? `Last updated ${timeAgo(s.lastFetch.at)}${ok ? "" : " (last fetch failed)"} · `
+        ? `Last fetch ${timeAgo(s.lastFetch.at)}${ok ? "" : " (failed)"} · `
         : "") +
-      `${s.snapshotCount} snapshot${s.snapshotCount === 1 ? "" : "s"} collected · GitHub Actions polls every ${Math.round(s.fetchIntervalSeconds / 60)}m`;
+      `${s.snapshotCount} snapshot${s.snapshotCount === 1 ? "" : "s"} collected · polling every ${Math.round(s.fetchIntervalSeconds / 60)}m`;
   } catch {
     el("status-line").textContent = "Could not load status data.";
   }
@@ -298,9 +298,32 @@ function setupHover(svg, seriesList, scales) {
   svg.onmouseleave = () => { tooltip.style.display = "none"; };
 }
 
+// ---------- Manual refresh ----------
+// GitHub Pages is static, so this can't trigger a new fetch the way the
+// local app's button can — it just re-checks the currently published
+// data/*.json files right now instead of waiting for the next periodic
+// poll. GitHub Actions still runs on its own schedule regardless.
+function setupRefreshButton() {
+  const btn = el("refresh-btn");
+  btn.addEventListener("click", async () => {
+    btn.disabled = true;
+    btn.classList.add("spinning");
+    try {
+      await loadPlayers();
+      await refreshLatestTable();
+      renderChartFromState();
+      await refreshStatus();
+    } finally {
+      btn.disabled = false;
+      btn.classList.remove("spinning");
+    }
+  });
+}
+
 // ---------- Init ----------
 async function init() {
   setupPlayerSearch();
+  setupRefreshButton();
   await refreshStatus();
   await loadPlayers();
   await refreshLatestTable();

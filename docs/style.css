@@ -83,10 +83,16 @@ header h1 {
   margin: 0 0 4px;
 }
 
+.status-line-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 28px;
+}
+
 .status-line {
   color: var(--text-secondary);
   font-size: 13px;
-  margin-bottom: 28px;
 }
 
 .status-line .dot {
@@ -98,6 +104,38 @@ header h1 {
   margin-right: 6px;
 }
 .status-line .dot.error { background: #d03b3b; }
+
+.refresh-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 22px;
+  height: 22px;
+  padding: 0;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface-1);
+  color: var(--text-secondary);
+  font-size: 13px;
+  line-height: 1;
+  cursor: pointer;
+}
+.refresh-btn:hover:not(:disabled) {
+  color: var(--text-primary);
+  background: var(--gridline);
+}
+.refresh-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.refresh-btn.spinning {
+  animation: refresh-spin 0.7s linear infinite;
+}
+@keyframes refresh-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
 
 .card {
   background: var(--surface-1);

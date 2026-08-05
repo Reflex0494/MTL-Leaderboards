@@ -29,6 +29,13 @@ def api_status():
     )
 
 
+@app.route("/api/poll-now", methods=["POST"])
+def api_poll_now():
+    fetcher.fetch_once()
+    last = fetcher.get_last_result()
+    return jsonify(last), (200 if last.get("ok") else 502)
+
+
 @app.route("/api/live")
 def api_live():
     try:

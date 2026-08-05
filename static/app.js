@@ -318,9 +318,31 @@ function setupHover(svg, seriesList, scales) {
   svg.onmouseleave = () => { tooltip.style.display = "none"; };
 }
 
+// ---------- Manual refresh ----------
+function setupRefreshButton() {
+  const btn = el("refresh-btn");
+  btn.addEventListener("click", async () => {
+    btn.disabled = true;
+    btn.classList.add("spinning");
+    try {
+      await fetch("/api/poll-now", { method: "POST" });
+    } catch {
+      // fall through — refreshStatus below will surface the failure
+    }
+    await refreshStatus();
+    await refreshLatestTable();
+    await loadPlayers();
+    await loadFullHistory();
+    await loadAndRenderChart();
+    btn.disabled = false;
+    btn.classList.remove("spinning");
+  });
+}
+
 // ---------- Init ----------
 async function init() {
   setupPlayerSearch();
+  setupRefreshButton();
   await refreshStatus();
   await loadPlayers();
   await loadFullHistory();
