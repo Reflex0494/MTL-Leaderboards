@@ -89,10 +89,12 @@ header h1 {
   gap: 8px;
   margin-bottom: 28px;
 }
+.status-line-row .status-line { margin-bottom: 0; }
 
 .status-line {
   color: var(--text-secondary);
   font-size: 13px;
+  margin-bottom: 28px;
 }
 
 .status-line .dot {
