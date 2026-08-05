@@ -27,6 +27,31 @@ function escapeHtml(s) {
   return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
 
+// Average seconds per prestige level, estimated from our own collected
+// history: (time between first and last observed snapshot) / (levels
+// gained over that span). Returns null when we haven't observed a level
+// change yet (not enough data, not "zero").
+function avgSecondsPerPrestige(points) {
+  if (!points || points.length < 2) return null;
+  const sorted = [...points].sort((a, b) => new Date(a.t) - new Date(b.t));
+  const first = sorted[0], last = sorted[sorted.length - 1];
+  const levelsGained = last.prestigeLevel - first.prestigeLevel;
+  if (levelsGained <= 0) return null;
+  const seconds = (new Date(last.t) - new Date(first.t)) / 1000;
+  return seconds / levelsGained;
+}
+
+function formatDuration(seconds) {
+  if (seconds == null) return "—";
+  const days = seconds / 86400;
+  if (days >= 1) return `${days.toFixed(1)}d`;
+  const hours = seconds / 3600;
+  if (hours >= 1) return `${hours.toFixed(1)}h`;
+  const mins = seconds / 60;
+  if (mins >= 1) return `${Math.round(mins)}m`;
+  return `${Math.round(seconds)}s`;
+}
+
 async function fetchJSON(url) {
   const res = await fetch(`${url}?_=${Date.now()}`); // bust GH Pages/CDN caching
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -54,14 +79,16 @@ async function refreshLatestTable() {
   const data = await fetchJSON("data/latest.json");
   const body = el("lb-body");
   if (!data.snapshot || data.entries.length === 0) {
-    body.innerHTML = `<tr><td colspan="4" class="empty-state">No data yet — waiting on the first update.</td></tr>`;
+    body.innerHTML = `<tr><td colspan="5" class="empty-state">No data yet — waiting on the first update.</td></tr>`;
     return;
   }
+  const playersMap = state.history.players || {};
   body.innerHTML = data.entries.map((e) => `
     <tr>
       <td class="num">${e.rank}</td>
       <td class="name">${escapeHtml(e.display_name)}</td>
       <td class="num">${e.prestige_level.toLocaleString()}</td>
+      <td class="num">${formatDuration(avgSecondsPerPrestige(playersMap[e.steam_id]?.points))}</td>
       <td>${escapeHtml(timeAgo(e.achieved_at))}</td>
     </tr>
   `).join("");
@@ -275,14 +302,14 @@ function setupHover(svg, seriesList, scales) {
 async function init() {
   setupPlayerSearch();
   await refreshStatus();
-  await refreshLatestTable();
   await loadPlayers();
+  await refreshLatestTable();
   renderChartFromState();
 
   setInterval(refreshStatus, 5 * 60 * 1000);
   setInterval(async () => {
-    await refreshLatestTable();
     await loadPlayers();
+    await refreshLatestTable();
     renderChartFromState();
   }, 10 * 60 * 1000);
 }

@@ -8,6 +8,7 @@ const state = {
   topN: 5,
   customSteamIds: [], // used when topN === 0
   players: [], // {steam_id, display_name, prestige_level}
+  fullHistory: {}, // steamId -> points[], for the avg-time-to-prestige column
 };
 
 const el = (id) => document.getElementById(id);
@@ -24,6 +25,31 @@ function timeAgo(iso) {
 
 function escapeHtml(s) {
   return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+// Average seconds per prestige level, estimated from our own collected
+// history: (time between first and last observed snapshot) / (levels
+// gained over that span). Returns null when we haven't observed a level
+// change yet (not enough data, not "zero").
+function avgSecondsPerPrestige(points) {
+  if (!points || points.length < 2) return null;
+  const sorted = [...points].sort((a, b) => new Date(a.t) - new Date(b.t));
+  const first = sorted[0], last = sorted[sorted.length - 1];
+  const levelsGained = last.prestigeLevel - first.prestigeLevel;
+  if (levelsGained <= 0) return null;
+  const seconds = (new Date(last.t) - new Date(first.t)) / 1000;
+  return seconds / levelsGained;
+}
+
+function formatDuration(seconds) {
+  if (seconds == null) return "—";
+  const days = seconds / 86400;
+  if (days >= 1) return `${days.toFixed(1)}d`;
+  const hours = seconds / 3600;
+  if (hours >= 1) return `${hours.toFixed(1)}h`;
+  const mins = seconds / 60;
+  if (mins >= 1) return `${Math.round(mins)}m`;
+  return `${Math.round(seconds)}s`;
 }
 
 async function fetchJSON(url) {
@@ -68,7 +94,7 @@ async function refreshLatestTable() {
 
   const body = el("lb-body");
   if (!data.snapshot || data.entries.length === 0) {
-    body.innerHTML = `<tr><td colspan="4" class="empty-state">No data yet — waiting on the first fetch.</td></tr>`;
+    body.innerHTML = `<tr><td colspan="5" class="empty-state">No data yet — waiting on the first fetch.</td></tr>`;
     return;
   }
   body.innerHTML = data.entries.map((e) => `
@@ -76,6 +102,7 @@ async function refreshLatestTable() {
       <td class="num">${e.rank}</td>
       <td class="name">${escapeHtml(e.display_name)}</td>
       <td class="num">${e.prestige_level.toLocaleString()}</td>
+      <td class="num">${formatDuration(avgSecondsPerPrestige(state.fullHistory[e.steam_id]))}</td>
       <td>${escapeHtml(timeAgo(e.achieved_at))}</td>
     </tr>
   `).join("");
@@ -84,6 +111,16 @@ async function refreshLatestTable() {
 // ---------- Player search ----------
 async function loadPlayers() {
   state.players = await fetchJSON("/api/players");
+}
+
+// Full history (top 100, matching the table) for the avg-time-to-prestige
+// column — a separate call from the chart's history fetch since the chart
+// only needs the currently-selected series.
+async function loadFullHistory() {
+  const series = await fetchJSON("/api/history?top=100");
+  const map = {};
+  for (const [sid, s] of Object.entries(series)) map[sid] = s.points;
+  state.fullHistory = map;
 }
 
 function setupPlayerSearch() {
@@ -285,14 +322,16 @@ function setupHover(svg, seriesList, scales) {
 async function init() {
   setupPlayerSearch();
   await refreshStatus();
-  await refreshLatestTable();
   await loadPlayers();
+  await loadFullHistory();
+  await refreshLatestTable();
   await loadAndRenderChart();
 
   setInterval(refreshStatus, 30 * 1000);
   setInterval(refreshLatestTable, 60 * 1000); // live endpoint — cheap, keep it fresh
   setInterval(async () => {
     await loadPlayers();
+    await loadFullHistory();
     await loadAndRenderChart();
   }, 5 * 60 * 1000); // history only changes hourly, no need to poll it often
 }
