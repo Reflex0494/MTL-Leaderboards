@@ -298,32 +298,9 @@ function setupHover(svg, seriesList, scales) {
   svg.onmouseleave = () => { tooltip.style.display = "none"; };
 }
 
-// ---------- Manual refresh ----------
-// GitHub Pages is static, so this can't trigger a new fetch the way the
-// local app's button can — it just re-checks the currently published
-// data/*.json files right now instead of waiting for the next periodic
-// poll. GitHub Actions still runs on its own schedule regardless.
-function setupRefreshButton() {
-  const btn = el("refresh-btn");
-  btn.addEventListener("click", async () => {
-    btn.disabled = true;
-    btn.classList.add("spinning");
-    try {
-      await loadPlayers();
-      await refreshLatestTable();
-      renderChartFromState();
-      await refreshStatus();
-    } finally {
-      btn.disabled = false;
-      btn.classList.remove("spinning");
-    }
-  });
-}
-
 // ---------- Init ----------
 async function init() {
   setupPlayerSearch();
-  setupRefreshButton();
   await refreshStatus();
   await loadPlayers();
   await refreshLatestTable();

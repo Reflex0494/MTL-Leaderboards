@@ -10,7 +10,7 @@ import requests
 
 SEASON = "s3"
 LEADERBOARD_URL = f"https://cdn.mow-the-lawn.com/leaderboard/{SEASON}/top.json"
-FETCH_INTERVAL_SECONDS = 60 * 60
+FETCH_INTERVAL_SECONDS = 15 * 60
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "docs" / "data"
@@ -34,7 +34,10 @@ def save_json(path: Path, data, indent=None):
 
 def main():
     fetched_at = datetime.now(timezone.utc).isoformat()
-    status = load_json(STATUS_PATH, {"season": SEASON, "fetchIntervalSeconds": FETCH_INTERVAL_SECONDS, "snapshotCount": 0, "lastFetch": {}})
+    status = load_json(STATUS_PATH, {"season": SEASON, "snapshotCount": 0, "lastFetch": {}})
+    # Always resync to the current constant — a persisted status.json from an
+    # older run would otherwise carry a stale interval forward indefinitely.
+    status["fetchIntervalSeconds"] = FETCH_INTERVAL_SECONDS
 
     try:
         resp = requests.get(LEADERBOARD_URL, timeout=15)
