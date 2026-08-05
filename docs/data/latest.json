@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-05T18:30:16.1103298+00:00",
-    "fetched_at": "2026-08-05T18:30:38.294483+00:00",
+    "generated_at": "2026-08-05T18:45:16.1127797+00:00",
+    "fetched_at": "2026-08-05T18:45:30.947082+00:00",
     "total_entries": 1714
   },
   "entries": [
@@ -18,16 +18,16 @@
       "rank": 2,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 150,
-      "achieved_at": "2026-08-04T22:37:27.445051+00:00",
+      "prestige_level": 151,
+      "achieved_at": "2026-08-05T18:40:11.691843+00:00",
       "badge_id": "s2_top21"
     },
     {
       "rank": 3,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
-      "prestige_level": 150,
-      "achieved_at": "2026-08-05T04:47:35.272258+00:00",
+      "prestige_level": 151,
+      "achieved_at": "2026-08-05T18:40:28.371251+00:00",
       "badge_id": "supporter_plus"
     },
     {
