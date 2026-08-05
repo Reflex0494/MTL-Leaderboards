@@ -2,7 +2,7 @@ name: Update leaderboard data
 
 on:
   schedule:
-    - cron: "0 * * * *" # hourly, on the hour
+    - cron: "5 * * * *" # hourly, at minute 5 (dodges top-of-hour cron congestion)
   workflow_dispatch: {}
 
 permissions:
