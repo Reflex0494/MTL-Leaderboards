@@ -255,10 +255,19 @@ function renderChart(seriesObj) {
   }
   svgParts.push(`<line class="baseline" x1="${padL}" y1="${padT + plotH}" x2="${W - padR}" y2="${padT + plotH}" />`);
 
-  // time axis labels (first / last)
-  const fmt = (t) => new Date(t).toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric" });
-  svgParts.push(`<text class="axis-label" x="${padL}" y="${H - 6}" text-anchor="start">${fmt(tMin)}</text>`);
-  svgParts.push(`<text class="axis-label" x="${W - padR}" y="${H - 6}" text-anchor="end">${fmt(tMax)}</text>`);
+  // time axis labels — evenly spaced across the range, not just the two ends
+  const fmt = (t) => new Date(t).toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "numeric" });
+  const xTicks = 4;
+  let lastLabel = null;
+  for (let i = 0; i <= xTicks; i++) {
+    const t = tMin + ((tMax - tMin) * i) / xTicks;
+    const label = fmt(t);
+    if (label === lastLabel) continue; // short ranges can otherwise repeat the same rounded label
+    lastLabel = label;
+    const tx = x(t);
+    const anchor = i === 0 ? "start" : i === xTicks ? "end" : "middle";
+    svgParts.push(`<text class="axis-label" x="${tx}" y="${H - 6}" text-anchor="${anchor}">${label}</text>`);
+  }
 
   const legendItems = [];
   const endpoints = [];
@@ -273,6 +282,14 @@ function renderChart(seriesObj) {
     const pts = [...s.points].sort((a, b) => new Date(a.t) - new Date(b.t));
     const pathD = pts.map((p, idx) => `${idx === 0 ? "M" : "L"} ${x(new Date(p.t).getTime()).toFixed(2)} ${y(p.prestigeLevel).toFixed(2)}`).join(" ");
     svgParts.push(`<path d="${pathD}" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"${isRepeat ? ' stroke-dasharray="6 4"' : ""} />`);
+
+    // A small marker at every snapshot, not just the endpoint, so the
+    // individual polling times are visible along the line.
+    for (const p of pts) {
+      const px = x(new Date(p.t).getTime());
+      const py = y(p.prestigeLevel);
+      svgParts.push(`<circle class="snapshot-dot" cx="${px}" cy="${py}" r="4" fill="${color}" stroke="var(--surface-1)" stroke-width="1.5" />`);
+    }
 
     const last = pts[pts.length - 1];
     const lx = x(new Date(last.t).getTime());
@@ -310,6 +327,9 @@ function renderChart(seriesObj) {
     svgParts.push(`<text class="end-label emph" x="${labelX}" y="${p.labelY + 4}" text-anchor="${labelAnchor}">${escapeHtml(p.name)}</text>`);
   }
 
+  // Crosshair — hidden until the hover handler below positions and shows it.
+  svgParts.push(`<line id="crosshair" class="crosshair" x1="0" y1="${padT}" x2="0" y2="${padT + plotH}" style="display:none" />`);
+
   svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
   svg.innerHTML = svgParts.join("\n");
   legend.innerHTML = legendItems.join("");
@@ -319,6 +339,7 @@ function renderChart(seriesObj) {
 
 function setupHover(svg, seriesList, scales) {
   const tooltip = el("tooltip");
+  const crosshair = svg.querySelector("#crosshair");
   const wrap = svg.parentElement;
 
   svg.onmousemove = (evt) => {
@@ -326,6 +347,13 @@ function setupHover(svg, seriesList, scales) {
     const px = evt.clientX - rect.left;
     const frac = Math.min(1, Math.max(0, (px - scales.padL * (rect.width / scales.W)) / ((scales.W - scales.padL - scales.padR) * (rect.width / scales.W))));
     const targetT = scales.tMin + frac * (scales.tMax - scales.tMin);
+
+    if (crosshair) {
+      const cx = scales.x(targetT);
+      crosshair.setAttribute("x1", cx);
+      crosshair.setAttribute("x2", cx);
+      crosshair.style.display = "block";
+    }
 
     const rows = seriesList.map((s) => {
       let nearest = s.points[0];
@@ -344,7 +372,10 @@ function setupHover(svg, seriesList, scales) {
     tooltip.style.left = `${Math.min(px + 16, wrap.clientWidth - 180)}px`;
     tooltip.style.top = `10px`;
   };
-  svg.onmouseleave = () => { tooltip.style.display = "none"; };
+  svg.onmouseleave = () => {
+    tooltip.style.display = "none";
+    if (crosshair) crosshair.style.display = "none";
+  };
 }
 
 // ---------- Manual refresh ----------

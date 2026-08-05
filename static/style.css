@@ -261,6 +261,7 @@ svg#chart {
 .gridline { stroke: var(--gridline); stroke-width: 1; }
 .baseline { stroke: var(--baseline); stroke-width: 1; }
 .end-leader { stroke: var(--text-muted); stroke-width: 1; opacity: 0.6; }
+.crosshair { stroke: var(--text-muted); stroke-width: 1; stroke-dasharray: 3 3; opacity: 0.7; pointer-events: none; }
 
 .legend {
   display: flex;
