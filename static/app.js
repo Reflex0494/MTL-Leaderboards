@@ -282,17 +282,26 @@ function renderChart(seriesObj) {
     legendItems.push(`<div class="legend-item"><span class="legend-swatch" ${swatch}></span>${escapeHtml(s.displayName)}</div>`);
   });
 
-  // Direct end-labels: skip any that would collide (< 14px apart vertically at
-  // similar x) and rely on the legend + tooltip for those instead.
+  // Direct end-labels for every series. When values tie (or sit close
+  // together) the labels would overlap, so instead of dropping the
+  // colliding ones, nudge them apart vertically and reconnect each to its
+  // actual data point with a thin leader line — every name stays visible.
   const MIN_GAP = 14;
   endpoints.sort((a, b) => a.ly - b.ly);
-  let lastPlacedY = -Infinity;
+  endpoints.forEach((p) => { p.labelY = p.ly; });
+  for (let i = 1; i < endpoints.length; i++) {
+    if (endpoints[i].labelY - endpoints[i - 1].labelY < MIN_GAP) {
+      endpoints[i].labelY = endpoints[i - 1].labelY + MIN_GAP;
+    }
+  }
   for (const p of endpoints) {
-    if (p.ly - lastPlacedY < MIN_GAP) continue;
-    lastPlacedY = p.ly;
-    const labelAnchor = p.lx > W - 140 ? "end" : "start";
-    const labelX = p.lx > W - 140 ? p.lx - 10 : p.lx + 10;
-    svgParts.push(`<text class="end-label emph" x="${labelX}" y="${p.ly + 4}" text-anchor="${labelAnchor}">${escapeHtml(p.name)}</text>`);
+    const onRight = p.lx > W - 140;
+    const labelAnchor = onRight ? "end" : "start";
+    const labelX = onRight ? p.lx - 10 : p.lx + 10;
+    if (Math.abs(p.labelY - p.ly) > 0.5) {
+      svgParts.push(`<line class="end-leader" x1="${p.lx}" y1="${p.ly}" x2="${labelX}" y2="${p.labelY}" />`);
+    }
+    svgParts.push(`<text class="end-label emph" x="${labelX}" y="${p.labelY + 4}" text-anchor="${labelAnchor}">${escapeHtml(p.name)}</text>`);
   }
 
   svg.setAttribute("viewBox", `0 0 ${W} ${H}`);

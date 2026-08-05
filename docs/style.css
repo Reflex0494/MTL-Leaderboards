@@ -260,6 +260,7 @@ svg#chart {
 
 .gridline { stroke: var(--gridline); stroke-width: 1; }
 .baseline { stroke: var(--baseline); stroke-width: 1; }
+.end-leader { stroke: var(--text-muted); stroke-width: 1; opacity: 0.6; }
 
 .legend {
   display: flex;
