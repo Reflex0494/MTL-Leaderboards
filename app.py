@@ -8,6 +8,7 @@ import fetcher
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
 app = Flask(__name__)
+app.config["TEMPLATES_AUTO_RELOAD"] = True  # pick up template edits without a server restart
 
 
 @app.route("/")

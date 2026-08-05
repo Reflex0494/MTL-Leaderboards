@@ -9,6 +9,7 @@ const state = {
   customSteamIds: [], // used when topN === 0
   players: [], // {steam_id, display_name, prestige_level}
   history: { players: {} }, // full data/history.json
+  timeframe: "all",
 };
 
 const el = (id) => document.getElementById(id);
@@ -50,6 +51,35 @@ function formatDuration(seconds) {
   const mins = seconds / 60;
   if (mins >= 1) return `${Math.round(mins)}m`;
   return `${Math.round(seconds)}s`;
+}
+
+// Cutoff timestamp (ms) for a timeframe key, using real calendar-month/year
+// arithmetic rather than fixed-day approximations. null means no cutoff.
+function timeframeCutoff(key) {
+  if (key === "all") return null;
+  const d = new Date();
+  switch (key) {
+    case "24h": d.setHours(d.getHours() - 24); break;
+    case "1w": d.setDate(d.getDate() - 7); break;
+    case "1m": d.setMonth(d.getMonth() - 1); break;
+    case "3m": d.setMonth(d.getMonth() - 3); break;
+    case "6m": d.setMonth(d.getMonth() - 6); break;
+    case "9m": d.setMonth(d.getMonth() - 9); break;
+    case "1y": d.setFullYear(d.getFullYear() - 1); break;
+    default: return null;
+  }
+  return d.getTime();
+}
+
+function filterSeriesByTimeframe(seriesObj, timeframeKey) {
+  const cutoff = timeframeCutoff(timeframeKey);
+  if (cutoff === null) return seriesObj;
+  const filtered = {};
+  for (const [sid, s] of Object.entries(seriesObj)) {
+    const points = s.points.filter((p) => new Date(p.t).getTime() >= cutoff);
+    if (points.length > 0) filtered[sid] = { ...s, points };
+  }
+  return filtered;
 }
 
 async function fetchJSON(url) {
@@ -167,6 +197,11 @@ el("top-n").addEventListener("change", (e) => {
   renderChartFromState();
 });
 
+el("timeframe").addEventListener("change", (e) => {
+  state.timeframe = e.target.value;
+  renderChartFromState();
+});
+
 // ---------- Chart ----------
 function renderChartFromState() {
   const playersMap = state.history.players || {};
@@ -181,10 +216,16 @@ function renderChartFromState() {
     const p = playersMap[sid];
     if (p) seriesObj[sid] = { steamId: sid, displayName: p.displayName, points: p.points };
   }
-  renderChart(seriesObj);
+  const filtered = filterSeriesByTimeframe(seriesObj, state.timeframe);
+  const hadData = Object.values(seriesObj).some((s) => s.points.length > 0);
+  const hasData = Object.values(filtered).some((s) => s.points.length > 0);
+  const emptyMessage = (hadData && !hasData && state.timeframe !== "all")
+    ? "No data in this timeframe — try a wider range."
+    : undefined;
+  renderChart(filtered, emptyMessage);
 }
 
-function renderChart(seriesObj) {
+function renderChart(seriesObj, emptyMessage) {
   const svg = el("chart");
   const empty = el("chart-empty");
   const legend = el("legend");
@@ -197,6 +238,7 @@ function renderChart(seriesObj) {
   if (seriesList.length === 0 || !seriesList.some((s) => s.points.length > 1)) {
     svg.innerHTML = "";
     legend.innerHTML = "";
+    empty.textContent = emptyMessage || "Not enough data yet — check back after the next hourly update.";
     empty.style.display = "block";
     return;
   }
