@@ -118,8 +118,8 @@ async function refreshLatestTable() {
   const heading = el("lb-heading");
   if (heading) {
     heading.textContent = live
-      ? "Latest leaderboard (live, fetched just now)"
-      : "Latest leaderboard (last stored snapshot — live source unreachable)";
+      ? "Leaderboard (Season 3 — Top 100) — live"
+      : "Leaderboard (Season 3 — Top 100) — last stored snapshot, live source unreachable";
   }
 
   const body = el("lb-body");
