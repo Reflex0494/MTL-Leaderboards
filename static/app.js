@@ -106,20 +106,17 @@ async function refreshStatus() {
 
 // ---------- Latest table ----------
 async function refreshLatestTable() {
-  let data, live = true;
+  let data;
   try {
     data = await fetchJSON("/api/live");
   } catch {
     // Source API unreachable right now — fall back to the last stored snapshot.
-    live = false;
     data = await fetchJSON("/api/latest");
   }
 
   const heading = el("lb-heading");
   if (heading) {
-    heading.textContent = live
-      ? "Leaderboard (Season 3 — Top 100) — live"
-      : "Leaderboard (Season 3 — Top 100) — last stored snapshot, live source unreachable";
+    heading.textContent = "Leaderboard (Season 3 — Top 100)";
   }
 
   const body = el("lb-body");
