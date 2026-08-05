@@ -277,6 +277,7 @@ table.lb-table td {
 }
 table.lb-table tr:last-child td { border-bottom: none; }
 table.lb-table td.num, table.lb-table th.num { text-align: right; }
+table.lb-table td.center, table.lb-table th.center { text-align: center; }
 table.lb-table td.name { font-variant-numeric: normal; }
 
 .table-scroll {

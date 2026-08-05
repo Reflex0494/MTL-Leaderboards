@@ -87,7 +87,7 @@ async function refreshLatestTable() {
     <tr>
       <td class="num">${e.rank}</td>
       <td class="name">${escapeHtml(e.display_name)}</td>
-      <td class="num">${e.prestige_level.toLocaleString()}</td>
+      <td class="center">${e.prestige_level.toLocaleString()}</td>
       <td class="num">${formatDuration(avgSecondsPerPrestige(playersMap[e.steam_id]?.points))}</td>
       <td>${escapeHtml(timeAgo(e.achieved_at))}</td>
     </tr>

@@ -1,6 +1,6 @@
 import logging
 import threading
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
 import requests
 
@@ -8,7 +8,7 @@ import db
 
 LEADERBOARD_URL = "https://cdn.mow-the-lawn.com/leaderboard/{season}/top.json"
 SEASON = "s3"
-FETCH_INTERVAL_SECONDS = 60 * 60  # 1 hour
+FETCH_INTERVAL_SECONDS = 15 * 60  # 15 minutes
 
 log = logging.getLogger("fetcher")
 
@@ -64,18 +64,19 @@ def fetch_live() -> dict:
     }
 
 
-def _seconds_until_next_hour() -> float:
-    now = datetime.now(timezone.utc)
-    next_hour = (now.replace(minute=0, second=0, microsecond=0) + timedelta(hours=1))
-    return (next_hour - now).total_seconds()
+def _seconds_until_next_boundary() -> float:
+    # Epoch-aligned, so FETCH_INTERVAL_SECONDS=900 lands on :00/:15/:30/:45
+    # and 3600 lands on :00 — works for any interval that divides evenly
+    # into an hour or day, recomputed each cycle so it can't drift.
+    now_ts = datetime.now(timezone.utc).timestamp()
+    next_ts = (now_ts // FETCH_INTERVAL_SECONDS + 1) * FETCH_INTERVAL_SECONDS
+    return next_ts - now_ts
 
 
 def _loop():
     fetch_once()
     while not _stop_event.is_set():
-        # Recomputed each cycle (rather than a flat 3600s sleep) so the
-        # schedule stays pinned to :00 and can't drift over time.
-        if _stop_event.wait(_seconds_until_next_hour()):
+        if _stop_event.wait(_seconds_until_next_boundary()):
             break
         fetch_once()
 
