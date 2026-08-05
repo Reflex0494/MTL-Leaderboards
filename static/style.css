@@ -325,6 +325,7 @@ table.lb-table tr:last-child td { border-bottom: none; }
 table.lb-table td.num, table.lb-table th.num { text-align: right; }
 table.lb-table td.center, table.lb-table th.center { text-align: center; }
 table.lb-table td.name { font-variant-numeric: normal; }
+table.lb-table td.rank, table.lb-table th.rank { text-align: left; width: 32px; white-space: nowrap; }
 table.lb-table tbody tr { transition: background-color 0.1s ease; }
 table.lb-table tbody tr:hover { background: var(--gridline); }
 

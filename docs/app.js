@@ -115,7 +115,7 @@ async function refreshLatestTable() {
   const playersMap = state.history.players || {};
   body.innerHTML = data.entries.map((e) => `
     <tr>
-      <td class="num">${e.rank}</td>
+      <td class="rank">${e.rank}</td>
       <td class="name">${escapeHtml(e.display_name)}</td>
       <td class="center">${e.prestige_level.toLocaleString()}</td>
       <td class="num">${formatDuration(avgSecondsPerPrestige(playersMap[e.steam_id]?.points))}</td>
