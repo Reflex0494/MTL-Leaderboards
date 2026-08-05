@@ -317,7 +317,20 @@ function renderChart(seriesObj) {
   svg.innerHTML = svgParts.join("\n");
   legend.innerHTML = legendItems.join("");
 
-  setupHover(svg, seriesList, { x, y, tMin, tMax, padL, padR, W });
+  // Every distinct snapshot time across all displayed series, so hover can
+  // snap to an actual dot instead of an arbitrary mouse position.
+  const allTimes = [...new Set(seriesList.flatMap((s) => s.points.map((p) => new Date(p.t).getTime())))].sort((a, b) => a - b);
+
+  setupHover(svg, seriesList, { x, y, tMin, tMax, padL, padR, W, allTimes });
+}
+
+function nearestTime(times, target) {
+  let best = times[0], bestDist = Infinity;
+  for (const t of times) {
+    const d = Math.abs(t - target);
+    if (d < bestDist) { bestDist = d; best = t; }
+  }
+  return best;
 }
 
 function setupHover(svg, seriesList, scales) {
@@ -330,9 +343,10 @@ function setupHover(svg, seriesList, scales) {
     const px = evt.clientX - rect.left;
     const frac = Math.min(1, Math.max(0, (px - scales.padL * (rect.width / scales.W)) / ((scales.W - scales.padL - scales.padR) * (rect.width / scales.W))));
     const targetT = scales.tMin + frac * (scales.tMax - scales.tMin);
+    const snappedT = nearestTime(scales.allTimes, targetT);
 
     if (crosshair) {
-      const cx = scales.x(targetT);
+      const cx = scales.x(snappedT);
       crosshair.setAttribute("x1", cx);
       crosshair.setAttribute("x2", cx);
       crosshair.style.display = "block";
@@ -342,7 +356,7 @@ function setupHover(svg, seriesList, scales) {
       let nearest = s.points[0];
       let best = Infinity;
       for (const p of s.points) {
-        const d = Math.abs(new Date(p.t).getTime() - targetT);
+        const d = Math.abs(new Date(p.t).getTime() - snappedT);
         if (d < best) { best = d; nearest = p; }
       }
       return { name: s.displayName, val: nearest.prestigeLevel, t: nearest.t };
