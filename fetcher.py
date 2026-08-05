@@ -35,6 +35,35 @@ def fetch_once():
         log.exception("Fetch failed")
 
 
+def fetch_live() -> dict:
+    """Fetch the leaderboard fresh from the source right now, without
+    touching the DB. Used to serve always-current data on page load,
+    independent of the hourly-recorded history."""
+    fetched_at = datetime.now(timezone.utc).isoformat()
+    resp = requests.get(LEADERBOARD_URL.format(season=SEASON), timeout=15)
+    resp.raise_for_status()
+    data = resp.json()
+    return {
+        "snapshot": {
+            "season": data["season"],
+            "generated_at": data["generatedAt"],
+            "fetched_at": fetched_at,
+            "total_entries": data["totalEntries"],
+        },
+        "entries": [
+            {
+                "rank": e["rank"],
+                "steam_id": e["steamId"],
+                "display_name": e["displayName"],
+                "prestige_level": e["prestigeLevel"],
+                "achieved_at": e.get("achievedAt"),
+                "badge_id": e.get("badgeId"),
+            }
+            for e in data["entries"]
+        ],
+    }
+
+
 def _seconds_until_next_hour() -> float:
     now = datetime.now(timezone.utc)
     next_hour = (now.replace(minute=0, second=0, microsecond=0) + timedelta(hours=1))

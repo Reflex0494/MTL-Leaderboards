@@ -25,10 +25,14 @@ Leave the terminal open (or run it as a background/startup task) — if it's
 not running, no snapshots are taken. Data lives in `leaderboard.db` (SQLite,
 created automatically, gitignored).
 
-- `fetcher.py` polls the leaderboard and writes snapshots to SQLite.
+- `fetcher.py` polls the leaderboard hourly and writes snapshots to SQLite
+  (this is what feeds the "prestige over time" chart's history).
 - `app.py` / `db.py` serve a small Flask API (`/api/status`, `/api/players`,
-  `/api/history`, `/api/latest`) over that data.
-- `static/app.js` draws the chart and the latest top-100 table.
+  `/api/history`, `/api/latest`) over that stored history, plus `/api/live`,
+  which fetches straight from the source on every call — no caching, no DB.
+- `static/app.js` uses `/api/live` for the "latest leaderboard" table (so it's
+  always current on page load/refresh, falling back to `/api/latest` if the
+  source is briefly unreachable) and `/api/history` for the chart.
 
 ## Option B: static site on GitHub Pages (24/7, no server needed)
 
@@ -55,3 +59,10 @@ Setup, once the repo is public:
 
 Scheduled workflows pause automatically if a repo goes 60 days with no
 commits — hourly data commits keep it active indefinitely once it's running.
+
+**Note on freshness:** the static Pages site can't fetch live data on every
+page load the way the local Flask app does — the source API's CORS policy
+only allows requests from `mow-the-lawn.com` itself, so a browser on
+`github.io` is blocked from calling it directly. Pages data is therefore only
+as fresh as the last Actions run (currently hourly). If you want truly
+live, up-to-the-second data, run the local Flask app instead.

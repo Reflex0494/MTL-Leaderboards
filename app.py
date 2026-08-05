@@ -29,6 +29,14 @@ def api_status():
     )
 
 
+@app.route("/api/live")
+def api_live():
+    try:
+        return jsonify(fetcher.fetch_live())
+    except Exception as exc:  # noqa: BLE001
+        return jsonify({"error": str(exc)}), 502
+
+
 @app.route("/api/latest")
 def api_latest():
     snapshot = db.query_one("SELECT * FROM snapshots ORDER BY id DESC LIMIT 1")

@@ -50,7 +50,22 @@ async function refreshStatus() {
 
 // ---------- Latest table ----------
 async function refreshLatestTable() {
-  const data = await fetchJSON("/api/latest");
+  let data, live = true;
+  try {
+    data = await fetchJSON("/api/live");
+  } catch {
+    // Source API unreachable right now — fall back to the last stored snapshot.
+    live = false;
+    data = await fetchJSON("/api/latest");
+  }
+
+  const heading = el("lb-heading");
+  if (heading) {
+    heading.textContent = live
+      ? "Latest leaderboard (live, fetched just now)"
+      : "Latest leaderboard (last stored snapshot — live source unreachable)";
+  }
+
   const body = el("lb-body");
   if (!data.snapshot || data.entries.length === 0) {
     body.innerHTML = `<tr><td colspan="4" class="empty-state">No data yet — waiting on the first fetch.</td></tr>`;
@@ -275,11 +290,11 @@ async function init() {
   await loadAndRenderChart();
 
   setInterval(refreshStatus, 30 * 1000);
+  setInterval(refreshLatestTable, 60 * 1000); // live endpoint — cheap, keep it fresh
   setInterval(async () => {
-    await refreshLatestTable();
     await loadPlayers();
     await loadAndRenderChart();
-  }, 5 * 60 * 1000);
+  }, 5 * 60 * 1000); // history only changes hourly, no need to poll it often
 }
 
 init();
