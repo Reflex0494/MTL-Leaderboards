@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-05T18:45:16.1127797+00:00",
-    "fetched_at": "2026-08-05T18:45:30.947082+00:00",
+    "generated_at": "2026-08-05T19:00:16.1118431+00:00",
+    "fetched_at": "2026-08-05T19:00:45.694495+00:00",
     "total_entries": 1714
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 157,
-      "achieved_at": "2026-08-05T12:59:46.724168+00:00",
+      "prestige_level": 158,
+      "achieved_at": "2026-08-05T18:49:10.369455+00:00",
       "badge_id": "s2_first"
     },
     {
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 77,
+      "achieved_at": "2026-08-05T18:47:22.085812+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 76,
@@ -247,7 +255,7 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198021267677",
       "display_name": "BunnLilah",
       "prestige_level": 76,
@@ -255,19 +263,11 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561198041620710",
       "display_name": "MR. GOON-BONES \u2620",
       "prestige_level": 76,
       "achieved_at": "2026-07-31T01:58:47.544339+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 33,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 76,
-      "achieved_at": "2026-08-03T08:31:42.715139+00:00",
       "badge_id": ""
     },
     {
