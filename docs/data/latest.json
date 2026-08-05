@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-05T19:15:16.1101465+00:00",
-    "fetched_at": "2026-08-05T19:15:34.946266+00:00",
+    "generated_at": "2026-08-05T19:30:16.1106511+00:00",
+    "fetched_at": "2026-08-05T19:30:43.997104+00:00",
     "total_entries": 1714
   },
   "entries": [
@@ -144,27 +144,27 @@
     },
     {
       "rank": 18,
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 88,
+      "achieved_at": "2026-08-05T19:22:59.168616+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 19,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 88,
+      "achieved_at": "2026-08-05T19:27:51.674426+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 20,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 87,
       "achieved_at": "2026-07-18T00:48:24.773394+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 19,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 87,
-      "achieved_at": "2026-08-05T01:27:15.611091+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 20,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 87,
-      "achieved_at": "2026-08-05T16:55:35.763979+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 21,
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 45,
+      "achieved_at": "2026-08-05T19:28:38.394274+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561198118654073",
       "display_name": "Maffin",
       "prestige_level": 44,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 44,
@@ -647,19 +655,11 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198142944874",
       "display_name": "Deimos",
       "prestige_level": 44,
       "achieved_at": "2026-08-01T01:54:08.18724+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 44,
-      "achieved_at": "2026-08-04T17:29:17.668924+00:00",
       "badge_id": ""
     },
     {
