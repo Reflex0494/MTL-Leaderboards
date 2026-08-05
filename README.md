@@ -37,6 +37,22 @@ gitignored).
   always current on page load/refresh, falling back to `/api/latest` if the
   source is briefly unreachable) and `/api/history` for the chart.
 
+### Auto-start at logon
+
+A shortcut in the Windows Startup folder (`shell:startup`) launches the
+server hidden on login — see `start_server.ps1`. Output goes to
+`server.log` (gitignored) since there's no visible console window. To
+remove it, delete `MTL Leaderboards Tracker.lnk` from
+`shell:startup`, or open that folder from Run (`Win+R`).
+
+Since this machine won't always be on, `fetcher.sync_from_github()` runs
+once at every startup before the regular fetch loop: it pulls the
+published `docs/data/history.json` from GitHub (kept current by the
+Actions workflow regardless of whether this app is running) and backfills
+any snapshot timestamps newer than the most recent one already in
+`leaderboard.db` — so the local chart doesn't have a gap for however long
+the PC was off. It's a no-op if there's nothing new to catch up on.
+
 ## Option B: static site on GitHub Pages (24/7, no server needed)
 
 `docs/` is a static version of the same dashboard, fed by JSON files under
