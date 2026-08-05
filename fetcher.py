@@ -10,6 +10,11 @@ LEADERBOARD_URL = "https://cdn.mow-the-lawn.com/leaderboard/{season}/top.json"
 SEASON = "s3"
 FETCH_INTERVAL_SECONDS = 15 * 60  # 15 minutes
 
+# Published by the GitHub Actions workflow every 15 minutes regardless of
+# whether this local app is running — used to backfill snapshots recorded
+# while this machine was off/asleep.
+GITHUB_HISTORY_URL = "https://raw.githubusercontent.com/Reflex0494/MTL-Leaderboards/main/docs/data/history.json"
+
 log = logging.getLogger("fetcher")
 
 _stop_event = threading.Event()
@@ -62,6 +67,53 @@ def fetch_live() -> dict:
             for e in data["entries"]
         ],
     }
+
+
+def sync_from_github() -> int:
+    """Backfill snapshots recorded by the GitHub Actions workflow while this
+    app wasn't running, using the published history.json. Only fills the gap
+    after the most recent locally-recorded snapshot — never touches anything
+    already covered locally, and does nothing on a fresh/empty DB (nothing to
+    have a "gap" relative to yet)."""
+    last_row = db.query_one("SELECT MAX(fetched_at) AS t FROM snapshots")
+    last_fetched_at = last_row["t"] if last_row else None
+    if not last_fetched_at:
+        log.info("No local snapshots yet — skipping GitHub catch-up sync.")
+        return 0
+
+    try:
+        resp = requests.get(GITHUB_HISTORY_URL, timeout=15)
+        resp.raise_for_status()
+        remote = resp.json()
+    except Exception as exc:  # noqa: BLE001
+        log.warning("GitHub catch-up sync failed (will retry on next fetch): %s", exc)
+        return 0
+
+    by_t: dict[str, list[dict]] = {}
+    for steam_id, player in remote.get("players", {}).items():
+        display_name = player.get("displayName", "")
+        for point in player.get("points", []):
+            t = point["t"]
+            if t <= last_fetched_at:
+                continue
+            by_t.setdefault(t, []).append({
+                "rank": point["rank"],
+                "steamId": steam_id,
+                "displayName": display_name,
+                "prestigeLevel": point["prestigeLevel"],
+            })
+
+    inserted = 0
+    for t in sorted(by_t):
+        entries = sorted(by_t[t], key=lambda e: e["rank"])
+        db.insert_snapshot(season=SEASON, generated_at=t, fetched_at=t, entries=entries)
+        inserted += 1
+
+    if inserted:
+        log.info("Caught up on %d snapshot(s) from GitHub recorded while offline.", inserted)
+    else:
+        log.info("No gap to catch up on — local data is already current.")
+    return inserted
 
 
 def _seconds_until_next_boundary() -> float:

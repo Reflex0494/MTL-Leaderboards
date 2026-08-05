@@ -117,5 +117,6 @@ def api_history():
 
 if __name__ == "__main__":
     db.init_db()
+    fetcher.sync_from_github()
     fetcher.start_background_fetching()
     app.run(host="127.0.0.1", port=5151, debug=False, use_reloader=False)
