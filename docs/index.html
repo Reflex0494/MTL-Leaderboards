@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mow The Lawn — Leaderboard Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1>Mow The Lawn — Leaderboard Tracker</h1>
+      <div class="status-line" id="status-line"><span class="dot"></span>Loading status…</div>
+    </header>
+
+    <section class="card">
+      <h2>Prestige over time</h2>
+      <div class="controls">
+        <label for="top-n">Show top</label>
+        <select id="top-n">
+          <option value="0">Custom selection</option>
+          <option value="5" selected>5</option>
+          <option value="8">8</option>
+        </select>
+        <div id="player-suggestions">
+          <input type="text" id="player-search" placeholder="Add a player by name…" autocomplete="off" />
+          <div class="suggestion-list" id="suggestion-list"></div>
+        </div>
+      </div>
+      <div id="chip-row"></div>
+      <div class="chart-wrap">
+        <svg id="chart" viewBox="0 0 1000 340" preserveAspectRatio="none"></svg>
+        <div class="tooltip" id="tooltip"></div>
+      </div>
+      <div class="legend" id="legend"></div>
+      <div class="empty-state" id="chart-empty" style="display:none;">
+        Not enough data yet — check back after the next hourly update.
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Latest leaderboard snapshot (Season 3, top 100)</h2>
+      <div class="table-scroll">
+        <table class="lb-table">
+          <thead>
+            <tr>
+              <th class="num">#</th>
+              <th>Player</th>
+              <th class="num">Prestige</th>
+              <th>Reached</th>
+            </tr>
+          </thead>
+          <tbody id="lb-body">
+            <tr><td colspan="4" class="empty-state">Loading…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
