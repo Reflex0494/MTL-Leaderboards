@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T03:45:16.1125166+00:00",
-    "fetched_at": "2026-08-06T03:45:31.249051+00:00",
+    "generated_at": "2026-08-06T04:00:16.1136266+00:00",
+    "fetched_at": "2026-08-06T04:00:46.159964+00:00",
     "total_entries": 1722
   },
   "entries": [
@@ -608,19 +608,19 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-06T03:55:43.016042+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198130463430",
       "display_name": "Devin",
       "prestige_level": 45,
       "achieved_at": "2026-07-09T01:47:57.370783+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-04T06:55:16.333602+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 78,
