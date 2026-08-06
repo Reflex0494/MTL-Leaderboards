@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T23:00:16.1122734+00:00",
-    "fetched_at": "2026-08-06T23:00:48.376851+00:00",
+    "generated_at": "2026-08-06T23:15:16.112138+00:00",
+    "fetched_at": "2026-08-06T23:15:30.650280+00:00",
     "total_entries": 1738
   },
   "entries": [
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-06T23:10:48.301967+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 38,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198133867316",
       "display_name": "Ki",
       "prestige_level": 38,
       "achieved_at": "2026-07-30T15:20:18.633842+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198004196542",
-      "display_name": "Admiral General Aladeen",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-02T22:38:20.409073+00:00",
       "badge_id": ""
     }
   ]
