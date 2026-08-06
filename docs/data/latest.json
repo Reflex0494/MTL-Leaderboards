@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T12:45:16.1133363+00:00",
-    "fetched_at": "2026-08-06T12:45:38.079334+00:00",
+    "generated_at": "2026-08-06T13:00:16.1125375+00:00",
+    "fetched_at": "2026-08-06T13:00:46.667786+00:00",
     "total_entries": 1728
   },
   "entries": [
@@ -464,18 +464,18 @@
     },
     {
       "rank": 58,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 56,
-      "achieved_at": "2026-08-02T06:34:58.935821+00:00",
+      "steam_id": "76561198119959603",
+      "display_name": "nick written by kitten",
+      "prestige_level": 57,
+      "achieved_at": "2026-08-06T12:52:49.422204+00:00",
       "badge_id": ""
     },
     {
       "rank": 59,
-      "steam_id": "76561198119959603",
-      "display_name": "nick written by kitten",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
       "prestige_level": 56,
-      "achieved_at": "2026-08-06T01:51:09.702156+00:00",
+      "achieved_at": "2026-08-02T06:34:58.935821+00:00",
       "badge_id": ""
     },
     {
