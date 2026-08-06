@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T19:45:16.1116632+00:00",
-    "fetched_at": "2026-08-06T19:45:31.676516+00:00",
-    "total_entries": 1733
+    "generated_at": "2026-08-06T20:44:16.1095502+00:00",
+    "fetched_at": "2026-08-06T20:44:22.340477+00:00",
+    "total_entries": 1734
   },
   "entries": [
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
-      "prestige_level": 88,
-      "achieved_at": "2026-08-05T19:22:59.168616+00:00",
+      "prestige_level": 89,
+      "achieved_at": "2026-08-06T20:09:54.40025+00:00",
       "badge_id": ""
     },
     {
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 70,
+      "achieved_at": "2026-08-06T19:57:00.019443+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198025045346",
       "display_name": "wizard64",
       "prestige_level": 69,
@@ -311,19 +319,11 @@
       "badge_id": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 69,
       "achieved_at": "2026-08-04T03:59:33.978076+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
-      "prestige_level": 69,
-      "achieved_at": "2026-08-06T19:28:13.821179+00:00",
       "badge_id": ""
     },
     {
@@ -402,8 +402,8 @@
       "rank": 50,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-06T19:25:16.813141+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-06T20:28:39.206502+00:00",
       "badge_id": ""
     },
     {
