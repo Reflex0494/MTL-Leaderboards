@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T06:45:16.1091429+00:00",
-    "fetched_at": "2026-08-06T06:45:28.530768+00:00",
+    "generated_at": "2026-08-06T07:00:16.109545+00:00",
+    "fetched_at": "2026-08-06T07:00:59.580126+00:00",
     "total_entries": 1724
   },
   "entries": [
@@ -64,18 +64,18 @@
     },
     {
       "rank": 8,
-      "steam_id": "76561199290668085",
-      "display_name": "ToxicDemon",
-      "prestige_level": 104,
-      "achieved_at": "2026-08-04T21:49:53.571402+00:00",
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
+      "prestige_level": 105,
+      "achieved_at": "2026-08-06T06:46:42.730358+00:00",
       "badge_id": ""
     },
     {
       "rank": 9,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
+      "steam_id": "76561199290668085",
+      "display_name": "ToxicDemon",
       "prestige_level": 104,
-      "achieved_at": "2026-08-06T00:21:30.779367+00:00",
+      "achieved_at": "2026-08-04T21:49:53.571402+00:00",
       "badge_id": ""
     },
     {
@@ -176,19 +176,19 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 86,
+      "achieved_at": "2026-08-06T06:55:40.76389+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198001455051",
       "display_name": "Belvita",
       "prestige_level": 85,
       "achieved_at": "2026-07-31T19:01:03.884033+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 85,
-      "achieved_at": "2026-08-05T04:58:55.674549+00:00",
-      "badge_id": ""
     },
     {
       "rank": 24,
