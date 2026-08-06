@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T04:45:16.1098733+00:00",
-    "fetched_at": "2026-08-06T04:45:29.204342+00:00",
+    "generated_at": "2026-08-06T05:00:16.1098169+00:00",
+    "fetched_at": "2026-08-06T05:00:55.093996+00:00",
     "total_entries": 1722
   },
   "entries": [
@@ -560,18 +560,18 @@
     },
     {
       "rank": 70,
-      "steam_id": "76561197983379481",
-      "display_name": "z0mb13",
-      "prestige_level": 49,
-      "achieved_at": "2026-07-31T22:21:00.42225+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-06T04:52:09.971972+00:00",
       "badge_id": ""
     },
     {
       "rank": 71,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561197983379481",
+      "display_name": "z0mb13",
       "prestige_level": 49,
-      "achieved_at": "2026-08-05T17:05:38.669658+00:00",
+      "achieved_at": "2026-07-31T22:21:00.42225+00:00",
       "badge_id": ""
     },
     {
