@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T00:00:16.1106881+00:00",
-    "fetched_at": "2026-08-06T00:00:55.579363+00:00",
+    "generated_at": "2026-08-06T00:15:16.1125495+00:00",
+    "fetched_at": "2026-08-06T00:15:28.059547+00:00",
     "total_entries": 1718
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
-      "prestige_level": 107,
-      "achieved_at": "2026-08-05T00:03:10.510599+00:00",
+      "prestige_level": 108,
+      "achieved_at": "2026-08-06T00:02:05.961981+00:00",
       "badge_id": ""
     },
     {
@@ -354,8 +354,8 @@
       "rank": 44,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
-      "prestige_level": 65,
-      "achieved_at": "2026-08-04T17:28:53.456438+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-08-06T00:08:01.958698+00:00",
       "badge_id": ""
     },
     {
