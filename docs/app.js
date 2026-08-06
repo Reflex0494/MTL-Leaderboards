@@ -405,7 +405,7 @@ function setupHover(svg, seriesList, scales) {
     });
 
     const colorFor = (i) => cssVar(SERIES_COLORS[i % SERIES_COLORS.length]);
-    tooltip.innerHTML = `<div class="t-time">${new Date(rows[0].t).toLocaleString()}</div>` +
+    tooltip.innerHTML = `<div class="t-time">${new Date(rows[0].t).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })}</div>` +
       rows.map((r, i) => `<div class="t-row"><span class="name"><span class="t-dot" style="background:${colorFor(i)}"></span>${escapeHtml(r.name)}</span><span class="val">${r.val}</span></div>`).join("");
     tooltip.style.display = "block";
     tooltip.style.left = `${Math.min(px + 16, wrap.clientWidth - 180)}px`;
