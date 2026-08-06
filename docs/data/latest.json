@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T01:45:16.1101526+00:00",
-    "fetched_at": "2026-08-06T01:45:35.692414+00:00",
+    "generated_at": "2026-08-06T02:00:16.1114847+00:00",
+    "fetched_at": "2026-08-06T02:00:54.238408+00:00",
     "total_entries": 1721
   },
   "entries": [
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198119959603",
+      "display_name": "nick written by kitten",
+      "prestige_level": 56,
+      "achieved_at": "2026-08-06T01:51:09.702156+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 60,
       "steam_id": "76561198321094554",
       "display_name": "CrazyBobo",
       "prestige_level": 55,
@@ -479,20 +487,12 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198047264413",
       "display_name": "Patrick Bateman",
       "prestige_level": 55,
       "achieved_at": "2026-08-04T07:10:54.567453+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561198119959603",
-      "display_name": "nick written by kitten",
-      "prestige_level": 55,
-      "achieved_at": "2026-08-05T17:53:29.271598+00:00",
-      "badge_id": ""
     },
     {
       "rank": 62,
