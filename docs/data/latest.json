@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T03:00:16.1106646+00:00",
-    "fetched_at": "2026-08-06T03:00:51.185654+00:00",
-    "total_entries": 1721
+    "generated_at": "2026-08-06T03:15:16.1115452+00:00",
+    "fetched_at": "2026-08-06T03:15:31.756494+00:00",
+    "total_entries": 1722
   },
   "entries": [
     {
@@ -448,18 +448,18 @@
     },
     {
       "rank": 56,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 56,
-      "achieved_at": "2026-08-02T06:34:58.935821+00:00",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 57,
+      "achieved_at": "2026-08-06T03:04:59.847212+00:00",
       "badge_id": ""
     },
     {
       "rank": 57,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
       "prestige_level": 56,
-      "achieved_at": "2026-08-05T13:04:30.392275+00:00",
+      "achieved_at": "2026-08-02T06:34:58.935821+00:00",
       "badge_id": ""
     },
     {
