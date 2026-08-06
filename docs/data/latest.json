@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T16:16:16.1109599+00:00",
-    "fetched_at": "2026-08-06T16:16:44.168415+00:00",
+    "generated_at": "2026-08-06T16:36:16.1109725+00:00",
+    "fetched_at": "2026-08-06T16:37:07.958136+00:00",
     "total_entries": 1730
   },
   "entries": [
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 89,
-      "achieved_at": "2026-08-06T14:11:26.82939+00:00",
+      "prestige_level": 90,
+      "achieved_at": "2026-08-06T16:18:13.755493+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -408,6 +408,14 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198038247454",
+      "display_name": "xJonder",
+      "prestige_level": 58,
+      "achieved_at": "2026-08-06T16:16:48.957077+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198016633668",
       "display_name": "Babu Frik",
       "prestige_level": 57,
@@ -415,7 +423,7 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198246723564",
       "display_name": "Trippz",
       "prestige_level": 57,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198257252681",
       "display_name": "mini",
       "prestige_level": 57,
@@ -431,20 +439,12 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198026518168",
       "display_name": "Yaan",
       "prestige_level": 57,
       "achieved_at": "2026-07-21T02:53:53.090812+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198038247454",
-      "display_name": "xJonder",
-      "prestige_level": 57,
-      "achieved_at": "2026-08-04T09:11:41.436066+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 56,
