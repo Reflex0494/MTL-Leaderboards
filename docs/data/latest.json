@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T06:15:16.1110959+00:00",
-    "fetched_at": "2026-08-06T06:15:31.724301+00:00",
+    "generated_at": "2026-08-06T06:30:16.1111762+00:00",
+    "fetched_at": "2026-08-06T06:30:40.554713+00:00",
     "total_entries": 1724
   },
   "entries": [
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
-      "prestige_level": 94,
-      "achieved_at": "2026-08-06T05:41:44.744203+00:00",
+      "prestige_level": 95,
+      "achieved_at": "2026-08-06T06:26:29.868369+00:00",
       "badge_id": ""
     },
     {
