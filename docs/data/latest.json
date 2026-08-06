@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-06T03:15:16.1115452+00:00",
-    "fetched_at": "2026-08-06T03:15:31.756494+00:00",
+    "generated_at": "2026-08-06T03:30:16.1106788+00:00",
+    "fetched_at": "2026-08-06T03:30:38.590837+00:00",
     "total_entries": 1722
   },
   "entries": [
@@ -338,8 +338,8 @@
       "rank": 42,
       "steam_id": "76561198076913774",
       "display_name": "ksizzle22",
-      "prestige_level": 67,
-      "achieved_at": "2026-08-06T02:48:58.514498+00:00",
+      "prestige_level": 68,
+      "achieved_at": "2026-08-06T03:27:40.294933+00:00",
       "badge_id": "og"
     },
     {
@@ -514,8 +514,8 @@
       "rank": 64,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
-      "prestige_level": 53,
-      "achieved_at": "2026-08-06T02:21:35.338488+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-08-06T03:29:18.777839+00:00",
       "badge_id": ""
     },
     {
