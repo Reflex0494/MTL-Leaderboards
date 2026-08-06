@@ -57,15 +57,32 @@ the PC was off. It's a no-op if there's nothing new to catch up on.
 
 `docs/` is a static version of the same dashboard, fed by JSON files under
 `docs/data/`. A GitHub Actions workflow (`.github/workflows/update-data.yml`)
-runs `scripts/fetch_and_update.py` every 15 minutes, which fetches the
-leaderboard and commits the updated JSON straight into the repo — GitHub
-Pages then serves the refreshed dashboard automatically. Nothing needs to run
-on your own machine.
+runs `scripts/fetch_and_update.py`, which fetches the leaderboard and
+commits the updated JSON straight into the repo — GitHub Pages then serves
+the refreshed dashboard automatically. Nothing needs to run on your own
+machine.
+
+**Triggered externally, not by GitHub's own schedule.** The workflow only
+listens for `workflow_dispatch`; a free [cron-job.org](https://cron-job.org)
+job calls the GitHub API every 15 minutes to fire it (POSTs to
+`.../actions/workflows/update-data.yml/dispatches` with a fine-grained PAT
+scoped to Actions:write on this repo). GitHub's own `schedule:` trigger was
+tried first and turned out unreliable for this repo — it sat dormant for
+90+ minutes after being added, then fired inconsistently, and later (once
+cron-job.org was also running) occasionally landed a few minutes apart from
+the external trigger, which the concurrency group below would resolve by
+cancelling whichever run arrived first — showing up as spurious "run
+failed"/"run cancelled" emails. Removing the native schedule and keeping
+only the external trigger eliminated that.
+
+There's a `concurrency: group: update-data` block so two runs (however
+triggered) can never execute in parallel and race to `git push` — a
+second run just queues behind the first instead.
 
 Note: at 15-minute cadence `docs/data/history.json` grows roughly 4x faster
-than the old hourly schedule (still just plain JSON — this only matters if
+than an hourly schedule would (still just plain JSON — this only matters if
 the repo runs for a very long time). If it ever gets unwieldy, the fix is
-just widening the cron interval again.
+widening the cron-job.org interval.
 
 **GitHub Pages on the free plan only serves public repos.** To use it, this
 repo needs to be public (see repo Settings → General → Danger Zone → Change
@@ -76,14 +93,12 @@ Setup, once the repo is public:
 1. Settings → Pages → Source → **Deploy from a branch** → branch `main`,
    folder `/docs` → Save.
 2. Settings → Actions → General → Workflow permissions → **Read and write
-   permissions** (needed so the scheduled workflow can commit data back).
-3. The workflow runs automatically every 15 minutes; trigger it manually
-   anytime from the Actions tab (`Update leaderboard data` → Run workflow)
-   to seed data immediately instead of waiting.
-
-Scheduled workflows pause automatically if a repo goes 60 days with no
-commits — the frequent data commits keep it active indefinitely once it's
-running.
+   permissions** (needed so the workflow can commit data back).
+3. Set up the cron-job.org trigger described above so the workflow
+   actually fires every 15 minutes — it does nothing on its own since it
+   has no `schedule:` trigger. You can also fire it manually anytime from
+   the Actions tab (`Update leaderboard data` → Run workflow) to seed data
+   immediately.
 
 **Note on freshness:** the static Pages site can't fetch live data on every
 page load the way the local Flask app does — the source API's CORS policy

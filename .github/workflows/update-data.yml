@@ -1,16 +1,21 @@
 name: Update leaderboard data
 
 on:
-  schedule:
-    - cron: "*/15 * * * *" # every 15 minutes
-  workflow_dispatch: {}
+  workflow_dispatch: {} # triggered externally every 15 min by cron-job.org — see README
 
+# GitHub's own schedule: trigger used to be enabled here too, as a backup.
+# It's removed now: it fired independently of cron-job.org's precise 15-min
+# cadence, and the two occasionally landed minutes apart — close enough
+# that the concurrency group below (which only keeps the newest queued run)
+# would cancel whichever arrived first. That was generating the "run
+# failed"/"run cancelled" emails. cron-job.org alone has run reliably for
+# 100+ consecutive triggers, so a backup trigger isn't worth the collision
+# risk.
 permissions:
   contents: write
 
-# The external cron-job.org trigger and this native schedule can both fire
-# close together; without this, two overlapping runs race to git push and
-# the second one gets rejected. This serializes runs instead of racing them.
+# Belt-and-suspenders: keeps two runs from ever executing in parallel and
+# racing to git push, even though there's only one trigger source now.
 concurrency:
   group: update-data
   cancel-in-progress: false
