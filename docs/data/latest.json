@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T12:15:16.1121104+00:00",
-    "fetched_at": "2026-08-07T12:15:33.494139+00:00",
-    "total_entries": 1750
+    "generated_at": "2026-08-07T12:30:16.1157653+00:00",
+    "fetched_at": "2026-08-07T12:30:39.143539+00:00",
+    "total_entries": 1751
   },
   "entries": [
     {
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 81,
-      "achieved_at": "2026-08-03T22:49:36.976518+00:00",
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 82,
+      "achieved_at": "2026-08-07T12:28:44.410871+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
       "prestige_level": 81,
-      "achieved_at": "2026-08-05T14:56:25.557427+00:00",
+      "achieved_at": "2026-08-03T22:49:36.976518+00:00",
       "badge_id": ""
     },
     {
