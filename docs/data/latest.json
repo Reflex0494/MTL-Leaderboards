@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T18:15:16.1141251+00:00",
-    "fetched_at": "2026-08-07T18:15:31.169547+00:00",
-    "total_entries": 1752
+    "generated_at": "2026-08-07T18:30:16.1126291+00:00",
+    "fetched_at": "2026-08-07T18:30:41.903473+00:00",
+    "total_entries": 1753
   },
   "entries": [
     {
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 45,
+      "achieved_at": "2026-08-07T18:19:15.104394+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198118654073",
       "display_name": "Maffin",
       "prestige_level": 44,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 44,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198142944874",
       "display_name": "Deimos",
       "prestige_level": 44,
       "achieved_at": "2026-08-01T01:54:08.18724+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
-      "prestige_level": 44,
-      "achieved_at": "2026-08-07T17:32:38.228751+00:00",
       "badge_id": ""
     },
     {
