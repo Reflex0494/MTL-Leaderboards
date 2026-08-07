@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T04:30:16.1135011+00:00",
-    "fetched_at": "2026-08-07T04:30:38.492619+00:00",
+    "generated_at": "2026-08-07T04:45:16.1114676+00:00",
+    "fetched_at": "2026-08-07T04:45:34.218699+00:00",
     "total_entries": 1743
   },
   "entries": [
@@ -176,18 +176,18 @@
     },
     {
       "rank": 22,
-      "steam_id": "76561198025781627",
-      "display_name": "Tanner",
-      "prestige_level": 86,
-      "achieved_at": "2026-07-24T13:00:22.138318+00:00",
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 87,
+      "achieved_at": "2026-08-07T04:32:17.398304+00:00",
       "badge_id": ""
     },
     {
       "rank": 23,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
+      "steam_id": "76561198025781627",
+      "display_name": "Tanner",
       "prestige_level": 86,
-      "achieved_at": "2026-08-06T06:55:40.76389+00:00",
+      "achieved_at": "2026-07-24T13:00:22.138318+00:00",
       "badge_id": ""
     },
     {
