@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T16:45:16.1115054+00:00",
-    "fetched_at": "2026-08-07T16:45:31.102869+00:00",
+    "generated_at": "2026-08-07T17:00:16.1117551+00:00",
+    "fetched_at": "2026-08-07T17:00:48.431467+00:00",
     "total_entries": 1752
   },
   "entries": [
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198990746139",
       "display_name": "RobbieG23",
-      "prestige_level": 99,
-      "achieved_at": "2026-08-06T21:08:33.6895+00:00",
+      "prestige_level": 100,
+      "achieved_at": "2026-08-07T16:45:38.058026+00:00",
       "badge_id": ""
     },
     {
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-07T16:52:22.929545+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198025981725",
       "display_name": "Mark",
       "prestige_level": 42,
@@ -695,20 +703,12 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561197960434322",
       "display_name": "Soctom",
       "prestige_level": 42,
       "achieved_at": "2026-08-05T19:43:01.52879+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 88,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-07T15:51:23.17449+00:00",
-      "badge_id": ""
     },
     {
       "rank": 89,
