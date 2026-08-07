@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T14:00:16.1121478+00:00",
-    "fetched_at": "2026-08-07T14:00:54.315070+00:00",
+    "generated_at": "2026-08-07T14:15:16.1121654+00:00",
+    "fetched_at": "2026-08-07T14:15:32.764340+00:00",
     "total_entries": 1751
   },
   "entries": [
@@ -296,18 +296,18 @@
     },
     {
       "rank": 37,
-      "steam_id": "76561199156701505",
-      "display_name": "skeeter",
-      "prestige_level": 71,
-      "achieved_at": "2026-07-12T01:08:33.785085+00:00",
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 72,
+      "achieved_at": "2026-08-07T14:13:45.209689+00:00",
       "badge_id": ""
     },
     {
       "rank": 38,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
+      "steam_id": "76561199156701505",
+      "display_name": "skeeter",
       "prestige_level": 71,
-      "achieved_at": "2026-08-07T13:43:51.116978+00:00",
+      "achieved_at": "2026-07-12T01:08:33.785085+00:00",
       "badge_id": ""
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-07T14:08:51.952967+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561199423701892",
       "display_name": "BigCraunch",
       "prestige_level": 39,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198045253110",
       "display_name": "Daniel Praxis",
       "prestige_level": 39,
@@ -775,19 +783,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198177534223",
       "display_name": "j0nes",
       "prestige_level": 39,
       "achieved_at": "2026-08-04T12:20:02.627921+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-06T18:36:34.168754+00:00",
       "badge_id": ""
     },
     {
