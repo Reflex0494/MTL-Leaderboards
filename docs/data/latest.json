@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T14:30:16.1142273+00:00",
-    "fetched_at": "2026-08-07T14:30:40.919806+00:00",
+    "generated_at": "2026-08-07T14:45:16.1124686+00:00",
+    "fetched_at": "2026-08-07T14:45:32.340695+00:00",
     "total_entries": 1752
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 161,
-      "achieved_at": "2026-08-06T21:47:11.767383+00:00",
+      "prestige_level": 162,
+      "achieved_at": "2026-08-07T14:43:35.494455+00:00",
       "badge_id": "s2_first"
     },
     {
@@ -410,8 +410,8 @@
       "rank": 51,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-07T09:11:48.586472+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-07T14:41:04.054423+00:00",
       "badge_id": ""
     },
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198119959603",
+      "display_name": "nick written by kitten",
+      "prestige_level": 58,
+      "achieved_at": "2026-08-07T14:41:59.691817+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198016633668",
       "display_name": "Babu Frik",
       "prestige_level": 57,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198246723564",
       "display_name": "Trippz",
       "prestige_level": 57,
@@ -447,7 +455,7 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198257252681",
       "display_name": "mini",
       "prestige_level": 57,
@@ -455,19 +463,11 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198026518168",
       "display_name": "Yaan",
       "prestige_level": 57,
       "achieved_at": "2026-07-21T02:53:53.090812+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198119959603",
-      "display_name": "nick written by kitten",
-      "prestige_level": 57,
-      "achieved_at": "2026-08-06T12:52:49.422204+00:00",
       "badge_id": ""
     },
     {
