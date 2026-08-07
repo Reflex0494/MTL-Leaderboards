@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T18:45:16.1134306+00:00",
-    "fetched_at": "2026-08-07T18:45:31.538533+00:00",
+    "generated_at": "2026-08-07T19:00:16.1125319+00:00",
+    "fetched_at": "2026-08-07T19:00:48.931403+00:00",
     "total_entries": 1753
   },
   "entries": [
@@ -434,8 +434,8 @@
       "rank": 54,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-06T23:16:17.211966+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-07T18:47:24.320427+00:00",
       "badge_id": ""
     },
     {
