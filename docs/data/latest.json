@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T15:45:16.1108757+00:00",
-    "fetched_at": "2026-08-07T15:45:30.725666+00:00",
+    "generated_at": "2026-08-07T16:00:16.1118854+00:00",
+    "fetched_at": "2026-08-07T16:00:55.675630+00:00",
     "total_entries": 1752
   },
   "entries": [
@@ -704,6 +704,14 @@
     },
     {
       "rank": 88,
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 42,
+      "achieved_at": "2026-08-07T15:51:23.17449+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 89,
       "steam_id": "76561198025016594",
       "display_name": "Deric Chutney",
       "prestige_level": 41,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561197982991579",
       "display_name": "Shah",
       "prestige_level": 41,
@@ -719,19 +727,11 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561197967176149",
       "display_name": "popeshoe",
       "prestige_level": 41,
       "achieved_at": "2026-08-04T21:53:30.170613+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 91,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
-      "prestige_level": 41,
-      "achieved_at": "2026-08-07T15:12:38.558851+00:00",
       "badge_id": ""
     },
     {
