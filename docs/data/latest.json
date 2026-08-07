@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T20:45:16.1104746+00:00",
-    "fetched_at": "2026-08-07T20:45:34.659685+00:00",
+    "generated_at": "2026-08-07T21:00:16.1101974+00:00",
+    "fetched_at": "2026-08-07T21:00:46.860549+00:00",
     "total_entries": 1758
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
-      "prestige_level": 154,
-      "achieved_at": "2026-08-07T10:46:41.050556+00:00",
+      "prestige_level": 155,
+      "achieved_at": "2026-08-07T20:55:18.207215+00:00",
       "badge_id": "supporter_plus"
     },
     {
