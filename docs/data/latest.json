@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T09:00:16.1125214+00:00",
-    "fetched_at": "2026-08-07T09:00:53.487093+00:00",
-    "total_entries": 1745
+    "generated_at": "2026-08-07T09:15:16.113597+00:00",
+    "fetched_at": "2026-08-07T09:15:30.418231+00:00",
+    "total_entries": 1746
   },
   "entries": [
     {
@@ -408,19 +408,19 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198113877220",
+      "display_name": "Jean Vincent",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-07T09:11:48.586472+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198038247454",
       "display_name": "xJonder",
       "prestige_level": 58,
       "achieved_at": "2026-08-06T16:16:48.957077+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198113877220",
-      "display_name": "Jean Vincent",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-06T22:43:38.133887+00:00",
-      "badge_id": ""
     },
     {
       "rank": 53,
