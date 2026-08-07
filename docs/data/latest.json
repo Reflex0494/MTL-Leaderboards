@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T17:30:16.1138427+00:00",
-    "fetched_at": "2026-08-07T17:30:44.330235+00:00",
+    "generated_at": "2026-08-07T17:45:16.1121118+00:00",
+    "fetched_at": "2026-08-07T17:45:32.699647+00:00",
     "total_entries": 1752
   },
   "entries": [
@@ -672,6 +672,14 @@
     },
     {
       "rank": 84,
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 44,
+      "achieved_at": "2026-08-07T17:32:38.228751+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 85,
       "steam_id": "76561198026532639",
       "display_name": "Mrlinkfreak",
       "prestige_level": 43,
@@ -679,20 +687,12 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198088522424",
       "display_name": "Tudzio",
       "prestige_level": 43,
       "achieved_at": "2026-07-26T16:36:58.785385+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-07T16:52:22.929545+00:00",
-      "badge_id": ""
     },
     {
       "rank": 87,
