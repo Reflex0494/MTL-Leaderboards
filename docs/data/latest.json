@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-07T00:15:16.1111299+00:00",
-    "fetched_at": "2026-08-07T00:15:32.161119+00:00",
+    "generated_at": "2026-08-07T00:30:16.1125899+00:00",
+    "fetched_at": "2026-08-07T00:30:42.174824+00:00",
     "total_entries": 1740
   },
   "entries": [
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 90,
-      "achieved_at": "2026-08-06T16:18:13.755493+00:00",
+      "prestige_level": 91,
+      "achieved_at": "2026-08-07T00:20:44.01042+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -752,6 +752,14 @@
     },
     {
       "rank": 94,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-07T00:17:41.599089+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 95,
       "steam_id": "76561199423701892",
       "display_name": "BigCraunch",
       "prestige_level": 39,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198045253110",
       "display_name": "Daniel Praxis",
       "prestige_level": 39,
@@ -767,7 +775,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198177534223",
       "display_name": "j0nes",
       "prestige_level": 39,
@@ -775,19 +783,11 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561197991758618",
       "display_name": "Sir Cumcision",
       "prestige_level": 39,
       "achieved_at": "2026-08-06T18:36:34.168754+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-06T23:10:48.301967+00:00",
       "badge_id": ""
     },
     {
