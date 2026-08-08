@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T12:30:16.1133929+00:00",
-    "fetched_at": "2026-08-08T12:30:44.270091+00:00",
+    "generated_at": "2026-08-08T12:45:16.1141971+00:00",
+    "fetched_at": "2026-08-08T12:45:32.281932+00:00",
     "total_entries": 1768
   },
   "entries": [
@@ -290,8 +290,8 @@
       "rank": 36,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
-      "prestige_level": 74,
-      "achieved_at": "2026-08-08T12:14:42.508017+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-08-08T12:31:32.503564+00:00",
       "badge_id": ""
     },
     {
@@ -416,19 +416,19 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561198119959603",
+      "display_name": "nick written by kitten",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-08T12:33:52.725188+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198038247454",
       "display_name": "xJonder",
       "prestige_level": 59,
       "achieved_at": "2026-08-07T11:11:14.450979+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 53,
-      "steam_id": "76561198119959603",
-      "display_name": "nick written by kitten",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-07T15:38:21.318991+00:00",
-      "badge_id": ""
     },
     {
       "rank": 54,
