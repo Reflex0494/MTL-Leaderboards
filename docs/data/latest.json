@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T09:45:16.1129709+00:00",
-    "fetched_at": "2026-08-08T09:45:32.659324+00:00",
-    "total_entries": 1762
+    "generated_at": "2026-08-08T10:00:16.1130836+00:00",
+    "fetched_at": "2026-08-08T10:00:45.656249+00:00",
+    "total_entries": 1763
   },
   "entries": [
     {
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-08T09:52:13.013872+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198876481782",
       "display_name": "tekk301",
       "prestige_level": 47,
@@ -591,19 +599,11 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198015442060",
       "display_name": "War Eeyore",
       "prestige_level": 47,
       "achieved_at": "2026-08-04T18:14:13.898843+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-06T17:38:14.045218+00:00",
       "badge_id": ""
     },
     {
