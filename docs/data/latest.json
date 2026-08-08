@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T23:30:16.1118594+00:00",
-    "fetched_at": "2026-08-08T23:30:40.754898+00:00",
-    "total_entries": 1779
+    "generated_at": "2026-08-08T23:45:16.1118263+00:00",
+    "fetched_at": "2026-08-08T23:45:27.597021+00:00",
+    "total_entries": 1780
   },
   "entries": [
     {
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 55,
+      "achieved_at": "2026-08-08T23:35:18.053809+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
       "prestige_level": 54,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198028911393",
       "display_name": "MOLTEN",
       "prestige_level": 54,
       "achieved_at": "2026-07-14T00:41:43.209054+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 54,
-      "achieved_at": "2026-08-08T22:13:10.676339+00:00",
       "badge_id": ""
     },
     {
