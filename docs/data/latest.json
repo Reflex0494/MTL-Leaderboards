@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T11:30:16.1105023+00:00",
-    "fetched_at": "2026-08-08T11:30:43.916615+00:00",
+    "generated_at": "2026-08-08T11:45:16.109725+00:00",
+    "fetched_at": "2026-08-08T11:45:26.767380+00:00",
     "total_entries": 1765
   },
   "entries": [
@@ -304,18 +304,18 @@
     },
     {
       "rank": 38,
-      "steam_id": "76561199156701505",
-      "display_name": "skeeter",
-      "prestige_level": 71,
-      "achieved_at": "2026-07-12T01:08:33.785085+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 72,
+      "achieved_at": "2026-08-08T11:38:20.603629+00:00",
       "badge_id": ""
     },
     {
       "rank": 39,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561199156701505",
+      "display_name": "skeeter",
       "prestige_level": 71,
-      "achieved_at": "2026-08-08T11:17:18.923463+00:00",
+      "achieved_at": "2026-07-12T01:08:33.785085+00:00",
       "badge_id": ""
     },
     {
