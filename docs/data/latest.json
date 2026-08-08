@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T11:45:16.109725+00:00",
-    "fetched_at": "2026-08-08T11:45:26.767380+00:00",
-    "total_entries": 1765
+    "generated_at": "2026-08-08T12:00:16.1136464+00:00",
+    "fetched_at": "2026-08-08T12:00:46.961986+00:00",
+    "total_entries": 1766
   },
   "entries": [
     {
@@ -296,19 +296,19 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 73,
+      "achieved_at": "2026-08-08T11:57:28.148931+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198047812156",
       "display_name": "White",
       "prestige_level": 72,
       "achieved_at": "2026-07-11T19:07:24.674583+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 72,
-      "achieved_at": "2026-08-08T11:38:20.603629+00:00",
-      "badge_id": ""
     },
     {
       "rank": 39,
