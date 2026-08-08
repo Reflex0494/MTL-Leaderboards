@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T12:00:16.1136464+00:00",
-    "fetched_at": "2026-08-08T12:00:46.961986+00:00",
+    "generated_at": "2026-08-08T12:15:16.1131317+00:00",
+    "fetched_at": "2026-08-08T12:15:26.909174+00:00",
     "total_entries": 1766
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561199290668085",
       "display_name": "ToxicDemon",
-      "prestige_level": 105,
-      "achieved_at": "2026-08-06T21:24:03.814596+00:00",
+      "prestige_level": 106,
+      "achieved_at": "2026-08-08T12:10:09.191133+00:00",
       "badge_id": ""
     },
     {
@@ -288,18 +288,18 @@
     },
     {
       "rank": 36,
-      "steam_id": "76561198071815550",
-      "display_name": "evozakira",
-      "prestige_level": 73,
-      "achieved_at": "2026-08-02T14:08:49.447666+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 74,
+      "achieved_at": "2026-08-08T12:14:42.508017+00:00",
       "badge_id": ""
     },
     {
       "rank": 37,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561198071815550",
+      "display_name": "evozakira",
       "prestige_level": 73,
-      "achieved_at": "2026-08-08T11:57:28.148931+00:00",
+      "achieved_at": "2026-08-02T14:08:49.447666+00:00",
       "badge_id": ""
     },
     {
@@ -594,8 +594,8 @@
       "rank": 74,
       "steam_id": "76561198876481782",
       "display_name": "tekk301",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-02T15:15:57.913369+00:00",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-08T12:04:54.147663+00:00",
       "badge_id": ""
     },
     {
