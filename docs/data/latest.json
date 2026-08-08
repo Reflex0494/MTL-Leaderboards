@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T19:45:16.1146427+00:00",
-    "fetched_at": "2026-08-08T19:45:27.009387+00:00",
+    "generated_at": "2026-08-08T20:00:16.1163702+00:00",
+    "fetched_at": "2026-08-08T20:00:49.470873+00:00",
     "total_entries": 1777
   },
   "entries": [
@@ -354,8 +354,8 @@
       "rank": 44,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
-      "prestige_level": 67,
-      "achieved_at": "2026-08-08T05:07:37.702041+00:00",
+      "prestige_level": 68,
+      "achieved_at": "2026-08-08T19:53:31.437628+00:00",
       "badge_id": "og"
     },
     {
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 51,
+      "achieved_at": "2026-08-08T19:47:17.503685+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198008715026",
       "display_name": "Dharlas",
       "prestige_level": 50,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 50,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 50,
@@ -551,7 +559,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198850117561",
       "display_name": "A Light In The Darkness",
       "prestige_level": 50,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 50,
       "achieved_at": "2026-08-06T04:52:09.971972+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 50,
-      "achieved_at": "2026-08-08T18:55:32.690135+00:00",
       "badge_id": ""
     },
     {
