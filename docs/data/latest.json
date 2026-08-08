@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T05:00:16.1119656+00:00",
-    "fetched_at": "2026-08-08T05:00:48.291799+00:00",
+    "generated_at": "2026-08-08T05:15:16.1118621+00:00",
+    "fetched_at": "2026-08-08T05:15:34.532603+00:00",
     "total_entries": 1762
   },
   "entries": [
@@ -352,19 +352,19 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 67,
+      "achieved_at": "2026-08-08T05:07:37.702041+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 45,
       "steam_id": "76561198119506474",
       "display_name": "zeph_n",
       "prestige_level": 66,
       "achieved_at": "2026-08-04T03:33:07.01453+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 45,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 66,
-      "achieved_at": "2026-08-06T14:28:35.512816+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 46,
