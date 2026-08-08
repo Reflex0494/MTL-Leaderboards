@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T07:30:16.1129516+00:00",
-    "fetched_at": "2026-08-08T07:30:38.998830+00:00",
+    "generated_at": "2026-08-08T07:45:16.1129093+00:00",
+    "fetched_at": "2026-08-08T07:45:31.485862+00:00",
     "total_entries": 1762
   },
   "entries": [
@@ -160,19 +160,19 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 88,
+      "achieved_at": "2026-08-08T07:40:57.710731+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 87,
       "achieved_at": "2026-07-18T00:48:24.773394+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 21,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 87,
-      "achieved_at": "2026-08-07T02:16:07.125963+00:00",
-      "badge_id": ""
     },
     {
       "rank": 22,
