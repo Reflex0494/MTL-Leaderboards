@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T16:15:16.1120669+00:00",
-    "fetched_at": "2026-08-08T16:15:33.722486+00:00",
+    "generated_at": "2026-08-08T16:30:16.1138893+00:00",
+    "fetched_at": "2026-08-08T16:30:44.626647+00:00",
     "total_entries": 1773
   },
   "entries": [
@@ -400,18 +400,18 @@
     },
     {
       "rank": 50,
-      "steam_id": "76561198173409838",
-      "display_name": "CookieNagato",
-      "prestige_level": 60,
-      "achieved_at": "2026-07-26T21:56:22.506805+00:00",
+      "steam_id": "76561198113877220",
+      "display_name": "Jean Vincent",
+      "prestige_level": 61,
+      "achieved_at": "2026-08-08T16:18:50.245984+00:00",
       "badge_id": ""
     },
     {
       "rank": 51,
-      "steam_id": "76561198113877220",
-      "display_name": "Jean Vincent",
+      "steam_id": "76561198173409838",
+      "display_name": "CookieNagato",
       "prestige_level": 60,
-      "achieved_at": "2026-08-07T14:41:04.054423+00:00",
+      "achieved_at": "2026-07-26T21:56:22.506805+00:00",
       "badge_id": ""
     },
     {
