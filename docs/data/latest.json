@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-08T18:15:16.1130835+00:00",
-    "fetched_at": "2026-08-08T18:15:29.233310+00:00",
+    "generated_at": "2026-08-08T18:30:16.1106153+00:00",
+    "fetched_at": "2026-08-08T18:30:44.841519+00:00",
     "total_entries": 1776
   },
   "entries": [
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-08T18:20:01.555916+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 48,
@@ -591,19 +599,11 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198876481782",
       "display_name": "tekk301",
       "prestige_level": 48,
       "achieved_at": "2026-08-08T12:04:54.147663+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 48,
-      "achieved_at": "2026-08-08T17:39:00.040374+00:00",
       "badge_id": ""
     },
     {
