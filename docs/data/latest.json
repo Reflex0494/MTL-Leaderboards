@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T06:15:16.114443+00:00",
-    "fetched_at": "2026-08-09T06:15:28.433989+00:00",
+    "generated_at": "2026-08-09T06:30:16.1117742+00:00",
+    "fetched_at": "2026-08-09T06:30:41.150037+00:00",
     "total_entries": 1785
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 110,
-      "achieved_at": "2026-08-07T12:02:53.754535+00:00",
+      "prestige_level": 111,
+      "achieved_at": "2026-08-09T06:22:16.174723+00:00",
       "badge_id": ""
     },
     {
@@ -232,19 +232,19 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 78,
+      "achieved_at": "2026-08-09T06:20:54.335391+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 30,
       "steam_id": "76561197981807560",
       "display_name": "SGT. Olimar",
       "prestige_level": 77,
       "achieved_at": "2026-08-02T23:46:06.408235+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 77,
-      "achieved_at": "2026-08-05T18:47:22.085812+00:00",
-      "badge_id": ""
     },
     {
       "rank": 31,
