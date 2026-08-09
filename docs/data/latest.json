@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T05:15:16.111022+00:00",
-    "fetched_at": "2026-08-09T05:15:29.230107+00:00",
+    "generated_at": "2026-08-09T05:30:16.1113475+00:00",
+    "fetched_at": "2026-08-09T05:30:38.235659+00:00",
     "total_entries": 1784
   },
   "entries": [
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-09T05:29:45.766204+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198038247454",
       "display_name": "xJonder",
       "prestige_level": 59,
@@ -431,19 +439,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 59,
       "achieved_at": "2026-08-07T18:47:24.320427+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-09T03:45:49.527494+00:00",
       "badge_id": ""
     },
     {
