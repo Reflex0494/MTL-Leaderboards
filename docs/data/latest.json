@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T10:30:16.1116821+00:00",
-    "fetched_at": "2026-08-09T10:30:38.083638+00:00",
+    "generated_at": "2026-08-09T10:45:16.1125282+00:00",
+    "fetched_at": "2026-08-09T10:45:36.323159+00:00",
     "total_entries": 1790
   },
   "entries": [
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
-      "prestige_level": 101,
-      "achieved_at": "2026-08-09T08:57:28.396616+00:00",
+      "prestige_level": 102,
+      "achieved_at": "2026-08-09T10:41:01.881243+00:00",
       "badge_id": ""
     },
     {
@@ -368,19 +368,19 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561198113877220",
+      "display_name": "Jean Vincent",
+      "prestige_level": 64,
+      "achieved_at": "2026-08-09T10:35:44.576786+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 47,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 63,
       "achieved_at": "2026-08-04T14:25:35.814612+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 47,
-      "steam_id": "76561198113877220",
-      "display_name": "Jean Vincent",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-09T00:38:18.031422+00:00",
-      "badge_id": ""
     },
     {
       "rank": 48,
