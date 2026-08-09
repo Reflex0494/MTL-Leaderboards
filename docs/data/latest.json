@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T16:15:16.1110273+00:00",
-    "fetched_at": "2026-08-09T16:15:31.727795+00:00",
-    "total_entries": 1796
+    "generated_at": "2026-08-09T16:30:16.110773+00:00",
+    "fetched_at": "2026-08-09T16:30:37.709008+00:00",
+    "total_entries": 1797
   },
   "entries": [
     {
@@ -264,6 +264,14 @@
     },
     {
       "rank": 33,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 77,
+      "achieved_at": "2026-08-09T16:20:52.650681+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 34,
       "steam_id": "76561198021267677",
       "display_name": "BunnLilah",
       "prestige_level": 76,
@@ -271,19 +279,11 @@
       "badge_id": ""
     },
     {
-      "rank": 34,
+      "rank": 35,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 76,
       "achieved_at": "2026-08-08T02:35:33.13897+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 76,
-      "achieved_at": "2026-08-09T15:16:47.079763+00:00",
       "badge_id": ""
     },
     {
