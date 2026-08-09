@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T00:30:16.1225822+00:00",
-    "fetched_at": "2026-08-09T00:30:41.303371+00:00",
+    "generated_at": "2026-08-09T00:45:16.1103127+00:00",
+    "fetched_at": "2026-08-09T00:45:29.164686+00:00",
     "total_entries": 1780
   },
   "entries": [
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198113877220",
+      "display_name": "Jean Vincent",
+      "prestige_level": 63,
+      "achieved_at": "2026-08-09T00:38:18.031422+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
       "prestige_level": 62,
@@ -383,20 +391,12 @@
       "badge_id": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198132873698",
       "display_name": "Bucketh",
       "prestige_level": 62,
       "achieved_at": "2026-08-04T15:53:46.467577+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 49,
-      "steam_id": "76561198113877220",
-      "display_name": "Jean Vincent",
-      "prestige_level": 62,
-      "achieved_at": "2026-08-08T21:22:50.315916+00:00",
-      "badge_id": ""
     },
     {
       "rank": 50,
