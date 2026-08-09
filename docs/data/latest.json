@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T06:45:16.1104481+00:00",
-    "fetched_at": "2026-08-09T06:45:31.666083+00:00",
+    "generated_at": "2026-08-09T07:00:16.1101967+00:00",
+    "fetched_at": "2026-08-09T07:00:46.155206+00:00",
     "total_entries": 1785
   },
   "entries": [
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 42,
+      "achieved_at": "2026-08-09T06:53:10.860797+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198025016594",
       "display_name": "Deric Chutney",
       "prestige_level": 41,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561197982991579",
       "display_name": "Shah",
       "prestige_level": 41,
@@ -727,19 +735,11 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561197967176149",
       "display_name": "popeshoe",
       "prestige_level": 41,
       "achieved_at": "2026-08-04T21:53:30.170613+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 92,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 41,
-      "achieved_at": "2026-08-09T05:36:49.025571+00:00",
       "badge_id": ""
     },
     {
