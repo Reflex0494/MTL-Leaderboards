@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T12:30:16.1102284+00:00",
-    "fetched_at": "2026-08-09T12:30:39.104341+00:00",
+    "generated_at": "2026-08-09T12:45:16.110445+00:00",
+    "fetched_at": "2026-08-09T12:45:27.642577+00:00",
     "total_entries": 1793
   },
   "entries": [
@@ -136,19 +136,19 @@
     },
     {
       "rank": 17,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 93,
+      "achieved_at": "2026-08-09T12:40:34.515712+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 18,
       "steam_id": "76561198014762067",
       "display_name": "Smile",
       "prestige_level": 92,
       "achieved_at": "2026-08-04T08:38:37.056607+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 92,
-      "achieved_at": "2026-08-07T01:15:22.349545+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 19,
