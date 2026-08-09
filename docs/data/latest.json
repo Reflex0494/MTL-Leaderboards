@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T15:15:16.1116111+00:00",
-    "fetched_at": "2026-08-09T15:15:27.538583+00:00",
+    "generated_at": "2026-08-09T15:30:16.1108806+00:00",
+    "fetched_at": "2026-08-09T15:30:42.604552+00:00",
     "total_entries": 1795
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561199290668085",
       "display_name": "ToxicDemon",
-      "prestige_level": 107,
-      "achieved_at": "2026-08-08T15:09:10.080792+00:00",
+      "prestige_level": 108,
+      "achieved_at": "2026-08-09T15:20:54.479581+00:00",
       "badge_id": ""
     },
     {
@@ -280,18 +280,18 @@
     },
     {
       "rank": 35,
-      "steam_id": "76561198042731022",
-      "display_name": "Chappers2711",
-      "prestige_level": 75,
-      "achieved_at": "2026-07-23T07:50:47.883476+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 76,
+      "achieved_at": "2026-08-09T15:16:47.079763+00:00",
       "badge_id": ""
     },
     {
       "rank": 36,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561198042731022",
+      "display_name": "Chappers2711",
       "prestige_level": 75,
-      "achieved_at": "2026-08-08T12:31:32.503564+00:00",
+      "achieved_at": "2026-07-23T07:50:47.883476+00:00",
       "badge_id": ""
     },
     {
