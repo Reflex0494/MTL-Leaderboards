@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T01:00:16.1109265+00:00",
-    "fetched_at": "2026-08-09T01:00:46.360041+00:00",
+    "generated_at": "2026-08-09T01:15:16.1091747+00:00",
+    "fetched_at": "2026-08-09T01:15:28.092388+00:00",
     "total_entries": 1780
   },
   "entries": [
@@ -152,18 +152,18 @@
     },
     {
       "rank": 19,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 89,
-      "achieved_at": "2026-08-06T20:09:54.40025+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 90,
+      "achieved_at": "2026-08-09T01:11:58.644568+00:00",
       "badge_id": ""
     },
     {
       "rank": 20,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
       "prestige_level": 89,
-      "achieved_at": "2026-08-08T08:55:52.077094+00:00",
+      "achieved_at": "2026-08-06T20:09:54.40025+00:00",
       "badge_id": ""
     },
     {
