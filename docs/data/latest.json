@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T23:15:16.1103528+00:00",
-    "fetched_at": "2026-08-09T23:15:29.245544+00:00",
+    "generated_at": "2026-08-09T23:30:16.1128668+00:00",
+    "fetched_at": "2026-08-09T23:30:39.722822+00:00",
     "total_entries": 1799
   },
   "entries": [
@@ -496,18 +496,18 @@
     },
     {
       "rank": 62,
-      "steam_id": "76561198321094554",
-      "display_name": "CrazyBobo",
-      "prestige_level": 55,
-      "achieved_at": "2026-07-16T13:55:30.621679+00:00",
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 56,
+      "achieved_at": "2026-08-09T23:26:57.683419+00:00",
       "badge_id": ""
     },
     {
       "rank": 63,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
+      "steam_id": "76561198321094554",
+      "display_name": "CrazyBobo",
       "prestige_level": 55,
-      "achieved_at": "2026-08-08T23:35:18.053809+00:00",
+      "achieved_at": "2026-07-16T13:55:30.621679+00:00",
       "badge_id": ""
     },
     {
