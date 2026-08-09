@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T05:30:16.1113475+00:00",
-    "fetched_at": "2026-08-09T05:30:38.235659+00:00",
+    "generated_at": "2026-08-09T05:45:16.1111469+00:00",
+    "fetched_at": "2026-08-09T05:45:29.782273+00:00",
     "total_entries": 1784
   },
   "entries": [
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 41,
+      "achieved_at": "2026-08-09T05:36:49.025571+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198047730381",
       "display_name": "Alley",
       "prestige_level": 40,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198101060115",
       "display_name": "YoitsJJ",
       "prestige_level": 40,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198125280847",
       "display_name": "Breakfast",
       "prestige_level": 40,
@@ -759,19 +767,11 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 40,
       "achieved_at": "2026-08-01T02:53:51.88763+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 96,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-08T03:53:31.738166+00:00",
       "badge_id": ""
     },
     {
