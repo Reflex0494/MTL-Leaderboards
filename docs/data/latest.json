@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-09T01:15:16.1091747+00:00",
-    "fetched_at": "2026-08-09T01:15:28.092388+00:00",
+    "generated_at": "2026-08-09T01:30:16.1086847+00:00",
+    "fetched_at": "2026-08-09T01:30:38.871252+00:00",
     "total_entries": 1780
   },
   "entries": [
@@ -344,19 +344,19 @@
     },
     {
       "rank": 43,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 69,
+      "achieved_at": "2026-08-09T01:26:29.560636+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 44,
       "steam_id": "76561198043684071",
       "display_name": "Crypticmonium",
       "prestige_level": 68,
       "achieved_at": "2026-07-23T23:30:02.317333+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 68,
-      "achieved_at": "2026-08-08T19:53:31.437628+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 45,
