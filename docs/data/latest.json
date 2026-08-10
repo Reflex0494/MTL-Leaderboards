@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T04:45:16.1104456+00:00",
-    "fetched_at": "2026-08-10T04:45:27.207014+00:00",
+    "generated_at": "2026-08-10T05:00:16.1099755+00:00",
+    "fetched_at": "2026-08-10T05:00:50.251809+00:00",
     "total_entries": 1803
   },
   "entries": [
@@ -616,19 +616,19 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 47,
+      "achieved_at": "2026-08-10T04:47:53.326045+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 78,
       "steam_id": "76561197961228316",
       "display_name": "good grief",
       "prestige_level": 46,
       "achieved_at": "2026-07-15T19:48:49.574096+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 46,
-      "achieved_at": "2026-08-06T03:55:43.016042+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 79,
