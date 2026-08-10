@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T00:30:16.1105986+00:00",
-    "fetched_at": "2026-08-10T00:30:39.039255+00:00",
+    "generated_at": "2026-08-10T00:45:16.1119871+00:00",
+    "fetched_at": "2026-08-10T00:45:30.627055+00:00",
     "total_entries": 1800
   },
   "entries": [
@@ -408,6 +408,14 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
+      "prestige_level": 61,
+      "achieved_at": "2026-08-10T00:39:31.639941+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 60,
@@ -415,19 +423,11 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198119959603",
       "display_name": "nick written by kitten",
       "prestige_level": 60,
       "achieved_at": "2026-08-08T12:33:52.725188+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 53,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
-      "prestige_level": 60,
-      "achieved_at": "2026-08-09T05:29:45.766204+00:00",
       "badge_id": ""
     },
     {
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 58,
+      "achieved_at": "2026-08-10T00:32:15.155339+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198016633668",
       "display_name": "Babu Frik",
       "prestige_level": 57,
@@ -455,7 +463,7 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198246723564",
       "display_name": "Trippz",
       "prestige_level": 57,
@@ -463,7 +471,7 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198257252681",
       "display_name": "mini",
       "prestige_level": 57,
@@ -471,7 +479,7 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198026518168",
       "display_name": "Yaan",
       "prestige_level": 57,
@@ -479,7 +487,7 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198047264413",
       "display_name": "Patrick Bateman",
       "prestige_level": 57,
@@ -487,19 +495,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 57,
       "achieved_at": "2026-08-09T22:12:15.084918+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 57,
-      "achieved_at": "2026-08-09T23:59:36.462437+00:00",
       "badge_id": ""
     },
     {
