@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T00:00:16.1094147+00:00",
-    "fetched_at": "2026-08-10T00:00:50.597805+00:00",
+    "generated_at": "2026-08-10T00:15:16.1108241+00:00",
+    "fetched_at": "2026-08-10T00:15:31.233310+00:00",
     "total_entries": 1800
   },
   "entries": [
@@ -90,8 +90,8 @@
       "rank": 11,
       "steam_id": "76561198041271918",
       "display_name": "Ramsey",
-      "prestige_level": 102,
-      "achieved_at": "2026-08-06T21:45:08.287053+00:00",
+      "prestige_level": 103,
+      "achieved_at": "2026-08-10T00:05:49.115855+00:00",
       "badge_id": ""
     },
     {
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
+      "prestige_level": 78,
+      "achieved_at": "2026-08-10T00:09:03.361217+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561197981807560",
       "display_name": "SGT. Olimar",
       "prestige_level": 77,
@@ -247,19 +255,11 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198041620710",
       "display_name": "MR. GOON-BONES \u2620",
       "prestige_level": 77,
       "achieved_at": "2026-08-06T20:49:55.171601+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 77,
-      "achieved_at": "2026-08-09T02:40:11.736035+00:00",
       "badge_id": ""
     },
     {
