@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T17:00:16.1111138+00:00",
-    "fetched_at": "2026-08-10T17:00:55.986311+00:00",
-    "total_entries": 1811
+    "generated_at": "2026-08-10T17:15:16.1104885+00:00",
+    "fetched_at": "2026-08-10T17:15:38.786957+00:00",
+    "total_entries": 1812
   },
   "entries": [
     {
@@ -376,19 +376,19 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 65,
+      "achieved_at": "2026-08-10T17:13:01.827971+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 64,
       "achieved_at": "2026-08-09T16:44:38.49105+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 64,
-      "achieved_at": "2026-08-10T16:42:58.019576+00:00",
-      "badge_id": ""
     },
     {
       "rank": 49,
