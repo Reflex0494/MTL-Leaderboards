@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T16:00:16.1139996+00:00",
-    "fetched_at": "2026-08-10T16:00:54.181731+00:00",
+    "generated_at": "2026-08-10T16:15:16.1106083+00:00",
+    "fetched_at": "2026-08-10T16:15:31.631788+00:00",
     "total_entries": 1811
   },
   "entries": [
@@ -384,6 +384,14 @@
     },
     {
       "rank": 48,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 63,
+      "achieved_at": "2026-08-10T16:13:28.361011+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 49,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
       "prestige_level": 62,
@@ -391,7 +399,7 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198132873698",
       "display_name": "Bucketh",
       "prestige_level": 62,
@@ -399,19 +407,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
       "prestige_level": 62,
       "achieved_at": "2026-08-10T01:39:35.060632+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 51,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 62,
-      "achieved_at": "2026-08-10T15:35:41.676275+00:00",
       "badge_id": ""
     },
     {
