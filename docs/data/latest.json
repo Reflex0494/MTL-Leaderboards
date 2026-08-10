@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T05:00:16.1099755+00:00",
-    "fetched_at": "2026-08-10T05:00:50.251809+00:00",
+    "generated_at": "2026-08-10T05:15:16.1096967+00:00",
+    "fetched_at": "2026-08-10T05:15:29.299681+00:00",
     "total_entries": 1803
   },
   "entries": [
@@ -144,18 +144,18 @@
     },
     {
       "rank": 18,
-      "steam_id": "76561198014762067",
-      "display_name": "Smile",
-      "prestige_level": 92,
-      "achieved_at": "2026-08-04T08:38:37.056607+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 93,
+      "achieved_at": "2026-08-10T05:00:29.001062+00:00",
       "badge_id": ""
     },
     {
       "rank": 19,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198014762067",
+      "display_name": "Smile",
       "prestige_level": 92,
-      "achieved_at": "2026-08-10T03:23:27.286273+00:00",
+      "achieved_at": "2026-08-04T08:38:37.056607+00:00",
       "badge_id": ""
     },
     {
