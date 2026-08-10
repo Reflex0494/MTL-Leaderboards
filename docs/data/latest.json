@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T15:30:16.1110424+00:00",
-    "fetched_at": "2026-08-10T15:30:43.222191+00:00",
+    "generated_at": "2026-08-10T15:45:16.1108548+00:00",
+    "fetched_at": "2026-08-10T15:45:33.399409+00:00",
     "total_entries": 1811
   },
   "entries": [
@@ -408,18 +408,18 @@
     },
     {
       "rank": 51,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 61,
-      "achieved_at": "2026-08-08T02:25:28.443237+00:00",
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 62,
+      "achieved_at": "2026-08-10T15:35:41.676275+00:00",
       "badge_id": ""
     },
     {
       "rank": 52,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 61,
-      "achieved_at": "2026-08-10T14:58:14.535106+00:00",
+      "achieved_at": "2026-08-08T02:25:28.443237+00:00",
       "badge_id": ""
     },
     {
