@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T05:15:16.1096967+00:00",
-    "fetched_at": "2026-08-10T05:15:29.299681+00:00",
+    "generated_at": "2026-08-10T05:30:16.1104159+00:00",
+    "fetched_at": "2026-08-10T05:30:38.096179+00:00",
     "total_entries": 1803
   },
   "entries": [
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
-      "prestige_level": 88,
-      "achieved_at": "2026-08-10T02:47:45.179304+00:00",
+      "prestige_level": 89,
+      "achieved_at": "2026-08-10T05:17:26.206077+00:00",
       "badge_id": ""
     },
     {
