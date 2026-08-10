@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T00:15:16.1108241+00:00",
-    "fetched_at": "2026-08-10T00:15:31.233310+00:00",
+    "generated_at": "2026-08-10T00:30:16.1105986+00:00",
+    "fetched_at": "2026-08-10T00:30:39.039255+00:00",
     "total_entries": 1800
   },
   "entries": [
@@ -704,18 +704,18 @@
     },
     {
       "rank": 88,
-      "steam_id": "76561198025981725",
-      "display_name": "Mark",
-      "prestige_level": 42,
-      "achieved_at": "2026-07-24T18:02:22.87039+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-10T00:15:58.364556+00:00",
       "badge_id": ""
     },
     {
       "rank": 89,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561198025981725",
+      "display_name": "Mark",
       "prestige_level": 42,
-      "achieved_at": "2026-08-09T06:53:10.860797+00:00",
+      "achieved_at": "2026-07-24T18:02:22.87039+00:00",
       "badge_id": ""
     },
     {
