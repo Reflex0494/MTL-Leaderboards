@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T14:45:16.1136442+00:00",
-    "fetched_at": "2026-08-10T14:45:40.666504+00:00",
+    "generated_at": "2026-08-10T15:00:16.1125967+00:00",
+    "fetched_at": "2026-08-10T15:00:57.558316+00:00",
     "total_entries": 1810
   },
   "entries": [
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 61,
+      "achieved_at": "2026-08-10T14:58:14.535106+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 60,
@@ -423,19 +431,11 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198119959603",
       "display_name": "nick written by kitten",
       "prestige_level": 60,
       "achieved_at": "2026-08-08T12:33:52.725188+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 60,
-      "achieved_at": "2026-08-10T14:22:31.661052+00:00",
       "badge_id": ""
     },
     {
