@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T23:00:16.1129536+00:00",
-    "fetched_at": "2026-08-10T23:00:54.222349+00:00",
+    "generated_at": "2026-08-10T23:15:16.1108509+00:00",
+    "fetched_at": "2026-08-10T23:15:28.998912+00:00",
     "total_entries": 1818
   },
   "entries": [
@@ -624,18 +624,18 @@
     },
     {
       "rank": 78,
-      "steam_id": "76561197961228316",
-      "display_name": "good grief",
-      "prestige_level": 46,
-      "achieved_at": "2026-07-15T19:48:49.574096+00:00",
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 47,
+      "achieved_at": "2026-08-10T23:07:39.637513+00:00",
       "badge_id": ""
     },
     {
       "rank": 79,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
+      "steam_id": "76561197961228316",
+      "display_name": "good grief",
       "prestige_level": 46,
-      "achieved_at": "2026-08-10T22:23:26.185851+00:00",
+      "achieved_at": "2026-07-15T19:48:49.574096+00:00",
       "badge_id": ""
     },
     {
