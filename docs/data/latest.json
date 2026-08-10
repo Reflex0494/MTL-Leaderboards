@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-10T02:45:16.1116877+00:00",
-    "fetched_at": "2026-08-10T02:45:30.553108+00:00",
+    "generated_at": "2026-08-10T03:00:16.112656+00:00",
+    "fetched_at": "2026-08-10T03:00:48.476569+00:00",
     "total_entries": 1803
   },
   "entries": [
@@ -168,19 +168,19 @@
     },
     {
       "rank": 21,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 88,
+      "achieved_at": "2026-08-10T02:47:45.179304+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 22,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 87,
       "achieved_at": "2026-07-18T00:48:24.773394+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 87,
-      "achieved_at": "2026-08-07T04:32:17.398304+00:00",
-      "badge_id": ""
     },
     {
       "rank": 23,
