@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-11T23:14:40.2209079+00:00",
-    "fetched_at": "2026-08-11T23:15:31.966782+00:00",
+    "generated_at": "2026-08-11T23:30:40.2193974+00:00",
+    "fetched_at": "2026-08-11T23:30:47.430088+00:00",
     "total_entries": 1839
   },
   "entries": [
@@ -232,18 +232,18 @@
     },
     {
       "rank": 29,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 78,
-      "achieved_at": "2026-08-09T06:20:54.335391+00:00",
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
+      "prestige_level": 79,
+      "achieved_at": "2026-08-11T23:30:19.720155+00:00",
       "badge_id": ""
     },
     {
       "rank": 30,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
       "prestige_level": 78,
-      "achieved_at": "2026-08-10T00:09:03.361217+00:00",
+      "achieved_at": "2026-08-09T06:20:54.335391+00:00",
       "badge_id": ""
     },
     {
@@ -378,8 +378,8 @@
       "rank": 47,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 65,
-      "achieved_at": "2026-08-10T17:13:01.827971+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-08-11T23:19:05.371248+00:00",
       "badge_id": ""
     },
     {
