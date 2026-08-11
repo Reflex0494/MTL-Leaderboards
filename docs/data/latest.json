@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-11T00:15:16.1103964+00:00",
-    "fetched_at": "2026-08-11T00:15:28.571956+00:00",
+    "generated_at": "2026-08-11T00:30:16.114068+00:00",
+    "fetched_at": "2026-08-11T00:30:42.103925+00:00",
     "total_entries": 1819
   },
   "entries": [
@@ -656,6 +656,14 @@
     },
     {
       "rank": 82,
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 45,
+      "achieved_at": "2026-08-11T00:16:03.455859+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 83,
       "steam_id": "76561198118654073",
       "display_name": "Maffin",
       "prestige_level": 44,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 44,
@@ -671,19 +679,11 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198142944874",
       "display_name": "Deimos",
       "prestige_level": 44,
       "achieved_at": "2026-08-01T01:54:08.18724+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 44,
-      "achieved_at": "2026-08-10T01:45:01.622116+00:00",
       "badge_id": ""
     },
     {
