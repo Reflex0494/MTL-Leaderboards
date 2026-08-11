@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-11T18:44:40.2269824+00:00",
-    "fetched_at": "2026-08-11T18:45:32.551931+00:00",
+    "generated_at": "2026-08-11T19:00:40.2123832+00:00",
+    "fetched_at": "2026-08-11T19:00:50.616731+00:00",
     "total_entries": 1835
   },
   "entries": [
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-11T18:51:08.967895+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 48,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198876481782",
       "display_name": "tekk301",
       "prestige_level": 48,
@@ -607,20 +615,12 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 48,
       "achieved_at": "2026-08-11T06:33:52.39421+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
-      "prestige_level": 48,
-      "achieved_at": "2026-08-11T16:30:12.453143+00:00",
-      "badge_id": ""
     },
     {
       "rank": 78,
