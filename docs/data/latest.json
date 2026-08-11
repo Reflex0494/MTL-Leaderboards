@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-11T16:14:40.2209784+00:00",
-    "fetched_at": "2026-08-11T16:15:31.998079+00:00",
-    "total_entries": 1832
+    "generated_at": "2026-08-11T16:30:40.2148629+00:00",
+    "fetched_at": "2026-08-11T16:30:41.062409+00:00",
+    "total_entries": 1833
   },
   "entries": [
     {
@@ -120,6 +120,14 @@
     },
     {
       "rank": 15,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 97,
+      "achieved_at": "2026-08-11T16:25:04.249258+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 16,
       "steam_id": "76561197999144966",
       "display_name": "PaliPe\u00f1o",
       "prestige_level": 96,
@@ -127,20 +135,12 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steam_id": "76561198120384931",
       "display_name": "zayjay",
       "prestige_level": 96,
       "achieved_at": "2026-07-31T00:16:17.631352+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 17,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 96,
-      "achieved_at": "2026-08-10T01:50:43.791073+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 18,
@@ -616,18 +616,18 @@
     },
     {
       "rank": 77,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-04T18:14:13.898843+00:00",
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-11T16:30:12.453143+00:00",
       "badge_id": ""
     },
     {
       "rank": 78,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
       "prestige_level": 47,
-      "achieved_at": "2026-08-10T23:07:39.637513+00:00",
+      "achieved_at": "2026-08-04T18:14:13.898843+00:00",
       "badge_id": ""
     },
     {
