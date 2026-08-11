@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-11T18:30:40.2236903+00:00",
-    "fetched_at": "2026-08-11T18:30:41.374790+00:00",
-    "total_entries": 1834
+    "generated_at": "2026-08-11T18:44:40.2269824+00:00",
+    "fetched_at": "2026-08-11T18:45:32.551931+00:00",
+    "total_entries": 1835
   },
   "entries": [
     {
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
+      "prestige_level": 63,
+      "achieved_at": "2026-08-11T18:44:24.373996+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 51,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
       "prestige_level": 62,
@@ -407,20 +415,12 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198132873698",
       "display_name": "Bucketh",
       "prestige_level": 62,
       "achieved_at": "2026-08-04T15:53:46.467577+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 62,
-      "achieved_at": "2026-08-11T17:46:04.089139+00:00",
-      "badge_id": ""
     },
     {
       "rank": 53,
@@ -530,8 +530,8 @@
       "rank": 66,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
-      "prestige_level": 52,
-      "achieved_at": "2026-08-10T19:45:16.981832+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-08-11T18:37:54.144537+00:00",
       "badge_id": ""
     },
     {
