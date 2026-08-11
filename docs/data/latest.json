@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-11T06:30:16.1142929+00:00",
-    "fetched_at": "2026-08-11T06:30:48.039789+00:00",
+    "generated_at": "2026-08-11T06:45:16.1112879+00:00",
+    "fetched_at": "2026-08-11T06:45:32.717515+00:00",
     "total_entries": 1824
   },
   "entries": [
@@ -608,19 +608,19 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-11T06:33:52.39421+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198015442060",
       "display_name": "War Eeyore",
       "prestige_level": 47,
       "achieved_at": "2026-08-04T18:14:13.898843+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-10T04:47:53.326045+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 78,
