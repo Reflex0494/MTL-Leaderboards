@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T01:00:40.2247617+00:00",
-    "fetched_at": "2026-08-12T01:00:51.644472+00:00",
+    "generated_at": "2026-08-12T01:14:40.2230044+00:00",
+    "fetched_at": "2026-08-12T01:15:30.793336+00:00",
     "total_entries": 1842
   },
   "entries": [
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 98,
-      "achieved_at": "2026-08-11T17:41:47.124386+00:00",
+      "prestige_level": 99,
+      "achieved_at": "2026-08-12T01:13:37.34366+00:00",
       "badge_id": "s1_top21"
     },
     {
