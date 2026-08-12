@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T12:29:40.2235599+00:00",
-    "fetched_at": "2026-08-12T12:30:39.532738+00:00",
+    "generated_at": "2026-08-12T12:44:40.2229607+00:00",
+    "fetched_at": "2026-08-12T12:45:30.214381+00:00",
     "total_entries": 1847
   },
   "entries": [
@@ -352,18 +352,18 @@
     },
     {
       "rank": 44,
-      "steam_id": "76561198043684071",
-      "display_name": "Crypticmonium",
-      "prestige_level": 68,
-      "achieved_at": "2026-07-23T23:30:02.317333+00:00",
+      "steam_id": "76561198113877220",
+      "display_name": "Jean Vincent",
+      "prestige_level": 69,
+      "achieved_at": "2026-08-12T12:31:38.049126+00:00",
       "badge_id": ""
     },
     {
       "rank": 45,
-      "steam_id": "76561198113877220",
-      "display_name": "Jean Vincent",
+      "steam_id": "76561198043684071",
+      "display_name": "Crypticmonium",
       "prestige_level": 68,
-      "achieved_at": "2026-08-11T12:14:03.294668+00:00",
+      "achieved_at": "2026-07-23T23:30:02.317333+00:00",
       "badge_id": ""
     },
     {
