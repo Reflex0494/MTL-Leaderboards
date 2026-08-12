@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T10:14:40.2236386+00:00",
-    "fetched_at": "2026-08-12T10:15:30.529772+00:00",
+    "generated_at": "2026-08-12T10:29:40.2238326+00:00",
+    "fetched_at": "2026-08-12T10:30:38.060850+00:00",
     "total_entries": 1847
   },
   "entries": [
@@ -128,6 +128,14 @@
     },
     {
       "rank": 16,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 97,
+      "achieved_at": "2026-08-12T10:19:58.609231+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 17,
       "steam_id": "76561197999144966",
       "display_name": "PaliPe\u00f1o",
       "prestige_level": 96,
@@ -135,20 +143,12 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steam_id": "76561198120384931",
       "display_name": "zayjay",
       "prestige_level": 96,
       "achieved_at": "2026-07-31T00:16:17.631352+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 96,
-      "achieved_at": "2026-08-12T02:43:06.951042+00:00",
-      "badge_id": ""
     },
     {
       "rank": 19,
