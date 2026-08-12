@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T04:14:40.2121977+00:00",
-    "fetched_at": "2026-08-12T04:15:29.734122+00:00",
+    "generated_at": "2026-08-12T04:30:40.2165874+00:00",
+    "fetched_at": "2026-08-12T04:30:47.984101+00:00",
     "total_entries": 1844
   },
   "entries": [
@@ -312,27 +312,27 @@
     },
     {
       "rank": 39,
-      "steam_id": "76561198047812156",
-      "display_name": "White",
-      "prestige_level": 72,
-      "achieved_at": "2026-07-11T19:07:24.674583+00:00",
-      "badge_id": "s2_top21"
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 73,
+      "achieved_at": "2026-08-12T04:27:11.529628+00:00",
+      "badge_id": "og"
     },
     {
       "rank": 40,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
-      "prestige_level": 72,
-      "achieved_at": "2026-08-12T02:12:18.083518+00:00",
+      "prestige_level": 73,
+      "achieved_at": "2026-08-12T04:29:22.262399+00:00",
       "badge_id": ""
     },
     {
       "rank": 41,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
+      "steam_id": "76561198047812156",
+      "display_name": "White",
       "prestige_level": 72,
-      "achieved_at": "2026-08-12T03:58:36.965939+00:00",
-      "badge_id": "og"
+      "achieved_at": "2026-07-11T19:07:24.674583+00:00",
+      "badge_id": "s2_top21"
     },
     {
       "rank": 42,
