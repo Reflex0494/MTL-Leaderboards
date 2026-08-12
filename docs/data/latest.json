@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T02:00:40.2114478+00:00",
-    "fetched_at": "2026-08-12T02:00:47.701388+00:00",
-    "total_entries": 1842
+    "generated_at": "2026-08-12T02:14:40.2264776+00:00",
+    "fetched_at": "2026-08-12T02:15:30.901013+00:00",
+    "total_entries": 1843
   },
   "entries": [
     {
@@ -320,18 +320,18 @@
     },
     {
       "rank": 40,
-      "steam_id": "76561199156701505",
-      "display_name": "skeeter",
-      "prestige_level": 71,
-      "achieved_at": "2026-07-12T01:08:33.785085+00:00",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 72,
+      "achieved_at": "2026-08-12T02:12:18.083518+00:00",
       "badge_id": ""
     },
     {
       "rank": 41,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
+      "steam_id": "76561199156701505",
+      "display_name": "skeeter",
       "prestige_level": 71,
-      "achieved_at": "2026-08-11T02:21:58.671834+00:00",
+      "achieved_at": "2026-07-12T01:08:33.785085+00:00",
       "badge_id": ""
     },
     {
@@ -632,18 +632,18 @@
     },
     {
       "rank": 79,
-      "steam_id": "76561197961228316",
-      "display_name": "good grief",
-      "prestige_level": 46,
-      "achieved_at": "2026-07-15T19:48:49.574096+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 47,
+      "achieved_at": "2026-08-12T02:06:34.208668+00:00",
       "badge_id": ""
     },
     {
       "rank": 80,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561197961228316",
+      "display_name": "good grief",
       "prestige_level": 46,
-      "achieved_at": "2026-08-11T01:42:44.31649+00:00",
+      "achieved_at": "2026-07-15T19:48:49.574096+00:00",
       "badge_id": ""
     },
     {
