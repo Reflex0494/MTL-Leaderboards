@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T05:14:40.2164494+00:00",
-    "fetched_at": "2026-08-12T05:15:29.277923+00:00",
+    "generated_at": "2026-08-12T05:30:40.2184628+00:00",
+    "fetched_at": "2026-08-12T05:30:44.582882+00:00",
     "total_entries": 1844
   },
   "entries": [
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 74,
+      "achieved_at": "2026-08-12T05:17:37.608585+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 73,
@@ -311,20 +319,12 @@
       "badge_id": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 73,
       "achieved_at": "2026-08-12T04:27:11.529628+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 73,
-      "achieved_at": "2026-08-12T04:29:22.262399+00:00",
-      "badge_id": ""
     },
     {
       "rank": 41,
