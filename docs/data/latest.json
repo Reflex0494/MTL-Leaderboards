@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T00:14:40.2242597+00:00",
-    "fetched_at": "2026-08-12T00:15:28.493852+00:00",
-    "total_entries": 1839
+    "generated_at": "2026-08-12T00:30:40.2229651+00:00",
+    "fetched_at": "2026-08-12T00:30:46.003020+00:00",
+    "total_entries": 1840
   },
   "entries": [
     {
@@ -792,19 +792,19 @@
     },
     {
       "rank": 99,
+      "steam_id": "76561198177534223",
+      "display_name": "j0nes",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-12T00:15:52.080225+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 100,
       "steam_id": "76561199423701892",
       "display_name": "BigCraunch",
       "prestige_level": 39,
       "achieved_at": "2026-07-27T00:49:01.977234+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198045253110",
-      "display_name": "Daniel Praxis",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-03T22:12:21.778868+00:00",
-      "badge_id": "og"
     }
   ]
 }
