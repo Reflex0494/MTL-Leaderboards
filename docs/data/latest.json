@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T02:44:40.2234359+00:00",
-    "fetched_at": "2026-08-12T02:45:31.802083+00:00",
+    "generated_at": "2026-08-12T03:00:40.2255599+00:00",
+    "fetched_at": "2026-08-12T03:00:50.865414+00:00",
     "total_entries": 1843
   },
   "entries": [
@@ -624,18 +624,18 @@
     },
     {
       "rank": 78,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-04T18:14:13.898843+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-12T02:53:02.867877+00:00",
       "badge_id": ""
     },
     {
       "rank": 79,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
       "prestige_level": 47,
-      "achieved_at": "2026-08-12T02:06:34.208668+00:00",
+      "achieved_at": "2026-08-04T18:14:13.898843+00:00",
       "badge_id": ""
     },
     {
