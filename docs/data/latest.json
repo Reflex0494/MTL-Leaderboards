@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T21:14:40.2102299+00:00",
-    "fetched_at": "2026-08-12T21:15:33.175379+00:00",
+    "generated_at": "2026-08-12T21:30:40.2270783+00:00",
+    "fetched_at": "2026-08-12T21:30:40.732006+00:00",
     "total_entries": 1855
   },
   "entries": [
@@ -336,18 +336,18 @@
     },
     {
       "rank": 42,
-      "steam_id": "76561199156701505",
-      "display_name": "skeeter",
-      "prestige_level": 71,
-      "achieved_at": "2026-07-12T01:08:33.785085+00:00",
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 72,
+      "achieved_at": "2026-08-12T21:20:45.592734+00:00",
       "badge_id": ""
     },
     {
       "rank": 43,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
+      "steam_id": "76561199156701505",
+      "display_name": "skeeter",
       "prestige_level": 71,
-      "achieved_at": "2026-08-12T20:23:25.199231+00:00",
+      "achieved_at": "2026-07-12T01:08:33.785085+00:00",
       "badge_id": ""
     },
     {
