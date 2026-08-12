@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-12T10:00:40.2098556+00:00",
-    "fetched_at": "2026-08-12T10:00:49.881213+00:00",
-    "total_entries": 1846
+    "generated_at": "2026-08-12T10:14:40.2236386+00:00",
+    "fetched_at": "2026-08-12T10:15:30.529772+00:00",
+    "total_entries": 1847
   },
   "entries": [
     {
@@ -80,6 +80,14 @@
     },
     {
       "rank": 10,
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 104,
+      "achieved_at": "2026-08-12T10:14:19.087584+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 11,
       "steam_id": "76561198128767769",
       "display_name": "Chocolate Luck",
       "prestige_level": 103,
@@ -87,19 +95,11 @@
       "badge_id": ""
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steam_id": "76561198041271918",
       "display_name": "Ramsey",
       "prestige_level": 103,
       "achieved_at": "2026-08-10T00:05:49.115855+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 103,
-      "achieved_at": "2026-08-12T08:18:52.764188+00:00",
       "badge_id": ""
     },
     {
