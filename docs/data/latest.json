@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T10:14:40.2258759+00:00",
-    "fetched_at": "2026-08-13T10:15:29.729251+00:00",
+    "generated_at": "2026-08-13T10:30:40.2063199+00:00",
+    "fetched_at": "2026-08-13T10:30:42.725301+00:00",
     "total_entries": 1858
   },
   "entries": [
@@ -328,19 +328,19 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 73,
+      "achieved_at": "2026-08-13T10:17:45.909525+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198047812156",
       "display_name": "White",
       "prestige_level": 72,
       "achieved_at": "2026-07-11T19:07:24.674583+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 72,
-      "achieved_at": "2026-08-12T21:20:45.592734+00:00",
-      "badge_id": ""
     },
     {
       "rank": 43,
