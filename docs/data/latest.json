@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T23:14:40.2192451+00:00",
-    "fetched_at": "2026-08-13T23:15:32.752972+00:00",
+    "generated_at": "2026-08-13T23:29:40.2205013+00:00",
+    "fetched_at": "2026-08-13T23:30:40.115759+00:00",
     "total_entries": 1862
   },
   "entries": [
@@ -192,19 +192,19 @@
     },
     {
       "rank": 24,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 86,
+      "achieved_at": "2026-08-13T23:19:45.060231+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 25,
       "steam_id": "76561198001455051",
       "display_name": "Belvita",
       "prestige_level": 85,
       "achieved_at": "2026-07-31T19:01:03.884033+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 85,
-      "achieved_at": "2026-08-09T08:34:41.889763+00:00",
-      "badge_id": ""
     },
     {
       "rank": 26,
