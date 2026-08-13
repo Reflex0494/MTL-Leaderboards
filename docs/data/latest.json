@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T20:14:40.2201097+00:00",
-    "fetched_at": "2026-08-13T20:15:33.497863+00:00",
+    "generated_at": "2026-08-13T20:30:40.2199017+00:00",
+    "fetched_at": "2026-08-13T20:30:43.612072+00:00",
     "total_entries": 1861
   },
   "entries": [
@@ -402,8 +402,8 @@
       "rank": 50,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-11T18:44:24.373996+00:00",
+      "prestige_level": 64,
+      "achieved_at": "2026-08-13T20:17:02.884658+00:00",
       "badge_id": ""
     },
     {
