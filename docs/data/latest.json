@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T01:30:40.2180998+00:00",
-    "fetched_at": "2026-08-13T01:30:40.555870+00:00",
+    "generated_at": "2026-08-13T01:44:40.222651+00:00",
+    "fetched_at": "2026-08-13T01:45:29.513853+00:00",
     "total_entries": 1855
   },
   "entries": [
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
-      "prestige_level": 74,
-      "achieved_at": "2026-08-12T05:17:37.608585+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-08-13T01:36:48.367386+00:00",
       "badge_id": ""
     },
     {
