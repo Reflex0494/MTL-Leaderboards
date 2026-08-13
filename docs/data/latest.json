@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T12:29:40.2093655+00:00",
-    "fetched_at": "2026-08-13T12:30:39.966173+00:00",
-    "total_entries": 1858
+    "generated_at": "2026-08-13T12:44:40.2167324+00:00",
+    "fetched_at": "2026-08-13T12:45:33.833373+00:00",
+    "total_entries": 1859
   },
   "entries": [
     {
@@ -48,18 +48,18 @@
     },
     {
       "rank": 6,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
-      "prestige_level": 115,
-      "achieved_at": "2026-08-13T09:06:59.692444+00:00",
+      "steam_id": "76561198058294530",
+      "display_name": "Jann Ivan 2xFly3",
+      "prestige_level": 116,
+      "achieved_at": "2026-08-13T12:37:08.163032+00:00",
       "badge_id": ""
     },
     {
       "rank": 7,
-      "steam_id": "76561198058294530",
-      "display_name": "Jann Ivan 2xFly3",
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
       "prestige_level": 115,
-      "achieved_at": "2026-08-13T09:53:44.998506+00:00",
+      "achieved_at": "2026-08-13T09:06:59.692444+00:00",
       "badge_id": ""
     },
     {
