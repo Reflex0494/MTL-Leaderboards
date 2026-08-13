@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T14:00:40.2223123+00:00",
-    "fetched_at": "2026-08-13T14:00:50.448693+00:00",
+    "generated_at": "2026-08-13T14:14:40.2265039+00:00",
+    "fetched_at": "2026-08-13T14:15:33.578133+00:00",
     "total_entries": 1859
   },
   "entries": [
@@ -536,18 +536,18 @@
     },
     {
       "rank": 67,
-      "steam_id": "76561198153555590",
-      "display_name": "Bird",
-      "prestige_level": 51,
-      "achieved_at": "2026-07-15T21:35:28.724146+00:00",
+      "steam_id": "76561197991758618",
+      "display_name": "Sir Cumcision",
+      "prestige_level": 52,
+      "achieved_at": "2026-08-13T14:13:43.765938+00:00",
       "badge_id": ""
     },
     {
       "rank": 68,
-      "steam_id": "76561197991758618",
-      "display_name": "Sir Cumcision",
+      "steam_id": "76561198153555590",
+      "display_name": "Bird",
       "prestige_level": 51,
-      "achieved_at": "2026-08-12T18:54:34.484525+00:00",
+      "achieved_at": "2026-07-15T21:35:28.724146+00:00",
       "badge_id": ""
     },
     {
