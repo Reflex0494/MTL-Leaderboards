@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T11:14:40.2191767+00:00",
-    "fetched_at": "2026-08-13T11:15:28.418590+00:00",
+    "generated_at": "2026-08-13T11:29:40.2244123+00:00",
+    "fetched_at": "2026-08-13T11:30:39.661793+00:00",
     "total_entries": 1858
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 166,
-      "achieved_at": "2026-08-10T21:11:14.134414+00:00",
+      "prestige_level": 167,
+      "achieved_at": "2026-08-13T11:26:24.661875+00:00",
       "badge_id": "s2_first"
     },
     {
@@ -312,19 +312,19 @@
     },
     {
       "rank": 39,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 75,
+      "achieved_at": "2026-08-13T11:27:05.177185+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 40,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 74,
       "achieved_at": "2026-08-13T04:45:58.884649+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 74,
-      "achieved_at": "2026-08-13T10:49:26.133627+00:00",
-      "badge_id": ""
     },
     {
       "rank": 41,
