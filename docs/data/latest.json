@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T17:29:40.2240446+00:00",
-    "fetched_at": "2026-08-13T17:30:39.306230+00:00",
+    "generated_at": "2026-08-13T17:44:40.2112781+00:00",
+    "fetched_at": "2026-08-13T17:45:33.512899+00:00",
     "total_entries": 1860
   },
   "entries": [
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 55,
+      "achieved_at": "2026-08-13T17:34:15.309874+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
       "prestige_level": 54,
@@ -519,19 +527,11 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198028911393",
       "display_name": "MOLTEN",
       "prestige_level": 54,
       "achieved_at": "2026-07-14T00:41:43.209054+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 54,
-      "achieved_at": "2026-08-11T19:30:37.327947+00:00",
       "badge_id": ""
     },
     {
