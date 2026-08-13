@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-13T02:44:40.2239909+00:00",
-    "fetched_at": "2026-08-13T02:45:29.693218+00:00",
+    "generated_at": "2026-08-13T03:00:40.2223553+00:00",
+    "fetched_at": "2026-08-13T03:00:47.414595+00:00",
     "total_entries": 1855
   },
   "entries": [
@@ -712,18 +712,18 @@
     },
     {
       "rank": 89,
-      "steam_id": "76561198025981725",
-      "display_name": "Mark",
-      "prestige_level": 42,
-      "achieved_at": "2026-07-24T18:02:22.87039+00:00",
+      "steam_id": "76561198110961384",
+      "display_name": "Bread",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-13T02:58:09.034942+00:00",
       "badge_id": ""
     },
     {
       "rank": 90,
-      "steam_id": "76561198110961384",
-      "display_name": "Bread",
+      "steam_id": "76561198025981725",
+      "display_name": "Mark",
       "prestige_level": 42,
-      "achieved_at": "2026-08-12T01:33:47.053465+00:00",
+      "achieved_at": "2026-07-24T18:02:22.87039+00:00",
       "badge_id": ""
     },
     {
