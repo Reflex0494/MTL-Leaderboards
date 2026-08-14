@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-14T06:29:40.2060052+00:00",
-    "fetched_at": "2026-08-14T06:30:39.015527+00:00",
+    "generated_at": "2026-08-14T06:44:40.2185826+00:00",
+    "fetched_at": "2026-08-14T06:45:28.685592+00:00",
     "total_entries": 1867
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 116,
-      "achieved_at": "2026-08-13T12:37:08.163032+00:00",
+      "prestige_level": 117,
+      "achieved_at": "2026-08-14T06:33:01.064759+00:00",
       "badge_id": ""
     },
     {
