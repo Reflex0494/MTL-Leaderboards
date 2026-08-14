@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-14T09:14:40.2194251+00:00",
-    "fetched_at": "2026-08-14T09:15:32.009285+00:00",
+    "generated_at": "2026-08-14T09:29:40.2161481+00:00",
+    "fetched_at": "2026-08-14T09:30:37.311752+00:00",
     "total_entries": 1867
   },
   "entries": [
@@ -120,18 +120,18 @@
     },
     {
       "rank": 15,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 100,
-      "achieved_at": "2026-07-31T02:26:49.485423+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 101,
+      "achieved_at": "2026-08-14T09:22:17.801478+00:00",
       "badge_id": ""
     },
     {
       "rank": 16,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 100,
-      "achieved_at": "2026-08-14T04:31:58.104277+00:00",
+      "achieved_at": "2026-07-31T02:26:49.485423+00:00",
       "badge_id": ""
     },
     {
