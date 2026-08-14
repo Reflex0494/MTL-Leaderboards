@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-14T05:14:40.221297+00:00",
-    "fetched_at": "2026-08-14T05:15:30.914098+00:00",
+    "generated_at": "2026-08-14T05:30:40.2201763+00:00",
+    "fetched_at": "2026-08-14T05:30:42.492753+00:00",
     "total_entries": 1867
   },
   "entries": [
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561198110961384",
+      "display_name": "Bread",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-14T05:15:15.361006+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198130463430",
       "display_name": "Devin",
       "prestige_level": 45,
@@ -655,19 +663,11 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198396758232",
       "display_name": "Cato",
       "prestige_level": 45,
       "achieved_at": "2026-08-04T22:40:39.074628+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561198110961384",
-      "display_name": "Bread",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-14T03:24:30.690985+00:00",
       "badge_id": ""
     },
     {
