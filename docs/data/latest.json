@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-14T23:00:40.2246613+00:00",
-    "fetched_at": "2026-08-14T23:00:48.223700+00:00",
+    "generated_at": "2026-08-14T23:14:40.2219179+00:00",
+    "fetched_at": "2026-08-14T23:15:32.061877+00:00",
     "total_entries": 1873
   },
   "entries": [
@@ -176,19 +176,19 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 88,
+      "achieved_at": "2026-08-14T23:11:56.096241+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 87,
       "achieved_at": "2026-07-18T00:48:24.773394+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 87,
-      "achieved_at": "2026-08-14T21:12:15.12025+00:00",
-      "badge_id": ""
     },
     {
       "rank": 24,
