@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-14T19:14:40.2307245+00:00",
-    "fetched_at": "2026-08-14T19:15:29.734294+00:00",
+    "generated_at": "2026-08-14T19:29:40.2222226+00:00",
+    "fetched_at": "2026-08-14T19:30:40.034981+00:00",
     "total_entries": 1872
   },
   "entries": [
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
-      "prestige_level": 79,
-      "achieved_at": "2026-08-11T23:30:19.720155+00:00",
+      "prestige_level": 80,
+      "achieved_at": "2026-08-14T19:21:37.528455+00:00",
       "badge_id": ""
     },
     {
