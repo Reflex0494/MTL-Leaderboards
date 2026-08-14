@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-14T03:14:40.2243974+00:00",
-    "fetched_at": "2026-08-14T03:15:33.309492+00:00",
+    "generated_at": "2026-08-14T03:30:40.2240949+00:00",
+    "fetched_at": "2026-08-14T03:30:41.494178+00:00",
     "total_entries": 1865
   },
   "entries": [
@@ -160,18 +160,18 @@
     },
     {
       "rank": 20,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 89,
-      "achieved_at": "2026-08-06T20:09:54.40025+00:00",
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 90,
+      "achieved_at": "2026-08-14T03:17:10.256402+00:00",
       "badge_id": ""
     },
     {
       "rank": 21,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
       "prestige_level": 89,
-      "achieved_at": "2026-08-10T05:17:26.206077+00:00",
+      "achieved_at": "2026-08-06T20:09:54.40025+00:00",
       "badge_id": ""
     },
     {
@@ -664,6 +664,14 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561198110961384",
+      "display_name": "Bread",
+      "prestige_level": 45,
+      "achieved_at": "2026-08-14T03:24:30.690985+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
       "steam_id": "76561198118654073",
       "display_name": "Maffin",
       "prestige_level": 44,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 44,
@@ -679,19 +687,11 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198142944874",
       "display_name": "Deimos",
       "prestige_level": 44,
       "achieved_at": "2026-08-01T01:54:08.18724+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561198110961384",
-      "display_name": "Bread",
-      "prestige_level": 44,
-      "achieved_at": "2026-08-13T04:10:23.668092+00:00",
       "badge_id": ""
     },
     {
