@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-15T09:00:40.2242734+00:00",
-    "fetched_at": "2026-08-15T09:00:47.771739+00:00",
+    "generated_at": "2026-08-15T09:14:40.2257461+00:00",
+    "fetched_at": "2026-08-15T09:15:29.603656+00:00",
     "total_entries": 1881
   },
   "entries": [
@@ -112,18 +112,18 @@
     },
     {
       "rank": 14,
-      "steam_id": "76561198990746139",
-      "display_name": "RobbieG23",
-      "prestige_level": 101,
-      "achieved_at": "2026-08-09T15:48:31.559968+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 102,
+      "achieved_at": "2026-08-15T09:10:13.887005+00:00",
       "badge_id": ""
     },
     {
       "rank": 15,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198990746139",
+      "display_name": "RobbieG23",
       "prestige_level": 101,
-      "achieved_at": "2026-08-14T09:22:17.801478+00:00",
+      "achieved_at": "2026-08-09T15:48:31.559968+00:00",
       "badge_id": ""
     },
     {
