@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-15T03:14:40.2213481+00:00",
-    "fetched_at": "2026-08-15T03:15:36.269492+00:00",
-    "total_entries": 1875
+    "generated_at": "2026-08-15T03:30:40.2193138+00:00",
+    "fetched_at": "2026-08-15T03:30:48.078046+00:00",
+    "total_entries": 1877
   },
   "entries": [
     {
@@ -546,8 +546,8 @@
       "rank": 68,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
-      "prestige_level": 53,
-      "achieved_at": "2026-08-15T02:15:56.554683+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-08-15T03:25:33.6822+00:00",
       "badge_id": ""
     },
     {
