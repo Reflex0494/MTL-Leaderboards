@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-15T13:29:40.2240083+00:00",
-    "fetched_at": "2026-08-15T13:30:40.208087+00:00",
+    "generated_at": "2026-08-15T13:44:40.2252718+00:00",
+    "fetched_at": "2026-08-15T13:45:29.037724+00:00",
     "total_entries": 1882
   },
   "entries": [
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 41,
+      "achieved_at": "2026-08-15T13:42:01.329111+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198047730381",
       "display_name": "Alley",
       "prestige_level": 40,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198101060115",
       "display_name": "YoitsJJ",
       "prestige_level": 40,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198125280847",
       "display_name": "Breakfast",
       "prestige_level": 40,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 40,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198177534223",
       "display_name": "j0nes",
       "prestige_level": 40,
       "achieved_at": "2026-08-12T00:15:52.080225+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198150626390",
-      "display_name": "Bearbee",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-13T03:56:30.326581+00:00",
       "badge_id": ""
     }
   ]
