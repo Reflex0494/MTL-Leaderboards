@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-15T03:00:40.2181177+00:00",
-    "fetched_at": "2026-08-15T03:00:50.832278+00:00",
+    "generated_at": "2026-08-15T03:14:40.2213481+00:00",
+    "fetched_at": "2026-08-15T03:15:36.269492+00:00",
     "total_entries": 1875
   },
   "entries": [
@@ -640,18 +640,18 @@
     },
     {
       "rank": 80,
-      "steam_id": "76561197961228316",
-      "display_name": "good grief",
-      "prestige_level": 46,
-      "achieved_at": "2026-07-15T19:48:49.574096+00:00",
+      "steam_id": "76561198110961384",
+      "display_name": "Bread",
+      "prestige_level": 47,
+      "achieved_at": "2026-08-15T03:10:57.223+00:00",
       "badge_id": ""
     },
     {
       "rank": 81,
-      "steam_id": "76561198110961384",
-      "display_name": "Bread",
+      "steam_id": "76561197961228316",
+      "display_name": "good grief",
       "prestige_level": 46,
-      "achieved_at": "2026-08-14T05:15:15.361006+00:00",
+      "achieved_at": "2026-07-15T19:48:49.574096+00:00",
       "badge_id": ""
     },
     {
