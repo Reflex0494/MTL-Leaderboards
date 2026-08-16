@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-16T00:14:40.2189401+00:00",
-    "fetched_at": "2026-08-16T00:15:29.794026+00:00",
+    "generated_at": "2026-08-16T00:30:40.2189183+00:00",
+    "fetched_at": "2026-08-16T00:30:41.372601+00:00",
     "total_entries": 1889
   },
   "entries": [
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198110961384",
+      "display_name": "Bread",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-16T00:30:21.575293+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 48,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198876481782",
       "display_name": "tekk301",
       "prestige_level": 48,
       "achieved_at": "2026-08-08T12:04:54.147663+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198110961384",
-      "display_name": "Bread",
-      "prestige_level": 48,
-      "achieved_at": "2026-08-15T03:50:04.016501+00:00",
       "badge_id": ""
     },
     {
