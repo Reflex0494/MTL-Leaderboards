@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-16T19:00:40.219047+00:00",
-    "fetched_at": "2026-08-16T19:00:48.903439+00:00",
+    "generated_at": "2026-08-16T19:14:40.2144186+00:00",
+    "fetched_at": "2026-08-16T19:15:32.701702+00:00",
     "total_entries": 1898
   },
   "entries": [
@@ -354,8 +354,8 @@
       "rank": 44,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
-      "prestige_level": 70,
-      "achieved_at": "2026-08-12T20:03:05.559608+00:00",
+      "prestige_level": 71,
+      "achieved_at": "2026-08-16T19:06:54.477283+00:00",
       "badge_id": ""
     },
     {
