@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-16T23:14:40.209704+00:00",
-    "fetched_at": "2026-08-16T23:15:32.200632+00:00",
-    "total_entries": 1902
+    "generated_at": "2026-08-16T23:30:40.2171909+00:00",
+    "fetched_at": "2026-08-16T23:30:42.405931+00:00",
+    "total_entries": 1903
   },
   "entries": [
     {
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
-      "prestige_level": 121,
-      "achieved_at": "2026-08-05T00:11:55.365824+00:00",
+      "prestige_level": 122,
+      "achieved_at": "2026-08-16T23:30:06.530958+00:00",
       "badge_id": ""
     },
     {
@@ -64,18 +64,18 @@
     },
     {
       "rank": 8,
-      "steam_id": "76561197974466515",
-      "display_name": "Mini Mongo",
-      "prestige_level": 111,
-      "achieved_at": "2026-08-12T14:21:43.568594+00:00",
+      "steam_id": "76561199290668085",
+      "display_name": "ToxicDemon",
+      "prestige_level": 112,
+      "achieved_at": "2026-08-16T23:25:46.17069+00:00",
       "badge_id": ""
     },
     {
       "rank": 9,
-      "steam_id": "76561199290668085",
-      "display_name": "ToxicDemon",
+      "steam_id": "76561197974466515",
+      "display_name": "Mini Mongo",
       "prestige_level": 111,
-      "achieved_at": "2026-08-16T21:04:52.811688+00:00",
+      "achieved_at": "2026-08-12T14:21:43.568594+00:00",
       "badge_id": ""
     },
     {
