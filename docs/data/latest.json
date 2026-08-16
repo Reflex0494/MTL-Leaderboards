@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-16T13:44:40.2208231+00:00",
-    "fetched_at": "2026-08-16T13:45:29.892651+00:00",
+    "generated_at": "2026-08-16T14:00:40.2204075+00:00",
+    "fetched_at": "2026-08-16T14:00:48.301557+00:00",
     "total_entries": 1897
   },
   "entries": [
@@ -506,8 +506,8 @@
       "rank": 63,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
-      "prestige_level": 56,
-      "achieved_at": "2026-08-15T11:12:27.494559+00:00",
+      "prestige_level": 57,
+      "achieved_at": "2026-08-16T13:49:27.565834+00:00",
       "badge_id": ""
     },
     {
@@ -720,18 +720,18 @@
     },
     {
       "rank": 90,
-      "steam_id": "76561198025981725",
-      "display_name": "Mark",
-      "prestige_level": 42,
-      "achieved_at": "2026-07-24T18:02:22.87039+00:00",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-16T13:45:07.505207+00:00",
       "badge_id": ""
     },
     {
       "rank": 91,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
+      "steam_id": "76561198025981725",
+      "display_name": "Mark",
       "prestige_level": 42,
-      "achieved_at": "2026-08-15T16:16:55.106998+00:00",
+      "achieved_at": "2026-07-24T18:02:22.87039+00:00",
       "badge_id": ""
     },
     {
