@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-16T01:14:40.2230696+00:00",
-    "fetched_at": "2026-08-16T01:15:30.996554+00:00",
+    "generated_at": "2026-08-16T01:30:40.2140652+00:00",
+    "fetched_at": "2026-08-16T01:30:41.057919+00:00",
     "total_entries": 1889
   },
   "entries": [
@@ -608,18 +608,18 @@
     },
     {
       "rank": 76,
-      "steam_id": "76561197983379481",
-      "display_name": "z0mb13",
-      "prestige_level": 49,
-      "achieved_at": "2026-07-31T22:21:00.42225+00:00",
+      "steam_id": "76561198110961384",
+      "display_name": "Bread",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-16T01:15:37.377502+00:00",
       "badge_id": ""
     },
     {
       "rank": 77,
-      "steam_id": "76561198110961384",
-      "display_name": "Bread",
+      "steam_id": "76561197983379481",
+      "display_name": "z0mb13",
       "prestige_level": 49,
-      "achieved_at": "2026-08-16T00:30:21.575293+00:00",
+      "achieved_at": "2026-07-31T22:21:00.42225+00:00",
       "badge_id": ""
     },
     {
