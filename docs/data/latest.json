@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T05:14:40.2236161+00:00",
-    "fetched_at": "2026-08-17T05:15:30.325001+00:00",
+    "generated_at": "2026-08-17T05:30:40.2115271+00:00",
+    "fetched_at": "2026-08-17T05:30:41.677579+00:00",
     "total_entries": 1908
   },
   "entries": [
@@ -256,6 +256,14 @@
     },
     {
       "rank": 32,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 78,
+      "achieved_at": "2026-08-17T05:15:15.889606+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 33,
       "steam_id": "76561197981807560",
       "display_name": "SGT. Olimar",
       "prestige_level": 77,
@@ -263,7 +271,7 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561198041620710",
       "display_name": "MR. GOON-BONES \u2620",
       "prestige_level": 77,
@@ -271,19 +279,11 @@
       "badge_id": ""
     },
     {
-      "rank": 34,
+      "rank": 35,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 77,
       "achieved_at": "2026-08-09T16:20:52.650681+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 77,
-      "achieved_at": "2026-08-17T03:19:59.078922+00:00",
       "badge_id": ""
     },
     {
