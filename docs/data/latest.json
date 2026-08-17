@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T03:14:40.2244957+00:00",
-    "fetched_at": "2026-08-17T03:15:29.564969+00:00",
-    "total_entries": 1904
+    "generated_at": "2026-08-17T03:29:40.2236552+00:00",
+    "fetched_at": "2026-08-17T03:30:40.403201+00:00",
+    "total_entries": 1905
   },
   "entries": [
     {
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 77,
+      "achieved_at": "2026-08-17T03:19:59.078922+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198021267677",
       "display_name": "BunnLilah",
       "prestige_level": 76,
@@ -287,19 +295,11 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 76,
       "achieved_at": "2026-08-08T02:35:33.13897+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 76,
-      "achieved_at": "2026-08-13T03:46:06.436495+00:00",
       "badge_id": ""
     },
     {
