@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T12:44:40.2219109+00:00",
-    "fetched_at": "2026-08-17T12:45:29.626205+00:00",
+    "generated_at": "2026-08-17T13:00:40.209639+00:00",
+    "fetched_at": "2026-08-17T13:00:49.386546+00:00",
     "total_entries": 1908
   },
   "entries": [
@@ -656,6 +656,14 @@
     },
     {
       "rank": 82,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-17T12:51:31.857202+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 83,
       "steam_id": "76561198130463430",
       "display_name": "Devin",
       "prestige_level": 45,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198396758232",
       "display_name": "Cato",
       "prestige_level": 45,
       "achieved_at": "2026-08-04T22:40:39.074628+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-17T10:52:05.120892+00:00",
       "badge_id": ""
     },
     {
