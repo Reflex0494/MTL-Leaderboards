@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T15:30:40.2110347+00:00",
-    "fetched_at": "2026-08-17T15:30:41.483151+00:00",
+    "generated_at": "2026-08-17T15:44:40.2213601+00:00",
+    "fetched_at": "2026-08-17T15:45:33.533781+00:00",
     "total_entries": 1909
   },
   "entries": [
@@ -224,19 +224,19 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
+      "prestige_level": 81,
+      "achieved_at": "2026-08-17T15:44:09.504007+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198039533260",
       "display_name": "yyin",
       "prestige_level": 80,
       "achieved_at": "2026-07-08T18:13:08.631558+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 80,
-      "achieved_at": "2026-08-14T19:21:37.528455+00:00",
-      "badge_id": ""
     },
     {
       "rank": 30,
