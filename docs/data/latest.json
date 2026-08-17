@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T17:30:40.2215727+00:00",
-    "fetched_at": "2026-08-17T17:30:41.260753+00:00",
-    "total_entries": 1909
+    "generated_at": "2026-08-17T18:00:40.2091808+00:00",
+    "fetched_at": "2026-08-17T18:00:49.030132+00:00",
+    "total_entries": 1910
   },
   "entries": [
     {
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 102,
-      "achieved_at": "2026-08-13T01:54:26.466588+00:00",
+      "prestige_level": 103,
+      "achieved_at": "2026-08-17T17:36:11.211415+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 58,
+      "achieved_at": "2026-08-17T17:35:23.898837+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198016633668",
       "display_name": "Babu Frik",
       "prestige_level": 57,
@@ -471,7 +479,7 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198246723564",
       "display_name": "Trippz",
       "prestige_level": 57,
@@ -479,7 +487,7 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198257252681",
       "display_name": "mini",
       "prestige_level": 57,
@@ -487,7 +495,7 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198026518168",
       "display_name": "Yaan",
       "prestige_level": 57,
@@ -495,19 +503,11 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 57,
       "achieved_at": "2026-08-09T22:12:15.084918+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 57,
-      "achieved_at": "2026-08-16T13:49:27.565834+00:00",
       "badge_id": ""
     },
     {
