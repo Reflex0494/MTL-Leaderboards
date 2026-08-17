@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T15:44:40.2213601+00:00",
-    "fetched_at": "2026-08-17T15:45:33.533781+00:00",
+    "generated_at": "2026-08-17T16:00:40.2172704+00:00",
+    "fetched_at": "2026-08-17T16:00:54.484077+00:00",
     "total_entries": 1909
   },
   "entries": [
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
+      "prestige_level": 42,
+      "achieved_at": "2026-08-17T15:55:53.807383+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198025016594",
       "display_name": "Deric Chutney",
       "prestige_level": 41,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561197982991579",
       "display_name": "Shah",
       "prestige_level": 41,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561197967176149",
       "display_name": "popeshoe",
       "prestige_level": 41,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198004196542",
       "display_name": "Admiral General Aladeen",
       "prestige_level": 41,
@@ -767,19 +775,11 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 41,
       "achieved_at": "2026-08-16T21:38:48.962441+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 97,
-      "steam_id": "76561198014221839",
-      "display_name": "Drunken.Canadian",
-      "prestige_level": 41,
-      "achieved_at": "2026-08-17T04:27:55.040336+00:00",
       "badge_id": ""
     },
     {
