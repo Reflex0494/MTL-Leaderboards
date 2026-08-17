@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T04:14:40.2186965+00:00",
-    "fetched_at": "2026-08-17T04:15:32.078608+00:00",
-    "total_entries": 1907
+    "generated_at": "2026-08-17T04:29:40.2216159+00:00",
+    "fetched_at": "2026-08-17T04:30:38.096347+00:00",
+    "total_entries": 1908
   },
   "entries": [
     {
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
+      "prestige_level": 41,
+      "achieved_at": "2026-08-17T04:27:55.040336+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198047730381",
       "display_name": "Alley",
       "prestige_level": 40,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198101060115",
       "display_name": "YoitsJJ",
       "prestige_level": 40,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198125280847",
       "display_name": "Breakfast",
       "prestige_level": 40,
       "achieved_at": "2026-07-19T01:24:58.506435+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198392306570",
-      "display_name": "Oh Dios Mio",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-01T02:53:51.88763+00:00",
       "badge_id": ""
     }
   ]
