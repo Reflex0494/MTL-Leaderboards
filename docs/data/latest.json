@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T08:00:40.2219356+00:00",
-    "fetched_at": "2026-08-17T08:00:54.105790+00:00",
+    "generated_at": "2026-08-17T08:14:40.2240257+00:00",
+    "fetched_at": "2026-08-17T08:15:30.605268+00:00",
     "total_entries": 1908
   },
   "entries": [
@@ -96,18 +96,18 @@
     },
     {
       "rank": 12,
-      "steam_id": "76561198128767769",
-      "display_name": "Chocolate Luck",
-      "prestige_level": 103,
-      "achieved_at": "2026-08-01T19:23:43.156392+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 104,
+      "achieved_at": "2026-08-17T08:10:41.825258+00:00",
       "badge_id": ""
     },
     {
       "rank": 13,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198128767769",
+      "display_name": "Chocolate Luck",
       "prestige_level": 103,
-      "achieved_at": "2026-08-15T21:52:19.80624+00:00",
+      "achieved_at": "2026-08-01T19:23:43.156392+00:00",
       "badge_id": ""
     },
     {
