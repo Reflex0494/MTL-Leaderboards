@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T00:29:40.2166408+00:00",
-    "fetched_at": "2026-08-17T00:30:38.567823+00:00",
+    "generated_at": "2026-08-17T00:44:40.2181771+00:00",
+    "fetched_at": "2026-08-17T00:45:31.668465+00:00",
     "total_entries": 1904
   },
   "entries": [
@@ -554,8 +554,8 @@
       "rank": 69,
       "steam_id": "76561198110961384",
       "display_name": "Bread",
-      "prestige_level": 53,
-      "achieved_at": "2026-08-17T00:00:12.459318+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-08-17T00:39:29.52951+00:00",
       "badge_id": ""
     },
     {
