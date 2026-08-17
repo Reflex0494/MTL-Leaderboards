@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T18:30:40.2258908+00:00",
-    "fetched_at": "2026-08-17T18:30:51.542573+00:00",
+    "generated_at": "2026-08-17T18:44:40.2271058+00:00",
+    "fetched_at": "2026-08-17T18:45:29.197066+00:00",
     "total_entries": 1910
   },
   "entries": [
@@ -728,6 +728,14 @@
     },
     {
       "rank": 91,
+      "steam_id": "76561198321234198",
+      "display_name": "mmffkk000",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-17T18:37:14.76358+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 92,
       "steam_id": "76561198025981725",
       "display_name": "Mark",
       "prestige_level": 42,
@@ -735,19 +743,11 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 42,
       "achieved_at": "2026-08-17T15:55:53.807383+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 93,
-      "steam_id": "76561198321234198",
-      "display_name": "mmffkk000",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-17T18:11:35.581606+00:00",
       "badge_id": ""
     },
     {
