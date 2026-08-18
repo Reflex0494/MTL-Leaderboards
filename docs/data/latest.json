@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T23:30:40.2139497+00:00",
-    "fetched_at": "2026-08-18T23:30:41.803835+00:00",
+    "generated_at": "2026-08-18T23:44:40.2173485+00:00",
+    "fetched_at": "2026-08-18T23:45:31.283381+00:00",
     "total_entries": 1924
   },
   "entries": [
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
+      "prestige_level": 44,
+      "achieved_at": "2026-08-18T23:42:14.735599+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198026532639",
       "display_name": "Mrlinkfreak",
       "prestige_level": 43,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198088522424",
       "display_name": "Tudzio",
       "prestige_level": 43,
@@ -727,20 +735,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561197960434322",
       "display_name": "Soctom",
       "prestige_level": 43,
       "achieved_at": "2026-08-07T20:40:40.080025+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 92,
-      "steam_id": "76561198014221839",
-      "display_name": "Drunken.Canadian",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-18T12:54:39.702745+00:00",
-      "badge_id": ""
     },
     {
       "rank": 93,
