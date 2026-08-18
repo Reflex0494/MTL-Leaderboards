@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T14:44:40.2184285+00:00",
-    "fetched_at": "2026-08-18T14:45:35.353908+00:00",
+    "generated_at": "2026-08-18T15:00:40.2194337+00:00",
+    "fetched_at": "2026-08-18T15:00:53.492334+00:00",
     "total_entries": 1916
   },
   "entries": [
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561197997281301",
-      "display_name": "Frapjacks",
-      "prestige_level": 82,
-      "achieved_at": "2026-07-22T02:36:09.65184+00:00",
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 83,
+      "achieved_at": "2026-08-18T14:58:41.406125+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
+      "steam_id": "76561197997281301",
+      "display_name": "Frapjacks",
       "prestige_level": 82,
-      "achieved_at": "2026-08-18T12:09:52.053007+00:00",
+      "achieved_at": "2026-07-22T02:36:09.65184+00:00",
       "badge_id": ""
     },
     {
