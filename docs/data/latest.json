@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T12:14:40.2190436+00:00",
-    "fetched_at": "2026-08-18T12:15:31.507883+00:00",
+    "generated_at": "2026-08-18T12:30:40.2204156+00:00",
+    "fetched_at": "2026-08-18T12:30:41.182076+00:00",
     "total_entries": 1915
   },
   "entries": [
@@ -336,19 +336,19 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561198113877220",
+      "display_name": "Jean Vincent",
+      "prestige_level": 73,
+      "achieved_at": "2026-08-18T12:30:09.302607+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 43,
       "steam_id": "76561198047812156",
       "display_name": "White",
       "prestige_level": 72,
       "achieved_at": "2026-07-11T19:07:24.674583+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 43,
-      "steam_id": "76561198113877220",
-      "display_name": "Jean Vincent",
-      "prestige_level": 72,
-      "achieved_at": "2026-08-16T20:06:02.048982+00:00",
-      "badge_id": ""
     },
     {
       "rank": 44,
@@ -640,18 +640,18 @@
     },
     {
       "rank": 80,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-04T18:14:13.898843+00:00",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-18T12:24:55.649687+00:00",
       "badge_id": ""
     },
     {
       "rank": 81,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
       "prestige_level": 47,
-      "achieved_at": "2026-08-17T14:17:06.487997+00:00",
+      "achieved_at": "2026-08-04T18:14:13.898843+00:00",
       "badge_id": ""
     },
     {
