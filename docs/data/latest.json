@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T13:44:40.2175511+00:00",
-    "fetched_at": "2026-08-18T13:45:30.566682+00:00",
+    "generated_at": "2026-08-18T14:00:40.2232187+00:00",
+    "fetched_at": "2026-08-18T14:00:51.420213+00:00",
     "total_entries": 1916
   },
   "entries": [
@@ -632,18 +632,18 @@
     },
     {
       "rank": 79,
-      "steam_id": "76561198040755103",
-      "display_name": "Deadpan",
-      "prestige_level": 48,
-      "achieved_at": "2026-07-10T11:14:34.339785+00:00",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-18T13:54:33.382697+00:00",
       "badge_id": ""
     },
     {
       "rank": 80,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
+      "steam_id": "76561198040755103",
+      "display_name": "Deadpan",
       "prestige_level": 48,
-      "achieved_at": "2026-08-18T12:24:55.649687+00:00",
+      "achieved_at": "2026-07-10T11:14:34.339785+00:00",
       "badge_id": ""
     },
     {
