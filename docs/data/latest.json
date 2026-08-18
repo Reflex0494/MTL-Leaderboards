@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-17T23:44:40.2242189+00:00",
-    "fetched_at": "2026-08-17T23:45:28.366238+00:00",
+    "generated_at": "2026-08-18T00:00:40.2266585+00:00",
+    "fetched_at": "2026-08-18T00:00:48.181543+00:00",
     "total_entries": 1910
   },
   "entries": [
@@ -240,18 +240,18 @@
     },
     {
       "rank": 30,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 78,
-      "achieved_at": "2026-08-09T06:20:54.335391+00:00",
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 79,
+      "achieved_at": "2026-08-17T23:47:06.703553+00:00",
       "badge_id": ""
     },
     {
       "rank": 31,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
       "prestige_level": 78,
-      "achieved_at": "2026-08-14T14:45:03.405549+00:00",
+      "achieved_at": "2026-08-09T06:20:54.335391+00:00",
       "badge_id": ""
     },
     {
