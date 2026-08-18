@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T15:00:40.2194337+00:00",
-    "fetched_at": "2026-08-18T15:00:53.492334+00:00",
+    "generated_at": "2026-08-18T15:14:40.21902+00:00",
+    "fetched_at": "2026-08-18T15:15:32.006966+00:00",
     "total_entries": 1916
   },
   "entries": [
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-18T15:11:14.547825+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561197983379481",
       "display_name": "z0mb13",
       "prestige_level": 49,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198876481782",
       "display_name": "tekk301",
       "prestige_level": 49,
       "achieved_at": "2026-08-18T12:42:05.973917+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-18T13:54:33.382697+00:00",
       "badge_id": ""
     },
     {
