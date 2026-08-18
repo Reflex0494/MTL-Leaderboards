@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T03:44:40.238134+00:00",
-    "fetched_at": "2026-08-18T03:45:30.955845+00:00",
+    "generated_at": "2026-08-18T04:00:40.2233715+00:00",
+    "fetched_at": "2026-08-18T04:00:49.897900+00:00",
     "total_entries": 1913
   },
   "entries": [
@@ -520,18 +520,18 @@
     },
     {
       "rank": 65,
-      "steam_id": "76561198321094554",
-      "display_name": "CrazyBobo",
-      "prestige_level": 55,
-      "achieved_at": "2026-07-16T13:55:30.621679+00:00",
+      "steam_id": "76561198110961384",
+      "display_name": "Bread",
+      "prestige_level": 56,
+      "achieved_at": "2026-08-18T03:48:17.788474+00:00",
       "badge_id": ""
     },
     {
       "rank": 66,
-      "steam_id": "76561198110961384",
-      "display_name": "Bread",
+      "steam_id": "76561198321094554",
+      "display_name": "CrazyBobo",
       "prestige_level": 55,
-      "achieved_at": "2026-08-18T02:58:04.571193+00:00",
+      "achieved_at": "2026-07-16T13:55:30.621679+00:00",
       "badge_id": ""
     },
     {
