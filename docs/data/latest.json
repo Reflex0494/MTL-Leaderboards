@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T21:30:40.2195415+00:00",
-    "fetched_at": "2026-08-18T21:30:43.641317+00:00",
+    "generated_at": "2026-08-18T21:44:40.218484+00:00",
+    "fetched_at": "2026-08-18T21:45:31.840425+00:00",
     "total_entries": 1921
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561199290668085",
       "display_name": "ToxicDemon",
-      "prestige_level": 112,
-      "achieved_at": "2026-08-16T23:25:46.17069+00:00",
+      "prestige_level": 113,
+      "achieved_at": "2026-08-18T21:36:56.161235+00:00",
       "badge_id": ""
     },
     {
