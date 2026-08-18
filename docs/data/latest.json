@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T12:00:40.2188741+00:00",
-    "fetched_at": "2026-08-18T12:00:54.037541+00:00",
-    "total_entries": 1914
+    "generated_at": "2026-08-18T12:14:40.2190436+00:00",
+    "fetched_at": "2026-08-18T12:15:31.507883+00:00",
+    "total_entries": 1915
   },
   "entries": [
     {
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 82,
+      "achieved_at": "2026-08-18T12:09:52.053007+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 81,
@@ -223,19 +231,11 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 81,
       "achieved_at": "2026-08-17T15:44:09.504007+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 81,
-      "achieved_at": "2026-08-18T10:37:13.330984+00:00",
       "badge_id": ""
     },
     {
