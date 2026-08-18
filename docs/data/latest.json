@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T12:44:40.2183493+00:00",
-    "fetched_at": "2026-08-18T12:45:32.957694+00:00",
-    "total_entries": 1915
+    "generated_at": "2026-08-18T13:00:40.2226899+00:00",
+    "fetched_at": "2026-08-18T13:00:49.319654+00:00",
+    "total_entries": 1916
   },
   "entries": [
     {
@@ -328,18 +328,18 @@
     },
     {
       "rank": 41,
-      "steam_id": "76561198071815550",
-      "display_name": "evozakira",
-      "prestige_level": 73,
-      "achieved_at": "2026-08-02T14:08:49.447666+00:00",
+      "steam_id": "76561198113877220",
+      "display_name": "Jean Vincent",
+      "prestige_level": 74,
+      "achieved_at": "2026-08-18T12:53:47.668048+00:00",
       "badge_id": ""
     },
     {
       "rank": 42,
-      "steam_id": "76561198113877220",
-      "display_name": "Jean Vincent",
+      "steam_id": "76561198071815550",
+      "display_name": "evozakira",
       "prestige_level": 73,
-      "achieved_at": "2026-08-18T12:30:09.302607+00:00",
+      "achieved_at": "2026-08-02T14:08:49.447666+00:00",
       "badge_id": ""
     },
     {
@@ -736,18 +736,18 @@
     },
     {
       "rank": 92,
-      "steam_id": "76561198025981725",
-      "display_name": "Mark",
-      "prestige_level": 42,
-      "achieved_at": "2026-07-24T18:02:22.87039+00:00",
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-18T12:54:39.702745+00:00",
       "badge_id": ""
     },
     {
       "rank": 93,
-      "steam_id": "76561198014221839",
-      "display_name": "Drunken.Canadian",
+      "steam_id": "76561198025981725",
+      "display_name": "Mark",
       "prestige_level": 42,
-      "achieved_at": "2026-08-17T15:55:53.807383+00:00",
+      "achieved_at": "2026-07-24T18:02:22.87039+00:00",
       "badge_id": ""
     },
     {
