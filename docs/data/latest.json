@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T04:00:40.2233715+00:00",
-    "fetched_at": "2026-08-18T04:00:49.897900+00:00",
+    "generated_at": "2026-08-18T04:14:40.2199771+00:00",
+    "fetched_at": "2026-08-18T04:15:29.428740+00:00",
     "total_entries": 1913
   },
   "entries": [
@@ -514,8 +514,8 @@
       "rank": 64,
       "steam_id": "76561197991758618",
       "display_name": "Sir Cumcision",
-      "prestige_level": 56,
-      "achieved_at": "2026-08-17T21:45:47.821102+00:00",
+      "prestige_level": 57,
+      "achieved_at": "2026-08-18T04:11:14.171572+00:00",
       "badge_id": ""
     },
     {
