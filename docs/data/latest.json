@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T17:00:40.2203452+00:00",
-    "fetched_at": "2026-08-18T17:00:51.215646+00:00",
+    "generated_at": "2026-08-18T17:14:40.2179463+00:00",
+    "fetched_at": "2026-08-18T17:15:31.182516+00:00",
     "total_entries": 1917
   },
   "entries": [
@@ -448,18 +448,18 @@
     },
     {
       "rank": 56,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-07T18:47:24.320427+00:00",
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-18T17:10:25.766895+00:00",
       "badge_id": ""
     },
     {
       "rank": 57,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
       "prestige_level": 59,
-      "achieved_at": "2026-08-18T16:28:24.032491+00:00",
+      "achieved_at": "2026-08-07T18:47:24.320427+00:00",
       "badge_id": ""
     },
     {
