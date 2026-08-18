@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-18T16:14:40.2053364+00:00",
-    "fetched_at": "2026-08-18T16:15:37.264018+00:00",
+    "generated_at": "2026-08-18T16:30:40.223064+00:00",
+    "fetched_at": "2026-08-18T16:30:41.757868+00:00",
     "total_entries": 1917
   },
   "entries": [
@@ -456,19 +456,19 @@
     },
     {
       "rank": 57,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-18T16:28:24.032491+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 58,
       "steam_id": "76561198047264413",
       "display_name": "Patrick Bateman",
       "prestige_level": 58,
       "achieved_at": "2026-08-10T06:43:35.916254+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-17T17:35:23.898837+00:00",
-      "badge_id": ""
     },
     {
       "rank": 59,
