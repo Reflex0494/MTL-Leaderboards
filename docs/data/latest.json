@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-19T05:14:40.2090237+00:00",
-    "fetched_at": "2026-08-19T05:15:28.968141+00:00",
+    "generated_at": "2026-08-19T05:29:40.2206245+00:00",
+    "fetched_at": "2026-08-19T05:30:40.237301+00:00",
     "total_entries": 1931
   },
   "entries": [
@@ -568,6 +568,14 @@
     },
     {
       "rank": 71,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 51,
+      "achieved_at": "2026-08-19T05:24:45.622111+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 72,
       "steam_id": "76561198008715026",
       "display_name": "Dharlas",
       "prestige_level": 50,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 50,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 50,
@@ -591,7 +599,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198850117561",
       "display_name": "A Light In The Darkness",
       "prestige_level": 50,
@@ -599,20 +607,12 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 50,
       "achieved_at": "2026-08-06T04:52:09.971972+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 50,
-      "achieved_at": "2026-08-15T20:45:00.761471+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 77,
