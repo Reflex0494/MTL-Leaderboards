@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-19T20:14:40.2075191+00:00",
-    "fetched_at": "2026-08-19T20:15:30.628117+00:00",
+    "generated_at": "2026-08-19T20:30:40.2207068+00:00",
+    "fetched_at": "2026-08-19T20:30:53.542143+00:00",
     "total_entries": 1937
   },
   "entries": [
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 88,
-      "achieved_at": "2026-08-19T19:31:17.771912+00:00",
+      "prestige_level": 89,
+      "achieved_at": "2026-08-19T20:30:37.361607+00:00",
       "badge_id": ""
     },
     {
