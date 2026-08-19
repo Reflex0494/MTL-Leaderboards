@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-19T13:29:40.2204873+00:00",
-    "fetched_at": "2026-08-19T13:30:38.895716+00:00",
+    "generated_at": "2026-08-19T13:44:40.219773+00:00",
+    "fetched_at": "2026-08-19T13:45:31.525382+00:00",
     "total_entries": 1933
   },
   "entries": [
@@ -200,19 +200,19 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 86,
+      "achieved_at": "2026-08-19T13:42:34.327345+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 26,
       "steam_id": "76561198001455051",
       "display_name": "Belvita",
       "prestige_level": 85,
       "achieved_at": "2026-07-31T19:01:03.884033+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 26,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 85,
-      "achieved_at": "2026-08-19T11:56:23.831357+00:00",
-      "badge_id": ""
     },
     {
       "rank": 27,
