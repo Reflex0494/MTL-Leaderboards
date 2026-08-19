@@ -1,10 +1,10 @@
 {
   "season": "s3",
   "fetchIntervalSeconds": 900,
-  "snapshotCount": 1333,
+  "snapshotCount": 1334,
   "lastFetch": {
     "ok": true,
-    "at": "2026-08-19T15:30:44.037115+00:00",
+    "at": "2026-08-19T15:45:31.933491+00:00",
     "error": null
   }
 }
