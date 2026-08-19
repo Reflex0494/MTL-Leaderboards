@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-19T03:14:40.209144+00:00",
-    "fetched_at": "2026-08-19T03:15:32.283478+00:00",
-    "total_entries": 1928
+    "generated_at": "2026-08-19T03:30:40.218522+00:00",
+    "fetched_at": "2026-08-19T03:30:41.209427+00:00",
+    "total_entries": 1929
   },
   "entries": [
     {
@@ -528,18 +528,18 @@
     },
     {
       "rank": 66,
-      "steam_id": "76561198321094554",
-      "display_name": "CrazyBobo",
-      "prestige_level": 55,
-      "achieved_at": "2026-07-16T13:55:30.621679+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 56,
+      "achieved_at": "2026-08-19T03:22:48.476369+00:00",
       "badge_id": ""
     },
     {
       "rank": 67,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561198321094554",
+      "display_name": "CrazyBobo",
       "prestige_level": 55,
-      "achieved_at": "2026-08-19T02:14:49.078934+00:00",
+      "achieved_at": "2026-07-16T13:55:30.621679+00:00",
       "badge_id": ""
     },
     {
