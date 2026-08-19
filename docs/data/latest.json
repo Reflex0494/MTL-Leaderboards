@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-19T19:14:40.2176773+00:00",
-    "fetched_at": "2026-08-19T19:15:32.289201+00:00",
+    "generated_at": "2026-08-19T19:30:40.2187231+00:00",
+    "fetched_at": "2026-08-19T19:30:40.693426+00:00",
     "total_entries": 1936
   },
   "entries": [
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 61,
+      "achieved_at": "2026-08-19T19:17:40.689089+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 60,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198119959603",
       "display_name": "nick written by kitten",
       "prestige_level": 60,
@@ -439,20 +447,12 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198038247454",
       "display_name": "xJonder",
       "prestige_level": 60,
       "achieved_at": "2026-08-13T16:27:18.963754+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 60,
-      "achieved_at": "2026-08-18T17:10:25.766895+00:00",
-      "badge_id": ""
     },
     {
       "rank": 57,
