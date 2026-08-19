@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-19T02:29:40.2195742+00:00",
-    "fetched_at": "2026-08-19T02:30:39.245165+00:00",
-    "total_entries": 1927
+    "generated_at": "2026-08-19T02:44:40.221211+00:00",
+    "fetched_at": "2026-08-19T02:45:31.522337+00:00",
+    "total_entries": 1928
   },
   "entries": [
     {
@@ -752,6 +752,14 @@
     },
     {
       "rank": 94,
+      "steam_id": "76561198150626390",
+      "display_name": "Bearbee",
+      "prestige_level": 42,
+      "achieved_at": "2026-08-19T02:42:44.511892+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 95,
       "steam_id": "76561198025016594",
       "display_name": "Deric Chutney",
       "prestige_level": 41,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561197982991579",
       "display_name": "Shah",
       "prestige_level": 41,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561197967176149",
       "display_name": "popeshoe",
       "prestige_level": 41,
@@ -775,19 +783,11 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198004196542",
       "display_name": "Admiral General Aladeen",
       "prestige_level": 41,
       "achieved_at": "2026-08-09T19:17:16.028747+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561198150626390",
-      "display_name": "Bearbee",
-      "prestige_level": 41,
-      "achieved_at": "2026-08-17T11:21:16.31509+00:00",
       "badge_id": ""
     },
     {
