@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-20T03:30:40.218487+00:00",
-    "fetched_at": "2026-08-20T03:30:51.548615+00:00",
+    "generated_at": "2026-08-20T03:44:40.2220572+00:00",
+    "fetched_at": "2026-08-20T03:45:30.636990+00:00",
     "total_entries": 1939
   },
   "entries": [
@@ -560,6 +560,14 @@
     },
     {
       "rank": 70,
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 52,
+      "achieved_at": "2026-08-20T03:32:49.338702+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 71,
       "steam_id": "76561198153555590",
       "display_name": "Bird",
       "prestige_level": 51,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 51,
@@ -575,19 +583,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198876481782",
       "display_name": "tekk301",
       "prestige_level": 51,
       "achieved_at": "2026-08-19T18:54:21.28645+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 73,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 51,
-      "achieved_at": "2026-08-20T02:09:41.143199+00:00",
       "badge_id": ""
     },
     {
