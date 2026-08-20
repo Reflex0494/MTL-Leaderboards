@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-20T13:00:40.2154161+00:00",
-    "fetched_at": "2026-08-20T13:00:49.592251+00:00",
+    "generated_at": "2026-08-20T13:15:40.2193037+00:00",
+    "fetched_at": "2026-08-20T13:15:42.810952+00:00",
     "total_entries": 1944
   },
   "entries": [
@@ -160,18 +160,18 @@
     },
     {
       "rank": 20,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 93,
-      "achieved_at": "2026-08-16T05:45:33.209111+00:00",
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 94,
+      "achieved_at": "2026-08-20T13:08:53.673773+00:00",
       "badge_id": ""
     },
     {
       "rank": 21,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
       "prestige_level": 93,
-      "achieved_at": "2026-08-20T09:43:07.123841+00:00",
+      "achieved_at": "2026-08-16T05:45:33.209111+00:00",
       "badge_id": ""
     },
     {
