@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s3",
-    "generated_at": "2026-08-20T16:30:40.2228606+00:00",
-    "fetched_at": "2026-08-20T16:30:42.087034+00:00",
+    "generated_at": "2026-08-20T16:44:40.2192744+00:00",
+    "fetched_at": "2026-08-20T16:45:34.977304+00:00",
     "total_entries": 1945
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
-      "prestige_level": 156,
-      "achieved_at": "2026-08-08T15:24:47.548488+00:00",
+      "prestige_level": 157,
+      "achieved_at": "2026-08-20T16:43:54.034323+00:00",
       "badge_id": "supporter_plus"
     },
     {
@@ -672,6 +672,14 @@
     },
     {
       "rank": 84,
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-20T16:35:01.702497+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 85,
       "steam_id": "76561198130463430",
       "display_name": "Devin",
       "prestige_level": 45,
@@ -679,19 +687,11 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198396758232",
       "display_name": "Cato",
       "prestige_level": 45,
       "achieved_at": "2026-08-04T22:40:39.074628+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561198014221839",
-      "display_name": "Drunken.Canadian",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-19T20:06:43.332536+00:00",
       "badge_id": ""
     },
     {
