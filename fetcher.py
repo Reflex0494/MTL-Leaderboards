@@ -7,7 +7,7 @@ import requests
 import db
 
 LEADERBOARD_URL = "https://cdn.mow-the-lawn.com/leaderboard/{season}/top.json"
-SEASON = "s3"
+SEASON = "s4"
 FETCH_INTERVAL_SECONDS = 15 * 60  # 15 minutes
 
 # Published by the GitHub Actions workflow every 15 minutes regardless of
@@ -95,6 +95,12 @@ def sync_from_github() -> int:
         for point in player.get("points", []):
             t = point["t"]
             if t <= last_fetched_at:
+                continue
+            # Points predate season-tagging, or belong to a season other than
+            # the one this app is currently tracking (e.g. a season switch
+            # happened while this app was offline) — never backfill those in
+            # under the current season's label.
+            if point.get("season") != SEASON:
                 continue
             by_t.setdefault(t, []).append({
                 "rank": point["rank"],

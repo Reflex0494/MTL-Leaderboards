@@ -116,7 +116,7 @@ async function refreshLatestTable() {
 
   const heading = el("lb-heading");
   if (heading) {
-    heading.textContent = "Leaderboard (Season 3 — Top 100)";
+    heading.textContent = "Leaderboard (Season 4 — Top 100)";
   }
 
   const body = el("lb-body");
@@ -322,10 +322,16 @@ function renderChart(seriesObj, emptyMessage) {
     const pathD = pts.map((p, idx) => `${idx === 0 ? "M" : "L"} ${x(new Date(p.t).getTime()).toFixed(2)} ${y(p.prestigeLevel).toFixed(2)}`).join(" ");
     svgParts.push(`<path d="${pathD}" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"${isRepeat ? ' stroke-dasharray="6 4"' : ""} />`);
 
-    // A small marker at every snapshot, not just the endpoint, so the
-    // individual polling times are visible along the line.
+    // A marker roughly once every 24h along the line (not one per 15-min
+    // poll, which would bury the line under dots) so daily progress is
+    // still visible without cluttering the chart.
+    const DOT_INTERVAL_MS = 24 * 3600 * 1000;
+    let lastDotT = -Infinity;
     for (const p of pts) {
-      const px = x(new Date(p.t).getTime());
+      const pt = new Date(p.t).getTime();
+      if (pt - lastDotT < DOT_INTERVAL_MS) continue;
+      lastDotT = pt;
+      const px = x(pt);
       const py = y(p.prestigeLevel);
       svgParts.push(`<circle class="snapshot-dot" cx="${px}" cy="${py}" r="4" fill="${color}" stroke="var(--surface-1)" stroke-width="1.5" />`);
     }

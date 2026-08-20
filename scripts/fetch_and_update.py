@@ -8,7 +8,7 @@ from pathlib import Path
 
 import requests
 
-SEASON = "s3"
+SEASON = "s4"
 LEADERBOARD_URL = f"https://cdn.mow-the-lawn.com/leaderboard/{SEASON}/top.json"
 FETCH_INTERVAL_SECONDS = 15 * 60
 
@@ -35,8 +35,9 @@ def save_json(path: Path, data, indent=None):
 def main():
     fetched_at = datetime.now(timezone.utc).isoformat()
     status = load_json(STATUS_PATH, {"season": SEASON, "snapshotCount": 0, "lastFetch": {}})
-    # Always resync to the current constant — a persisted status.json from an
-    # older run would otherwise carry a stale interval forward indefinitely.
+    # Always resync to the current constants — a persisted status.json from an
+    # older run/season would otherwise carry stale values forward indefinitely.
+    status["season"] = SEASON
     status["fetchIntervalSeconds"] = FETCH_INTERVAL_SECONDS
 
     try:
@@ -50,7 +51,7 @@ def main():
             sid = e["steamId"]
             player = history["players"].setdefault(sid, {"displayName": e["displayName"], "points": []})
             player["displayName"] = e["displayName"]
-            player["points"].append({"t": fetched_at, "prestigeLevel": e["prestigeLevel"], "rank": e["rank"]})
+            player["points"].append({"t": fetched_at, "prestigeLevel": e["prestigeLevel"], "rank": e["rank"], "season": data["season"]})
         save_json(HISTORY_PATH, history)
 
         save_json(LATEST_PATH, {

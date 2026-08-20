@@ -19,7 +19,9 @@ def index():
 @app.route("/api/status")
 def api_status():
     last = fetcher.get_last_result()
-    snapshot_count = db.query_one("SELECT COUNT(*) AS n FROM snapshots")["n"]
+    snapshot_count = db.query_one(
+        "SELECT COUNT(*) AS n FROM snapshots WHERE season = ?", (fetcher.SEASON,)
+    )["n"]
     return jsonify(
         {
             "season": fetcher.SEASON,
@@ -58,17 +60,24 @@ def api_latest():
     return jsonify({"snapshot": snapshot, "entries": entries})
 
 
+_LATEST_PER_PLAYER_IN_SEASON = """
+    SELECT e2.steam_id AS steam_id, MAX(e2.id) AS max_id
+    FROM entries e2 JOIN snapshots s2 ON e2.snapshot_id = s2.id
+    WHERE s2.season = ?
+    GROUP BY e2.steam_id
+"""
+
+
 @app.route("/api/players")
 def api_players():
     rows = db.query(
-        """
-        SELECT steam_id, display_name, prestige_level
-        FROM entries
-        WHERE (steam_id, id) IN (
-            SELECT steam_id, MAX(id) FROM entries GROUP BY steam_id
-        )
-        ORDER BY prestige_level DESC
-        """
+        f"""
+        SELECT e.steam_id, e.display_name, e.prestige_level
+        FROM ({_LATEST_PER_PLAYER_IN_SEASON}) latest
+        JOIN entries e ON e.id = latest.max_id
+        ORDER BY e.prestige_level DESC
+        """,
+        (fetcher.SEASON,),
     )
     return jsonify(rows)
 
@@ -80,27 +89,31 @@ def api_history():
 
     if top_n:
         top_rows = db.query(
-            """
-            SELECT steam_id FROM entries
-            WHERE (steam_id, id) IN (SELECT steam_id, MAX(id) FROM entries GROUP BY steam_id)
-            ORDER BY prestige_level DESC LIMIT ?
+            f"""
+            SELECT e.steam_id
+            FROM ({_LATEST_PER_PLAYER_IN_SEASON}) latest
+            JOIN entries e ON e.id = latest.max_id
+            ORDER BY e.prestige_level DESC LIMIT ?
             """,
-            (top_n,),
+            (fetcher.SEASON, top_n),
         )
         steam_ids = [r["steam_id"] for r in top_rows]
 
     if not steam_ids:
         return jsonify({})
 
+    # Restricted to the current season so a player's history doesn't jump
+    # straight from a prior season's final prestige down to this season's
+    # fresh start in the same line.
     placeholders = ",".join("?" for _ in steam_ids)
     rows = db.query(
         f"""
         SELECT e.steam_id, e.display_name, e.prestige_level, e.rank, s.fetched_at
         FROM entries e JOIN snapshots s ON e.snapshot_id = s.id
-        WHERE e.steam_id IN ({placeholders})
+        WHERE e.steam_id IN ({placeholders}) AND s.season = ?
         ORDER BY s.fetched_at ASC
         """,
-        tuple(steam_ids),
+        tuple(steam_ids) + (fetcher.SEASON,),
     )
 
     series: dict[str, dict] = {}

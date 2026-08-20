@@ -1,6 +1,6 @@
 # MTL Leaderboards Tracker
 
-Pulls the Season 3 leaderboard from `mow-the-lawn.com` every 15 minutes and
+Pulls the Season 4 leaderboard from `mow-the-lawn.com` every 15 minutes and
 shows prestige progress over time on a small dashboard. Ships two ways to
 run it:
 
