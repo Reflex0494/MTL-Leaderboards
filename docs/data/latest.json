@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T21:59:58.4541749+00:00",
-    "fetched_at": "2026-08-21T22:00:47.863113+00:00",
+    "generated_at": "2026-08-21T22:14:58.455606+00:00",
+    "fetched_at": "2026-08-21T22:15:28.492494+00:00",
     "total_entries": 105
   },
   "entries": [
@@ -26,28 +26,36 @@
       "rank": 3,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 27,
-      "achieved_at": "2026-08-21T20:50:08.377376+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-08-21T22:11:55.793666+00:00",
       "badge_id": "s3_third"
     },
     {
       "rank": 4,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-21T21:16:40.843825+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-21T22:04:17.146175+00:00",
       "badge_id": ""
     },
     {
       "rank": 5,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-21T21:49:22.819621+00:00",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-21T22:14:50.394897+00:00",
       "badge_id": ""
     },
     {
       "rank": 6,
+      "steam_id": "76561198825962496",
+      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-21T22:06:19.553967+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 7,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 22,
@@ -55,20 +63,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 22,
       "achieved_at": "2026-08-21T19:11:03.719673+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 8,
-      "steam_id": "76561198825962496",
-      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-21T21:13:54.421962+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 9,
