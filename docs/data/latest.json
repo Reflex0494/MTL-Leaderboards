@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T12:59:58.4555146+00:00",
-    "fetched_at": "2026-08-21T13:00:50.516086+00:00",
-    "total_entries": 88
+    "generated_at": "2026-08-21T13:14:58.4551081+00:00",
+    "fetched_at": "2026-08-21T13:15:28.750252+00:00",
+    "total_entries": 89
   },
   "entries": [
     {
@@ -32,6 +32,14 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198020717966",
+      "display_name": "Reflex?",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-21T13:05:58.165085+00:00",
+      "badge_id": "s3_third"
+    },
+    {
+      "rank": 5,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 20,
@@ -39,20 +47,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 20,
       "achieved_at": "2026-08-21T11:52:49.955616+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 6,
-      "steam_id": "76561198020717966",
-      "display_name": "Reflex?",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-21T12:42:12.865082+00:00",
-      "badge_id": "s3_third"
     },
     {
       "rank": 7,
@@ -708,6 +708,14 @@
       "display_name": "SoberKnurd",
       "prestige_level": 0,
       "achieved_at": "2026-08-21T12:42:48.860204+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 89,
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 0,
+      "achieved_at": "2026-08-21T13:14:26.148898+00:00",
       "badge_id": ""
     }
   ]
