@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T07:59:58.4557136+00:00",
-    "fetched_at": "2026-08-21T08:00:47.253449+00:00",
+    "generated_at": "2026-08-21T08:14:58.4541329+00:00",
+    "fetched_at": "2026-08-21T08:15:28.384935+00:00",
     "total_entries": 78
   },
   "entries": [
@@ -56,6 +56,14 @@
     },
     {
       "rank": 7,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-21T08:12:12.553558+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 8,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 16,
@@ -63,28 +71,20 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 8,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-21T07:19:58.744083+00:00",
+      "rank": 9,
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-21T08:07:01.066252+00:00",
       "badge_id": "s3_top21"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 14,
       "achieved_at": "2026-08-21T02:28:47.833021+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 10,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-21T07:44:04.635145+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 11,
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-21T07:39:56.819439+00:00",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-21T08:05:55.594711+00:00",
       "badge_id": "s3_top21"
     },
     {
