@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T08:29:58.4545038+00:00",
-    "fetched_at": "2026-08-21T08:30:41.229770+00:00",
-    "total_entries": 79
+    "generated_at": "2026-08-21T08:44:58.45614+00:00",
+    "fetched_at": "2026-08-21T08:45:29.070788+00:00",
+    "total_entries": 80
   },
   "entries": [
     {
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-21T07:11:11.892482+00:00",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-21T08:33:23.523345+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-21T08:07:01.066252+00:00",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-21T08:38:02.150395+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -636,6 +636,14 @@
       "display_name": "Bingegamer",
       "prestige_level": 0,
       "achieved_at": "2026-08-21T08:24:17.846307+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
+      "steam_id": "76561198017436335",
+      "display_name": "Cam",
+      "prestige_level": 0,
+      "achieved_at": "2026-08-21T08:41:59.204216+00:00",
       "badge_id": ""
     }
   ]
