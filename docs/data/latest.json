@@ -1,17 +1,17 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T08:44:58.45614+00:00",
-    "fetched_at": "2026-08-21T08:45:29.070788+00:00",
-    "total_entries": 80
+    "generated_at": "2026-08-21T08:59:58.4559009+00:00",
+    "fetched_at": "2026-08-21T09:00:48.375907+00:00",
+    "total_entries": 81
   },
   "entries": [
     {
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-21T08:24:33.453318+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-21T08:53:08.752995+00:00",
       "badge_id": ""
     },
     {
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-21T08:21:49.430008+00:00",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-21T08:57:49.871286+00:00",
       "badge_id": ""
     },
     {
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-21T08:23:05.452474+00:00",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-21T08:49:37.665211+00:00",
       "badge_id": ""
     },
     {
@@ -168,18 +168,18 @@
     },
     {
       "rank": 21,
-      "steam_id": "76561198079434484",
-      "display_name": "Brodoodle",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-20T20:58:09.213861+00:00",
+      "steam_id": "76561198321234198",
+      "display_name": "mmffkk000",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-21T08:55:42.424165+00:00",
       "badge_id": ""
     },
     {
       "rank": 22,
-      "steam_id": "76561198321234198",
-      "display_name": "mmffkk000",
+      "steam_id": "76561198079434484",
+      "display_name": "Brodoodle",
       "prestige_level": 6,
-      "achieved_at": "2026-08-20T21:16:33.764207+00:00",
+      "achieved_at": "2026-08-20T20:58:09.213861+00:00",
       "badge_id": ""
     },
     {
@@ -644,6 +644,14 @@
       "display_name": "Cam",
       "prestige_level": 0,
       "achieved_at": "2026-08-21T08:41:59.204216+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
+      "steam_id": "76561198050711789",
+      "display_name": "anon",
+      "prestige_level": 0,
+      "achieved_at": "2026-08-21T08:51:45.112541+00:00",
       "badge_id": ""
     }
   ]
