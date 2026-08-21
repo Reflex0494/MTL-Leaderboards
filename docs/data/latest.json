@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T14:59:58.4559542+00:00",
-    "fetched_at": "2026-08-21T15:00:49.614836+00:00",
+    "generated_at": "2026-08-21T15:14:58.4560556+00:00",
+    "fetched_at": "2026-08-21T15:15:33.891523+00:00",
     "total_entries": 92
   },
   "entries": [
@@ -40,6 +40,14 @@
     },
     {
       "rank": 5,
+      "steam_id": "76561198825962496",
+      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-21T15:09:07.935612+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 20,
@@ -47,20 +55,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 20,
       "achieved_at": "2026-08-21T11:52:49.955616+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 7,
-      "steam_id": "76561198825962496",
-      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-21T13:57:49.346051+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 8,
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-21T14:46:37.494076+00:00",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-21T15:01:14.433606+00:00",
       "badge_id": ""
     },
     {
@@ -160,6 +160,14 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198058294530",
+      "display_name": "Jann Ivan 2xFly3",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-21T15:06:14.60536+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 9,
@@ -167,20 +175,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 9,
       "achieved_at": "2026-08-21T14:15:09.177023+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561198058294530",
-      "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-21T14:53:22.300954+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 23,
@@ -328,19 +328,19 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-21T15:09:21.305452+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
       "achieved_at": "2026-08-20T20:00:37.462736+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-21T14:43:27.812283+00:00",
-      "badge_id": ""
     },
     {
       "rank": 43,
