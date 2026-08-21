@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T11:14:58.4570904+00:00",
-    "fetched_at": "2026-08-21T11:15:30.392711+00:00",
+    "generated_at": "2026-08-21T11:29:58.4568292+00:00",
+    "fetched_at": "2026-08-21T11:30:42.031775+00:00",
     "total_entries": 85
   },
   "entries": [
@@ -24,18 +24,18 @@
     },
     {
       "rank": 3,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-21T08:21:09.712719+00:00",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-21T11:15:20.856822+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 4,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
       "prestige_level": 20,
-      "achieved_at": "2026-08-21T10:23:08.888627+00:00",
+      "achieved_at": "2026-08-21T08:21:09.712719+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -176,6 +176,14 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561198020771315",
+      "display_name": "Captain",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-21T11:17:26.594507+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -183,7 +191,7 @@
       "badge_id": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 6,
@@ -191,7 +199,7 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 6,
@@ -199,7 +207,7 @@
       "badge_id": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
       "prestige_level": 6,
@@ -207,19 +215,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 6,
       "achieved_at": "2026-08-21T06:58:56.154199+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198020771315",
-      "display_name": "Captain",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-21T10:31:02.977764+00:00",
       "badge_id": ""
     },
     {
