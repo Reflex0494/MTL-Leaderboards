@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T10:44:58.4558479+00:00",
-    "fetched_at": "2026-08-21T10:45:30.018357+00:00",
+    "generated_at": "2026-08-21T10:59:58.4546705+00:00",
+    "fetched_at": "2026-08-21T11:00:53.493235+00:00",
     "total_entries": 85
   },
   "entries": [
@@ -10,25 +10,25 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-21T10:10:43.73671+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-21T10:57:10.609176+00:00",
       "badge_id": ""
     },
     {
       "rank": 2,
+      "steam_id": "76561198014285868",
+      "display_name": "Fonsgart",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-21T10:48:42.830889+00:00",
+      "badge_id": "s3_first"
+    },
+    {
+      "rank": 3,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 20,
       "achieved_at": "2026-08-21T08:21:09.712719+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 3,
-      "steam_id": "76561198014285868",
-      "display_name": "Fonsgart",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-21T10:07:42.687292+00:00",
-      "badge_id": "s3_first"
     },
     {
       "rank": 4,
