@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T06:14:58.4529787+00:00",
-    "fetched_at": "2026-08-21T06:15:31.152674+00:00",
+    "generated_at": "2026-08-21T06:29:58.4529266+00:00",
+    "fetched_at": "2026-08-21T06:30:40.729915+00:00",
     "total_entries": 77
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-21T05:42:21.114517+00:00",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-21T06:20:56.099971+00:00",
       "badge_id": ""
     },
     {
@@ -160,6 +160,14 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-21T06:28:36.576146+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -167,7 +175,7 @@
       "badge_id": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 6,
@@ -175,7 +183,7 @@
       "badge_id": ""
     },
     {
-      "rank": 22,
+      "rank": 23,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 6,
@@ -183,20 +191,12 @@
       "badge_id": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 6,
       "achieved_at": "2026-08-21T04:14:15.480188+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 24,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-21T06:14:50.713427+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 25,
@@ -232,6 +232,14 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561198058294530",
+      "display_name": "Jann Ivan 2xFly3",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-21T06:21:40.676501+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 30,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 4,
@@ -239,7 +247,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 4,
@@ -247,7 +255,7 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -255,20 +263,12 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561199586661483",
       "display_name": "Tahiti",
       "prestige_level": 4,
       "achieved_at": "2026-08-21T00:05:10.92316+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 33,
-      "steam_id": "76561198058294530",
-      "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-21T06:12:02.149265+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 34,
