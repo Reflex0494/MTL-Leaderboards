@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T04:44:58.4549557+00:00",
-    "fetched_at": "2026-08-21T04:45:33.070269+00:00",
-    "total_entries": 72
+    "generated_at": "2026-08-21T04:59:58.4557125+00:00",
+    "fetched_at": "2026-08-21T05:00:47.341948+00:00",
+    "total_entries": 73
   },
   "entries": [
     {
@@ -26,24 +26,24 @@
       "rank": 3,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-21T04:20:48.128325+00:00",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-21T04:48:51.76622+00:00",
       "badge_id": ""
     },
     {
       "rank": 4,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-21T04:09:34.274627+00:00",
+      "steam_id": "76561198136863936",
+      "display_name": "BusterBear",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-21T04:54:06.375259+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 5,
-      "steam_id": "76561198136863936",
-      "display_name": "BusterBear",
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
       "prestige_level": 15,
-      "achieved_at": "2026-08-21T04:24:35.344635+00:00",
+      "achieved_at": "2026-08-21T04:09:34.274627+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-21T04:26:31.068727+00:00",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-21T04:55:10.440554+00:00",
       "badge_id": ""
     },
     {
@@ -152,6 +152,14 @@
     },
     {
       "rank": 19,
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-21T04:51:15.513587+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 20,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -159,7 +167,7 @@
       "badge_id": ""
     },
     {
-      "rank": 20,
+      "rank": 21,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 6,
@@ -167,7 +175,7 @@
       "badge_id": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 6,
@@ -175,19 +183,11 @@
       "badge_id": ""
     },
     {
-      "rank": 22,
+      "rank": 23,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 6,
       "achieved_at": "2026-08-21T04:14:15.480188+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-21T04:35:54.047293+00:00",
       "badge_id": ""
     },
     {
@@ -580,6 +580,14 @@
       "display_name": "Drunken.Canadian",
       "prestige_level": 0,
       "achieved_at": "2026-08-21T04:03:12.064094+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 0,
+      "achieved_at": "2026-08-21T04:48:40.925523+00:00",
       "badge_id": ""
     }
   ]
