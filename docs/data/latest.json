@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T19:44:58.4554239+00:00",
-    "fetched_at": "2026-08-21T19:45:29.812272+00:00",
-    "total_entries": 100
+    "generated_at": "2026-08-21T19:59:58.4562175+00:00",
+    "fetched_at": "2026-08-21T20:00:50.138058+00:00",
+    "total_entries": 102
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-21T19:08:39.61155+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-21T19:45:02.208183+00:00",
       "badge_id": ""
     },
     {
@@ -64,6 +64,14 @@
     },
     {
       "rank": 8,
+      "steam_id": "76561198119563776",
+      "display_name": "Pois",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-21T19:50:54.847726+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 9,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 20,
@@ -71,7 +79,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 20,
@@ -79,20 +87,12 @@
       "badge_id": ""
     },
     {
-      "rank": 10,
+      "rank": 11,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
       "prestige_level": 20,
       "achieved_at": "2026-08-21T19:00:11.844188+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 11,
-      "steam_id": "76561198119563776",
-      "display_name": "Pois",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-21T19:06:13.683675+00:00",
-      "badge_id": ""
     },
     {
       "rank": 12,
