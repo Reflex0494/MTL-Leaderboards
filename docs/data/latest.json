@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T13:14:58.4551081+00:00",
-    "fetched_at": "2026-08-21T13:15:28.750252+00:00",
+    "generated_at": "2026-08-21T13:29:58.4554932+00:00",
+    "fetched_at": "2026-08-21T13:30:41.745994+00:00",
     "total_entries": 89
   },
   "entries": [
@@ -64,19 +64,19 @@
     },
     {
       "rank": 8,
+      "steam_id": "76561198825962496",
+      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-21T13:16:06.411192+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 9,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
       "prestige_level": 18,
       "achieved_at": "2026-08-21T04:14:24.934331+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 9,
-      "steam_id": "76561198825962496",
-      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-21T07:31:22.420968+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 10,
@@ -192,6 +192,14 @@
     },
     {
       "rank": 24,
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-21T13:15:54.907097+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 25,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -199,7 +207,7 @@
       "badge_id": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 6,
@@ -207,7 +215,7 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 6,
@@ -215,7 +223,7 @@
       "badge_id": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
       "prestige_level": 6,
@@ -223,7 +231,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 6,
@@ -231,19 +239,11 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
-      "steam_id": "76561198014221839",
-      "display_name": "Drunken.Canadian",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-21T12:57:21.646259+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 30,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-20T20:15:16.989573+00:00",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-21T13:23:23.464002+00:00",
       "badge_id": ""
     },
     {
@@ -320,6 +320,14 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-21T13:27:58.935546+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 41,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -327,7 +335,7 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 2,
@@ -335,7 +343,7 @@
       "badge_id": ""
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -343,7 +351,7 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 2,
@@ -351,7 +359,7 @@
       "badge_id": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 2,
@@ -359,19 +367,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
       "achieved_at": "2026-08-21T01:10:25.794707+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 46,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-21T12:22:37.77489+00:00",
       "badge_id": ""
     },
     {
