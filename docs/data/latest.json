@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T04:29:58.4558502+00:00",
-    "fetched_at": "2026-08-21T04:30:44.419957+00:00",
+    "generated_at": "2026-08-21T04:44:58.4549557+00:00",
+    "fetched_at": "2026-08-21T04:45:33.070269+00:00",
     "total_entries": 72
   },
   "entries": [
@@ -48,6 +48,14 @@
     },
     {
       "rank": 6,
+      "steam_id": "76561198825962496",
+      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-21T04:30:25.359265+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 7,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 14,
@@ -55,20 +63,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 14,
       "achieved_at": "2026-08-21T02:28:47.833021+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 8,
-      "steam_id": "76561198825962496",
-      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-21T02:50:47.435164+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 9,
@@ -184,6 +184,14 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-21T04:35:54.047293+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 24,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 5,
@@ -191,7 +199,7 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 5,
@@ -199,7 +207,7 @@
       "badge_id": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 5,
@@ -207,19 +215,11 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 5,
       "achieved_at": "2026-08-21T02:46:23.292285+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-21T04:19:58.662522+00:00",
       "badge_id": ""
     },
     {
