@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T20:44:58.4523416+00:00",
-    "fetched_at": "2026-08-21T20:45:28.943767+00:00",
+    "generated_at": "2026-08-21T20:59:58.4536464+00:00",
+    "fetched_at": "2026-08-21T21:00:46.271422+00:00",
     "total_entries": 103
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-21T19:40:41.999511+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-21T20:49:23.112957+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-21T19:35:21.659922+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-21T20:50:08.377376+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -112,18 +112,18 @@
     },
     {
       "rank": 14,
-      "steam_id": "76561198136863936",
-      "display_name": "BusterBear",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-21T04:54:06.375259+00:00",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-21T20:57:26.689019+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 15,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
+      "steam_id": "76561198136863936",
+      "display_name": "BusterBear",
       "prestige_level": 16,
-      "achieved_at": "2026-08-21T20:27:41.857514+00:00",
+      "achieved_at": "2026-08-21T04:54:06.375259+00:00",
       "badge_id": "s3_top21"
     },
     {
