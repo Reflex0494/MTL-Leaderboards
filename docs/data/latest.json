@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T10:29:58.4560254+00:00",
-    "fetched_at": "2026-08-21T10:30:39.255911+00:00",
+    "generated_at": "2026-08-21T10:44:58.4558479+00:00",
+    "fetched_at": "2026-08-21T10:45:30.018357+00:00",
     "total_entries": 85
   },
   "entries": [
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198020771315",
+      "display_name": "Captain",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-21T10:31:02.977764+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 5,
@@ -223,19 +231,11 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 5,
       "achieved_at": "2026-08-20T22:29:49.539096+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198020771315",
-      "display_name": "Captain",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-20T22:43:47.528986+00:00",
       "badge_id": ""
     },
     {
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198068791763",
+      "display_name": "Pawnax",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-21T10:36:14.785047+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -287,19 +295,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 3,
       "achieved_at": "2026-08-21T05:14:11.447871+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561198068791763",
-      "display_name": "Pawnax",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-21T10:18:52.384363+00:00",
       "badge_id": ""
     },
     {
