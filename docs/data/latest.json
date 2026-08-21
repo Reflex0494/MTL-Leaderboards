@@ -1,25 +1,25 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T08:14:58.4541329+00:00",
-    "fetched_at": "2026-08-21T08:15:28.384935+00:00",
-    "total_entries": 78
+    "generated_at": "2026-08-21T08:29:58.4545038+00:00",
+    "fetched_at": "2026-08-21T08:30:41.229770+00:00",
+    "total_entries": 79
   },
   "entries": [
     {
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-21T07:08:43.007413+00:00",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-21T08:24:33.453318+00:00",
       "badge_id": ""
     },
     {
       "rank": 2,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-21T07:59:24.611144+00:00",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-21T08:21:09.712719+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -80,18 +80,18 @@
     },
     {
       "rank": 10,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-21T02:28:47.833021+00:00",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-21T08:21:49.430008+00:00",
       "badge_id": ""
     },
     {
       "rank": 11,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 14,
-      "achieved_at": "2026-08-21T07:51:53.731107+00:00",
+      "achieved_at": "2026-08-21T02:28:47.833021+00:00",
       "badge_id": ""
     },
     {
@@ -128,18 +128,18 @@
     },
     {
       "rank": 16,
-      "steam_id": "76561198040755103",
-      "display_name": "Deadpan",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-21T08:23:05.452474+00:00",
       "badge_id": ""
     },
     {
       "rank": 17,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
+      "steam_id": "76561198040755103",
+      "display_name": "Deadpan",
       "prestige_level": 10,
-      "achieved_at": "2026-08-20T22:08:39.914366+00:00",
+      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
       "badge_id": ""
     },
     {
@@ -628,6 +628,14 @@
       "display_name": "Freddy Spaghetti",
       "prestige_level": 0,
       "achieved_at": "2026-08-21T04:48:40.925523+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
+      "steam_id": "76561198116211217",
+      "display_name": "Bingegamer",
+      "prestige_level": 0,
+      "achieved_at": "2026-08-21T08:24:17.846307+00:00",
       "badge_id": ""
     }
   ]
