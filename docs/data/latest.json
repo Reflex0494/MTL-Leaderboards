@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-21T17:59:58.4545432+00:00",
-    "fetched_at": "2026-08-21T18:00:53.921381+00:00",
+    "generated_at": "2026-08-21T18:14:58.4558518+00:00",
+    "fetched_at": "2026-08-21T18:15:29.450986+00:00",
     "total_entries": 97
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-21T10:57:10.609176+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-21T18:14:47.630755+00:00",
       "badge_id": ""
     },
     {
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-21T18:05:30.179717+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 4,
@@ -295,7 +303,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 4,
@@ -303,7 +311,7 @@
       "badge_id": ""
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -311,7 +319,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561199586661483",
       "display_name": "Tahiti",
       "prestige_level": 4,
@@ -319,7 +327,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "steam_id": "76561198068791763",
       "display_name": "Pawnax",
       "prestige_level": 4,
@@ -327,19 +335,11 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 4,
       "achieved_at": "2026-08-21T14:02:26.423318+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-21T17:39:25.488726+00:00",
       "badge_id": ""
     },
     {
