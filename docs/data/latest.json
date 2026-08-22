@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T06:59:58.4561384+00:00",
-    "fetched_at": "2026-08-22T07:00:47.502340+00:00",
+    "generated_at": "2026-08-22T07:14:58.4585563+00:00",
+    "fetched_at": "2026-08-22T07:15:32.014151+00:00",
     "total_entries": 123
   },
   "entries": [
@@ -40,19 +40,19 @@
     },
     {
       "rank": 5,
+      "steam_id": "76561198825962496",
+      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
+      "prestige_level": 28,
+      "achieved_at": "2026-08-22T07:01:16.776653+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 6,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 27,
       "achieved_at": "2026-08-21T23:04:51.043109+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 6,
-      "steam_id": "76561198825962496",
-      "display_name": "\u7ee7\u7eed\u5bfb\u627e",
-      "prestige_level": 27,
-      "achieved_at": "2026-08-22T04:32:10.034709+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 7,
@@ -72,27 +72,27 @@
     },
     {
       "rank": 9,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-21T11:45:48.18069+00:00",
-      "badge_id": "s3_top21"
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-22T07:01:49.292853+00:00",
+      "badge_id": ""
     },
     {
       "rank": 10,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-21T19:11:03.719673+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-22T07:06:38.472368+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 11,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
       "prestige_level": 22,
-      "achieved_at": "2026-08-22T06:29:03.997111+00:00",
-      "badge_id": ""
+      "achieved_at": "2026-08-21T11:45:48.18069+00:00",
+      "badge_id": "s3_top21"
     },
     {
       "rank": 12,
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-22T06:29:33.499514+00:00",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-22T07:08:04.262697+00:00",
       "badge_id": ""
     },
     {
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-22T07:00:20.828598+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 4,
@@ -383,7 +391,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -391,7 +399,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198068791763",
       "display_name": "Pawnax",
       "prestige_level": 4,
@@ -399,7 +407,7 @@
       "badge_id": ""
     },
     {
-      "rank": 50,
+      "rank": 51,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 4,
@@ -407,7 +415,7 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198067344110",
       "display_name": "Marxmen",
       "prestige_level": 4,
@@ -415,7 +423,7 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 4,
@@ -423,19 +431,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 4,
       "achieved_at": "2026-08-22T02:25:29.810089+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-22T06:41:01.275909+00:00",
       "badge_id": ""
     },
     {
