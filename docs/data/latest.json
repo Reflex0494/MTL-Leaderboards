@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T12:59:58.4535354+00:00",
-    "fetched_at": "2026-08-22T13:00:47.871752+00:00",
-    "total_entries": 133
+    "generated_at": "2026-08-22T13:14:58.4562539+00:00",
+    "fetched_at": "2026-08-22T13:15:31.333098+00:00",
+    "total_entries": 134
   },
   "entries": [
     {
@@ -18,16 +18,16 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-22T10:41:33.83833+00:00",
+      "prestige_level": 38,
+      "achieved_at": "2026-08-22T13:08:24.650963+00:00",
       "badge_id": "s3_first"
     },
     {
       "rank": 3,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-22T03:47:55.117873+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-22T13:09:19.895127+00:00",
       "badge_id": ""
     },
     {
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198019688879",
+      "display_name": "Thercio",
+      "prestige_level": 2,
+      "achieved_at": "2026-08-22T13:06:00.272692+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198386407295",
       "display_name": "\u0418\u0432\u044d\u043d",
       "prestige_level": 1,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561199290668085",
       "display_name": "ToxicDemon",
       "prestige_level": 1,
@@ -599,20 +607,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198038247454",
       "display_name": "xJonder",
       "prestige_level": 1,
       "achieved_at": "2026-08-20T20:51:34.045153+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561198019688879",
-      "display_name": "Thercio",
-      "prestige_level": 1,
-      "achieved_at": "2026-08-20T22:12:27.630965+00:00",
-      "badge_id": ""
     },
     {
       "rank": 77,
