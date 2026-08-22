@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T21:59:58.4545326+00:00",
-    "fetched_at": "2026-08-22T22:00:47.686087+00:00",
+    "generated_at": "2026-08-22T22:14:58.4568762+00:00",
+    "fetched_at": "2026-08-22T22:15:31.543621+00:00",
     "total_entries": 149
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-22T21:14:34.09003+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-22T22:09:47.685997+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-22T20:18:42.053959+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-22T22:06:05.020178+00:00",
       "badge_id": ""
     },
     {
