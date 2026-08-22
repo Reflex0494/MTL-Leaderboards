@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T00:14:58.4551797+00:00",
-    "fetched_at": "2026-08-22T00:15:27.640712+00:00",
+    "generated_at": "2026-08-22T00:29:58.4552907+00:00",
+    "fetched_at": "2026-08-22T00:30:42.116234+00:00",
     "total_entries": 110
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-21T23:38:35.257937+00:00",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-22T00:25:20.281168+00:00",
       "badge_id": ""
     },
     {
@@ -200,6 +200,14 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561199012821096",
+      "display_name": "Dixon mayaz",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-22T00:21:12.229337+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 26,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 8,
@@ -207,19 +215,11 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 8,
       "achieved_at": "2026-08-21T20:41:42.186082+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561199012821096",
-      "display_name": "Dixon mayaz",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-22T00:03:17.853092+00:00",
       "badge_id": ""
     },
     {
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-22T00:28:01.979528+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 2,
@@ -439,20 +447,12 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
       "achieved_at": "2026-08-20T23:52:18.296265+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-21T00:36:35.013651+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 57,
