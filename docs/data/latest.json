@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T19:44:58.4536369+00:00",
-    "fetched_at": "2026-08-22T19:45:33.567942+00:00",
-    "total_entries": 146
+    "generated_at": "2026-08-22T19:59:58.4555902+00:00",
+    "fetched_at": "2026-08-22T20:00:44.741987+00:00",
+    "total_entries": 147
   },
   "entries": [
     {
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-22T19:00:59.50932+00:00",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-22T19:55:25.208623+00:00",
       "badge_id": ""
     },
     {
@@ -208,19 +208,19 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-22T19:50:07.34121+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 27,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 13,
       "achieved_at": "2026-08-22T16:58:39.008139+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-22T19:14:30.050996+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 28,
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198037672566",
+      "display_name": "\u795eChronicTM",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-22T19:48:51.246135+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 2,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
@@ -551,19 +559,11 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
       "prestige_level": 2,
       "achieved_at": "2026-08-21T12:56:54.80816+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198037672566",
-      "display_name": "\u795eChronicTM",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-21T17:18:40.857356+00:00",
       "badge_id": ""
     },
     {
