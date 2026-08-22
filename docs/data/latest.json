@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T06:14:58.4593647+00:00",
-    "fetched_at": "2026-08-22T06:15:29.856016+00:00",
-    "total_entries": 122
+    "generated_at": "2026-08-22T06:29:58.4561114+00:00",
+    "fetched_at": "2026-08-22T06:30:41.311095+00:00",
+    "total_entries": 123
   },
   "entries": [
     {
@@ -90,8 +90,8 @@
       "rank": 11,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-22T05:58:55.563903+00:00",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-22T06:29:03.997111+00:00",
       "badge_id": ""
     },
     {
@@ -176,6 +176,14 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-22T06:29:33.499514+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -183,7 +191,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 12,
@@ -191,19 +199,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 12,
       "achieved_at": "2026-08-22T04:19:34.73726+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-22T05:54:33.589001+00:00",
       "badge_id": ""
     },
     {
