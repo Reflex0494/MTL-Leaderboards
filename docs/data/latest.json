@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T20:44:58.4531009+00:00",
-    "fetched_at": "2026-08-22T20:45:28.114164+00:00",
-    "total_entries": 148
+    "generated_at": "2026-08-22T20:59:58.4561051+00:00",
+    "fetched_at": "2026-08-22T21:00:50.250859+00:00",
+    "total_entries": 149
   },
   "entries": [
     {
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-22T20:07:34.579302+00:00",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-22T20:59:22.711073+00:00",
       "badge_id": ""
     },
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-22T20:19:26.518868+00:00",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-22T20:56:16.317478+00:00",
       "badge_id": ""
     },
     {
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198107255403",
+      "display_name": "Astra",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-22T20:52:39.698301+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 8,
@@ -311,19 +319,11 @@
       "badge_id": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 8,
       "achieved_at": "2026-08-22T13:39:53.667521+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561198107255403",
-      "display_name": "Astra",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-22T20:31:55.884592+00:00",
       "badge_id": ""
     },
     {
@@ -752,6 +752,14 @@
     },
     {
       "rank": 94,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 1,
+      "achieved_at": "2026-08-22T20:44:59.621576+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 95,
       "steam_id": "76561198291597375",
       "display_name": "LostInGreen #Bestrust",
       "prestige_level": 0,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198180943895",
       "display_name": "Moon",
       "prestige_level": 0,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198146529778",
       "display_name": "Kiu",
       "prestige_level": 0,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561197983469834",
       "display_name": "erf",
       "prestige_level": 0,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561197988919701",
       "display_name": "HypFox",
       "prestige_level": 0,
@@ -791,19 +799,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198069103017",
       "display_name": "K\u00f6rperKult",
       "prestige_level": 0,
       "achieved_at": "2026-08-20T20:59:24.464881+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561197997070133",
-      "display_name": "FearParadise",
-      "prestige_level": 0,
-      "achieved_at": "2026-08-20T21:18:06.110341+00:00",
       "badge_id": ""
     }
   ]
