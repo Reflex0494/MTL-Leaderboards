@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T18:29:58.4559847+00:00",
-    "fetched_at": "2026-08-22T18:30:38.120445+00:00",
+    "generated_at": "2026-08-22T18:44:58.4527564+00:00",
+    "fetched_at": "2026-08-22T18:45:27.763690+00:00",
     "total_entries": 143
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-22T17:34:41.355202+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-22T18:36:44.180408+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-22T17:37:51.970092+00:00",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-22T18:43:01.145405+00:00",
       "badge_id": ""
     },
     {
@@ -232,27 +232,27 @@
     },
     {
       "rank": 29,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-22T18:14:29.372954+00:00",
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-22T18:35:27.380127+00:00",
       "badge_id": ""
     },
     {
       "rank": 30,
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-22T18:38:51.611585+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 11,
       "achieved_at": "2026-08-22T18:22:01.927846+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 31,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-22T18:22:46.796193+00:00",
-      "badge_id": ""
     },
     {
       "rank": 32,
