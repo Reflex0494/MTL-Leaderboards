@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T23:29:58.4528498+00:00",
-    "fetched_at": "2026-08-22T23:30:40.772532+00:00",
+    "generated_at": "2026-08-22T23:44:58.4545991+00:00",
+    "fetched_at": "2026-08-22T23:45:27.459015+00:00",
     "total_entries": 151
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-22T11:37:36.15057+00:00",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-22T23:39:42.432694+00:00",
       "badge_id": ""
     },
     {
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-22T23:43:59.754727+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -287,7 +295,7 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 10,
@@ -295,19 +303,11 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 10,
       "achieved_at": "2026-08-22T21:29:15.37661+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-22T23:20:24.979994+00:00",
       "badge_id": ""
     },
     {
@@ -336,6 +336,14 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-22T23:40:22.126202+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 43,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 7,
@@ -343,19 +351,11 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
       "achieved_at": "2026-08-22T03:15:46.352834+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-22T23:16:35.456463+00:00",
       "badge_id": ""
     },
     {
