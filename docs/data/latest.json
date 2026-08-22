@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T20:14:58.4556861+00:00",
-    "fetched_at": "2026-08-22T20:15:31.706426+00:00",
-    "total_entries": 147
+    "generated_at": "2026-08-22T20:29:58.4557551+00:00",
+    "fetched_at": "2026-08-22T20:30:41.482953+00:00",
+    "total_entries": 148
   },
   "entries": [
     {
@@ -104,18 +104,18 @@
     },
     {
       "rank": 13,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-22T11:39:39.61718+00:00",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-22T20:18:42.053959+00:00",
       "badge_id": ""
     },
     {
       "rank": 14,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
       "prestige_level": 22,
-      "achieved_at": "2026-08-22T19:43:04.52269+00:00",
+      "achieved_at": "2026-08-22T11:39:39.61718+00:00",
       "badge_id": ""
     },
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-22T02:36:37.073359+00:00",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-22T20:19:26.518868+00:00",
       "badge_id": ""
     },
     {
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-22T20:29:13.77728+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 5,
@@ -423,19 +431,11 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
       "achieved_at": "2026-08-21T23:24:33.236773+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-22T20:07:27.105497+00:00",
       "badge_id": ""
     },
     {
