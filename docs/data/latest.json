@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T02:44:58.4565366+00:00",
-    "fetched_at": "2026-08-22T02:45:32.230449+00:00",
-    "total_entries": 116
+    "generated_at": "2026-08-22T02:59:58.4567354+00:00",
+    "fetched_at": "2026-08-22T03:00:48.229703+00:00",
+    "total_entries": 117
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-22T02:03:48.648675+00:00",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-22T02:59:50.315758+00:00",
       "badge_id": ""
     },
     {
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-22T01:30:42.5281+00:00",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-22T02:59:54.299947+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -408,6 +408,14 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-22T02:58:21.341294+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -415,7 +423,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 3,
@@ -423,7 +431,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
@@ -431,19 +439,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 3,
       "achieved_at": "2026-08-21T19:24:05.689261+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-22T02:26:10.694178+00:00",
       "badge_id": ""
     },
     {
