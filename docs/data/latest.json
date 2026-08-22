@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T04:44:58.45641+00:00",
-    "fetched_at": "2026-08-22T04:45:29.278723+00:00",
+    "generated_at": "2026-08-22T04:59:58.4583755+00:00",
+    "fetched_at": "2026-08-22T05:00:49.473106+00:00",
     "total_entries": 119
   },
   "entries": [
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-22T04:56:32.335034+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 8,
@@ -231,7 +239,7 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 8,
@@ -239,19 +247,11 @@
       "badge_id": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 8,
       "achieved_at": "2026-08-22T01:08:36.743768+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 31,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-22T04:37:41.183258+00:00",
       "badge_id": ""
     },
     {
