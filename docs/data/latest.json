@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T16:59:58.4551227+00:00",
-    "fetched_at": "2026-08-22T17:00:47.831945+00:00",
+    "generated_at": "2026-08-22T17:14:58.4566942+00:00",
+    "fetched_at": "2026-08-22T17:15:30.201812+00:00",
     "total_entries": 141
   },
   "entries": [
@@ -392,6 +392,14 @@
     },
     {
       "rank": 49,
+      "steam_id": "76561198019688879",
+      "display_name": "Thercio",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-22T17:01:40.4091+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 50,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 5,
@@ -399,19 +407,11 @@
       "badge_id": ""
     },
     {
-      "rank": 50,
+      "rank": 51,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
       "achieved_at": "2026-08-21T23:24:33.236773+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 51,
-      "steam_id": "76561198019688879",
-      "display_name": "Thercio",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-22T15:58:06.56227+00:00",
       "badge_id": ""
     },
     {
@@ -480,6 +480,14 @@
     },
     {
       "rank": 60,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-22T17:11:24.99249+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 61,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -487,7 +495,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 3,
@@ -495,7 +503,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
@@ -503,19 +511,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 3,
       "achieved_at": "2026-08-22T14:29:11.60901+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-22T16:43:45.63132+00:00",
       "badge_id": ""
     },
     {
