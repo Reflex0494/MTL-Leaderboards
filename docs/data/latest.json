@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T18:14:58.4546191+00:00",
-    "fetched_at": "2026-08-22T18:15:28.019860+00:00",
+    "generated_at": "2026-08-22T18:29:58.4559847+00:00",
+    "fetched_at": "2026-08-22T18:30:38.120445+00:00",
     "total_entries": 143
   },
   "entries": [
@@ -240,6 +240,22 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-22T18:22:01.927846+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 31,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-22T18:22:46.796193+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 32,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -247,7 +263,7 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 33,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 10,
@@ -255,27 +271,11 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 34,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 10,
       "achieved_at": "2026-08-22T16:30:09.454295+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 33,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-22T18:00:01.236899+00:00",
-      "badge_id": "s3_top21"
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-22T18:11:40.770826+00:00",
       "badge_id": ""
     },
     {
