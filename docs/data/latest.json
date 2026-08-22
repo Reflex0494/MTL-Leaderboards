@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T04:59:58.4583755+00:00",
-    "fetched_at": "2026-08-22T05:00:49.473106+00:00",
+    "generated_at": "2026-08-22T05:14:58.4559029+00:00",
+    "fetched_at": "2026-08-22T05:15:31.566651+00:00",
     "total_entries": 119
   },
   "entries": [
@@ -216,19 +216,19 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-22T05:11:45.33497+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 9,
       "achieved_at": "2026-08-20T23:41:19.032724+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-22T04:56:32.335034+00:00",
-      "badge_id": ""
     },
     {
       "rank": 29,
@@ -344,6 +344,14 @@
     },
     {
       "rank": 43,
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-22T05:01:55.373417+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 44,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 5,
@@ -351,19 +359,11 @@
       "badge_id": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
       "achieved_at": "2026-08-21T23:24:33.236773+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 45,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-22T04:23:13.366166+00:00",
       "badge_id": ""
     },
     {
