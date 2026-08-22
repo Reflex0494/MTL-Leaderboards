@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T14:14:58.4563364+00:00",
-    "fetched_at": "2026-08-22T14:15:31.702351+00:00",
+    "generated_at": "2026-08-22T14:29:58.455629+00:00",
+    "fetched_at": "2026-08-22T14:30:40.118273+00:00",
     "total_entries": 136
   },
   "entries": [
@@ -192,19 +192,19 @@
     },
     {
       "rank": 24,
+      "steam_id": "76561197974466515",
+      "display_name": "Mini Mongo",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-22T14:22:01.71851+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 25,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
       "achieved_at": "2026-08-20T23:04:38.315822+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561197974466515",
-      "display_name": "Mini Mongo",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-21T01:37:05.480525+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 26,
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198069261684",
+      "display_name": "Major Consnipe",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-22T14:29:11.60901+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 2,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
       "prestige_level": 2,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 2,
@@ -551,19 +559,11 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198012627060",
       "display_name": "HIM",
       "prestige_level": 2,
       "achieved_at": "2026-08-21T20:10:42.238727+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198069261684",
-      "display_name": "Major Consnipe",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-21T21:51:46.640593+00:00",
       "badge_id": ""
     },
     {
