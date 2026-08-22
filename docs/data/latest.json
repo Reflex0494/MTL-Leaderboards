@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T21:14:58.4561098+00:00",
-    "fetched_at": "2026-08-22T21:15:28.291605+00:00",
+    "generated_at": "2026-08-22T21:29:58.4553117+00:00",
+    "fetched_at": "2026-08-22T21:30:37.722725+00:00",
     "total_entries": 149
   },
   "entries": [
@@ -288,26 +288,26 @@
     },
     {
       "rank": 36,
-      "steam_id": "76561198128626580",
-      "display_name": "perfectly balanced entity",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-22T09:43:50.483704+00:00",
+      "steam_id": "76561198107255403",
+      "display_name": "Astra",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-22T21:16:50.117838+00:00",
       "badge_id": ""
     },
     {
       "rank": 37,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-22T20:39:34.964247+00:00",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-22T21:29:15.37661+00:00",
       "badge_id": ""
     },
     {
       "rank": 38,
-      "steam_id": "76561198107255403",
-      "display_name": "Astra",
+      "steam_id": "76561198128626580",
+      "display_name": "perfectly balanced entity",
       "prestige_level": 9,
-      "achieved_at": "2026-08-22T20:52:39.698301+00:00",
+      "achieved_at": "2026-08-22T09:43:50.483704+00:00",
       "badge_id": ""
     },
     {
