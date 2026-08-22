@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T15:14:58.4532184+00:00",
-    "fetched_at": "2026-08-22T15:15:31.407530+00:00",
+    "generated_at": "2026-08-22T15:29:58.4552418+00:00",
+    "fetched_at": "2026-08-22T15:30:40.104624+00:00",
     "total_entries": 136
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-22T14:02:39.044032+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-22T15:23:55.27046+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-22T15:17:27.178725+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 7,
@@ -295,19 +303,11 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 7,
       "achieved_at": "2026-08-21T11:17:26.594507+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-21T18:48:33.838922+00:00",
       "badge_id": ""
     },
     {
