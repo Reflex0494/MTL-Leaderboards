@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T17:44:58.4534911+00:00",
-    "fetched_at": "2026-08-22T17:45:28.776332+00:00",
+    "generated_at": "2026-08-22T17:59:58.4586574+00:00",
+    "fetched_at": "2026-08-22T18:00:45.638117+00:00",
     "total_entries": 143
   },
   "entries": [
@@ -160,6 +160,14 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-22T17:59:39.317577+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 16,
@@ -167,15 +175,15 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 21,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-21T23:32:35.201495+00:00",
+      "rank": 22,
+      "steam_id": "76561198071815550",
+      "display_name": "evozakira",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-22T17:52:33.651361+00:00",
       "badge_id": ""
     },
     {
-      "rank": 22,
+      "rank": 23,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 14,
@@ -183,7 +191,7 @@
       "badge_id": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 14,
@@ -191,19 +199,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 14,
       "achieved_at": "2026-08-22T16:05:31.091651+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198071815550",
-      "display_name": "evozakira",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-22T16:50:50.788333+00:00",
       "badge_id": ""
     },
     {
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-22T17:51:42.598909+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 7,
@@ -311,7 +319,7 @@
       "badge_id": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 7,
@@ -319,19 +327,11 @@
       "badge_id": ""
     },
     {
-      "rank": 40,
+      "rank": 41,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
       "achieved_at": "2026-08-22T03:15:46.352834+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 41,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-22T17:43:35.233075+00:00",
       "badge_id": ""
     },
     {
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198069261684",
+      "display_name": "Major Consnipe",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-22T17:47:45.832058+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -495,7 +503,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 3,
@@ -503,20 +511,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
       "achieved_at": "2026-08-21T16:32:15.570359+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561198069261684",
-      "display_name": "Major Consnipe",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-22T14:29:11.60901+00:00",
-      "badge_id": ""
     },
     {
       "rank": 65,
