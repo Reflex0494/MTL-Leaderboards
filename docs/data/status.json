@@ -1,10 +1,10 @@
 {
   "season": "s4",
   "fetchIntervalSeconds": 900,
-  "snapshotCount": 153,
+  "snapshotCount": 154,
   "lastFetch": {
     "ok": true,
-    "at": "2026-08-22T10:15:31.041280+00:00",
+    "at": "2026-08-22T10:31:27.424972+00:00",
     "error": null
   }
 }
