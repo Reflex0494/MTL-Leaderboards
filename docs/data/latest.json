@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T04:29:58.4562265+00:00",
-    "fetched_at": "2026-08-22T04:30:40.964015+00:00",
+    "generated_at": "2026-08-22T04:44:58.45641+00:00",
+    "fetched_at": "2026-08-22T04:45:29.278723+00:00",
     "total_entries": 119
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-22T03:05:29.930725+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-22T04:32:10.034709+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-22T03:01:32.295397+00:00",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-22T04:36:03.532325+00:00",
       "badge_id": ""
     },
     {
@@ -248,6 +248,14 @@
     },
     {
       "rank": 31,
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-22T04:37:41.183258+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 32,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 7,
@@ -255,7 +263,7 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 7,
@@ -263,7 +271,7 @@
       "badge_id": ""
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 7,
@@ -271,7 +279,7 @@
       "badge_id": ""
     },
     {
-      "rank": 34,
+      "rank": 35,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 7,
@@ -279,7 +287,7 @@
       "badge_id": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 7,
@@ -287,19 +295,11 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
       "achieved_at": "2026-08-22T03:15:46.352834+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-22T04:22:21.291137+00:00",
       "badge_id": ""
     },
     {
