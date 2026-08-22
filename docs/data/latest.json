@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T12:29:58.4541493+00:00",
-    "fetched_at": "2026-08-22T12:30:44.953299+00:00",
+    "generated_at": "2026-08-22T12:44:58.4564034+00:00",
+    "fetched_at": "2026-08-22T12:45:30.195058+00:00",
     "total_entries": 132
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-22T11:26:11.506244+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-22T12:42:54.90846+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-22T12:32:11.467283+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -223,7 +231,7 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 10,
@@ -231,19 +239,11 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 10,
       "achieved_at": "2026-08-22T09:10:32.76789+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-22T11:49:11.632087+00:00",
       "badge_id": ""
     },
     {
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198239660058",
+      "display_name": "Captain ins muuul",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-22T12:32:47.445902+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -471,7 +479,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 3,
@@ -479,20 +487,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
       "achieved_at": "2026-08-21T16:32:15.570359+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561198239660058",
-      "display_name": "Captain ins muuul",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-22T12:12:28.548923+00:00",
-      "badge_id": ""
     },
     {
       "rank": 62,
