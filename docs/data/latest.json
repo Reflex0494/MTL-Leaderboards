@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T07:29:58.4561618+00:00",
-    "fetched_at": "2026-08-23T07:30:41.952144+00:00",
+    "generated_at": "2026-08-23T07:44:58.4567647+00:00",
+    "fetched_at": "2026-08-23T07:45:27.892451+00:00",
     "total_entries": 164
   },
   "entries": [
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561198313821276",
+      "display_name": "adamkates23",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-23T07:37:49.656209+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 5,
@@ -455,7 +463,7 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -463,19 +471,11 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
       "achieved_at": "2026-08-22T22:28:37.981234+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561198313821276",
-      "display_name": "adamkates23",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-23T07:25:14.213489+00:00",
       "badge_id": ""
     },
     {
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198205187064",
+      "display_name": "Cannabis",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-23T07:44:01.944534+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -535,7 +543,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 3,
@@ -543,7 +551,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
@@ -551,7 +559,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 3,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198985390236",
       "display_name": "Tony Spermano",
       "prestige_level": 3,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 3,
@@ -575,19 +583,11 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198245777414",
       "display_name": "Benjabino",
       "prestige_level": 3,
       "achieved_at": "2026-08-23T03:58:09.695976+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 73,
-      "steam_id": "76561198205187064",
-      "display_name": "Cannabis",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-23T07:11:50.708622+00:00",
       "badge_id": ""
     },
     {
