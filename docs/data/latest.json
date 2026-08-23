@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T00:14:58.4558556+00:00",
-    "fetched_at": "2026-08-23T00:15:30.486383+00:00",
-    "total_entries": 151
+    "generated_at": "2026-08-23T00:29:58.4559478+00:00",
+    "fetched_at": "2026-08-23T00:30:39.710818+00:00",
+    "total_entries": 152
   },
   "entries": [
     {
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-23T00:25:07.218541+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -247,7 +255,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 12,
@@ -255,19 +263,11 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 12,
       "achieved_at": "2026-08-22T18:35:27.380127+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 33,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-22T21:31:26.617809+00:00",
       "badge_id": ""
     },
     {
