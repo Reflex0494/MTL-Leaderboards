@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T16:29:58.456198+00:00",
-    "fetched_at": "2026-08-23T16:30:41.071063+00:00",
+    "generated_at": "2026-08-23T16:44:58.4572143+00:00",
+    "fetched_at": "2026-08-23T16:45:34.583836+00:00",
     "total_entries": 178
   },
   "entries": [
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561198111301835",
+      "display_name": "Krzaczkowa \u015awinka",
+      "prestige_level": 2,
+      "achieved_at": "2026-08-23T16:40:08.053128+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198386407295",
       "display_name": "\u0418\u0432\u044d\u043d",
       "prestige_level": 1,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561199290668085",
       "display_name": "ToxicDemon",
       "prestige_level": 1,
@@ -727,7 +735,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198038247454",
       "display_name": "xJonder",
       "prestige_level": 1,
@@ -735,7 +743,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198067212073",
       "display_name": "Dingle Cumsplinter",
       "prestige_level": 1,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198110961384",
       "display_name": "Bread",
       "prestige_level": 1,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561199549488821",
       "display_name": "COD3BUG49",
       "prestige_level": 1,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198088869824",
       "display_name": "guacamolan",
       "prestige_level": 1,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 1,
@@ -775,7 +783,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198076913774",
       "display_name": "tennis racket",
       "prestige_level": 1,
@@ -783,7 +791,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198865045121",
       "display_name": "Coin958",
       "prestige_level": 1,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198072777248",
       "display_name": "YOUWILLSOONBEHEARINGGOD",
       "prestige_level": 1,
       "achieved_at": "2026-08-21T10:05:52.904118+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561199542953555",
-      "display_name": "Marcelow",
-      "prestige_level": 1,
-      "achieved_at": "2026-08-21T20:12:18.662986+00:00",
       "badge_id": ""
     }
   ]
