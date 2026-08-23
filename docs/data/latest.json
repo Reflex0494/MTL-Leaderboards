@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T21:59:58.4571336+00:00",
-    "fetched_at": "2026-08-23T22:00:48.336939+00:00",
-    "total_entries": 186
+    "generated_at": "2026-08-23T22:14:58.4536931+00:00",
+    "fetched_at": "2026-08-23T22:15:29.813734+00:00",
+    "total_entries": 188
   },
   "entries": [
     {
@@ -136,19 +136,19 @@
     },
     {
       "rank": 17,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-23T22:12:02.616819+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 18,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 24,
       "achieved_at": "2026-08-23T13:14:19.094849+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-23T21:18:12.372337+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 19,
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-23T14:01:24.524151+00:00",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-23T22:02:17.172182+00:00",
       "badge_id": ""
     },
     {
@@ -266,16 +266,16 @@
       "rank": 33,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-23T01:29:38.218867+00:00",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-23T22:00:30.89409+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-23T21:45:04.357976+00:00",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-23T22:14:39.016054+00:00",
       "badge_id": ""
     },
     {
