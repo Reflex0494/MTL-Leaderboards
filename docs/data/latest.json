@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T04:14:58.4567645+00:00",
-    "fetched_at": "2026-08-23T04:15:30.891192+00:00",
+    "generated_at": "2026-08-23T04:29:58.4565379+00:00",
+    "fetched_at": "2026-08-23T04:30:39.615866+00:00",
     "total_entries": 158
   },
   "entries": [
@@ -72,6 +72,14 @@
     },
     {
       "rank": 9,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 28,
+      "achieved_at": "2026-08-23T04:21:57.629857+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 10,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 27,
@@ -79,19 +87,11 @@
       "badge_id": ""
     },
     {
-      "rank": 10,
+      "rank": 11,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 27,
       "achieved_at": "2026-08-22T16:41:15.17478+00:00",
-      "badge_id": "s3_top21"
-    },
-    {
-      "rank": 11,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 27,
-      "achieved_at": "2026-08-23T03:00:06.540846+00:00",
       "badge_id": "s3_top21"
     },
     {
