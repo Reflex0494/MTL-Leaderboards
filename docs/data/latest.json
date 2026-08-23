@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T12:29:58.4561598+00:00",
-    "fetched_at": "2026-08-23T12:30:40.457805+00:00",
-    "total_entries": 167
+    "generated_at": "2026-08-23T12:44:58.4577548+00:00",
+    "fetched_at": "2026-08-23T12:45:30.444014+00:00",
+    "total_entries": 168
   },
   "entries": [
     {
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-22T22:20:19.450851+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-23T12:41:40.644665+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-23T12:38:33.280868+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 16,
@@ -231,20 +239,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 16,
       "achieved_at": "2026-08-23T00:01:12.256033+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-23T10:00:37.575406+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 31,
