@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T13:14:58.4557476+00:00",
-    "fetched_at": "2026-08-23T13:15:30.401330+00:00",
+    "generated_at": "2026-08-23T13:29:58.4527354+00:00",
+    "fetched_at": "2026-08-23T13:30:37.503776+00:00",
     "total_entries": 168
   },
   "entries": [
@@ -160,19 +160,19 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-23T13:16:56.58165+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 21,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 21,
       "achieved_at": "2026-08-23T03:42:04.879258+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 21,
-      "steam_id": "76561198014221839",
-      "display_name": "Drunken.Canadian",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-23T09:31:56.434654+00:00",
-      "badge_id": ""
     },
     {
       "rank": 22,
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-23T13:17:44.985204+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 7,
@@ -383,7 +391,7 @@
       "badge_id": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -391,19 +399,11 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 7,
       "achieved_at": "2026-08-23T07:54:32.334229+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 50,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-23T13:03:56.795997+00:00",
       "badge_id": ""
     },
     {
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198257293500",
+      "display_name": "Dylan Helms",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-23T13:16:52.853271+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 2,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
       "prestige_level": 2,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198012627060",
       "display_name": "HIM",
       "prestige_level": 2,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 2,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198115664096",
       "display_name": "John",
       "prestige_level": 2,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561199035288484",
       "display_name": "Tckerr",
       "prestige_level": 2,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198100985065",
       "display_name": "CartopApple0",
       "prestige_level": 2,
       "achieved_at": "2026-08-23T06:46:28.645946+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561198257293500",
-      "display_name": "Dylan Helms",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-23T12:50:43.463832+00:00",
       "badge_id": ""
     },
     {
