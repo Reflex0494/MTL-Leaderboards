@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T03:44:58.4557613+00:00",
-    "fetched_at": "2026-08-23T03:45:30.948763+00:00",
+    "generated_at": "2026-08-23T03:59:58.4564675+00:00",
+    "fetched_at": "2026-08-23T04:00:47.484166+00:00",
     "total_entries": 158
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-23T03:04:28.715294+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-23T03:47:45.401577+00:00",
       "badge_id": ""
     },
     {
@@ -560,6 +560,14 @@
     },
     {
       "rank": 70,
+      "steam_id": "76561198245777414",
+      "display_name": "Benjabino",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-23T03:58:09.695976+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 71,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 2,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
       "prestige_level": 2,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198012627060",
       "display_name": "HIM",
       "prestige_level": 2,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 2,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198115664096",
       "display_name": "John",
       "prestige_level": 2,
       "achieved_at": "2026-08-22T11:46:05.589275+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198245777414",
-      "display_name": "Benjabino",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-22T13:53:26.983697+00:00",
       "badge_id": ""
     },
     {
