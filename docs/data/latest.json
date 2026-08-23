@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T11:14:58.4558986+00:00",
-    "fetched_at": "2026-08-23T11:15:32.625416+00:00",
+    "generated_at": "2026-08-23T11:29:58.4555949+00:00",
+    "fetched_at": "2026-08-23T11:30:39.063198+00:00",
     "total_entries": 166
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-23T10:32:49.628927+00:00",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-23T11:26:12.681014+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -368,6 +368,14 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-23T11:22:27.015041+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 47,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 7,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
       "achieved_at": "2026-08-22T03:15:46.352834+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-23T07:06:07.799729+00:00",
       "badge_id": ""
     },
     {
