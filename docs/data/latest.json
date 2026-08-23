@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T01:59:58.4528837+00:00",
-    "fetched_at": "2026-08-23T02:00:46.896079+00:00",
-    "total_entries": 156
+    "generated_at": "2026-08-23T02:14:58.4560761+00:00",
+    "fetched_at": "2026-08-23T02:15:32.087458+00:00",
+    "total_entries": 157
   },
   "entries": [
     {
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-23T01:24:21.37807+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-23T02:00:37.664196+00:00",
       "badge_id": ""
     },
     {
@@ -336,18 +336,18 @@
     },
     {
       "rank": 42,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-22T01:08:36.743768+00:00",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-23T02:02:03.309201+00:00",
       "badge_id": ""
     },
     {
       "rank": 43,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
       "prestige_level": 8,
-      "achieved_at": "2026-08-23T01:37:01.669211+00:00",
+      "achieved_at": "2026-08-22T01:08:36.743768+00:00",
       "badge_id": ""
     },
     {
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198390877152",
+      "display_name": "tht_slow6.0",
+      "prestige_level": 1,
+      "achieved_at": "2026-08-23T02:14:20.636106+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198291597375",
       "display_name": "LostInGreen #Bestrust",
       "prestige_level": 0,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198180943895",
       "display_name": "Moon",
       "prestige_level": 0,
       "achieved_at": "2026-08-20T19:09:37.281132+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198146529778",
-      "display_name": "Kiu",
-      "prestige_level": 0,
-      "achieved_at": "2026-08-20T19:12:19.423446+00:00",
       "badge_id": ""
     }
   ]
