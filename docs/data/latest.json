@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T09:59:58.4554876+00:00",
-    "fetched_at": "2026-08-23T10:00:49.390928+00:00",
+    "generated_at": "2026-08-23T10:14:58.4550233+00:00",
+    "fetched_at": "2026-08-23T10:15:30.267491+00:00",
     "total_entries": 165
   },
   "entries": [
@@ -240,19 +240,19 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-23T10:00:37.575406+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 31,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 15,
       "achieved_at": "2026-08-23T01:29:38.218867+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 31,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-23T08:26:13.805566+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 32,
