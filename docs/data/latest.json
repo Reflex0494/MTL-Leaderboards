@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T07:59:58.4526344+00:00",
-    "fetched_at": "2026-08-23T08:00:45.858828+00:00",
+    "generated_at": "2026-08-23T08:14:58.4560896+00:00",
+    "fetched_at": "2026-08-23T08:15:26.950411+00:00",
     "total_entries": 164
   },
   "entries": [
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-23T07:07:33.754039+00:00",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-23T08:04:52.996957+00:00",
       "badge_id": ""
     },
     {
@@ -346,8 +346,8 @@
       "rank": 43,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-22T09:43:50.483704+00:00",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-23T08:00:45.60188+00:00",
       "badge_id": ""
     },
     {
@@ -480,6 +480,14 @@
     },
     {
       "rank": 60,
+      "steam_id": "76561198205187064",
+      "display_name": "Cannabis",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-23T08:06:44.737953+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 61,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 4,
@@ -487,7 +495,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -495,7 +503,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198067344110",
       "display_name": "Marxmen",
       "prestige_level": 4,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 4,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 4,
@@ -519,19 +527,11 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198169919917",
       "display_name": "KillahKyle",
       "prestige_level": 4,
       "achieved_at": "2026-08-23T06:24:33.753213+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198205187064",
-      "display_name": "Cannabis",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-23T07:44:01.944534+00:00",
       "badge_id": ""
     },
     {
