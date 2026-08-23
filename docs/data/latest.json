@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T14:14:58.4533635+00:00",
-    "fetched_at": "2026-08-23T14:15:30.116438+00:00",
+    "generated_at": "2026-08-23T14:29:58.4554862+00:00",
+    "fetched_at": "2026-08-23T14:30:38.389610+00:00",
     "total_entries": 175
   },
   "entries": [
@@ -120,18 +120,18 @@
     },
     {
       "rank": 15,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-23T01:09:40.792543+00:00",
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-23T14:28:26.175451+00:00",
       "badge_id": ""
     },
     {
       "rank": 16,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 26,
-      "achieved_at": "2026-08-23T13:54:10.491254+00:00",
+      "achieved_at": "2026-08-23T01:09:40.792543+00:00",
       "badge_id": ""
     },
     {
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198257293500",
+      "display_name": "Dylan Helms",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-23T14:19:06.205871+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -471,7 +479,7 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -479,19 +487,11 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 5,
       "achieved_at": "2026-08-23T08:06:44.737953+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561198257293500",
-      "display_name": "Dylan Helms",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-23T13:57:38.634432+00:00",
       "badge_id": ""
     },
     {
