@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T09:29:58.455076+00:00",
-    "fetched_at": "2026-08-23T09:30:37.077474+00:00",
+    "generated_at": "2026-08-23T09:44:58.4548495+00:00",
+    "fetched_at": "2026-08-23T09:45:26.960411+00:00",
     "total_entries": 165
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-23T08:24:49.797063+00:00",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-23T09:35:35.557651+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-22T22:09:47.685997+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-08-23T09:34:05.543185+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -56,6 +56,14 @@
     },
     {
       "rank": 7,
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-23T09:39:23.491146+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 8,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 30,
@@ -63,20 +71,12 @@
       "badge_id": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 30,
       "achieved_at": "2026-08-23T06:44:40.337653+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 9,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-23T08:37:23.517021+00:00",
-      "badge_id": ""
     },
     {
       "rank": 10,
@@ -168,18 +168,18 @@
     },
     {
       "rank": 21,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-23T01:56:39.114541+00:00",
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-23T09:31:56.434654+00:00",
       "badge_id": ""
     },
     {
       "rank": 22,
-      "steam_id": "76561198014221839",
-      "display_name": "Drunken.Canadian",
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
       "prestige_level": 20,
-      "achieved_at": "2026-08-23T05:02:16.719589+00:00",
+      "achieved_at": "2026-08-23T01:56:39.114541+00:00",
       "badge_id": ""
     },
     {
