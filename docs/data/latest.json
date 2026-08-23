@@ -1,17 +1,17 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T16:14:58.454741+00:00",
-    "fetched_at": "2026-08-23T16:15:31.975188+00:00",
-    "total_entries": 177
+    "generated_at": "2026-08-23T16:29:58.456198+00:00",
+    "fetched_at": "2026-08-23T16:30:41.071063+00:00",
+    "total_entries": 178
   },
   "entries": [
     {
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 52,
-      "achieved_at": "2026-08-23T13:58:18.034655+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-08-23T16:15:34.180596+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -40,6 +40,14 @@
     },
     {
       "rank": 5,
+      "steam_id": "76561198119563776",
+      "display_name": "Pois",
+      "prestige_level": 36,
+      "achieved_at": "2026-08-23T16:16:05.013946+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 6,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 35,
@@ -47,19 +55,11 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 6,
-      "steam_id": "76561198119563776",
-      "display_name": "Pois",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-23T15:31:53.301517+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 7,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-23T15:33:18.327961+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-23T16:28:22.019702+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -360,6 +360,14 @@
     },
     {
       "rank": 45,
+      "steam_id": "76561198321234198",
+      "display_name": "mmffkk000",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-23T16:25:28.666838+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 46,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -367,7 +375,7 @@
       "badge_id": ""
     },
     {
-      "rank": 46,
+      "rank": 47,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 8,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 8,
       "achieved_at": "2026-08-23T13:17:44.985204+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198321234198",
-      "display_name": "mmffkk000",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-23T16:12:19.54491+00:00",
       "badge_id": ""
     },
     {
