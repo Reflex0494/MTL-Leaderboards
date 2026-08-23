@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-22T23:44:58.4545991+00:00",
-    "fetched_at": "2026-08-22T23:45:27.459015+00:00",
+    "generated_at": "2026-08-22T23:59:58.4541664+00:00",
+    "fetched_at": "2026-08-23T00:00:50.089304+00:00",
     "total_entries": 151
   },
   "entries": [
@@ -104,18 +104,18 @@
     },
     {
       "rank": 13,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-22T22:06:05.020178+00:00",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-22T23:47:53.216689+00:00",
       "badge_id": ""
     },
     {
       "rank": 14,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
       "prestige_level": 24,
-      "achieved_at": "2026-08-22T23:00:09.446272+00:00",
+      "achieved_at": "2026-08-22T22:06:05.020178+00:00",
       "badge_id": ""
     },
     {
@@ -232,6 +232,14 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-22T23:51:57.59632+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 30,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -239,7 +247,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 12,
@@ -247,7 +255,7 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 12,
@@ -255,19 +263,11 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 12,
       "achieved_at": "2026-08-22T21:31:26.617809+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 33,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-22T22:41:06.574779+00:00",
       "badge_id": ""
     },
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198313821276",
+      "display_name": "adamkates23",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-22T23:53:21.394584+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 2,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
       "prestige_level": 2,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198012627060",
       "display_name": "HIM",
       "prestige_level": 2,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 2,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 2,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198115664096",
       "display_name": "John",
       "prestige_level": 2,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198245777414",
       "display_name": "Benjabino",
       "prestige_level": 2,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561199035288484",
       "display_name": "Tckerr",
       "prestige_level": 2,
       "achieved_at": "2026-08-22T22:52:31.957415+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198313821276",
-      "display_name": "adamkates23",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-22T23:29:15.802241+00:00",
       "badge_id": ""
     },
     {
