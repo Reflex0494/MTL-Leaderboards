@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T08:29:58.4596464+00:00",
-    "fetched_at": "2026-08-23T08:30:38.408660+00:00",
+    "generated_at": "2026-08-23T08:44:58.4547148+00:00",
+    "fetched_at": "2026-08-23T08:45:35.623224+00:00",
     "total_entries": 165
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-23T07:47:13.095705+00:00",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-23T08:37:23.517021+00:00",
       "badge_id": ""
     },
     {
@@ -232,18 +232,18 @@
     },
     {
       "rank": 29,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-23T01:29:38.218867+00:00",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-23T08:33:52.096442+00:00",
       "badge_id": ""
     },
     {
       "rank": 30,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
       "prestige_level": 15,
-      "achieved_at": "2026-08-23T04:30:48.490259+00:00",
+      "achieved_at": "2026-08-23T01:29:38.218867+00:00",
       "badge_id": ""
     },
     {
