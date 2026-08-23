@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T15:44:58.456397+00:00",
-    "fetched_at": "2026-08-23T15:45:28.927586+00:00",
+    "generated_at": "2026-08-23T15:59:58.4592599+00:00",
+    "fetched_at": "2026-08-23T16:00:50.121727+00:00",
     "total_entries": 177
   },
   "entries": [
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-23T15:54:46.599276+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 17,
@@ -223,7 +231,7 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 17,
@@ -231,20 +239,12 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 17,
       "achieved_at": "2026-08-23T14:58:30.911934+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-23T15:17:29.929594+00:00",
-      "badge_id": ""
     },
     {
       "rank": 31,
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-23T15:49:00.676938+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 60,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -479,7 +487,7 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -487,20 +495,12 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 5,
       "achieved_at": "2026-08-23T08:06:44.737953+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-23T15:35:52.130324+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 63,
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561197970965822",
+      "display_name": "Mus",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-23T15:53:55.387831+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -559,7 +567,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 3,
@@ -567,7 +575,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
@@ -575,7 +583,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 3,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198985390236",
       "display_name": "Tony Spermano",
       "prestige_level": 3,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 3,
@@ -599,20 +607,12 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198245777414",
       "display_name": "Benjabino",
       "prestige_level": 3,
       "achieved_at": "2026-08-23T03:58:09.695976+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561197970965822",
-      "display_name": "Mus",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-23T15:02:45.785316+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 77,
