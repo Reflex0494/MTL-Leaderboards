@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T02:44:58.4531528+00:00",
-    "fetched_at": "2026-08-23T02:45:30.134023+00:00",
-    "total_entries": 157
+    "generated_at": "2026-08-23T02:59:58.4528783+00:00",
+    "fetched_at": "2026-08-23T03:00:47.436150+00:00",
+    "total_entries": 158
   },
   "entries": [
     {
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-23T01:18:04.227096+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-23T02:45:45.399193+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-22T22:36:44.398629+00:00",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-23T02:58:34.76738+00:00",
       "badge_id": ""
     },
     {
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561198291597375",
-      "display_name": "LostInGreen #Bestrust",
-      "prestige_level": 0,
-      "achieved_at": "2026-08-20T18:55:29.525583+00:00",
+      "steam_id": "76561198205187064",
+      "display_name": "Cannabis",
+      "prestige_level": 1,
+      "achieved_at": "2026-08-23T02:45:58.412131+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561198180943895",
-      "display_name": "Moon",
+      "steam_id": "76561198291597375",
+      "display_name": "LostInGreen #Bestrust",
       "prestige_level": 0,
-      "achieved_at": "2026-08-20T19:09:37.281132+00:00",
+      "achieved_at": "2026-08-20T18:55:29.525583+00:00",
       "badge_id": ""
     }
   ]
