@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T21:29:58.4570431+00:00",
-    "fetched_at": "2026-08-23T21:30:39.911439+00:00",
-    "total_entries": 185
+    "generated_at": "2026-08-23T21:44:58.4558802+00:00",
+    "fetched_at": "2026-08-23T21:45:27.608286+00:00",
+    "total_entries": 186
   },
   "entries": [
     {
@@ -192,6 +192,14 @@
     },
     {
       "rank": 24,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-23T21:38:45.78036+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 25,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -199,20 +207,12 @@
       "badge_id": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 19,
       "achieved_at": "2026-08-23T19:15:21.846912+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 26,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-23T21:18:05.514858+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 27,
@@ -370,8 +370,8 @@
       "rank": 46,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-23T00:04:07.262228+00:00",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-23T21:38:02.114529+00:00",
       "badge_id": ""
     },
     {
