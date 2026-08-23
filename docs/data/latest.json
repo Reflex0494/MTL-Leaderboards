@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T22:14:58.4536931+00:00",
-    "fetched_at": "2026-08-23T22:15:29.813734+00:00",
+    "generated_at": "2026-08-23T22:29:58.4569311+00:00",
+    "fetched_at": "2026-08-23T22:30:41.615085+00:00",
     "total_entries": 188
   },
   "entries": [
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-23T21:58:37.533117+00:00",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-23T22:16:56.952413+00:00",
       "badge_id": ""
     },
     {
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561198257293500",
+      "display_name": "Dylan Helms",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-23T22:19:07.23248+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198090798622",
       "display_name": "bAGHOUAROUIK",
       "prestige_level": 6,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198111972817",
       "display_name": "==OCEAN==",
       "prestige_level": 6,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561199586661483",
       "display_name": "Tahiti",
       "prestige_level": 6,
@@ -447,7 +455,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198068791763",
       "display_name": "Pawnax",
       "prestige_level": 6,
@@ -455,7 +463,7 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198019688879",
       "display_name": "Thercio",
       "prestige_level": 6,
@@ -463,20 +471,12 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 6,
       "achieved_at": "2026-08-23T00:58:41.320217+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561198257293500",
-      "display_name": "Dylan Helms",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-23T14:19:06.205871+00:00",
-      "badge_id": ""
     },
     {
       "rank": 60,
