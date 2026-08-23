@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T13:29:58.4527354+00:00",
-    "fetched_at": "2026-08-23T13:30:37.503776+00:00",
-    "total_entries": 168
+    "generated_at": "2026-08-23T13:44:58.4558277+00:00",
+    "fetched_at": "2026-08-23T13:45:28.660414+00:00",
+    "total_entries": 172
   },
   "entries": [
     {
@@ -48,19 +48,19 @@
     },
     {
       "rank": 6,
+      "steam_id": "76561198119563776",
+      "display_name": "Pois",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-23T13:44:24.446632+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 7,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
       "prestige_level": 33,
       "achieved_at": "2026-08-23T07:59:10.69152+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 7,
-      "steam_id": "76561198119563776",
-      "display_name": "Pois",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-23T12:55:38.789717+00:00",
-      "badge_id": ""
     },
     {
       "rank": 8,
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561198257293500",
+      "display_name": "Dylan Helms",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-23T13:41:31.974448+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -543,7 +551,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 3,
@@ -551,7 +559,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
@@ -559,7 +567,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 3,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198985390236",
       "display_name": "Tony Spermano",
       "prestige_level": 3,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 3,
@@ -583,19 +591,11 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198245777414",
       "display_name": "Benjabino",
       "prestige_level": 3,
       "achieved_at": "2026-08-23T03:58:09.695976+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198257293500",
-      "display_name": "Dylan Helms",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-23T13:16:52.853271+00:00",
       "badge_id": ""
     },
     {
