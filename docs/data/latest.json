@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T04:59:58.455677+00:00",
-    "fetched_at": "2026-08-23T05:00:48.313024+00:00",
+    "generated_at": "2026-08-23T05:14:58.4569509+00:00",
+    "fetched_at": "2026-08-23T05:15:28.591392+00:00",
     "total_entries": 159
   },
   "entries": [
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-22T22:57:19.883058+00:00",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-23T05:02:16.719589+00:00",
       "badge_id": ""
     },
     {
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-23T01:29:38.218867+00:00",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-23T05:13:47.572013+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
       "prestige_level": 15,
-      "achieved_at": "2026-08-23T02:41:09.875236+00:00",
+      "achieved_at": "2026-08-23T01:29:38.218867+00:00",
       "badge_id": ""
     },
     {
