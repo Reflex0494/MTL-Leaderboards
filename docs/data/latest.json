@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T00:29:58.4559478+00:00",
-    "fetched_at": "2026-08-23T00:30:39.710818+00:00",
+    "generated_at": "2026-08-23T00:44:58.4542136+00:00",
+    "fetched_at": "2026-08-23T00:45:27.625858+00:00",
     "total_entries": 152
   },
   "entries": [
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-23T00:35:31.053965+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 13,
@@ -223,19 +231,11 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 13,
       "achieved_at": "2026-08-22T19:18:02.97455+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-22T23:51:57.59632+00:00",
       "badge_id": ""
     },
     {
