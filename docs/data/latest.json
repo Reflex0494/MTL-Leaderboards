@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T17:29:58.456963+00:00",
-    "fetched_at": "2026-08-24T17:30:41.047507+00:00",
-    "total_entries": 219
+    "generated_at": "2026-08-24T17:44:58.4562874+00:00",
+    "fetched_at": "2026-08-24T17:45:36.145336+00:00",
+    "total_entries": 220
   },
   "entries": [
     {
@@ -240,18 +240,18 @@
     },
     {
       "rank": 30,
-      "steam_id": "76561198107255403",
-      "display_name": "Astra",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-23T07:52:57.025677+00:00",
+      "steam_id": "76561198071815550",
+      "display_name": "evozakira",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-24T17:31:25.287625+00:00",
       "badge_id": ""
     },
     {
       "rank": 31,
-      "steam_id": "76561198071815550",
-      "display_name": "evozakira",
+      "steam_id": "76561198107255403",
+      "display_name": "Astra",
       "prestige_level": 19,
-      "achieved_at": "2026-08-23T19:15:21.846912+00:00",
+      "achieved_at": "2026-08-23T07:52:57.025677+00:00",
       "badge_id": ""
     },
     {
