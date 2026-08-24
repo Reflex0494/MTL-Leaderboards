@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T21:29:58.4585326+00:00",
-    "fetched_at": "2026-08-24T21:30:42.838785+00:00",
+    "generated_at": "2026-08-24T21:44:58.4575453+00:00",
+    "fetched_at": "2026-08-24T21:45:26.347971+00:00",
     "total_entries": 224
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 52,
-      "achieved_at": "2026-08-23T21:19:36.467642+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-08-24T21:30:27.911625+00:00",
       "badge_id": ""
     },
     {
@@ -160,19 +160,19 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-24T21:43:10.290559+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 25,
       "achieved_at": "2026-08-24T13:48:35.08569+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 21,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-24T20:58:24.564069+00:00",
-      "badge_id": ""
     },
     {
       "rank": 22,
