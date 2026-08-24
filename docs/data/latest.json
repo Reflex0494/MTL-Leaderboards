@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T10:44:58.4562194+00:00",
-    "fetched_at": "2026-08-24T10:45:30.499346+00:00",
-    "total_entries": 210
+    "generated_at": "2026-08-24T10:59:58.4555299+00:00",
+    "fetched_at": "2026-08-24T11:00:49.570702+00:00",
+    "total_entries": 211
   },
   "entries": [
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-24T03:35:31.017027+00:00",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-24T10:49:56.173661+00:00",
       "badge_id": ""
     },
     {
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-23T20:10:46.539982+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-24T10:57:42.218674+00:00",
       "badge_id": ""
     },
     {
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-24T10:45:02.794578+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -639,7 +647,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
@@ -647,19 +655,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198985390236",
       "display_name": "Tony Spermano",
       "prestige_level": 3,
       "achieved_at": "2026-08-22T20:11:41.722057+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-23T03:18:01.244409+00:00",
       "badge_id": ""
     },
     {
