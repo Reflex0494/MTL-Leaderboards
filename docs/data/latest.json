@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T18:29:58.4564297+00:00",
-    "fetched_at": "2026-08-24T18:30:41.710051+00:00",
+    "generated_at": "2026-08-24T18:44:58.4527503+00:00",
+    "fetched_at": "2026-08-24T18:45:32.540995+00:00",
     "total_entries": 220
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-24T16:53:02.391523+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-24T18:31:31.566665+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-24T01:44:08.182192+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-24T18:43:30.127845+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -248,6 +248,14 @@
     },
     {
       "rank": 31,
+      "steam_id": "76561198136863936",
+      "display_name": "BusterBear",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-24T18:42:46.207853+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 32,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -255,7 +263,7 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 19,
@@ -263,20 +271,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 19,
       "achieved_at": "2026-08-24T03:51:36.285649+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561198136863936",
-      "display_name": "BusterBear",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-24T05:09:19.596945+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 35,
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561197970965822",
+      "display_name": "Mus",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-24T18:41:14.837011+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -583,7 +591,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198067344110",
       "display_name": "Marxmen",
       "prestige_level": 4,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 4,
@@ -599,20 +607,12 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 4,
       "achieved_at": "2026-08-22T17:47:45.832058+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561197970965822",
-      "display_name": "Mus",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-23T15:53:55.387831+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 77,
