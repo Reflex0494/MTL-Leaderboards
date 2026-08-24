@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T09:44:58.4564198+00:00",
-    "fetched_at": "2026-08-24T09:45:28.105632+00:00",
-    "total_entries": 208
+    "generated_at": "2026-08-24T09:59:58.4556448+00:00",
+    "fetched_at": "2026-08-24T10:00:50.554058+00:00",
+    "total_entries": 209
   },
   "entries": [
     {
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561199012821096",
-      "display_name": "Dixon mayaz",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-23T08:04:52.996957+00:00",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-24T09:59:10.741772+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
+      "steam_id": "76561199012821096",
+      "display_name": "Dixon mayaz",
       "prestige_level": 20,
-      "achieved_at": "2026-08-24T03:46:05.732435+00:00",
+      "achieved_at": "2026-08-23T08:04:52.996957+00:00",
       "badge_id": ""
     },
     {
@@ -314,8 +314,8 @@
       "rank": 39,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-23T20:36:52.821082+00:00",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-24T09:55:15.54171+00:00",
       "badge_id": ""
     },
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198205187064",
+      "display_name": "Cannabis",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-24T09:51:51.921396+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -551,19 +559,11 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
       "achieved_at": "2026-08-22T22:28:37.981234+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198205187064",
-      "display_name": "Cannabis",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-23T08:06:44.737953+00:00",
       "badge_id": ""
     },
     {
