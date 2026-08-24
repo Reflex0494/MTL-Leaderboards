@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T22:29:58.4561646+00:00",
-    "fetched_at": "2026-08-24T22:30:39.132548+00:00",
+    "generated_at": "2026-08-24T22:44:58.4574357+00:00",
+    "fetched_at": "2026-08-24T22:45:28.944035+00:00",
     "total_entries": 227
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-24T21:09:41.424951+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-24T22:31:25.134637+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-24T22:43:34.108331+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561199275038351",
       "display_name": "cope.exe",
       "prestige_level": 5,
@@ -599,15 +607,15 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
+      "rank": 76,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
       "prestige_level": 5,
-      "achieved_at": "2026-08-24T21:50:06.650402+00:00",
+      "achieved_at": "2026-08-24T22:38:08.922847+00:00",
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -615,7 +623,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198067344110",
       "display_name": "Marxmen",
       "prestige_level": 4,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 4,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 4,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 4,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 4,
@@ -655,19 +663,11 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561199433160725",
       "display_name": "CRACKKA_MAN",
       "prestige_level": 4,
       "achieved_at": "2026-08-24T04:07:29.494485+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-24T22:25:22.221982+00:00",
       "badge_id": ""
     },
     {
