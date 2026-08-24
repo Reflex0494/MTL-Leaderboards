@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T11:29:58.4529689+00:00",
-    "fetched_at": "2026-08-24T11:30:44.114834+00:00",
+    "generated_at": "2026-08-24T11:44:58.45836+00:00",
+    "fetched_at": "2026-08-24T11:45:37.999839+00:00",
     "total_entries": 212
   },
   "entries": [
@@ -112,18 +112,18 @@
     },
     {
       "rank": 14,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-24T01:40:50.107197+00:00",
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-24T11:33:02.352718+00:00",
       "badge_id": ""
     },
     {
       "rank": 15,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 31,
-      "achieved_at": "2026-08-24T10:57:42.218674+00:00",
+      "achieved_at": "2026-08-24T01:40:50.107197+00:00",
       "badge_id": ""
     },
     {
@@ -168,6 +168,14 @@
     },
     {
       "rank": 21,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-24T11:30:41.568477+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 22,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 23,
@@ -175,20 +183,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 23,
       "achieved_at": "2026-08-23T19:58:57.062846+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-24T10:41:30.880276+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 24,
