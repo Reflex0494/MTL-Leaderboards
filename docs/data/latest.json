@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T10:29:58.4575934+00:00",
-    "fetched_at": "2026-08-24T10:30:38.991113+00:00",
-    "total_entries": 209
+    "generated_at": "2026-08-24T10:44:58.4562194+00:00",
+    "fetched_at": "2026-08-24T10:45:30.499346+00:00",
+    "total_entries": 210
   },
   "entries": [
     {
@@ -184,6 +184,14 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-24T10:41:30.880276+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 24,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 22,
@@ -191,20 +199,12 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 22,
       "achieved_at": "2026-08-23T22:16:56.952413+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-24T10:05:17.192144+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 26,
@@ -282,8 +282,8 @@
       "rank": 35,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-24T10:22:13.203604+00:00",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-24T10:43:09.104673+00:00",
       "badge_id": ""
     },
     {
