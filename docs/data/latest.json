@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T18:44:58.4527503+00:00",
-    "fetched_at": "2026-08-24T18:45:32.540995+00:00",
-    "total_entries": 220
+    "generated_at": "2026-08-24T18:59:58.4569941+00:00",
+    "fetched_at": "2026-08-24T19:00:58.219863+00:00",
+    "total_entries": 221
   },
   "entries": [
     {
@@ -146,16 +146,16 @@
       "rank": 18,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 27,
-      "achieved_at": "2026-08-24T03:17:44.463897+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-08-24T18:57:14.587124+00:00",
       "badge_id": ""
     },
     {
       "rank": 19,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-24T16:46:55.791455+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-24T18:46:04.970518+00:00",
       "badge_id": ""
     },
     {
@@ -560,6 +560,14 @@
     },
     {
       "rank": 70,
+      "steam_id": "76561197970965822",
+      "display_name": "Mus",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-24T18:56:26.18087+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 71,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -575,15 +583,15 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
-      "steam_id": "76561197970965822",
-      "display_name": "Mus",
+      "rank": 73,
+      "steam_id": "76561198073010642",
+      "display_name": "BzH | TwinKy",
       "prestige_level": 5,
-      "achieved_at": "2026-08-24T18:41:14.837011+00:00",
-      "badge_id": "og"
+      "achieved_at": "2026-08-24T18:51:55.714458+00:00",
+      "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -591,7 +599,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198067344110",
       "display_name": "Marxmen",
       "prestige_level": 4,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 4,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 4,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 4,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 4,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561199433160725",
       "display_name": "CRACKKA_MAN",
       "prestige_level": 4,
@@ -639,19 +647,11 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 4,
       "achieved_at": "2026-08-24T10:45:02.794578+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198073010642",
-      "display_name": "BzH | TwinKy",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-24T18:01:15.819609+00:00",
       "badge_id": ""
     },
     {
