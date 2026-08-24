@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T09:29:58.4535867+00:00",
-    "fetched_at": "2026-08-24T09:30:44.867649+00:00",
+    "generated_at": "2026-08-24T09:44:58.4564198+00:00",
+    "fetched_at": "2026-08-24T09:45:28.105632+00:00",
     "total_entries": 208
   },
   "entries": [
@@ -128,19 +128,19 @@
     },
     {
       "rank": 16,
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-24T09:38:49.082135+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 17,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 28,
       "achieved_at": "2026-08-24T01:44:08.182192+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 17,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-24T06:27:10.731565+00:00",
-      "badge_id": ""
     },
     {
       "rank": 18,
@@ -200,6 +200,14 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-24T09:39:15.201078+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 26,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -207,20 +215,12 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 20,
       "achieved_at": "2026-08-24T03:46:05.732435+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-24T07:12:09.771851+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 28,
