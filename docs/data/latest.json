@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T14:29:58.4557173+00:00",
-    "fetched_at": "2026-08-24T14:30:40.490589+00:00",
+    "generated_at": "2026-08-24T14:44:58.4663317+00:00",
+    "fetched_at": "2026-08-24T14:45:31.638544+00:00",
     "total_entries": 215
   },
   "entries": [
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198050317829",
+      "display_name": "Kameleon",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-24T14:32:31.288621+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
       "achieved_at": "2026-08-22T22:28:37.981234+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198050317829",
-      "display_name": "Kameleon",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-24T14:20:56.887952+00:00",
       "badge_id": ""
     },
     {
