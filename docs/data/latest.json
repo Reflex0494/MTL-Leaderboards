@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T18:14:58.4569927+00:00",
-    "fetched_at": "2026-08-24T18:15:30.555215+00:00",
+    "generated_at": "2026-08-24T18:29:58.4564297+00:00",
+    "fetched_at": "2026-08-24T18:30:41.710051+00:00",
     "total_entries": 220
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-24T16:56:34.133978+00:00",
+      "prestige_level": 38,
+      "achieved_at": "2026-08-24T18:18:16.042123+00:00",
       "badge_id": ""
     },
     {
