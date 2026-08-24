@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T13:14:58.4563753+00:00",
-    "fetched_at": "2026-08-24T13:15:30.012393+00:00",
-    "total_entries": 214
+    "generated_at": "2026-08-24T13:29:58.4576038+00:00",
+    "fetched_at": "2026-08-24T13:30:41.294463+00:00",
+    "total_entries": 215
   },
   "entries": [
     {
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-24T12:48:35.440499+00:00",
+      "prestige_level": 38,
+      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
       "badge_id": ""
     },
     {
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-24T13:19:59.692193+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -231,7 +239,7 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 19,
@@ -239,7 +247,7 @@
       "badge_id": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 19,
@@ -247,7 +255,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 19,
@@ -255,20 +263,12 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 19,
       "achieved_at": "2026-08-24T05:09:19.596945+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 33,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-24T12:36:27.605194+00:00",
-      "badge_id": ""
     },
     {
       "rank": 34,
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198404143581",
+      "display_name": "ChaoticWinta",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-24T13:26:50.821672+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -471,7 +479,7 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198090798622",
       "display_name": "bAGHOUAROUIK",
       "prestige_level": 6,
@@ -479,7 +487,7 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198111972817",
       "display_name": "==OCEAN==",
       "prestige_level": 6,
@@ -487,7 +495,7 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561199586661483",
       "display_name": "Tahiti",
       "prestige_level": 6,
@@ -495,7 +503,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198068791763",
       "display_name": "Pawnax",
       "prestige_level": 6,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198019688879",
       "display_name": "Thercio",
       "prestige_level": 6,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 6,
@@ -519,19 +527,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198169919917",
       "display_name": "KillahKyle",
       "prestige_level": 6,
       "achieved_at": "2026-08-23T19:03:31.815659+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198404143581",
-      "display_name": "ChaoticWinta",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-24T00:26:20.221826+00:00",
       "badge_id": ""
     },
     {
