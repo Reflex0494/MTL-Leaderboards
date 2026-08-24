@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T07:14:58.456462+00:00",
-    "fetched_at": "2026-08-24T07:15:30.442069+00:00",
+    "generated_at": "2026-08-24T07:29:58.4566618+00:00",
+    "fetched_at": "2026-08-24T07:30:41.386957+00:00",
     "total_entries": 207
   },
   "entries": [
@@ -72,6 +72,14 @@
     },
     {
       "rank": 9,
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-24T07:23:13.207617+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 10,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 34,
@@ -79,20 +87,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 34,
       "achieved_at": "2026-08-24T06:35:48.619547+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 11,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-24T06:40:12.928665+00:00",
-      "badge_id": ""
     },
     {
       "rank": 12,
@@ -304,18 +304,18 @@
     },
     {
       "rank": 38,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-23T20:36:52.821082+00:00",
+      "steam_id": "76561198173409838",
+      "display_name": "CookieNagato",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-24T07:21:51.856833+00:00",
       "badge_id": ""
     },
     {
       "rank": 39,
-      "steam_id": "76561198173409838",
-      "display_name": "CookieNagato",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
       "prestige_level": 13,
-      "achieved_at": "2026-08-24T07:04:24.92371+00:00",
+      "achieved_at": "2026-08-23T20:36:52.821082+00:00",
       "badge_id": ""
     },
     {
