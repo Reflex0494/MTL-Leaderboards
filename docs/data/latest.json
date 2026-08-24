@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T05:59:58.4551136+00:00",
-    "fetched_at": "2026-08-24T06:00:49.216163+00:00",
-    "total_entries": 206
+    "generated_at": "2026-08-24T06:14:58.4576025+00:00",
+    "fetched_at": "2026-08-24T06:15:32.005997+00:00",
+    "total_entries": 207
   },
   "entries": [
     {
@@ -96,18 +96,18 @@
     },
     {
       "rank": 12,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-24T03:35:31.017027+00:00",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-24T06:08:55.500816+00:00",
       "badge_id": ""
     },
     {
       "rank": 13,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
       "prestige_level": 32,
-      "achieved_at": "2026-08-24T05:14:56.405762+00:00",
+      "achieved_at": "2026-08-24T03:35:31.017027+00:00",
       "badge_id": ""
     },
     {
