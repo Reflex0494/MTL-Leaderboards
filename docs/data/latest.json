@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T12:29:58.4603184+00:00",
-    "fetched_at": "2026-08-24T12:30:41.610039+00:00",
+    "generated_at": "2026-08-24T12:44:58.456428+00:00",
+    "fetched_at": "2026-08-24T12:45:31.129153+00:00",
     "total_entries": 214
   },
   "entries": [
@@ -266,8 +266,8 @@
       "rank": 33,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-23T10:15:02.036809+00:00",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-24T12:36:27.605194+00:00",
       "badge_id": ""
     },
     {
