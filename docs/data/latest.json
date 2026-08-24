@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T02:59:58.4566816+00:00",
-    "fetched_at": "2026-08-24T03:00:55.750790+00:00",
-    "total_entries": 202
+    "generated_at": "2026-08-24T03:14:58.4578952+00:00",
+    "fetched_at": "2026-08-24T03:15:28.107412+00:00",
+    "total_entries": 203
   },
   "entries": [
     {
@@ -776,6 +776,22 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198081404484",
+      "display_name": "Maggie",
+      "prestige_level": 2,
+      "achieved_at": "2026-08-24T03:09:24.205552+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
+      "steam_id": "76561198108766360",
+      "display_name": "Fat Little Ugly Chud",
+      "prestige_level": 2,
+      "achieved_at": "2026-08-24T03:14:31.654023+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198386407295",
       "display_name": "\u0418\u0432\u044d\u043d",
       "prestige_level": 1,
@@ -783,28 +799,12 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 100,
       "steam_id": "76561199290668085",
       "display_name": "ToxicDemon",
       "prestige_level": 1,
       "achieved_at": "2026-08-20T20:48:44.434862+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561198038247454",
-      "display_name": "xJonder",
-      "prestige_level": 1,
-      "achieved_at": "2026-08-20T20:51:34.045153+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198067212073",
-      "display_name": "Dingle Cumsplinter",
-      "prestige_level": 1,
-      "achieved_at": "2026-08-20T23:32:20.630513+00:00",
-      "badge_id": ""
     }
   ]
 }
