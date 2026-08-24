@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T03:59:58.4538576+00:00",
-    "fetched_at": "2026-08-24T04:00:48.449784+00:00",
+    "generated_at": "2026-08-24T04:14:58.4573139+00:00",
+    "fetched_at": "2026-08-24T04:15:28.843656+00:00",
     "total_entries": 203
   },
   "entries": [
@@ -608,6 +608,14 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561199433160725",
+      "display_name": "CRACKKA_MAN",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-24T04:07:29.494485+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -615,7 +623,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 3,
@@ -623,7 +631,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198985390236",
       "display_name": "Tony Spermano",
       "prestige_level": 3,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 3,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198245777414",
       "display_name": "Benjabino",
       "prestige_level": 3,
@@ -647,19 +655,11 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561199275038351",
       "display_name": "cope.exe",
       "prestige_level": 3,
       "achieved_at": "2026-08-24T02:18:19.799175+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561199433160725",
-      "display_name": "CRACKKA_MAN",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-24T03:45:01.057925+00:00",
       "badge_id": ""
     },
     {
