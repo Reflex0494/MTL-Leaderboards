@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T07:29:58.4566618+00:00",
-    "fetched_at": "2026-08-24T07:30:41.386957+00:00",
+    "generated_at": "2026-08-24T07:44:58.4571528+00:00",
+    "fetched_at": "2026-08-24T07:45:31.337000+00:00",
     "total_entries": 207
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-24T06:40:17.723863+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-24T07:37:17.309338+00:00",
       "badge_id": "s3_first"
     },
     {
