@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T14:59:58.4588224+00:00",
-    "fetched_at": "2026-08-24T15:00:54.991711+00:00",
+    "generated_at": "2026-08-24T15:14:58.4576501+00:00",
+    "fetched_at": "2026-08-24T15:15:31.083606+00:00",
     "total_entries": 216
   },
   "entries": [
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-23T19:58:57.062846+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-24T15:10:01.633655+00:00",
       "badge_id": ""
     },
     {
