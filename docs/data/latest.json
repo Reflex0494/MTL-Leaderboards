@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-23T23:59:58.4577771+00:00",
-    "fetched_at": "2026-08-24T00:00:53.750233+00:00",
-    "total_entries": 194
+    "generated_at": "2026-08-24T00:14:58.4565164+00:00",
+    "fetched_at": "2026-08-24T00:15:26.799751+00:00",
+    "total_entries": 195
   },
   "entries": [
     {
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-23T04:21:57.629857+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-24T00:03:41.004435+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-24T00:06:06.715971+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198090798622",
       "display_name": "bAGHOUAROUIK",
       "prestige_level": 6,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198111972817",
       "display_name": "==OCEAN==",
       "prestige_level": 6,
@@ -447,7 +455,7 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561199586661483",
       "display_name": "Tahiti",
       "prestige_level": 6,
@@ -455,7 +463,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198068791763",
       "display_name": "Pawnax",
       "prestige_level": 6,
@@ -463,7 +471,7 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198019688879",
       "display_name": "Thercio",
       "prestige_level": 6,
@@ -471,7 +479,7 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 6,
@@ -479,7 +487,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 6,
@@ -487,20 +495,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198169919917",
       "display_name": "KillahKyle",
       "prestige_level": 6,
       "achieved_at": "2026-08-23T19:03:31.815659+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-23T23:43:12.807249+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 63,
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198404143581",
+      "display_name": "ChaoticWinta",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-24T00:04:16.916335+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -535,7 +543,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198067344110",
       "display_name": "Marxmen",
       "prestige_level": 4,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 4,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 4,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 4,
@@ -567,7 +575,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 4,
@@ -575,19 +583,11 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 4,
       "achieved_at": "2026-08-23T20:27:58.411755+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 73,
-      "steam_id": "76561198404143581",
-      "display_name": "ChaoticWinta",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-23T23:28:13.940319+00:00",
       "badge_id": ""
     },
     {
