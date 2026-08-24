@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T21:59:58.456568+00:00",
-    "fetched_at": "2026-08-24T22:00:47.396606+00:00",
+    "generated_at": "2026-08-24T22:14:58.4573336+00:00",
+    "fetched_at": "2026-08-24T22:15:31.356308+00:00",
     "total_entries": 225
   },
   "entries": [
@@ -10,16 +10,16 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 65,
-      "achieved_at": "2026-08-24T19:08:17.819849+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-08-24T22:09:41.887104+00:00",
       "badge_id": "s3_first"
     },
     {
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-24T21:21:11.108024+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-24T22:05:26.207737+00:00",
       "badge_id": ""
     },
     {
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-24T21:01:57.322977+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-24T22:07:43.130983+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -712,6 +712,22 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-24T22:02:58.237947+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
+      "steam_id": "76561197991651392",
+      "display_name": "RaincoatsGeorge",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-24T22:04:44.616377+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 91,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -719,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 92,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -727,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 93,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
@@ -735,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 94,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
       "prestige_level": 2,
@@ -743,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 95,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 2,
@@ -751,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 96,
       "steam_id": "76561198115664096",
       "display_name": "John",
       "prestige_level": 2,
@@ -759,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 97,
       "steam_id": "76561199035288484",
       "display_name": "Tckerr",
       "prestige_level": 2,
@@ -767,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 98,
       "steam_id": "76561198100985065",
       "display_name": "CartopApple0",
       "prestige_level": 2,
@@ -775,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 99,
       "steam_id": "76561198805477512",
       "display_name": "BlueOxel",
       "prestige_level": 2,
@@ -783,27 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 100,
       "steam_id": "76561197963769032",
       "display_name": "Gazelleboy",
       "prestige_level": 2,
       "achieved_at": "2026-08-23T16:09:54.887077+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561198111301835",
-      "display_name": "Krzaczkowa \u015awinka",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-23T16:40:08.053128+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198200705351",
-      "display_name": "Unknown",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-23T16:57:52.113588+00:00",
       "badge_id": ""
     }
   ]
