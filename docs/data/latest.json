@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T09:59:58.4556448+00:00",
-    "fetched_at": "2026-08-24T10:00:50.554058+00:00",
+    "generated_at": "2026-08-24T10:14:58.4565953+00:00",
+    "fetched_at": "2026-08-24T10:15:31.646662+00:00",
     "total_entries": 209
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-24T08:40:47.085929+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-24T10:04:49.384752+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -202,8 +202,8 @@
       "rank": 25,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-24T09:39:15.201078+00:00",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-24T10:05:17.192144+00:00",
       "badge_id": "s2_top21"
     },
     {
