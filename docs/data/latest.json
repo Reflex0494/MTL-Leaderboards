@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T22:59:58.4583537+00:00",
-    "fetched_at": "2026-08-24T23:00:47.141114+00:00",
-    "total_entries": 227
+    "generated_at": "2026-08-24T23:14:58.4593134+00:00",
+    "fetched_at": "2026-08-24T23:15:32.337326+00:00",
+    "total_entries": 229
   },
   "entries": [
     {
@@ -50,24 +50,24 @@
       "rank": 6,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-24T21:17:11.069236+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-24T23:05:49.532021+00:00",
       "badge_id": "s1_top21"
     },
     {
       "rank": 7,
-      "steam_id": "76561198119563776",
-      "display_name": "Pois",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-24T22:59:59.403723+00:00",
       "badge_id": ""
     },
     {
       "rank": 8,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
+      "steam_id": "76561198119563776",
+      "display_name": "Pois",
       "prestige_level": 38,
-      "achieved_at": "2026-08-24T18:18:16.042123+00:00",
+      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
       "badge_id": ""
     },
     {
@@ -120,6 +120,14 @@
     },
     {
       "rank": 15,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-24T23:05:31.988267+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 16,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 32,
@@ -127,19 +135,11 @@
       "badge_id": ""
     },
     {
-      "rank": 16,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-24T22:07:43.130983+00:00",
-      "badge_id": "s3_top21"
-    },
-    {
       "rank": 17,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-24T11:02:25.428553+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-24T23:11:02.433714+00:00",
       "badge_id": ""
     },
     {
