@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T03:14:58.4578952+00:00",
-    "fetched_at": "2026-08-24T03:15:28.107412+00:00",
+    "generated_at": "2026-08-24T03:29:58.456092+00:00",
+    "fetched_at": "2026-08-24T03:30:41.507870+00:00",
     "total_entries": 203
   },
   "entries": [
@@ -136,18 +136,18 @@
     },
     {
       "rank": 17,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-23T01:09:40.792543+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-24T03:17:44.463897+00:00",
       "badge_id": ""
     },
     {
       "rank": 18,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 26,
-      "achieved_at": "2026-08-24T02:24:47.062543+00:00",
+      "achieved_at": "2026-08-23T01:09:40.792543+00:00",
       "badge_id": ""
     },
     {
@@ -256,6 +256,14 @@
     },
     {
       "rank": 32,
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-24T03:20:19.862266+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 33,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 17,
@@ -263,20 +271,12 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 17,
       "achieved_at": "2026-08-24T01:16:15.791999+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-24T02:45:32.102191+00:00",
-      "badge_id": ""
     },
     {
       "rank": 35,
