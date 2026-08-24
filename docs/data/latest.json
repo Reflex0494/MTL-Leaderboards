@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T10:14:58.4565953+00:00",
-    "fetched_at": "2026-08-24T10:15:31.646662+00:00",
+    "generated_at": "2026-08-24T10:29:58.4575934+00:00",
+    "fetched_at": "2026-08-24T10:30:38.991113+00:00",
     "total_entries": 209
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-24T07:37:17.309338+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-24T10:24:17.433314+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -282,8 +282,8 @@
       "rank": 35,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-23T23:34:44.702568+00:00",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-24T10:22:13.203604+00:00",
       "badge_id": ""
     },
     {
@@ -296,6 +296,14 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-24T10:29:55.79603+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 14,
@@ -303,19 +311,11 @@
       "badge_id": ""
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 14,
       "achieved_at": "2026-08-24T07:21:51.856833+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-24T09:55:15.54171+00:00",
       "badge_id": ""
     },
     {
