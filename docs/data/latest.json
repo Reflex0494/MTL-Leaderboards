@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T07:59:58.4575897+00:00",
-    "fetched_at": "2026-08-24T08:00:47.504639+00:00",
-    "total_entries": 207
+    "generated_at": "2026-08-24T08:14:58.4562783+00:00",
+    "fetched_at": "2026-08-24T08:15:31.201617+00:00",
+    "total_entries": 208
   },
   "entries": [
     {
@@ -32,6 +32,14 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198058294530",
+      "display_name": "Jann Ivan 2xFly3",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-24T08:01:27.99173+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
       "prestige_level": 38,
@@ -39,20 +47,12 @@
       "badge_id": "s3_third"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 38,
       "achieved_at": "2026-08-24T04:58:52.830008+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 6,
-      "steam_id": "76561198058294530",
-      "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-24T06:59:40.372432+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 7,
@@ -386,8 +386,8 @@
       "rank": 48,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-23T21:12:55.427611+00:00",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-24T08:09:10.395439+00:00",
       "badge_id": "og"
     },
     {
