@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T16:44:58.45636+00:00",
-    "fetched_at": "2026-08-24T16:45:33.490720+00:00",
+    "generated_at": "2026-08-24T16:59:58.4544773+00:00",
+    "fetched_at": "2026-08-24T17:00:47.999813+00:00",
     "total_entries": 219
   },
   "entries": [
@@ -32,19 +32,19 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198058294530",
+      "display_name": "Jann Ivan 2xFly3",
+      "prestige_level": 42,
+      "achieved_at": "2026-08-24T16:53:02.391523+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
       "prestige_level": 41,
       "achieved_at": "2026-08-24T11:19:56.948765+00:00",
       "badge_id": "s3_third"
-    },
-    {
-      "rank": 5,
-      "steam_id": "76561198058294530",
-      "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 41,
-      "achieved_at": "2026-08-24T15:50:26.73933+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 6,
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 36,
-      "achieved_at": "2026-08-24T16:00:12.797561+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-08-24T16:56:34.133978+00:00",
       "badge_id": ""
     },
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-23T22:30:15.476768+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-24T16:46:55.791455+00:00",
       "badge_id": ""
     },
     {
