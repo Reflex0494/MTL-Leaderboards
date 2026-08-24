@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T13:44:58.4586042+00:00",
-    "fetched_at": "2026-08-24T13:45:28.824761+00:00",
+    "generated_at": "2026-08-24T13:59:58.4572224+00:00",
+    "fetched_at": "2026-08-24T14:00:51.604554+00:00",
     "total_entries": 215
   },
   "entries": [
@@ -160,6 +160,14 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-24T13:48:35.08569+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
       "prestige_level": 24,
@@ -167,20 +175,12 @@
       "badge_id": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 24,
       "achieved_at": "2026-08-24T11:30:41.568477+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-24T13:13:36.771976+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 23,
@@ -368,6 +368,14 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-24T13:57:43.581629+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 47,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -375,7 +383,7 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561198076913774",
       "display_name": "tennis racket",
       "prestige_level": 10,
@@ -383,19 +391,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 10,
       "achieved_at": "2026-08-24T08:09:10.395439+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 49,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-24T13:35:01.29033+00:00",
       "badge_id": "og"
     },
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198404143581",
+      "display_name": "ChaoticWinta",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-24T13:52:19.470233+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -447,7 +455,7 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -455,20 +463,12 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 7,
       "achieved_at": "2026-08-24T05:56:10.939057+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198404143581",
-      "display_name": "ChaoticWinta",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-24T13:26:50.821672+00:00",
-      "badge_id": ""
     },
     {
       "rank": 59,
