@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-24T12:44:58.456428+00:00",
-    "fetched_at": "2026-08-24T12:45:31.129153+00:00",
+    "generated_at": "2026-08-24T12:59:58.4562053+00:00",
+    "fetched_at": "2026-08-24T13:00:49.990895+00:00",
     "total_entries": 214
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
-      "prestige_level": 36,
-      "achieved_at": "2026-08-23T16:16:05.013946+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-08-24T12:48:35.440499+00:00",
       "badge_id": ""
     },
     {
