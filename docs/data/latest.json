@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T00:14:58.4570722+00:00",
-    "fetched_at": "2026-08-25T00:15:30.246741+00:00",
+    "generated_at": "2026-08-25T00:29:58.4575255+00:00",
+    "fetched_at": "2026-08-25T00:30:39.978621+00:00",
     "total_entries": 230
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 61,
-      "achieved_at": "2026-08-24T23:34:50.120051+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-08-25T00:24:35.205681+00:00",
       "badge_id": ""
     },
     {
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-24T23:28:46.176151+00:00",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-25T00:19:45.636222+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-24T22:59:59.403723+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-25T00:19:38.604015+00:00",
       "badge_id": ""
     },
     {
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T00:00:18.060228+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-25T00:27:27.332176+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-24T06:39:27.544747+00:00",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-25T00:22:09.857077+00:00",
       "badge_id": ""
     },
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-25T00:21:35.669199+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -439,19 +447,11 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 8,
       "achieved_at": "2026-08-24T02:21:23.768537+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-24T14:25:53.922057+00:00",
       "badge_id": "og"
     },
     {
