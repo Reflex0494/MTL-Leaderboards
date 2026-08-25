@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T19:29:58.4587136+00:00",
-    "fetched_at": "2026-08-25T19:30:39.904219+00:00",
+    "generated_at": "2026-08-25T19:44:58.456935+00:00",
+    "fetched_at": "2026-08-25T19:45:29.213225+00:00",
     "total_entries": 246
   },
   "entries": [
@@ -608,6 +608,22 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-25T19:34:23.989172+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-25T19:44:39.00519+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -615,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 79,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -623,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 80,
       "steam_id": "76561199275038351",
       "display_name": "cope.exe",
       "prestige_level": 5,
@@ -631,27 +647,11 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 81,
       "steam_id": "76561198125036904",
       "display_name": "Ryubiel",
       "prestige_level": 5,
       "achieved_at": "2026-08-25T01:17:58.598461+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 80,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-25T19:14:06.938479+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-25T19:23:31.698537+00:00",
       "badge_id": ""
     },
     {
