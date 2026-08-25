@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T23:14:58.4569518+00:00",
-    "fetched_at": "2026-08-25T23:15:32.989938+00:00",
+    "generated_at": "2026-08-25T23:29:58.4579559+00:00",
+    "fetched_at": "2026-08-25T23:30:39.327945+00:00",
     "total_entries": 253
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 41,
-      "achieved_at": "2026-08-25T05:58:25.673681+00:00",
+      "prestige_level": 42,
+      "achieved_at": "2026-08-25T23:15:15.00187+00:00",
       "badge_id": ""
     },
     {
@@ -354,8 +354,8 @@
       "rank": 44,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-25T00:36:38.9476+00:00",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-25T23:16:34.662628+00:00",
       "badge_id": ""
     },
     {
