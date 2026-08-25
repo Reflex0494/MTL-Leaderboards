@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T10:44:58.4573053+00:00",
-    "fetched_at": "2026-08-25T10:45:31.046280+00:00",
+    "generated_at": "2026-08-25T10:59:58.4576007+00:00",
+    "fetched_at": "2026-08-25T11:00:48.576315+00:00",
     "total_entries": 239
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 69,
-      "achieved_at": "2026-08-25T09:10:18.624458+00:00",
+      "prestige_level": 71,
+      "achieved_at": "2026-08-25T10:52:23.647301+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 27,
-      "achieved_at": "2026-08-25T09:53:49.292137+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-08-25T10:49:30.930069+00:00",
       "badge_id": "s2_top21"
     },
     {
