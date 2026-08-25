@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T03:14:58.4566793+00:00",
-    "fetched_at": "2026-08-25T03:15:30.040114+00:00",
+    "generated_at": "2026-08-25T03:29:58.458531+00:00",
+    "fetched_at": "2026-08-25T03:30:40.751060+00:00",
     "total_entries": 233
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 50,
-      "achieved_at": "2026-08-25T02:20:13.312458+00:00",
+      "prestige_level": 51,
+      "achieved_at": "2026-08-25T03:23:15.491218+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-25T03:28:42.160492+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561199275038351",
       "display_name": "cope.exe",
       "prestige_level": 5,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198125036904",
       "display_name": "Ryubiel",
       "prestige_level": 5,
       "achieved_at": "2026-08-25T01:17:58.598461+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-25T03:05:10.914277+00:00",
       "badge_id": ""
     },
     {
