@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T06:14:58.456178+00:00",
-    "fetched_at": "2026-08-25T06:15:35.087315+00:00",
+    "generated_at": "2026-08-25T06:29:58.4587415+00:00",
+    "fetched_at": "2026-08-25T06:30:38.776697+00:00",
     "total_entries": 235
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 66,
-      "achieved_at": "2026-08-25T05:31:36.525207+00:00",
+      "prestige_level": 67,
+      "achieved_at": "2026-08-25T06:22:00.339061+00:00",
       "badge_id": ""
     },
     {
@@ -360,6 +360,14 @@
     },
     {
       "rank": 45,
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-25T06:20:31.408528+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 46,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -367,7 +375,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 12,
       "achieved_at": "2026-08-23T18:32:56.510837+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-25T05:45:36.077135+00:00",
       "badge_id": ""
     },
     {
