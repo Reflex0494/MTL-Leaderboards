@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T02:29:58.4568801+00:00",
-    "fetched_at": "2026-08-25T02:30:44.261453+00:00",
+    "generated_at": "2026-08-25T02:44:58.4579202+00:00",
+    "fetched_at": "2026-08-25T02:45:31.623233+00:00",
     "total_entries": 233
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 64,
-      "achieved_at": "2026-08-25T02:02:37.427306+00:00",
+      "prestige_level": 65,
+      "achieved_at": "2026-08-25T02:43:37.386596+00:00",
       "badge_id": ""
     },
     {
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-24T21:20:44.544641+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-25T02:43:10.804208+00:00",
       "badge_id": ""
     },
     {
@@ -192,19 +192,19 @@
     },
     {
       "rank": 24,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-25T02:43:16.15807+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 25,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 23,
       "achieved_at": "2026-08-24T22:51:17.29421+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-25T02:18:31.210534+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 26,
@@ -336,6 +336,14 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561198076913774",
+      "display_name": "Spaceball Trooper",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-25T02:34:38.943869+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 43,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 13,
@@ -343,20 +351,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 13,
       "achieved_at": "2026-08-24T16:06:49.812194+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198076913774",
-      "display_name": "Spaceball Trooper",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-25T02:16:01.245506+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 45,
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-25T02:30:04.79617+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
       "prestige_level": 2,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 2,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198115664096",
       "display_name": "John",
       "prestige_level": 2,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561199035288484",
       "display_name": "Tckerr",
       "prestige_level": 2,
       "achieved_at": "2026-08-22T22:52:31.957415+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198100985065",
-      "display_name": "CartopApple0",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-23T06:46:28.645946+00:00",
       "badge_id": ""
     }
   ]
