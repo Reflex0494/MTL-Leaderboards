@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T13:14:58.4597785+00:00",
-    "fetched_at": "2026-08-25T13:15:31.126289+00:00",
+    "generated_at": "2026-08-25T13:29:58.4579682+00:00",
+    "fetched_at": "2026-08-25T13:30:39.500660+00:00",
     "total_entries": 240
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-25T01:20:29.309964+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-25T13:17:43.85969+00:00",
       "badge_id": ""
     },
     {
@@ -272,18 +272,18 @@
     },
     {
       "rank": 34,
-      "steam_id": "76561198107255403",
-      "display_name": "Astra",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-23T07:52:57.025677+00:00",
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-25T13:25:07.306405+00:00",
       "badge_id": ""
     },
     {
       "rank": 35,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
+      "steam_id": "76561198107255403",
+      "display_name": "Astra",
       "prestige_level": 19,
-      "achieved_at": "2026-08-25T13:03:52.155223+00:00",
+      "achieved_at": "2026-08-23T07:52:57.025677+00:00",
       "badge_id": ""
     },
     {
