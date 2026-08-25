@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T14:44:58.4620703+00:00",
-    "fetched_at": "2026-08-25T14:45:30.732357+00:00",
+    "generated_at": "2026-08-25T14:59:58.4566939+00:00",
+    "fetched_at": "2026-08-25T15:00:53.620764+00:00",
     "total_entries": 240
   },
   "entries": [
@@ -232,6 +232,14 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-25T14:45:40.839199+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 30,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 21,
@@ -239,19 +247,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
       "achieved_at": "2026-08-25T04:15:44.100455+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 31,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-25T13:30:50.110198+00:00",
       "badge_id": ""
     },
     {
@@ -336,6 +336,14 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-25T14:46:32.320264+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 43,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 14,
@@ -343,20 +351,12 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 14,
       "achieved_at": "2026-08-25T00:36:38.9476+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-25T14:15:15.134931+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 45,
