@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T08:44:58.4571948+00:00",
-    "fetched_at": "2026-08-25T08:45:28.277493+00:00",
+    "generated_at": "2026-08-25T08:59:58.4571429+00:00",
+    "fetched_at": "2026-08-25T09:00:46.857346+00:00",
     "total_entries": 237
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 70,
-      "achieved_at": "2026-08-25T08:22:48.470581+00:00",
+      "prestige_level": 71,
+      "achieved_at": "2026-08-25T08:55:16.81026+00:00",
       "badge_id": ""
     },
     {
@@ -304,18 +304,18 @@
     },
     {
       "rank": 38,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-24T02:02:46.799045+00:00",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-25T08:57:45.426092+00:00",
       "badge_id": ""
     },
     {
       "rank": 39,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
       "prestige_level": 15,
-      "achieved_at": "2026-08-25T00:22:09.857077+00:00",
+      "achieved_at": "2026-08-24T02:02:46.799045+00:00",
       "badge_id": ""
     },
     {
@@ -768,6 +768,14 @@
     },
     {
       "rank": 96,
+      "steam_id": "76561198150626390",
+      "display_name": "Bearbee",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-25T08:53:13.116031+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 97,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 2,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198072708366",
       "display_name": "The Nyankuza",
       "prestige_level": 2,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561199002469459",
       "display_name": "Rodkillre",
       "prestige_level": 2,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198113877220",
       "display_name": "Jean Vincent",
       "prestige_level": 2,
       "achieved_at": "2026-08-21T12:56:54.80816+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-22T01:50:36.093473+00:00",
       "badge_id": ""
     }
   ]
