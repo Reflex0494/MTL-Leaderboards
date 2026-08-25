@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T00:59:58.4597068+00:00",
-    "fetched_at": "2026-08-25T01:00:46.237358+00:00",
+    "generated_at": "2026-08-25T01:14:58.4542063+00:00",
+    "fetched_at": "2026-08-25T01:15:29.805180+00:00",
     "total_entries": 230
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 62,
-      "achieved_at": "2026-08-25T00:24:35.205681+00:00",
+      "prestige_level": 63,
+      "achieved_at": "2026-08-25T01:07:42.346401+00:00",
       "badge_id": ""
     },
     {
@@ -120,18 +120,18 @@
     },
     {
       "rank": 15,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-24T10:49:56.173661+00:00",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-25T01:10:27.08887+00:00",
       "badge_id": ""
     },
     {
       "rank": 16,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
       "prestige_level": 33,
-      "achieved_at": "2026-08-25T00:12:48.168088+00:00",
+      "achieved_at": "2026-08-24T10:49:56.173661+00:00",
       "badge_id": ""
     },
     {
@@ -152,18 +152,18 @@
     },
     {
       "rank": 19,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-24T23:22:51.288915+00:00",
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-25T01:05:36.008433+00:00",
       "badge_id": ""
     },
     {
       "rank": 20,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
       "prestige_level": 28,
-      "achieved_at": "2026-08-25T00:00:17.356579+00:00",
+      "achieved_at": "2026-08-24T23:22:51.288915+00:00",
       "badge_id": ""
     },
     {
@@ -204,7 +204,7 @@
       "display_name": "SCOTT_LAROT",
       "prestige_level": 22,
       "achieved_at": "2026-08-23T22:16:56.952413+00:00",
-      "badge_id": ""
+      "badge_id": "s2_top21"
     },
     {
       "rank": 26,
