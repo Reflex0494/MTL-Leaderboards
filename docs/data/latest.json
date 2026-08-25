@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T03:29:58.458531+00:00",
-    "fetched_at": "2026-08-25T03:30:40.751060+00:00",
+    "generated_at": "2026-08-25T03:44:58.4566116+00:00",
+    "fetched_at": "2026-08-25T03:45:33.103625+00:00",
     "total_entries": 233
   },
   "entries": [
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-25T02:25:17.147037+00:00",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-25T03:42:21.261244+00:00",
       "badge_id": ""
     },
     {
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-25T03:06:25.048933+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-25T03:31:46.698427+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-25T03:34:53.52359+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 60,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -479,7 +487,7 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -487,20 +495,12 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
       "achieved_at": "2026-08-24T05:10:28.834759+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-24T05:56:10.939057+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 63,
