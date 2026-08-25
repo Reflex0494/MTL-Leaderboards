@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T01:59:58.4572711+00:00",
-    "fetched_at": "2026-08-25T02:00:50.314193+00:00",
+    "generated_at": "2026-08-25T02:14:58.4592269+00:00",
+    "fetched_at": "2026-08-25T02:15:34.476550+00:00",
     "total_entries": 231
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-25T01:07:42.346401+00:00",
+      "prestige_level": 64,
+      "achieved_at": "2026-08-25T02:02:37.427306+00:00",
       "badge_id": ""
     },
     {
@@ -154,24 +154,24 @@
       "rank": 19,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-25T01:05:36.008433+00:00",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-25T02:02:01.660504+00:00",
       "badge_id": ""
     },
     {
       "rank": 20,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-24T23:22:51.288915+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-25T02:14:54.949168+00:00",
       "badge_id": ""
     },
     {
       "rank": 21,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
-      "prestige_level": 27,
-      "achieved_at": "2026-08-25T00:27:27.332176+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-08-25T02:03:46.792651+00:00",
       "badge_id": "s3_top21"
     },
     {
