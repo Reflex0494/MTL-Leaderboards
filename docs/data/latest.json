@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T08:14:58.457769+00:00",
-    "fetched_at": "2026-08-25T08:15:34.554881+00:00",
+    "generated_at": "2026-08-25T08:29:58.4586119+00:00",
+    "fetched_at": "2026-08-25T08:30:39.983064+00:00",
     "total_entries": 237
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 69,
-      "achieved_at": "2026-08-25T07:43:43.550761+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-08-25T08:22:48.470581+00:00",
       "badge_id": ""
     },
     {
@@ -96,6 +96,14 @@
     },
     {
       "rank": 12,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 36,
+      "achieved_at": "2026-08-25T08:29:17.838006+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 13,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 35,
@@ -103,20 +111,12 @@
       "badge_id": ""
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 35,
       "achieved_at": "2026-08-25T05:24:08.556459+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 14,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-25T07:15:42.424485+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 15,
