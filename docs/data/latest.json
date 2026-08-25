@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T16:44:58.4593164+00:00",
-    "fetched_at": "2026-08-25T16:45:31.056919+00:00",
+    "generated_at": "2026-08-25T16:59:58.4547391+00:00",
+    "fetched_at": "2026-08-25T17:00:54.863767+00:00",
     "total_entries": 242
   },
   "entries": [
@@ -41,9 +41,9 @@
     {
       "rank": 5,
       "steam_id": "76561198058294530",
-      "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-25T15:03:04.984604+00:00",
+      "display_name": "Jann Ivan",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-25T16:54:56.510569+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-25T14:42:34.85115+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-25T16:51:25.556004+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -144,18 +144,18 @@
     },
     {
       "rank": 18,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-25T03:47:37.030647+00:00",
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-25T16:46:35.533691+00:00",
       "badge_id": ""
     },
     {
       "rank": 19,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
       "prestige_level": 32,
-      "achieved_at": "2026-08-25T15:49:52.191117+00:00",
+      "achieved_at": "2026-08-25T03:47:37.030647+00:00",
       "badge_id": ""
     },
     {
