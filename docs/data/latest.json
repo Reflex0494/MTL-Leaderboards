@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T22:29:58.4572173+00:00",
-    "fetched_at": "2026-08-25T22:30:41.308988+00:00",
+    "generated_at": "2026-08-25T22:44:58.4575456+00:00",
+    "fetched_at": "2026-08-25T22:45:30.335436+00:00",
     "total_entries": 251
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 74,
-      "achieved_at": "2026-08-25T20:06:37.071641+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-08-25T22:39:33.697932+00:00",
       "badge_id": ""
     },
     {
@@ -56,18 +56,18 @@
     },
     {
       "rank": 7,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-25T09:31:47.829134+00:00",
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-25T22:43:26.471689+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 8,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
       "prestige_level": 42,
-      "achieved_at": "2026-08-25T20:55:07.592365+00:00",
+      "achieved_at": "2026-08-25T09:31:47.829134+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -202,8 +202,8 @@
       "rank": 25,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-25T21:37:14.302708+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
     },
     {
