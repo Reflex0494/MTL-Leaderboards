@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T09:44:58.4571249+00:00",
-    "fetched_at": "2026-08-25T09:45:32.245808+00:00",
+    "generated_at": "2026-08-25T09:59:58.4588659+00:00",
+    "fetched_at": "2026-08-25T10:00:49.030714+00:00",
     "total_entries": 237
   },
   "entries": [
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T08:40:50.015455+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-25T09:53:49.292137+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -392,19 +392,19 @@
     },
     {
       "rank": 49,
+      "steam_id": "76561198115990249",
+      "display_name": "Not Catualus \u2661",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-25T09:51:50.475494+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 50,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 11,
       "achieved_at": "2026-08-25T05:01:16.197528+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 50,
-      "steam_id": "76561198115990249",
-      "display_name": "Not Catualus \u2661",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-25T09:29:25.292551+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 51,
