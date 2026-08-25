@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T14:59:58.4566939+00:00",
-    "fetched_at": "2026-08-25T15:00:53.620764+00:00",
+    "generated_at": "2026-08-25T15:14:58.4579444+00:00",
+    "fetched_at": "2026-08-25T15:15:36.217954+00:00",
     "total_entries": 240
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 74,
-      "achieved_at": "2026-08-25T14:24:04.038175+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-08-25T15:10:35.395067+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 48,
-      "achieved_at": "2026-08-25T14:05:59.319878+00:00",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-25T15:03:04.984604+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -200,18 +200,18 @@
     },
     {
       "rank": 25,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-24T22:51:17.29421+00:00",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-25T15:04:50.322678+00:00",
       "badge_id": ""
     },
     {
       "rank": 26,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
       "prestige_level": 23,
-      "achieved_at": "2026-08-25T04:48:13.340968+00:00",
+      "achieved_at": "2026-08-24T22:51:17.29421+00:00",
       "badge_id": ""
     },
     {
