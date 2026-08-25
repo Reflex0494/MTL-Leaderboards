@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T05:44:58.4585017+00:00",
-    "fetched_at": "2026-08-25T05:45:29.408804+00:00",
+    "generated_at": "2026-08-25T05:59:58.4579893+00:00",
+    "fetched_at": "2026-08-25T06:00:46.052256+00:00",
     "total_entries": 235
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-25T00:19:38.604015+00:00",
+      "prestige_level": 41,
+      "achieved_at": "2026-08-25T05:58:25.673681+00:00",
       "badge_id": ""
     },
     {
@@ -384,18 +384,18 @@
     },
     {
       "rank": 48,
-      "steam_id": "76561198313821276",
-      "display_name": "adamkates23",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-25T05:01:16.197528+00:00",
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-25T05:45:36.077135+00:00",
       "badge_id": ""
     },
     {
       "rank": 49,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
+      "steam_id": "76561198313821276",
+      "display_name": "adamkates23",
       "prestige_level": 11,
-      "achieved_at": "2026-08-25T05:12:07.866733+00:00",
+      "achieved_at": "2026-08-25T05:01:16.197528+00:00",
       "badge_id": ""
     },
     {
