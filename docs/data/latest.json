@@ -1,13 +1,21 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T13:44:58.4555988+00:00",
-    "fetched_at": "2026-08-25T13:45:31.166344+00:00",
+    "generated_at": "2026-08-25T13:59:58.457713+00:00",
+    "fetched_at": "2026-08-25T14:00:52.206503+00:00",
     "total_entries": 240
   },
   "entries": [
     {
       "rank": 1,
+      "steam_id": "76561198014285868",
+      "display_name": "Fonsgart",
+      "prestige_level": 73,
+      "achieved_at": "2026-08-25T13:46:37.329405+00:00",
+      "badge_id": "s3_first"
+    },
+    {
+      "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
       "prestige_level": 72,
@@ -15,19 +23,11 @@
       "badge_id": ""
     },
     {
-      "rank": 2,
-      "steam_id": "76561198014285868",
-      "display_name": "Fonsgart",
-      "prestige_level": 72,
-      "achieved_at": "2026-08-25T11:44:13.104422+00:00",
-      "badge_id": "s3_first"
-    },
-    {
       "rank": 3,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-25T13:17:43.85969+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-25T13:52:53.146668+00:00",
       "badge_id": ""
     },
     {
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561198073010642",
+      "display_name": "BzH | TwinKy",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-25T13:53:39.532159+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -455,20 +463,12 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 9,
       "achieved_at": "2026-08-25T04:01:15.161594+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198073010642",
-      "display_name": "BzH | TwinKy",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-25T13:32:49.67342+00:00",
-      "badge_id": ""
     },
     {
       "rank": 59,
