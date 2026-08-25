@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T17:14:58.4578931+00:00",
-    "fetched_at": "2026-08-25T17:15:32.348889+00:00",
+    "generated_at": "2026-08-25T17:29:58.4577378+00:00",
+    "fetched_at": "2026-08-25T17:30:41.953902+00:00",
     "total_entries": 242
   },
   "entries": [
@@ -168,19 +168,19 @@
     },
     {
       "rank": 21,
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-25T17:21:41.02535+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 22,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 29,
       "achieved_at": "2026-08-25T02:14:54.949168+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-25T16:33:11.366491+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 23,
