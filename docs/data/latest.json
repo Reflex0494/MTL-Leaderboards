@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T12:44:58.4571335+00:00",
-    "fetched_at": "2026-08-25T12:45:28.223891+00:00",
+    "generated_at": "2026-08-25T12:59:58.4581485+00:00",
+    "fetched_at": "2026-08-25T13:00:51.383007+00:00",
     "total_entries": 240
   },
   "entries": [
@@ -160,19 +160,19 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-25T12:57:54.759274+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 29,
       "achieved_at": "2026-08-25T02:14:54.949168+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 21,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-25T11:34:33.469232+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 22,
@@ -194,8 +194,8 @@
       "rank": 24,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-25T09:27:28.304089+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-25T12:46:00.486381+00:00",
       "badge_id": ""
     },
     {
