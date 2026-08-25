@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T03:44:58.4566116+00:00",
-    "fetched_at": "2026-08-25T03:45:33.103625+00:00",
-    "total_entries": 233
+    "generated_at": "2026-08-25T03:59:58.4570104+00:00",
+    "fetched_at": "2026-08-25T04:00:47.942919+00:00",
+    "total_entries": 234
   },
   "entries": [
     {
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-25T02:43:10.804208+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-25T03:47:37.030647+00:00",
       "badge_id": ""
     },
     {
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T03:31:46.698427+00:00",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-25T03:55:20.623513+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -296,6 +296,14 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561198076913774",
+      "display_name": "Spaceball Trooper",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-25T03:54:17.508527+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 15,
@@ -303,20 +311,12 @@
       "badge_id": ""
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 15,
       "achieved_at": "2026-08-25T00:22:09.857077+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561198076913774",
-      "display_name": "Spaceball Trooper",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-25T03:04:15.12804+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 40,
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-25T03:48:22.350023+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198090798622",
       "display_name": "bAGHOUAROUIK",
       "prestige_level": 6,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198111972817",
       "display_name": "==OCEAN==",
       "prestige_level": 6,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561199586661483",
       "display_name": "Tahiti",
       "prestige_level": 6,
@@ -543,7 +551,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198068791763",
       "display_name": "Pawnax",
       "prestige_level": 6,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198019688879",
       "display_name": "Thercio",
       "prestige_level": 6,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198169919917",
       "display_name": "KillahKyle",
       "prestige_level": 6,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 6,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 6,
@@ -583,19 +591,11 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 6,
       "achieved_at": "2026-08-24T22:43:34.108331+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-25T03:28:42.160492+00:00",
       "badge_id": ""
     },
     {
