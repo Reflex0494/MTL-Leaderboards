@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T17:59:58.4564284+00:00",
-    "fetched_at": "2026-08-25T18:00:51.974344+00:00",
+    "generated_at": "2026-08-25T18:14:58.457337+00:00",
+    "fetched_at": "2026-08-25T18:15:33.596799+00:00",
     "total_entries": 244
   },
   "entries": [
@@ -160,19 +160,19 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-25T18:04:41.926535+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 30,
       "achieved_at": "2026-08-25T12:57:54.759274+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 21,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-25T17:21:41.02535+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 22,
@@ -288,18 +288,18 @@
     },
     {
       "rank": 36,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-25T17:06:45.267852+00:00",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-25T18:00:28.133993+00:00",
       "badge_id": ""
     },
     {
       "rank": 37,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
       "prestige_level": 17,
-      "achieved_at": "2026-08-25T17:35:53.29672+00:00",
+      "achieved_at": "2026-08-25T17:06:45.267852+00:00",
       "badge_id": ""
     },
     {
@@ -424,18 +424,18 @@
     },
     {
       "rank": 53,
-      "steam_id": "76561198040755103",
-      "display_name": "Deadpan",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-25T18:11:12.960031+00:00",
       "badge_id": ""
     },
     {
       "rank": 54,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
+      "steam_id": "76561198040755103",
+      "display_name": "Deadpan",
       "prestige_level": 10,
-      "achieved_at": "2026-08-24T19:56:05.807705+00:00",
+      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
       "badge_id": ""
     },
     {
