@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T04:59:58.4531717+00:00",
-    "fetched_at": "2026-08-25T05:00:51.478277+00:00",
+    "generated_at": "2026-08-25T05:14:58.4578849+00:00",
+    "fetched_at": "2026-08-25T05:15:29.539910+00:00",
     "total_entries": 235
   },
   "entries": [
@@ -64,19 +64,19 @@
     },
     {
       "rank": 8,
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-25T05:04:52.950734+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 9,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
       "achieved_at": "2026-08-24T13:20:37.861864+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 9,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-25T02:24:44.325039+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 10,
@@ -384,6 +384,22 @@
     },
     {
       "rank": 48,
+      "steam_id": "76561198313821276",
+      "display_name": "adamkates23",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-25T05:01:16.197528+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 49,
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-25T05:12:07.866733+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 50,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -391,7 +407,7 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 51,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 10,
@@ -399,7 +415,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 50,
+      "rank": 52,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 10,
@@ -407,7 +423,7 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 53,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 10,
@@ -415,7 +431,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 52,
+      "rank": 54,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 10,
@@ -423,28 +439,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 53,
+      "rank": 55,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 10,
       "achieved_at": "2026-08-25T01:38:10.647533+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-25T04:37:27.090497+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198313821276",
-      "display_name": "adamkates23",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-25T04:45:13.502622+00:00",
-      "badge_id": ""
     },
     {
       "rank": 56,
