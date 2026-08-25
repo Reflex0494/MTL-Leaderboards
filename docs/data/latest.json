@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T05:14:58.4578849+00:00",
-    "fetched_at": "2026-08-25T05:15:29.539910+00:00",
+    "generated_at": "2026-08-25T05:29:58.4563805+00:00",
+    "fetched_at": "2026-08-25T05:30:40.822042+00:00",
     "total_entries": 235
   },
   "entries": [
@@ -96,6 +96,14 @@
     },
     {
       "rank": 12,
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-25T05:24:08.556459+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 13,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 34,
@@ -103,7 +111,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 34,
@@ -111,7 +119,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 34,
@@ -119,7 +127,7 @@
       "badge_id": ""
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 34,
@@ -127,19 +135,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 34,
       "achieved_at": "2026-08-25T01:10:27.08887+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 17,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-25T03:42:21.261244+00:00",
       "badge_id": ""
     },
     {
