@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T10:59:58.4576007+00:00",
-    "fetched_at": "2026-08-25T11:00:48.576315+00:00",
+    "generated_at": "2026-08-25T11:14:58.4584319+00:00",
+    "fetched_at": "2026-08-25T11:15:30.565644+00:00",
     "total_entries": 239
   },
   "entries": [
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198000796327",
+      "display_name": "Nemm",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-25T11:00:32.23935+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198009871432",
       "display_name": "The soldier of Christ",
       "prestige_level": 5,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561199275038351",
       "display_name": "cope.exe",
       "prestige_level": 5,
@@ -623,20 +631,12 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198125036904",
       "display_name": "Ryubiel",
       "prestige_level": 5,
       "achieved_at": "2026-08-25T01:17:58.598461+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198000796327",
-      "display_name": "Nemm",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-25T10:33:21.244019+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 80,
