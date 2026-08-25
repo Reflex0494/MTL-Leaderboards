@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T13:59:58.457713+00:00",
-    "fetched_at": "2026-08-25T14:00:52.206503+00:00",
+    "generated_at": "2026-08-25T14:14:58.4577789+00:00",
+    "fetched_at": "2026-08-25T14:15:32.609553+00:00",
     "total_entries": 240
   },
   "entries": [
@@ -34,16 +34,16 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 53,
-      "achieved_at": "2026-08-25T13:02:42.723495+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-08-25T14:00:54.80506+00:00",
       "badge_id": "s3_third"
     },
     {
       "rank": 5,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan 2xFly3",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-25T10:16:35.867089+00:00",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-25T14:05:59.319878+00:00",
       "badge_id": "s3_top21"
     },
     {
