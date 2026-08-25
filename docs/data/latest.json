@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T21:14:58.4566696+00:00",
-    "fetched_at": "2026-08-25T21:15:31.207621+00:00",
+    "generated_at": "2026-08-25T21:29:58.4573088+00:00",
+    "fetched_at": "2026-08-25T21:30:37.868619+00:00",
     "total_entries": 249
   },
   "entries": [
@@ -152,19 +152,19 @@
     },
     {
       "rank": 19,
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-25T21:17:02.848028+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 20,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 32,
       "achieved_at": "2026-08-25T03:47:37.030647+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 20,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-25T20:33:44.042211+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 21,
