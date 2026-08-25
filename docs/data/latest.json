@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T16:59:58.4547391+00:00",
-    "fetched_at": "2026-08-25T17:00:54.863767+00:00",
+    "generated_at": "2026-08-25T17:14:58.4578931+00:00",
+    "fetched_at": "2026-08-25T17:15:32.348889+00:00",
     "total_entries": 242
   },
   "entries": [
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-25T17:06:45.267852+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 16,
@@ -295,7 +303,7 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 16,
@@ -303,19 +311,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 16,
       "achieved_at": "2026-08-25T08:57:45.426092+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-25T16:27:45.192902+00:00",
       "badge_id": ""
     },
     {
