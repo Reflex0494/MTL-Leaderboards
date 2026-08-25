@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T14:29:58.4570689+00:00",
-    "fetched_at": "2026-08-25T14:30:43.544663+00:00",
+    "generated_at": "2026-08-25T14:44:58.4620703+00:00",
+    "fetched_at": "2026-08-25T14:45:30.732357+00:00",
     "total_entries": 240
   },
   "entries": [
@@ -72,19 +72,19 @@
     },
     {
       "rank": 9,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-25T14:42:34.85115+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 10,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
       "achieved_at": "2026-08-24T13:20:37.861864+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 10,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-25T13:36:13.804838+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 11,
