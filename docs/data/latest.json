@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T15:47:58.458443+00:00",
-    "fetched_at": "2026-08-26T15:48:25.796312+00:00",
+    "generated_at": "2026-08-26T16:00:58.4609902+00:00",
+    "fetched_at": "2026-08-26T16:01:04.294974+00:00",
     "total_entries": 267
   },
   "entries": [
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198009437251",
+      "display_name": "ellie",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-26T15:51:03.115715+00:00",
+      "badge_id": "mod"
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -743,7 +751,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198067344110",
       "display_name": "Marxmen",
       "prestige_level": 4,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 4,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 4,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 4,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198150626390",
       "display_name": "Bearbee",
       "prestige_level": 4,
@@ -783,20 +791,12 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198012627060",
       "display_name": "HIM",
       "prestige_level": 4,
       "achieved_at": "2026-08-25T19:05:54.476048+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561198009437251",
-      "display_name": "ellie",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-26T14:34:08.218844+00:00",
-      "badge_id": "mod"
     },
     {
       "rank": 100,
