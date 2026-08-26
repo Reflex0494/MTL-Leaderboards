@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T10:14:58.454493+00:00",
-    "fetched_at": "2026-08-26T10:15:32.211132+00:00",
+    "generated_at": "2026-08-26T10:29:58.4580843+00:00",
+    "fetched_at": "2026-08-26T10:30:41.064199+00:00",
     "total_entries": 264
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 78,
-      "achieved_at": "2026-08-26T07:36:45.956161+00:00",
+      "prestige_level": 79,
+      "achieved_at": "2026-08-26T10:24:28.100536+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-26T06:02:10.55515+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-26T10:18:29.190275+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -320,19 +320,19 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198076913774",
+      "display_name": "Spaceball Trooper",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-26T10:17:33.600412+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 41,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 17,
       "achieved_at": "2026-08-26T01:35:02.512571+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 41,
-      "steam_id": "76561198076913774",
-      "display_name": "Spaceball Trooper",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-26T09:46:01.071223+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 42,
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-26T10:17:52.693334+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -575,19 +583,11 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 7,
       "achieved_at": "2026-08-26T02:28:40.900835+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 73,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-26T09:58:32.065541+00:00",
       "badge_id": ""
     },
     {
