@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-25T23:44:58.4582786+00:00",
-    "fetched_at": "2026-08-25T23:45:27.267310+00:00",
+    "generated_at": "2026-08-25T23:59:58.4577749+00:00",
+    "fetched_at": "2026-08-26T00:00:50.945950+00:00",
     "total_entries": 253
   },
   "entries": [
@@ -370,8 +370,8 @@
       "rank": 46,
       "steam_id": "76561198120247642",
       "display_name": "bran",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-24T16:06:49.812194+00:00",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-25T23:50:06.143158+00:00",
       "badge_id": ""
     },
     {
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
-      "prestige_level": 2,
-      "achieved_at": "2026-08-20T20:03:43.317987+00:00",
+      "steam_id": "76561198211410001",
+      "display_name": "Diverted",
+      "prestige_level": 3,
+      "achieved_at": "2026-08-25T23:50:08.304503+00:00",
       "badge_id": ""
     }
   ]
