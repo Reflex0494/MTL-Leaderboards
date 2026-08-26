@@ -1,17 +1,17 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T08:29:58.4567562+00:00",
-    "fetched_at": "2026-08-26T08:30:39.640642+00:00",
-    "total_entries": 263
+    "generated_at": "2026-08-26T08:44:58.4581761+00:00",
+    "fetched_at": "2026-08-26T08:45:31.860319+00:00",
+    "total_entries": 264
   },
   "entries": [
     {
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 78,
-      "achieved_at": "2026-08-26T06:31:49.4293+00:00",
+      "prestige_level": 79,
+      "achieved_at": "2026-08-26T08:42:28.071538+00:00",
       "badge_id": ""
     },
     {
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 54,
-      "achieved_at": "2026-08-26T07:13:20.96331+00:00",
+      "prestige_level": 55,
+      "achieved_at": "2026-08-26T08:30:19.355881+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -200,18 +200,18 @@
     },
     {
       "rank": 25,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-26T08:38:34.936424+00:00",
       "badge_id": ""
     },
     {
       "rank": 26,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
       "prestige_level": 26,
-      "achieved_at": "2026-08-26T06:56:55.705385+00:00",
+      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
     },
     {
