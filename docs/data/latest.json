@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T14:44:58.4570263+00:00",
-    "fetched_at": "2026-08-26T14:45:32.146361+00:00",
+    "generated_at": "2026-08-26T15:00:58.4573774+00:00",
+    "fetched_at": "2026-08-26T15:00:59.758075+00:00",
     "total_entries": 267
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 60,
-      "achieved_at": "2026-08-26T14:08:31.384275+00:00",
+      "prestige_level": 61,
+      "achieved_at": "2026-08-26T14:58:20.545559+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-26T14:46:04.371915+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 23,
@@ -231,20 +239,12 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 23,
       "achieved_at": "2026-08-26T02:04:06.027144+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-26T12:56:55.057945+00:00",
-      "badge_id": ""
     },
     {
       "rank": 31,
@@ -512,18 +512,18 @@
     },
     {
       "rank": 64,
-      "steam_id": "76561198239660058",
-      "display_name": "Captain ins muuul",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-23T01:40:15.021036+00:00",
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-26T14:54:17.35989+00:00",
       "badge_id": ""
     },
     {
       "rank": 65,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
+      "steam_id": "76561198239660058",
+      "display_name": "Captain ins muuul",
       "prestige_level": 8,
-      "achieved_at": "2026-08-25T01:57:05.609389+00:00",
+      "achieved_at": "2026-08-23T01:40:15.021036+00:00",
       "badge_id": ""
     },
     {
