@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T02:29:58.4581151+00:00",
-    "fetched_at": "2026-08-26T02:30:39.212507+00:00",
+    "generated_at": "2026-08-26T02:44:58.4581504+00:00",
+    "fetched_at": "2026-08-26T02:45:29.057214+00:00",
     "total_entries": 257
   },
   "entries": [
@@ -256,18 +256,18 @@
     },
     {
       "rank": 32,
-      "steam_id": "76561199012821096",
-      "display_name": "Dixon mayaz",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-23T08:04:52.996957+00:00",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-26T02:44:50.515126+00:00",
       "badge_id": ""
     },
     {
       "rank": 33,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
+      "steam_id": "76561199012821096",
+      "display_name": "Dixon mayaz",
       "prestige_level": 20,
-      "achieved_at": "2026-08-24T13:19:59.692193+00:00",
+      "achieved_at": "2026-08-23T08:04:52.996957+00:00",
       "badge_id": ""
     },
     {
@@ -346,8 +346,8 @@
       "rank": 43,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-25T07:42:04.76212+00:00",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-26T02:36:47.929303+00:00",
       "badge_id": ""
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-26T02:30:51.52654+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
@@ -767,7 +775,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198985390236",
       "display_name": "Tony Spermano",
       "prestige_level": 3,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198245777414",
       "display_name": "Benjabino",
       "prestige_level": 3,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198152746853",
       "display_name": "Lewdity",
       "prestige_level": 3,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 3,
       "achieved_at": "2026-08-25T03:11:44.711613+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198255262863",
-      "display_name": "< blank >",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-25T19:02:15.759299+00:00",
       "badge_id": ""
     }
   ]
