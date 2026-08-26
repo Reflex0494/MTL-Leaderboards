@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T18:00:58.4571415+00:00",
-    "fetched_at": "2026-08-26T18:01:19.243983+00:00",
-    "total_entries": 270
+    "generated_at": "2026-08-26T18:14:58.4596343+00:00",
+    "fetched_at": "2026-08-26T18:15:31.000973+00:00",
+    "total_entries": 271
   },
   "entries": [
     {
@@ -346,8 +346,8 @@
       "rank": 43,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-25T17:58:29.859643+00:00",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-26T18:06:57.834473+00:00",
       "badge_id": ""
     },
     {
