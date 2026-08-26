@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T13:59:58.4591444+00:00",
-    "fetched_at": "2026-08-26T14:00:53.543689+00:00",
-    "total_entries": 265
+    "generated_at": "2026-08-26T14:14:58.4583374+00:00",
+    "fetched_at": "2026-08-26T14:15:32.531555+00:00",
+    "total_entries": 266
   },
   "entries": [
     {
@@ -34,16 +34,16 @@
       "rank": 4,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-26T13:12:28.449005+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-26T14:08:31.384275+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 5,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-26T12:41:19.909635+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-26T14:06:57.401918+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -136,6 +136,14 @@
     },
     {
       "rank": 17,
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
+      "prestige_level": 36,
+      "achieved_at": "2026-08-26T14:05:46.00536+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 18,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 35,
@@ -143,20 +151,12 @@
       "badge_id": ""
     },
     {
-      "rank": 18,
+      "rank": 19,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 35,
       "achieved_at": "2026-08-25T20:28:34.659891+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 19,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-26T04:16:12.311188+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 20,
