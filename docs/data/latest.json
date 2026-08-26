@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T01:44:58.4573031+00:00",
-    "fetched_at": "2026-08-26T01:45:29.902285+00:00",
-    "total_entries": 255
+    "generated_at": "2026-08-26T01:59:58.4552923+00:00",
+    "fetched_at": "2026-08-26T02:00:49.607945+00:00",
+    "total_entries": 256
   },
   "entries": [
     {
@@ -208,19 +208,19 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561198136863936",
+      "display_name": "BusterBear",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-26T01:55:04.089207+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 27,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 24,
       "achieved_at": "2026-08-25T15:04:50.322678+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198136863936",
-      "display_name": "BusterBear",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-26T01:15:42.346774+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 28,
@@ -336,6 +336,14 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561198120247642",
+      "display_name": "bran",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-26T01:56:34.879386+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 43,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 15,
@@ -343,7 +351,7 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 15,
@@ -351,20 +359,12 @@
       "badge_id": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 15,
       "achieved_at": "2026-08-25T14:46:32.320264+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 45,
-      "steam_id": "76561198120247642",
-      "display_name": "bran",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-26T00:12:40.300126+00:00",
-      "badge_id": ""
     },
     {
       "rank": 46,
