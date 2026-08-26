@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T12:44:58.4589604+00:00",
-    "fetched_at": "2026-08-26T12:45:34.554156+00:00",
+    "generated_at": "2026-08-26T12:59:58.458387+00:00",
+    "fetched_at": "2026-08-26T13:00:53.862248+00:00",
     "total_entries": 265
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 79,
-      "achieved_at": "2026-08-26T10:24:28.100536+00:00",
+      "prestige_level": 80,
+      "achieved_at": "2026-08-26T12:52:14.941704+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -242,8 +242,8 @@
       "rank": 30,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-25T14:45:40.839199+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-26T12:56:55.057945+00:00",
       "badge_id": ""
     },
     {
@@ -696,6 +696,14 @@
     },
     {
       "rank": 87,
+      "steam_id": "76561198100985065",
+      "display_name": "CartopApple0",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-26T12:58:01.558729+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 88,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561199275038351",
       "display_name": "cope.exe",
       "prestige_level": 5,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198125036904",
       "display_name": "Ryubiel",
       "prestige_level": 5,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561197991651392",
       "display_name": "RaincoatsGeorge",
       "prestige_level": 5,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -735,7 +743,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198067344110",
       "display_name": "Marxmen",
       "prestige_level": 4,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 4,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 4,
@@ -759,19 +767,11 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 4,
       "achieved_at": "2026-08-24T23:18:11.465656+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 96,
-      "steam_id": "76561198100985065",
-      "display_name": "CartopApple0",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-25T07:14:20.631001+00:00",
       "badge_id": ""
     },
     {
