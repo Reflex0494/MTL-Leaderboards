@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T17:29:58.4586536+00:00",
-    "fetched_at": "2026-08-26T17:30:41.827019+00:00",
+    "generated_at": "2026-08-26T17:44:58.4540683+00:00",
+    "fetched_at": "2026-08-26T17:45:37.444924+00:00",
     "total_entries": 269
   },
   "entries": [
@@ -232,6 +232,14 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-26T17:44:39.289609+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 30,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 23,
@@ -239,20 +247,12 @@
       "badge_id": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 23,
       "achieved_at": "2026-08-26T02:04:06.027144+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 31,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-26T16:04:51.994625+00:00",
-      "badge_id": ""
     },
     {
       "rank": 32,
