@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T19:14:58.4584565+00:00",
-    "fetched_at": "2026-08-26T19:15:32.560198+00:00",
-    "total_entries": 271
+    "generated_at": "2026-08-26T19:29:58.4553744+00:00",
+    "fetched_at": "2026-08-26T19:30:40.530246+00:00",
+    "total_entries": 272
   },
   "entries": [
     {
@@ -376,19 +376,19 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198321234198",
+      "display_name": "mmffkk000",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-26T19:22:24.259733+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 14,
       "achieved_at": "2026-08-25T19:24:32.373902+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198321234198",
-      "display_name": "mmffkk000",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-26T18:59:53.809071+00:00",
-      "badge_id": ""
     },
     {
       "rank": 49,
