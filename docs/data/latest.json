@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T01:14:58.4544352+00:00",
-    "fetched_at": "2026-08-26T01:15:31.243049+00:00",
+    "generated_at": "2026-08-26T01:29:58.4565685+00:00",
+    "fetched_at": "2026-08-26T01:30:37.444004+00:00",
     "total_entries": 255
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 75,
-      "achieved_at": "2026-08-25T22:39:33.697932+00:00",
+      "prestige_level": 76,
+      "achieved_at": "2026-08-26T01:24:51.52203+00:00",
       "badge_id": ""
     },
     {
@@ -216,19 +216,19 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198136863936",
+      "display_name": "BusterBear",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-26T01:15:42.346774+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 28,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 23,
       "achieved_at": "2026-08-24T22:51:17.29421+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561198136863936",
-      "display_name": "BusterBear",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-25T21:02:56.916294+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 29,
@@ -242,8 +242,8 @@
       "rank": 30,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-25T02:26:44.972902+00:00",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-26T01:15:11.995873+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-25T17:06:45.267852+00:00",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-26T01:24:23.877539+00:00",
       "badge_id": ""
     },
     {
