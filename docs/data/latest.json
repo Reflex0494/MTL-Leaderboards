@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T15:32:58.4582627+00:00",
-    "fetched_at": "2026-08-26T15:33:36.999839+00:00",
+    "generated_at": "2026-08-26T15:47:58.458443+00:00",
+    "fetched_at": "2026-08-26T15:48:25.796312+00:00",
     "total_entries": 267
   },
   "entries": [
@@ -168,6 +168,22 @@
     },
     {
       "rank": 21,
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-26T15:33:45.164102+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 22,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-26T15:46:47.895324+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 32,
@@ -175,27 +191,11 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 22,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-26T07:18:38.690923+00:00",
-      "badge_id": "s2_top21"
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-26T14:18:02.371495+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 24,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-26T09:02:07.117624+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-26T15:35:04.641668+00:00",
       "badge_id": ""
     },
     {
@@ -256,18 +256,18 @@
     },
     {
       "rank": 32,
-      "steam_id": "76561198071815550",
-      "display_name": "evozakira",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-25T04:15:44.100455+00:00",
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-26T15:46:49.394274+00:00",
       "badge_id": ""
     },
     {
       "rank": 33,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
+      "steam_id": "76561198071815550",
+      "display_name": "evozakira",
       "prestige_level": 21,
-      "achieved_at": "2026-08-26T14:23:15.535228+00:00",
+      "achieved_at": "2026-08-25T04:15:44.100455+00:00",
       "badge_id": ""
     },
     {
