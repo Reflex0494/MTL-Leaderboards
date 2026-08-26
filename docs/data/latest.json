@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T01:29:58.4565685+00:00",
-    "fetched_at": "2026-08-26T01:30:37.444004+00:00",
+    "generated_at": "2026-08-26T01:44:58.4573031+00:00",
+    "fetched_at": "2026-08-26T01:45:29.902285+00:00",
     "total_entries": 255
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-26T00:36:41.018524+00:00",
+      "prestige_level": 44,
+      "achieved_at": "2026-08-26T01:35:00.593462+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -312,6 +312,14 @@
     },
     {
       "rank": 39,
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-26T01:35:02.512571+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 40,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 16,
@@ -319,19 +327,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 16,
       "achieved_at": "2026-08-25T17:58:29.859643+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 41,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-26T01:12:40.067854+00:00",
       "badge_id": ""
     },
     {
