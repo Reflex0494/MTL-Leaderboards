@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T07:14:58.457611+00:00",
-    "fetched_at": "2026-08-26T07:15:31.062428+00:00",
-    "total_entries": 262
+    "generated_at": "2026-08-26T07:29:58.4587519+00:00",
+    "fetched_at": "2026-08-26T07:30:41.454394+00:00",
+    "total_entries": 263
   },
   "entries": [
     {
@@ -176,19 +176,19 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-26T07:18:38.690923+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 23,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 31,
       "achieved_at": "2026-08-26T00:16:51.983667+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-26T06:17:51.375548+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 24,
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198045755086",
+      "display_name": "JamakaJudd",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-26T07:16:59.745632+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 8,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 8,
@@ -527,19 +535,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 8,
       "achieved_at": "2026-08-26T05:54:57.284619+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198045755086",
-      "display_name": "JamakaJudd",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-26T07:00:10.690509+00:00",
       "badge_id": ""
     },
     {
