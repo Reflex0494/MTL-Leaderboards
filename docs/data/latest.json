@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T14:14:58.4583374+00:00",
-    "fetched_at": "2026-08-26T14:15:32.531555+00:00",
-    "total_entries": 266
+    "generated_at": "2026-08-26T14:29:58.4590838+00:00",
+    "fetched_at": "2026-08-26T14:30:43.703517+00:00",
+    "total_entries": 267
   },
   "entries": [
     {
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-26T00:16:51.983667+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-26T14:18:02.371495+00:00",
       "badge_id": ""
     },
     {
@@ -264,18 +264,18 @@
     },
     {
       "rank": 33,
-      "steam_id": "76561199012821096",
-      "display_name": "Dixon mayaz",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-23T08:04:52.996957+00:00",
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-26T14:23:15.535228+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
+      "steam_id": "76561199012821096",
+      "display_name": "Dixon mayaz",
       "prestige_level": 20,
-      "achieved_at": "2026-08-25T13:25:07.306405+00:00",
+      "achieved_at": "2026-08-23T08:04:52.996957+00:00",
       "badge_id": ""
     },
     {
