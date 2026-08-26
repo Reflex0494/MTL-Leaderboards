@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T17:14:58.4560426+00:00",
-    "fetched_at": "2026-08-26T17:15:56.075428+00:00",
+    "generated_at": "2026-08-26T17:29:58.4586536+00:00",
+    "fetched_at": "2026-08-26T17:30:41.827019+00:00",
     "total_entries": 269
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 81,
-      "achieved_at": "2026-08-26T15:18:59.695663+00:00",
+      "prestige_level": 82,
+      "achieved_at": "2026-08-26T17:25:51.886273+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 64,
-      "achieved_at": "2026-08-26T16:43:28.82203+00:00",
+      "prestige_level": 65,
+      "achieved_at": "2026-08-26T17:28:29.40706+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -96,6 +96,14 @@
     },
     {
       "rank": 12,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-26T17:20:50.71032+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 13,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -103,19 +111,11 @@
       "badge_id": ""
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 38,
       "achieved_at": "2026-08-25T20:19:27.34295+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 14,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-26T03:29:25.568009+00:00",
       "badge_id": ""
     },
     {
