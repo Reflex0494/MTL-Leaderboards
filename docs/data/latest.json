@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T18:44:58.4574465+00:00",
-    "fetched_at": "2026-08-26T18:45:29.487229+00:00",
+    "generated_at": "2026-08-26T18:59:58.455498+00:00",
+    "fetched_at": "2026-08-26T19:00:54.235881+00:00",
     "total_entries": 271
   },
   "entries": [
@@ -386,8 +386,8 @@
       "rank": 48,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-26T18:41:04.889285+00:00",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-26T18:59:53.809071+00:00",
       "badge_id": ""
     },
     {
@@ -456,6 +456,14 @@
     },
     {
       "rank": 57,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-26T18:47:39.462701+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 58,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -463,7 +471,7 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
       "prestige_level": 10,
@@ -471,7 +479,7 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 10,
@@ -479,19 +487,11 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
       "achieved_at": "2026-08-26T15:09:47.427097+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-26T18:23:50.647553+00:00",
       "badge_id": ""
     },
     {
