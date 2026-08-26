@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T12:59:58.458387+00:00",
-    "fetched_at": "2026-08-26T13:00:53.862248+00:00",
+    "generated_at": "2026-08-26T13:14:58.4593113+00:00",
+    "fetched_at": "2026-08-26T13:15:46.972618+00:00",
     "total_entries": 265
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-26T12:18:24.61525+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-26T13:12:28.449005+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 44,
-      "achieved_at": "2026-08-26T00:01:57.873865+00:00",
+      "prestige_level": 45,
+      "achieved_at": "2026-08-26T13:06:10.71862+00:00",
       "badge_id": "s3_top21"
     },
     {
