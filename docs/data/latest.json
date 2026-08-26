@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T22:59:58.4562857+00:00",
-    "fetched_at": "2026-08-26T23:00:48.300669+00:00",
+    "generated_at": "2026-08-26T23:14:58.461018+00:00",
+    "fetched_at": "2026-08-26T23:15:29.317579+00:00",
     "total_entries": 275
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 81,
-      "achieved_at": "2026-08-26T20:43:17.915285+00:00",
+      "prestige_level": 82,
+      "achieved_at": "2026-08-26T23:11:49.150284+00:00",
       "badge_id": ""
     },
     {
