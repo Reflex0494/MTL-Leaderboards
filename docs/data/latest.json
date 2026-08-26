@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T14:29:58.4590838+00:00",
-    "fetched_at": "2026-08-26T14:30:43.703517+00:00",
+    "generated_at": "2026-08-26T14:44:58.4570263+00:00",
+    "fetched_at": "2026-08-26T14:45:32.146361+00:00",
     "total_entries": 267
   },
   "entries": [
@@ -336,6 +336,14 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-26T14:32:08.51566+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 43,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 16,
@@ -343,20 +351,12 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
       "achieved_at": "2026-08-26T01:56:34.879386+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-26T13:57:39.315098+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 45,
@@ -792,19 +792,19 @@
     },
     {
       "rank": 99,
+      "steam_id": "76561198009437251",
+      "display_name": "ellie",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-26T14:34:08.218844+00:00",
+      "badge_id": "mod"
+    },
+    {
+      "rank": 100,
       "steam_id": "76561198007255103",
       "display_name": "Sariah",
       "prestige_level": 3,
       "achieved_at": "2026-08-20T20:00:37.462736+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198985390236",
-      "display_name": "Tony Spermano",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-22T20:11:41.722057+00:00",
-      "badge_id": ""
     }
   ]
 }
