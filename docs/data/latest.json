@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T05:14:58.4601274+00:00",
-    "fetched_at": "2026-08-26T05:15:30.515680+00:00",
+    "generated_at": "2026-08-26T05:29:58.458669+00:00",
+    "fetched_at": "2026-08-26T05:30:40.801310+00:00",
     "total_entries": 260
   },
   "entries": [
@@ -304,18 +304,18 @@
     },
     {
       "rank": 38,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-26T01:08:06.98018+00:00",
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-26T05:24:55.16352+00:00",
       "badge_id": ""
     },
     {
       "rank": 39,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
       "prestige_level": 18,
-      "achieved_at": "2026-08-26T04:22:35.887982+00:00",
+      "achieved_at": "2026-08-26T01:08:06.98018+00:00",
       "badge_id": ""
     },
     {
