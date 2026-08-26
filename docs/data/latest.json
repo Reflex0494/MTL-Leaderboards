@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T16:14:58.4577248+00:00",
-    "fetched_at": "2026-08-26T16:15:31.744598+00:00",
-    "total_entries": 267
+    "generated_at": "2026-08-26T16:29:58.4581751+00:00",
+    "fetched_at": "2026-08-26T16:30:41.006870+00:00",
+    "total_entries": 268
   },
   "entries": [
     {
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198007255103",
-      "display_name": "Sariah",
-      "prestige_level": 3,
-      "achieved_at": "2026-08-20T20:00:37.462736+00:00",
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 4,
+      "achieved_at": "2026-08-26T16:20:31.053689+00:00",
       "badge_id": "og"
     }
   ]
