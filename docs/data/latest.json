@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T17:44:58.4540683+00:00",
-    "fetched_at": "2026-08-26T17:45:37.444924+00:00",
-    "total_entries": 269
+    "generated_at": "2026-08-26T18:00:58.4571415+00:00",
+    "fetched_at": "2026-08-26T18:01:19.243983+00:00",
+    "total_entries": 270
   },
   "entries": [
     {
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 65,
-      "achieved_at": "2026-08-26T17:28:29.40706+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-08-26T17:58:29.495325+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -362,8 +362,8 @@
       "rank": 45,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-25T09:01:53.705959+00:00",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-26T17:54:40.473928+00:00",
       "badge_id": ""
     },
     {
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-26T17:58:10.582565+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 8,
@@ -535,19 +543,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 8,
       "achieved_at": "2026-08-26T05:54:57.284619+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-26T10:17:52.693334+00:00",
       "badge_id": ""
     },
     {
