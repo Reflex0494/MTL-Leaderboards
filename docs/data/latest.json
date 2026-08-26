@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T06:14:58.4586954+00:00",
-    "fetched_at": "2026-08-26T06:15:31.351794+00:00",
-    "total_entries": 261
+    "generated_at": "2026-08-26T06:29:58.4580233+00:00",
+    "fetched_at": "2026-08-26T06:30:39.365522+00:00",
+    "total_entries": 262
   },
   "entries": [
     {
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-25T12:57:54.759274+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-26T06:17:51.375548+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198115990249",
+      "display_name": "Not Catualus \u2661",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-26T06:29:24.764854+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -383,7 +391,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -391,20 +399,12 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 12,
       "achieved_at": "2026-08-23T18:32:56.510837+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 50,
-      "steam_id": "76561198115990249",
-      "display_name": "Not Catualus \u2661",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-25T09:51:50.475494+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 51,
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561197961096127",
+      "display_name": "Professaur",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-26T06:24:41.295598+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 7,
       "achieved_at": "2026-08-26T02:28:40.900835+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561197961096127",
-      "display_name": "Professaur",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-26T05:14:39.052391+00:00",
       "badge_id": ""
     },
     {
