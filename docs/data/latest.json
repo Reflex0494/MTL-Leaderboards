@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T18:14:58.4596343+00:00",
-    "fetched_at": "2026-08-26T18:15:31.000973+00:00",
+    "generated_at": "2026-08-26T18:29:58.4542969+00:00",
+    "fetched_at": "2026-08-26T18:30:42.993871+00:00",
     "total_entries": 271
   },
   "entries": [
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-26T18:23:50.647553+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -495,7 +503,7 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 9,
@@ -503,7 +511,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 9,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 9,
       "achieved_at": "2026-08-26T06:52:38.372391+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-26T17:58:10.582565+00:00",
       "badge_id": ""
     },
     {
