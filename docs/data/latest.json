@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T06:44:58.455243+00:00",
-    "fetched_at": "2026-08-26T06:45:28.306450+00:00",
+    "generated_at": "2026-08-26T06:59:58.4543255+00:00",
+    "fetched_at": "2026-08-26T07:00:50.674223+00:00",
     "total_entries": 262
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-26T05:08:11.841991+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-26T06:57:14.672368+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -208,19 +208,19 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-26T06:56:55.705385+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 27,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 25,
       "achieved_at": "2026-08-26T01:55:04.089207+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-26T05:05:26.739928+00:00",
-      "badge_id": ""
     },
     {
       "rank": 28,
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-26T06:58:37.485695+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -287,7 +295,7 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 19,
@@ -295,19 +303,11 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 19,
       "achieved_at": "2026-08-26T03:05:37.46594+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-26T05:24:55.16352+00:00",
       "badge_id": ""
     },
     {
@@ -378,8 +378,8 @@
       "rank": 47,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-26T06:29:24.764854+00:00",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-26T06:53:16.458619+00:00",
       "badge_id": "og"
     },
     {
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561197961096127",
+      "display_name": "Professaur",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-26T06:52:38.372391+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 63,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 8,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 8,
@@ -519,19 +527,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 8,
       "achieved_at": "2026-08-26T05:54:57.284619+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561197961096127",
-      "display_name": "Professaur",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-26T06:24:41.295598+00:00",
       "badge_id": ""
     },
     {
