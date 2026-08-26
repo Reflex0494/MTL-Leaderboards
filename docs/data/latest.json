@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T04:44:58.458427+00:00",
-    "fetched_at": "2026-08-26T04:45:28.648442+00:00",
+    "generated_at": "2026-08-26T04:59:58.4579598+00:00",
+    "fetched_at": "2026-08-26T05:00:52.229362+00:00",
     "total_entries": 259
   },
   "entries": [
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-26T04:51:55.778336+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 7,
@@ -551,20 +559,12 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 7,
       "achieved_at": "2026-08-26T02:28:40.900835+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-26T04:32:48.122707+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 71,
@@ -672,6 +672,14 @@
     },
     {
       "rank": 84,
+      "steam_id": "76561197961096127",
+      "display_name": "Professaur",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-26T04:47:50.435718+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 85,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561199275038351",
       "display_name": "cope.exe",
       "prestige_level": 5,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198125036904",
       "display_name": "Ryubiel",
       "prestige_level": 5,
@@ -695,19 +703,11 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561197991651392",
       "display_name": "RaincoatsGeorge",
       "prestige_level": 5,
       "achieved_at": "2026-08-25T20:58:16.233723+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 88,
-      "steam_id": "76561197961096127",
-      "display_name": "Professaur",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-26T04:26:29.638857+00:00",
       "badge_id": ""
     },
     {
