@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T10:29:58.4580843+00:00",
-    "fetched_at": "2026-08-26T10:30:41.064199+00:00",
+    "generated_at": "2026-08-26T10:44:58.4585289+00:00",
+    "fetched_at": "2026-08-26T10:45:31.117223+00:00",
     "total_entries": 264
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 79,
-      "achieved_at": "2026-08-26T08:42:28.071538+00:00",
+      "prestige_level": 80,
+      "achieved_at": "2026-08-26T10:44:03.531551+00:00",
       "badge_id": ""
     },
     {
@@ -112,6 +112,14 @@
     },
     {
       "rank": 14,
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 38,
+      "achieved_at": "2026-08-26T10:35:33.862334+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 15,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
       "prestige_level": 37,
@@ -119,20 +127,12 @@
       "badge_id": ""
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
       "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 16,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-26T09:57:26.604372+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 17,
