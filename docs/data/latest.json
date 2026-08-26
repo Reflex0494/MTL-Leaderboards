@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T23:14:58.461018+00:00",
-    "fetched_at": "2026-08-26T23:15:29.317579+00:00",
+    "generated_at": "2026-08-26T23:29:58.4591571+00:00",
+    "fetched_at": "2026-08-26T23:30:40.407007+00:00",
     "total_entries": 275
   },
   "entries": [
@@ -176,18 +176,18 @@
     },
     {
       "rank": 22,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-26T15:46:47.895324+00:00",
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-26T23:18:43.490435+00:00",
       "badge_id": "s2_top21"
     },
     {
       "rank": 23,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
       "prestige_level": 33,
-      "achieved_at": "2026-08-26T22:28:35.189097+00:00",
+      "achieved_at": "2026-08-26T15:46:47.895324+00:00",
       "badge_id": "s2_top21"
     },
     {
