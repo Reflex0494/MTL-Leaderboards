@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T04:44:58.4591649+00:00",
-    "fetched_at": "2026-08-27T04:45:29.992670+00:00",
+    "generated_at": "2026-08-27T04:59:58.4535131+00:00",
+    "fetched_at": "2026-08-27T05:00:51.788946+00:00",
     "total_entries": 283
   },
   "entries": [
@@ -792,19 +792,19 @@
     },
     {
       "rank": 99,
+      "steam_id": "76561198282241654",
+      "display_name": "HonoredNorse",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-27T04:49:50.200521+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 100,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
       "achieved_at": "2026-08-20T21:34:14.771527+00:00",
       "badge_id": "supporter_plus"
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198069261684",
-      "display_name": "Major Consnipe",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-22T17:47:45.832058+00:00",
-      "badge_id": ""
     }
   ]
 }
