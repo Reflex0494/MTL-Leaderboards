@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T09:29:58.4584793+00:00",
-    "fetched_at": "2026-08-27T09:30:42.839061+00:00",
+    "generated_at": "2026-08-27T09:44:58.4578338+00:00",
+    "fetched_at": "2026-08-27T09:45:28.944828+00:00",
     "total_entries": 291
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 85,
-      "achieved_at": "2026-08-27T06:40:57.73196+00:00",
+      "prestige_level": 86,
+      "achieved_at": "2026-08-27T09:33:41.966733+00:00",
       "badge_id": ""
     },
     {
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 50,
-      "achieved_at": "2026-08-27T08:37:43.61456+00:00",
+      "prestige_level": 51,
+      "achieved_at": "2026-08-27T09:44:16.606778+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-27T09:40:09.127854+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 8,
@@ -567,20 +575,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
       "achieved_at": "2026-08-26T21:19:15.753101+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-27T09:15:57.941849+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 73,
