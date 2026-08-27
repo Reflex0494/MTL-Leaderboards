@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-26T23:59:58.4596522+00:00",
-    "fetched_at": "2026-08-27T00:00:53.132782+00:00",
+    "generated_at": "2026-08-27T00:14:58.4591791+00:00",
+    "fetched_at": "2026-08-27T00:15:31.291332+00:00",
     "total_entries": 275
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
-      "prestige_level": 62,
-      "achieved_at": "2026-08-26T23:31:34.206556+00:00",
+      "prestige_level": 63,
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-26T22:47:27.946884+00:00",
+      "prestige_level": 44,
+      "achieved_at": "2026-08-27T00:03:52.57671+00:00",
       "badge_id": ""
     },
     {
@@ -160,6 +160,14 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-27T00:01:31.800225+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 34,
@@ -167,20 +175,12 @@
       "badge_id": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 34,
       "achieved_at": "2026-08-26T22:57:53.466186+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-26T23:18:43.490435+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 23,
@@ -218,8 +218,8 @@
       "rank": 27,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-26T01:55:04.089207+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-27T00:06:09.144982+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -314,8 +314,8 @@
       "rank": 39,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-26T01:08:06.98018+00:00",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-27T00:13:00.237516+00:00",
       "badge_id": ""
     },
     {
