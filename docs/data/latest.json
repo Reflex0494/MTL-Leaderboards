@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T07:29:58.4564679+00:00",
-    "fetched_at": "2026-08-27T07:30:40.945737+00:00",
-    "total_entries": 286
+    "generated_at": "2026-08-27T07:44:58.4574924+00:00",
+    "fetched_at": "2026-08-27T07:45:28.179699+00:00",
+    "total_entries": 287
   },
   "entries": [
     {
@@ -104,18 +104,18 @@
     },
     {
       "rank": 13,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-26T21:22:35.132044+00:00",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
+      "prestige_level": 41,
+      "achieved_at": "2026-08-27T07:34:25.587695+00:00",
       "badge_id": ""
     },
     {
       "rank": 14,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
       "prestige_level": 40,
-      "achieved_at": "2026-08-27T06:02:18.50369+00:00",
+      "achieved_at": "2026-08-26T21:22:35.132044+00:00",
       "badge_id": ""
     },
     {
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198032083376",
+      "display_name": "Smelygoat",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-27T07:38:55.205992+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
       "achieved_at": "2026-08-26T15:09:47.427097+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198032083376",
-      "display_name": "Smelygoat",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-27T07:07:50.092536+00:00",
       "badge_id": ""
     },
     {
