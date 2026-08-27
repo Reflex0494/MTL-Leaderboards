@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T16:14:58.4580982+00:00",
-    "fetched_at": "2026-08-27T16:15:33.605967+00:00",
+    "generated_at": "2026-08-27T16:29:58.4604216+00:00",
+    "fetched_at": "2026-08-27T16:30:42.439577+00:00",
     "total_entries": 294
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-27T01:23:09.959325+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-27T16:16:18.635518+00:00",
       "badge_id": ""
     },
     {
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-27T16:20:52.856301+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -335,19 +343,11 @@
       "badge_id": ""
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 19,
       "achieved_at": "2026-08-27T01:51:37.628203+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 43,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-27T06:51:28.244413+00:00",
       "badge_id": ""
     },
     {
