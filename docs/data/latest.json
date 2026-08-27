@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T20:44:58.460662+00:00",
-    "fetched_at": "2026-08-27T20:45:31.086112+00:00",
+    "generated_at": "2026-08-27T20:59:58.4564006+00:00",
+    "fetched_at": "2026-08-27T21:00:49.007854+00:00",
     "total_entries": 298
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 87,
-      "achieved_at": "2026-08-27T11:23:18.788273+00:00",
+      "prestige_level": 88,
+      "achieved_at": "2026-08-27T20:53:34.655379+00:00",
       "badge_id": ""
     },
     {
@@ -352,6 +352,14 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-27T20:49:18.957514+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 45,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -359,7 +367,7 @@
       "badge_id": ""
     },
     {
-      "rank": 45,
+      "rank": 46,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 19,
@@ -367,19 +375,11 @@
       "badge_id": ""
     },
     {
-      "rank": 46,
+      "rank": 47,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
       "achieved_at": "2026-08-27T11:30:43.61301+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 47,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-27T20:08:28.288908+00:00",
       "badge_id": ""
     },
     {
