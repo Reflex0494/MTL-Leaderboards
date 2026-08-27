@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T14:59:58.4590882+00:00",
-    "fetched_at": "2026-08-27T15:00:53.138642+00:00",
+    "generated_at": "2026-08-27T15:14:58.4597424+00:00",
+    "fetched_at": "2026-08-27T15:15:31.847543+00:00",
     "total_entries": 294
   },
   "entries": [
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
-      "prestige_level": 41,
-      "achieved_at": "2026-08-27T07:34:25.587695+00:00",
+      "prestige_level": 42,
+      "achieved_at": "2026-08-27T15:02:12.225831+00:00",
       "badge_id": ""
     },
     {
