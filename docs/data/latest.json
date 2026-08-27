@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T09:59:58.4560525+00:00",
-    "fetched_at": "2026-08-27T10:00:47.532472+00:00",
+    "generated_at": "2026-08-27T10:14:58.4540299+00:00",
+    "fetched_at": "2026-08-27T10:15:31.284474+00:00",
     "total_entries": 291
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 74,
-      "achieved_at": "2026-08-27T09:47:24.412192+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-08-27T10:13:26.323182+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-27T10:02:52.76248+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 9,
@@ -543,20 +551,12 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 9,
       "achieved_at": "2026-08-26T06:52:38.372391+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-27T09:40:09.127854+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 70,
