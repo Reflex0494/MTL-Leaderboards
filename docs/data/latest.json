@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T01:14:58.4615181+00:00",
-    "fetched_at": "2026-08-27T01:15:31.101849+00:00",
-    "total_entries": 276
+    "generated_at": "2026-08-27T01:29:58.4598301+00:00",
+    "fetched_at": "2026-08-27T01:30:41.434658+00:00",
+    "total_entries": 277
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 82,
-      "achieved_at": "2026-08-26T23:11:49.150284+00:00",
+      "prestige_level": 83,
+      "achieved_at": "2026-08-27T01:20:44.203335+00:00",
       "badge_id": ""
     },
     {
@@ -48,6 +48,14 @@
     },
     {
       "rank": 6,
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-27T01:27:52.967004+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 7,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 48,
@@ -55,19 +63,11 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 7,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 48,
-      "achieved_at": "2026-08-27T00:23:24.64855+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 8,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 46,
-      "achieved_at": "2026-08-26T10:18:29.190275+00:00",
+      "prestige_level": 47,
+      "achieved_at": "2026-08-27T01:25:42.085021+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 44,
-      "achieved_at": "2026-08-27T00:03:52.57671+00:00",
+      "prestige_level": 45,
+      "achieved_at": "2026-08-27T01:23:09.959325+00:00",
       "badge_id": ""
     },
     {
@@ -354,8 +354,8 @@
       "rank": 44,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-26T01:35:02.512571+00:00",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-27T01:18:46.885081+00:00",
       "badge_id": ""
     },
     {
