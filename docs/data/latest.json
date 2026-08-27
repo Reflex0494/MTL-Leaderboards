@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T08:29:58.4583587+00:00",
-    "fetched_at": "2026-08-27T08:30:39.944895+00:00",
+    "generated_at": "2026-08-27T08:44:58.4578865+00:00",
+    "fetched_at": "2026-08-27T08:45:29.934434+00:00",
     "total_entries": 289
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 71,
-      "achieved_at": "2026-08-27T07:59:30.21805+00:00",
+      "prestige_level": 72,
+      "achieved_at": "2026-08-27T08:39:33.140618+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -48,19 +48,19 @@
     },
     {
       "rank": 6,
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-27T08:37:43.61456+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 7,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
       "prestige_level": 49,
       "achieved_at": "2026-08-27T01:27:52.967004+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 7,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-27T04:33:18.028374+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 8,
