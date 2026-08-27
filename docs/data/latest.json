@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T04:14:58.4552654+00:00",
-    "fetched_at": "2026-08-27T04:15:29.895605+00:00",
+    "generated_at": "2026-08-27T04:29:58.4595555+00:00",
+    "fetched_at": "2026-08-27T04:30:39.629220+00:00",
     "total_entries": 283
   },
   "entries": [
@@ -160,6 +160,14 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 36,
+      "achieved_at": "2026-08-27T04:23:50.879283+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 35,
@@ -167,19 +175,11 @@
       "badge_id": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 35,
       "achieved_at": "2026-08-27T02:42:40.079637+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-27T03:03:01.526156+00:00",
       "badge_id": ""
     },
     {
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-27T04:26:00.402655+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -455,7 +463,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -463,19 +471,11 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561199544449927",
       "display_name": "momomnds",
       "prestige_level": 12,
       "achieved_at": "2026-08-26T22:40:35.063415+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-27T04:00:20.841771+00:00",
       "badge_id": ""
     },
     {
