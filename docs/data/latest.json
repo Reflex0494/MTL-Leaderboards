@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T12:29:58.4577033+00:00",
-    "fetched_at": "2026-08-27T12:30:40.519118+00:00",
+    "generated_at": "2026-08-27T12:44:58.4540361+00:00",
+    "fetched_at": "2026-08-27T12:45:30.603013+00:00",
     "total_entries": 293
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 87,
-      "achieved_at": "2026-08-27T10:39:35.442194+00:00",
+      "prestige_level": 88,
+      "achieved_at": "2026-08-27T12:36:03.984464+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -176,18 +176,18 @@
     },
     {
       "rank": 22,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-25T20:28:34.659891+00:00",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 36,
+      "achieved_at": "2026-08-27T12:43:42.914298+00:00",
       "badge_id": ""
     },
     {
       "rank": 23,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 35,
-      "achieved_at": "2026-08-27T02:42:40.079637+00:00",
+      "achieved_at": "2026-08-25T20:28:34.659891+00:00",
       "badge_id": ""
     },
     {
