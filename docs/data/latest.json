@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T02:29:58.4546979+00:00",
-    "fetched_at": "2026-08-27T02:30:41.343402+00:00",
-    "total_entries": 280
+    "generated_at": "2026-08-27T02:44:58.4580163+00:00",
+    "fetched_at": "2026-08-27T02:45:28.534189+00:00",
+    "total_entries": 281
   },
   "entries": [
     {
@@ -168,18 +168,18 @@
     },
     {
       "rank": 21,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-26T04:09:00.851667+00:00",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-27T02:42:40.079637+00:00",
       "badge_id": ""
     },
     {
       "rank": 22,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
       "prestige_level": 34,
-      "achieved_at": "2026-08-26T22:57:53.466186+00:00",
+      "achieved_at": "2026-08-26T04:09:00.851667+00:00",
       "badge_id": ""
     },
     {
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-27T02:39:57.847983+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -495,19 +503,11 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
       "achieved_at": "2026-08-26T15:09:47.427097+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-27T02:12:35.12237+00:00",
       "badge_id": ""
     },
     {
