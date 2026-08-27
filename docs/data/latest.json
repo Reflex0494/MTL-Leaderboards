@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T05:44:58.4543849+00:00",
-    "fetched_at": "2026-08-27T05:45:31.607290+00:00",
+    "generated_at": "2026-08-27T05:59:58.4576076+00:00",
+    "fetched_at": "2026-08-27T06:00:52.964884+00:00",
     "total_entries": 284
   },
   "entries": [
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-26T15:46:47.895324+00:00",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-27T05:55:51.890035+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -568,6 +568,14 @@
     },
     {
       "rank": 71,
+      "steam_id": "76561198032083376",
+      "display_name": "Smelygoat",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-27T05:58:08.26451+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 72,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 7,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 7,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198865816973",
       "display_name": "NightMare",
       "prestige_level": 7,
       "achieved_at": "2026-08-27T04:02:58.076692+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198032083376",
-      "display_name": "Smelygoat",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-27T05:29:05.280563+00:00",
       "badge_id": ""
     },
     {
