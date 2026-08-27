@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T00:44:58.4594038+00:00",
-    "fetched_at": "2026-08-27T00:45:30.789895+00:00",
+    "generated_at": "2026-08-27T00:59:58.4598677+00:00",
+    "fetched_at": "2026-08-27T01:00:46.794245+00:00",
     "total_entries": 275
   },
   "entries": [
@@ -208,19 +208,19 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561198136863936",
+      "display_name": "BusterBear",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-27T00:46:22.749891+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 27,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
       "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198136863936",
-      "display_name": "BusterBear",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-27T00:06:09.144982+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 28,
