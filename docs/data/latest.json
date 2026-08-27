@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T01:59:58.4776245+00:00",
-    "fetched_at": "2026-08-27T02:00:51.892518+00:00",
-    "total_entries": 277
+    "generated_at": "2026-08-27T02:14:58.4573796+00:00",
+    "fetched_at": "2026-08-27T02:15:31.026776+00:00",
+    "total_entries": 278
   },
   "entries": [
     {
@@ -480,18 +480,18 @@
     },
     {
       "rank": 60,
-      "steam_id": "76561198040755103",
-      "display_name": "Deadpan",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-27T02:10:11.172987+00:00",
       "badge_id": ""
     },
     {
       "rank": 61,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
+      "steam_id": "76561198040755103",
+      "display_name": "Deadpan",
       "prestige_level": 10,
-      "achieved_at": "2026-08-25T21:35:07.33082+00:00",
+      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
       "badge_id": ""
     },
     {
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-27T02:12:35.12237+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 9,
@@ -519,7 +527,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 9,
@@ -527,19 +535,11 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 9,
       "achieved_at": "2026-08-26T06:52:38.372391+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-27T01:48:55.712286+00:00",
       "badge_id": ""
     },
     {
