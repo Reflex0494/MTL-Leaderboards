@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T13:14:58.4575655+00:00",
-    "fetched_at": "2026-08-27T13:15:29.745466+00:00",
+    "generated_at": "2026-08-27T13:29:58.4578955+00:00",
+    "fetched_at": "2026-08-27T13:30:42.567503+00:00",
     "total_entries": 294
   },
   "entries": [
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-27T13:17:46.793667+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -519,20 +527,12 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
       "achieved_at": "2026-08-26T15:09:47.427097+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-27T10:02:52.76248+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 67,
