@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T06:59:58.4532178+00:00",
-    "fetched_at": "2026-08-27T07:00:54.197598+00:00",
+    "generated_at": "2026-08-27T07:14:58.4591512+00:00",
+    "fetched_at": "2026-08-27T07:15:29.504421+00:00",
     "total_entries": 285
   },
   "entries": [
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-27T05:55:51.890035+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-27T07:01:01.566338+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198032083376",
+      "display_name": "Smelygoat",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-27T07:07:50.092536+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 9,
@@ -535,19 +543,11 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 9,
       "achieved_at": "2026-08-26T06:52:38.372391+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198032083376",
-      "display_name": "Smelygoat",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-27T06:27:01.566693+00:00",
       "badge_id": ""
     },
     {
