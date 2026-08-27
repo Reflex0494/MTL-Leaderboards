@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T22:29:58.4596701+00:00",
-    "fetched_at": "2026-08-27T22:30:39.565478+00:00",
+    "generated_at": "2026-08-27T22:44:58.4582188+00:00",
+    "fetched_at": "2026-08-27T22:45:34.900840+00:00",
     "total_entries": 300
   },
   "entries": [
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-27T22:30:30.05483+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -223,7 +231,7 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 26,
@@ -231,19 +239,11 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 26,
       "achieved_at": "2026-08-27T13:31:36.408481+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-27T21:27:08.35609+00:00",
       "badge_id": ""
     },
     {
