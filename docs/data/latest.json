@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T01:44:58.4602323+00:00",
-    "fetched_at": "2026-08-27T01:45:29.439214+00:00",
+    "generated_at": "2026-08-27T01:59:58.4776245+00:00",
+    "fetched_at": "2026-08-27T02:00:51.892518+00:00",
     "total_entries": 277
   },
   "entries": [
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-25T04:14:06.362027+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-08-27T01:56:56.921156+00:00",
       "badge_id": ""
     },
     {
@@ -250,8 +250,8 @@
       "rank": 31,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-26T02:04:06.027144+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-27T01:52:25.247851+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-27T01:51:37.628203+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 18,
@@ -335,7 +343,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 18,
@@ -343,19 +351,11 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 18,
       "achieved_at": "2026-08-26T21:46:14.290622+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-27T01:18:46.885081+00:00",
       "badge_id": ""
     },
     {
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-27T01:48:55.712286+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -543,20 +551,12 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 8,
       "achieved_at": "2026-08-26T04:51:55.778336+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-26T05:54:57.284619+00:00",
-      "badge_id": ""
     },
     {
       "rank": 70,
