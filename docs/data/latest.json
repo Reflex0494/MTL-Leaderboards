@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T20:59:58.4564006+00:00",
-    "fetched_at": "2026-08-27T21:00:49.007854+00:00",
+    "generated_at": "2026-08-27T21:14:58.4583778+00:00",
+    "fetched_at": "2026-08-27T21:15:30.998966+00:00",
     "total_entries": 298
   },
   "entries": [
@@ -64,19 +64,19 @@
     },
     {
       "rank": 8,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-27T21:07:24.176033+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 9,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 49,
       "achieved_at": "2026-08-27T15:41:59.883204+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 9,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-27T20:02:14.946476+00:00",
-      "badge_id": ""
     },
     {
       "rank": 10,
