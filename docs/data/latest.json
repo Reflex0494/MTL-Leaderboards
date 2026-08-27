@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T06:14:58.4580373+00:00",
-    "fetched_at": "2026-08-27T06:15:29.890054+00:00",
+    "generated_at": "2026-08-27T06:29:58.4593336+00:00",
+    "fetched_at": "2026-08-27T06:30:42.051905+00:00",
     "total_entries": 284
   },
   "entries": [
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198032083376",
+      "display_name": "Smelygoat",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-27T06:27:01.566693+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 8,
@@ -559,19 +567,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
       "achieved_at": "2026-08-26T21:19:15.753101+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198032083376",
-      "display_name": "Smelygoat",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-27T05:58:08.26451+00:00",
       "badge_id": ""
     },
     {
