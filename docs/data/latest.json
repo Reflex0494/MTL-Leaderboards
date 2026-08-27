@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T00:59:58.4598677+00:00",
-    "fetched_at": "2026-08-27T01:00:46.794245+00:00",
-    "total_entries": 275
+    "generated_at": "2026-08-27T01:14:58.4615181+00:00",
+    "fetched_at": "2026-08-27T01:15:31.101849+00:00",
+    "total_entries": 276
   },
   "entries": [
     {
@@ -202,8 +202,8 @@
       "rank": 25,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-26T13:38:20.552014+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-27T01:01:21.048376+00:00",
       "badge_id": ""
     },
     {
@@ -296,6 +296,14 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-27T01:12:18.569243+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -303,19 +311,11 @@
       "badge_id": ""
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 19,
       "achieved_at": "2026-08-26T03:05:37.46594+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-27T00:13:00.237516+00:00",
       "badge_id": ""
     },
     {
@@ -344,6 +344,14 @@
     },
     {
       "rank": 43,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-27T01:01:44.522336+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 44,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 17,
@@ -351,20 +359,12 @@
       "badge_id": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 17,
       "achieved_at": "2026-08-26T14:32:08.51566+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 45,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-26T23:45:00.590436+00:00",
-      "badge_id": ""
     },
     {
       "rank": 46,
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-27T01:07:50.096078+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -431,7 +439,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -439,20 +447,12 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 12,
       "achieved_at": "2026-08-25T22:07:20.187527+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-26T00:37:54.982272+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 57,
