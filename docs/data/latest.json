@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T07:14:58.4591512+00:00",
-    "fetched_at": "2026-08-27T07:15:29.504421+00:00",
-    "total_entries": 285
+    "generated_at": "2026-08-27T07:29:58.4564679+00:00",
+    "fetched_at": "2026-08-27T07:30:40.945737+00:00",
+    "total_entries": 286
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 84,
-      "achieved_at": "2026-08-26T20:54:59.607648+00:00",
+      "prestige_level": 85,
+      "achieved_at": "2026-08-27T07:25:06.423261+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -96,6 +96,14 @@
     },
     {
       "rank": 12,
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 41,
+      "achieved_at": "2026-08-27T07:27:30.12232+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 40,
@@ -103,20 +111,12 @@
       "badge_id": ""
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 40,
       "achieved_at": "2026-08-27T06:02:18.50369+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 14,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-27T06:42:01.193399+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 15,
