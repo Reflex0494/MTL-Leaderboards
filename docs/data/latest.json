@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T00:29:58.4594011+00:00",
-    "fetched_at": "2026-08-27T00:30:41.160616+00:00",
+    "generated_at": "2026-08-27T00:44:58.4594038+00:00",
+    "fetched_at": "2026-08-27T00:45:30.789895+00:00",
     "total_entries": 275
   },
   "entries": [
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 13,
+      "achieved_at": "2026-08-27T00:43:02.414774+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -423,7 +431,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 12,
@@ -439,19 +447,11 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 12,
       "achieved_at": "2026-08-26T00:37:54.982272+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-26T03:29:09.787055+00:00",
       "badge_id": "og"
     },
     {
