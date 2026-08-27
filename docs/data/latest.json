@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T04:59:58.4535131+00:00",
-    "fetched_at": "2026-08-27T05:00:51.788946+00:00",
+    "generated_at": "2026-08-27T05:14:58.4539909+00:00",
+    "fetched_at": "2026-08-27T05:15:33.438555+00:00",
     "total_entries": 283
   },
   "entries": [
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198032083376",
+      "display_name": "Smelygoat",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-27T05:13:19.900559+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 94,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 5,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561199275038351",
       "display_name": "cope.exe",
       "prestige_level": 5,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198125036904",
       "display_name": "Ryubiel",
       "prestige_level": 5,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561197991651392",
       "display_name": "RaincoatsGeorge",
       "prestige_level": 5,
@@ -775,20 +783,12 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 5,
       "achieved_at": "2026-08-26T15:51:03.115715+00:00",
       "badge_id": "mod"
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561198032083376",
-      "display_name": "Smelygoat",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-27T04:37:32.403922+00:00",
-      "badge_id": ""
     },
     {
       "rank": 99,
