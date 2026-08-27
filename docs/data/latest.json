@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T14:44:58.4571992+00:00",
-    "fetched_at": "2026-08-27T14:45:32.693726+00:00",
+    "generated_at": "2026-08-27T14:59:58.4590882+00:00",
+    "fetched_at": "2026-08-27T15:00:53.138642+00:00",
     "total_entries": 294
   },
   "entries": [
@@ -368,18 +368,18 @@
     },
     {
       "rank": 46,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-26T14:32:08.51566+00:00",
+      "steam_id": "76561198115990249",
+      "display_name": "Not Catualus \u2661",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-27T14:55:03.125362+00:00",
       "badge_id": "og"
     },
     {
       "rank": 47,
-      "steam_id": "76561198115990249",
-      "display_name": "Not Catualus \u2661",
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
       "prestige_level": 17,
-      "achieved_at": "2026-08-27T14:17:36.823854+00:00",
+      "achieved_at": "2026-08-26T14:32:08.51566+00:00",
       "badge_id": "og"
     },
     {
@@ -458,8 +458,8 @@
       "rank": 57,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-27T14:20:14.083866+00:00",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-27T14:53:36.610865+00:00",
       "badge_id": "og"
     },
     {
