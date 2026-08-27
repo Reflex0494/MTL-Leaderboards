@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T08:59:58.4585759+00:00",
-    "fetched_at": "2026-08-27T09:00:48.045141+00:00",
-    "total_entries": 289
+    "generated_at": "2026-08-27T09:14:58.4587225+00:00",
+    "fetched_at": "2026-08-27T09:15:30.322016+00:00",
+    "total_entries": 290
   },
   "entries": [
     {
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 72,
-      "achieved_at": "2026-08-27T08:39:33.140618+00:00",
+      "prestige_level": 73,
+      "achieved_at": "2026-08-27T09:09:47.016653+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 36,
-      "achieved_at": "2026-08-27T01:56:56.921156+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-08-27T09:08:23.399918+00:00",
       "badge_id": ""
     },
     {
