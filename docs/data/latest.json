@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T02:59:58.4579912+00:00",
-    "fetched_at": "2026-08-27T03:00:50.455279+00:00",
-    "total_entries": 281
+    "generated_at": "2026-08-27T03:14:58.4582187+00:00",
+    "fetched_at": "2026-08-27T03:15:30.041101+00:00",
+    "total_entries": 282
   },
   "entries": [
     {
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-26T04:09:00.851667+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-27T03:03:01.526156+00:00",
       "badge_id": ""
     },
     {
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198865816973",
+      "display_name": "NightMare",
+      "prestige_level": 5,
+      "achieved_at": "2026-08-27T03:05:16.248163+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198065291990",
       "display_name": "antoine",
       "prestige_level": 4,
@@ -783,7 +791,7 @@
       "badge_id": "supporter_plus"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198069261684",
       "display_name": "Major Consnipe",
       "prestige_level": 4,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 4,
       "achieved_at": "2026-08-23T16:58:35.118085+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 4,
-      "achieved_at": "2026-08-24T23:18:11.465656+00:00",
       "badge_id": ""
     }
   ]
