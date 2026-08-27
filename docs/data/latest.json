@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-27T17:59:58.4579823+00:00",
-    "fetched_at": "2026-08-27T18:00:51.325171+00:00",
-    "total_entries": 294
+    "generated_at": "2026-08-27T18:14:58.458488+00:00",
+    "fetched_at": "2026-08-27T18:15:29.495903+00:00",
+    "total_entries": 295
   },
   "entries": [
     {
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561197974754170",
+      "display_name": "Vaupell",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-27T18:02:45.040954+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 7,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 7,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198865816973",
       "display_name": "NightMare",
       "prestige_level": 7,
@@ -647,19 +655,11 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 7,
       "achieved_at": "2026-08-27T10:27:10.525165+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561197974754170",
-      "display_name": "Vaupell",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-27T16:02:55.970972+00:00",
       "badge_id": ""
     },
     {
