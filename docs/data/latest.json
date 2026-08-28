@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T16:44:58.4585824+00:00",
-    "fetched_at": "2026-08-28T16:45:30.795867+00:00",
+    "generated_at": "2026-08-28T16:59:58.4550024+00:00",
+    "fetched_at": "2026-08-28T17:00:49.232664+00:00",
     "total_entries": 319
   },
   "entries": [
@@ -128,19 +128,19 @@
     },
     {
       "rank": 16,
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-28T16:49:23.313874+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 17,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 39,
       "achieved_at": "2026-08-28T05:06:01.605271+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 17,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-28T08:26:32.376495+00:00",
-      "badge_id": ""
     },
     {
       "rank": 18,
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-28T16:45:52.469558+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 51,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -407,20 +415,12 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 16,
       "achieved_at": "2026-08-26T22:56:59.454333+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-27T16:06:39.283589+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 53,
