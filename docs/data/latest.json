@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T06:29:58.4569231+00:00",
-    "fetched_at": "2026-08-28T06:30:39.367397+00:00",
+    "generated_at": "2026-08-28T06:44:58.459278+00:00",
+    "fetched_at": "2026-08-28T06:45:29.492725+00:00",
     "total_entries": 308
   },
   "entries": [
@@ -128,19 +128,19 @@
     },
     {
       "rank": 16,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-28T06:33:12.967096+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 17,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
       "achieved_at": "2026-08-24T13:20:37.861864+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 17,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-27T15:31:25.124544+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 18,
@@ -224,6 +224,22 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-28T06:33:28.255134+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-28T06:34:00.079864+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 30,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -231,7 +247,7 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 31,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 26,
@@ -239,28 +255,12 @@
       "badge_id": ""
     },
     {
-      "rank": 30,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-27T13:31:36.408481+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 26,
       "achieved_at": "2026-08-28T02:30:50.276645+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-28T05:48:54.240403+00:00",
-      "badge_id": ""
     },
     {
       "rank": 33,
@@ -506,8 +506,8 @@
       "rank": 63,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-25T05:01:16.197528+00:00",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-28T06:35:26.303068+00:00",
       "badge_id": ""
     },
     {
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561197974919498",
-      "display_name": "BSOD",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-22T22:28:37.981234+00:00",
+      "steam_id": "76561198150626390",
+      "display_name": "Bearbee",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-28T06:34:24.184425+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561199275038351",
-      "display_name": "cope.exe",
+      "steam_id": "76561197974919498",
+      "display_name": "BSOD",
       "prestige_level": 5,
-      "achieved_at": "2026-08-24T20:09:26.547059+00:00",
+      "achieved_at": "2026-08-22T22:28:37.981234+00:00",
       "badge_id": ""
     }
   ]
