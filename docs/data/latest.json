@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T22:29:58.4549202+00:00",
-    "fetched_at": "2026-08-28T22:30:43.682596+00:00",
+    "generated_at": "2026-08-28T22:44:58.4592522+00:00",
+    "fetched_at": "2026-08-28T22:45:28.216606+00:00",
     "total_entries": 329
   },
   "entries": [
@@ -280,18 +280,18 @@
     },
     {
       "rank": 35,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-28T14:47:39.24101+00:00",
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-28T22:34:04.216554+00:00",
       "badge_id": ""
     },
     {
       "rank": 36,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-27T00:22:28.846686+00:00",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-28T14:47:39.24101+00:00",
       "badge_id": ""
     },
     {
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561198150626390",
+      "display_name": "Bearbee",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-28T22:39:36.65994+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 10,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 10,
@@ -567,19 +575,11 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 10,
       "achieved_at": "2026-08-28T21:03:59.786842+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561198150626390",
-      "display_name": "Bearbee",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-28T22:14:15.44907+00:00",
       "badge_id": ""
     },
     {
