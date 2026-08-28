@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T01:44:58.4566493+00:00",
-    "fetched_at": "2026-08-28T01:45:33.315245+00:00",
-    "total_entries": 303
+    "generated_at": "2026-08-28T01:59:58.4594548+00:00",
+    "fetched_at": "2026-08-28T02:00:47.067294+00:00",
+    "total_entries": 304
   },
   "entries": [
     {
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 52,
-      "achieved_at": "2026-08-28T00:56:43.23465+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-08-28T01:58:34.950431+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -304,18 +304,18 @@
     },
     {
       "rank": 38,
-      "steam_id": "76561198071815550",
-      "display_name": "evozakira",
-      "prestige_level": 21,
-      "achieved_at": "2026-08-25T04:15:44.100455+00:00",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 22,
+      "achieved_at": "2026-08-28T01:59:17.489243+00:00",
       "badge_id": ""
     },
     {
       "rank": 39,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
+      "steam_id": "76561198071815550",
+      "display_name": "evozakira",
       "prestige_level": 21,
-      "achieved_at": "2026-08-27T02:49:27.938033+00:00",
+      "achieved_at": "2026-08-25T04:15:44.100455+00:00",
       "badge_id": ""
     },
     {
