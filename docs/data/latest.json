@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T02:44:58.4578637+00:00",
-    "fetched_at": "2026-08-28T02:45:29.251792+00:00",
+    "generated_at": "2026-08-28T02:59:58.4557223+00:00",
+    "fetched_at": "2026-08-28T03:00:49.962784+00:00",
     "total_entries": 304
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 90,
-      "achieved_at": "2026-08-28T00:57:41.285109+00:00",
+      "prestige_level": 91,
+      "achieved_at": "2026-08-28T02:59:44.674038+00:00",
       "badge_id": ""
     },
     {
@@ -56,18 +56,18 @@
     },
     {
       "rank": 7,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 51,
-      "achieved_at": "2026-08-28T00:08:43.868773+00:00",
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 52,
+      "achieved_at": "2026-08-28T02:54:16.571158+00:00",
       "badge_id": ""
     },
     {
       "rank": 8,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
       "prestige_level": 51,
-      "achieved_at": "2026-08-28T01:26:59.255177+00:00",
+      "achieved_at": "2026-08-28T00:08:43.868773+00:00",
       "badge_id": ""
     },
     {
@@ -96,19 +96,19 @@
     },
     {
       "rank": 12,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 44,
+      "achieved_at": "2026-08-28T02:45:31.489374+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 43,
       "achieved_at": "2026-08-27T21:31:08.059099+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 13,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-28T01:37:22.729139+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 14,
