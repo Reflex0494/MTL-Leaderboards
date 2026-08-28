@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T12:59:58.460574+00:00",
-    "fetched_at": "2026-08-28T13:00:49.266364+00:00",
-    "total_entries": 313
+    "generated_at": "2026-08-28T13:14:58.4593404+00:00",
+    "fetched_at": "2026-08-28T13:15:28.566065+00:00",
+    "total_entries": 314
   },
   "entries": [
     {
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561197974919498",
-      "display_name": "BSOD",
-      "prestige_level": 5,
-      "achieved_at": "2026-08-22T22:28:37.981234+00:00",
+      "steam_id": "76561198029803975",
+      "display_name": "Sgt_Belicake",
+      "prestige_level": 6,
+      "achieved_at": "2026-08-28T13:07:27.040555+00:00",
       "badge_id": ""
     }
   ]
