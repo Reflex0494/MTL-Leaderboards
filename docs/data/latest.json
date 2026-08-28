@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T04:59:58.4572878+00:00",
-    "fetched_at": "2026-08-28T05:00:51.477494+00:00",
+    "generated_at": "2026-08-28T05:14:58.4597472+00:00",
+    "fetched_at": "2026-08-28T05:15:30.231033+00:00",
     "total_entries": 306
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 91,
-      "achieved_at": "2026-08-28T02:59:44.674038+00:00",
+      "prestige_level": 92,
+      "achieved_at": "2026-08-28T05:09:07.586411+00:00",
       "badge_id": ""
     },
     {
@@ -120,6 +120,14 @@
     },
     {
       "rank": 15,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-28T05:06:01.605271+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 16,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -127,7 +135,7 @@
       "badge_id": ""
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 38,
@@ -135,20 +143,12 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 38,
       "achieved_at": "2026-08-28T03:04:37.474605+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-28T04:12:39.136818+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 19,
@@ -256,26 +256,26 @@
     },
     {
       "rank": 32,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-27T00:22:28.846686+00:00",
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-28T05:01:55.077658+00:00",
       "badge_id": ""
     },
     {
       "rank": 33,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-28T03:13:48.442279+00:00",
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-28T05:05:16.326825+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
       "prestige_level": 24,
-      "achieved_at": "2026-08-28T04:11:10.564479+00:00",
+      "achieved_at": "2026-08-27T00:22:28.846686+00:00",
       "badge_id": ""
     },
     {
