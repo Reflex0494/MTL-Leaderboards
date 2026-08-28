@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T14:44:58.4589762+00:00",
-    "fetched_at": "2026-08-28T14:45:34.523299+00:00",
-    "total_entries": 316
+    "generated_at": "2026-08-28T14:59:58.4597193+00:00",
+    "fetched_at": "2026-08-28T15:00:50.184428+00:00",
+    "total_entries": 317
   },
   "entries": [
     {
@@ -272,6 +272,14 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-28T14:47:39.24101+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 35,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 24,
@@ -279,7 +287,7 @@
       "badge_id": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 24,
@@ -287,19 +295,11 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-28T14:21:21.592075+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 37,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-28T11:36:41.89906+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-28T14:49:45.256333+00:00",
       "badge_id": ""
     },
     {
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561197974754170",
+      "display_name": "Vaupell",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-28T14:58:50.585393+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 9,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 9,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198150626390",
       "display_name": "Bearbee",
       "prestige_level": 9,
@@ -583,19 +591,11 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 9,
       "achieved_at": "2026-08-28T10:57:28.890157+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561197974754170",
-      "display_name": "Vaupell",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-28T14:43:08.280448+00:00",
       "badge_id": ""
     },
     {
