@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T11:29:58.4550338+00:00",
-    "fetched_at": "2026-08-28T11:30:40.159706+00:00",
+    "generated_at": "2026-08-28T11:44:58.461394+00:00",
+    "fetched_at": "2026-08-28T11:45:31.389236+00:00",
     "total_entries": 313
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 96,
-      "achieved_at": "2026-08-28T09:47:03.026203+00:00",
+      "prestige_level": 97,
+      "achieved_at": "2026-08-28T11:32:44.951149+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -200,6 +200,14 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-28T11:36:11.776024+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 26,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
       "prestige_level": 30,
@@ -207,19 +215,11 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 29,
       "achieved_at": "2026-08-26T15:35:04.641668+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-28T09:30:26.292859+00:00",
       "badge_id": ""
     },
     {
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-26T04:38:21.582149+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-28T11:36:41.89906+00:00",
       "badge_id": ""
     },
     {
