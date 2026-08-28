@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T15:59:58.45885+00:00",
-    "fetched_at": "2026-08-28T16:00:51.772478+00:00",
+    "generated_at": "2026-08-28T16:14:58.4588708+00:00",
+    "fetched_at": "2026-08-28T16:15:30.478640+00:00",
     "total_entries": 318
   },
   "entries": [
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198037672566",
+      "display_name": "\u795eChronicTM",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-28T16:04:35.957594+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 7,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198865816973",
       "display_name": "NightMare",
       "prestige_level": 7,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 7,
@@ -687,19 +695,11 @@
       "badge_id": "s2_second"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198029803975",
       "display_name": "Sgt_Belicake",
       "prestige_level": 7,
       "achieved_at": "2026-08-28T13:22:44.618587+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 87,
-      "steam_id": "76561198037672566",
-      "display_name": "\u795eChronicTM",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-28T15:52:10.612262+00:00",
       "badge_id": ""
     },
     {
