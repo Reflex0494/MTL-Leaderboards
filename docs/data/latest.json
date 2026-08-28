@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T06:14:58.454874+00:00",
-    "fetched_at": "2026-08-28T06:15:31.998075+00:00",
+    "generated_at": "2026-08-28T06:29:58.4569231+00:00",
+    "fetched_at": "2026-08-28T06:30:39.367397+00:00",
     "total_entries": 308
   },
   "entries": [
@@ -280,18 +280,18 @@
     },
     {
       "rank": 35,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-27T18:24:09.963933+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-28T06:27:10.45837+00:00",
       "badge_id": ""
     },
     {
       "rank": 36,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
       "prestige_level": 23,
-      "achieved_at": "2026-08-28T05:52:35.151007+00:00",
+      "achieved_at": "2026-08-27T18:24:09.963933+00:00",
       "badge_id": ""
     },
     {
