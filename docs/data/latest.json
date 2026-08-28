@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T18:59:58.4577514+00:00",
-    "fetched_at": "2026-08-28T19:00:46.621826+00:00",
-    "total_entries": 325
+    "generated_at": "2026-08-28T19:14:58.4577648+00:00",
+    "fetched_at": "2026-08-28T19:15:32.617857+00:00",
+    "total_entries": 326
   },
   "entries": [
     {
@@ -304,19 +304,19 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-28T19:01:30.495422+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 22,
       "achieved_at": "2026-08-28T01:11:19.494696+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-28T01:59:17.489243+00:00",
-      "badge_id": ""
     },
     {
       "rank": 40,
@@ -384,19 +384,19 @@
     },
     {
       "rank": 48,
+      "steam_id": "76561198321234198",
+      "display_name": "mmffkk000",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-28T19:00:50.171063+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 49,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 17,
       "achieved_at": "2026-08-26T14:32:08.51566+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 49,
-      "steam_id": "76561198321234198",
-      "display_name": "mmffkk000",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-27T17:42:46.26544+00:00",
-      "badge_id": ""
     },
     {
       "rank": 50,
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198003470101",
+      "display_name": "Eichi",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-28T19:04:46.231614+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198067344110",
       "display_name": "Marx",
       "prestige_level": 8,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 8,
@@ -631,19 +639,11 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 8,
       "achieved_at": "2026-08-28T16:04:35.957594+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 80,
-      "steam_id": "76561198003470101",
-      "display_name": "Eichi",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-28T18:38:04.495028+00:00",
       "badge_id": ""
     },
     {
