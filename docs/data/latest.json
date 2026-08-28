@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T05:44:58.456132+00:00",
-    "fetched_at": "2026-08-28T05:45:48.553131+00:00",
-    "total_entries": 307
+    "generated_at": "2026-08-28T05:59:58.4573548+00:00",
+    "fetched_at": "2026-08-28T06:00:50.281735+00:00",
+    "total_entries": 308
   },
   "entries": [
     {
@@ -258,8 +258,8 @@
       "rank": 32,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-28T05:01:55.077658+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-28T05:48:54.240403+00:00",
       "badge_id": ""
     },
     {
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-28T05:52:35.151007+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 22,
@@ -295,7 +303,7 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 22,
@@ -303,19 +311,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 22,
       "achieved_at": "2026-08-28T01:59:17.489243+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-28T05:27:05.915614+00:00",
       "badge_id": ""
     },
     {
