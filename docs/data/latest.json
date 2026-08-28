@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T09:14:58.4603552+00:00",
-    "fetched_at": "2026-08-28T09:15:29.572925+00:00",
+    "generated_at": "2026-08-28T09:29:58.4593377+00:00",
+    "fetched_at": "2026-08-28T09:30:40.316425+00:00",
     "total_entries": 309
   },
   "entries": [
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198000796327",
+      "display_name": "Nemm",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-28T09:26:50.5665+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -583,20 +591,12 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
       "achieved_at": "2026-08-26T21:19:15.753101+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198000796327",
-      "display_name": "Nemm",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-27T11:21:38.108306+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 75,
