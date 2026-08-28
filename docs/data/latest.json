@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T09:29:58.4593377+00:00",
-    "fetched_at": "2026-08-28T09:30:40.316425+00:00",
-    "total_entries": 309
+    "generated_at": "2026-08-28T09:44:58.4571815+00:00",
+    "fetched_at": "2026-08-28T09:45:31.101567+00:00",
+    "total_entries": 310
   },
   "entries": [
     {
@@ -216,19 +216,19 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-28T09:30:26.292859+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 28,
       "achieved_at": "2026-08-28T00:42:41.483056+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-28T08:30:14.626308+00:00",
-      "badge_id": ""
     },
     {
       "rank": 29,
@@ -240,18 +240,18 @@
     },
     {
       "rank": 30,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-28T09:31:28.610571+00:00",
       "badge_id": ""
     },
     {
       "rank": 31,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
       "prestige_level": 26,
-      "achieved_at": "2026-08-27T02:51:22.266045+00:00",
+      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
     },
     {
