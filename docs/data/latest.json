@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T00:44:58.4572777+00:00",
-    "fetched_at": "2026-08-28T00:45:28.467395+00:00",
+    "generated_at": "2026-08-28T00:59:58.4581314+00:00",
+    "fetched_at": "2026-08-28T01:00:47.504783+00:00",
     "total_entries": 303
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 89,
-      "achieved_at": "2026-08-27T23:11:46.470598+00:00",
+      "prestige_level": 90,
+      "achieved_at": "2026-08-28T00:57:41.285109+00:00",
       "badge_id": ""
     },
     {
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 51,
-      "achieved_at": "2026-08-27T09:44:16.606778+00:00",
+      "prestige_level": 52,
+      "achieved_at": "2026-08-28T00:56:43.23465+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 36,
-      "achieved_at": "2026-08-27T04:23:50.879283+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-08-28T00:45:32.562136+00:00",
       "badge_id": ""
     },
     {
@@ -312,6 +312,14 @@
     },
     {
       "rank": 39,
+      "steam_id": "76561198076913774",
+      "display_name": "Spaceball Trooper",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-28T00:49:14.911232+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 40,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -319,7 +327,7 @@
       "badge_id": ""
     },
     {
-      "rank": 40,
+      "rank": 41,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 20,
@@ -327,20 +335,12 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 20,
       "achieved_at": "2026-08-27T01:12:18.569243+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561198076913774",
-      "display_name": "Spaceball Trooper",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-27T03:23:48.757529+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 43,
