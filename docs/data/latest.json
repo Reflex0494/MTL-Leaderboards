@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T03:29:58.4554651+00:00",
-    "fetched_at": "2026-08-28T03:30:40.187003+00:00",
+    "generated_at": "2026-08-28T03:44:58.454304+00:00",
+    "fetched_at": "2026-08-28T03:45:30.441968+00:00",
     "total_entries": 305
   },
   "entries": [
@@ -360,18 +360,18 @@
     },
     {
       "rank": 45,
-      "steam_id": "76561198107255403",
-      "display_name": "Astra",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-23T07:52:57.025677+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-28T03:42:59.580495+00:00",
       "badge_id": ""
     },
     {
       "rank": 46,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561198107255403",
+      "display_name": "Astra",
       "prestige_level": 19,
-      "achieved_at": "2026-08-27T01:51:37.628203+00:00",
+      "achieved_at": "2026-08-23T07:52:57.025677+00:00",
       "badge_id": ""
     },
     {
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-28T03:44:31.417246+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -527,20 +535,12 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
       "achieved_at": "2026-08-26T15:09:47.427097+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-28T03:03:32.176778+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 68,
