@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T19:14:58.4577648+00:00",
-    "fetched_at": "2026-08-28T19:15:32.617857+00:00",
-    "total_entries": 326
+    "generated_at": "2026-08-28T19:29:58.45866+00:00",
+    "fetched_at": "2026-08-28T19:30:42.653908+00:00",
+    "total_entries": 327
   },
   "entries": [
     {
@@ -250,8 +250,8 @@
       "rank": 31,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 27,
-      "achieved_at": "2026-08-28T18:37:00.846867+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-08-28T19:22:45.358745+00:00",
       "badge_id": ""
     },
     {
@@ -386,8 +386,8 @@
       "rank": 48,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-28T19:00:50.171063+00:00",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-28T19:26:15.085044+00:00",
       "badge_id": ""
     },
     {
@@ -408,6 +408,14 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-28T19:26:36.987347+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -415,19 +423,11 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 16,
       "achieved_at": "2026-08-26T22:56:59.454333+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 53,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-27T17:35:53.527101+00:00",
       "badge_id": ""
     },
     {
