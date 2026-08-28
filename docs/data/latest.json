@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T12:14:58.4584603+00:00",
-    "fetched_at": "2026-08-28T12:15:28.838669+00:00",
+    "generated_at": "2026-08-28T12:29:58.4599524+00:00",
+    "fetched_at": "2026-08-28T12:30:44.755257+00:00",
     "total_entries": 313
   },
   "entries": [
@@ -224,19 +224,19 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-28T12:24:30.221533+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 28,
       "achieved_at": "2026-08-28T00:42:41.483056+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-28T08:53:44.073976+00:00",
-      "badge_id": ""
     },
     {
       "rank": 30,
