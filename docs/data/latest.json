@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T08:14:58.4544234+00:00",
-    "fetched_at": "2026-08-28T08:15:32.867360+00:00",
+    "generated_at": "2026-08-28T08:29:58.4578298+00:00",
+    "fetched_at": "2026-08-28T08:30:41.132493+00:00",
     "total_entries": 309
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 94,
-      "achieved_at": "2026-08-28T06:51:30.916561+00:00",
+      "prestige_level": 95,
+      "achieved_at": "2026-08-28T08:18:08.584179+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -136,6 +136,14 @@
     },
     {
       "rank": 17,
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-28T08:26:32.376495+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 18,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -143,19 +151,11 @@
       "badge_id": ""
     },
     {
-      "rank": 18,
+      "rank": 19,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 38,
       "achieved_at": "2026-08-28T03:04:37.474605+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 19,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-28T07:22:20.981535+00:00",
       "badge_id": ""
     },
     {
