@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T01:29:58.4575964+00:00",
-    "fetched_at": "2026-08-28T01:30:39.421458+00:00",
+    "generated_at": "2026-08-28T01:44:58.4566493+00:00",
+    "fetched_at": "2026-08-28T01:45:33.315245+00:00",
     "total_entries": 303
   },
   "entries": [
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-27T06:30:44.925818+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-28T01:37:22.729139+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -200,18 +200,18 @@
     },
     {
       "rank": 25,
-      "steam_id": "76561198014221839",
-      "display_name": "Drunken.Canadian",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-26T15:35:04.641668+00:00",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-28T01:42:40.700182+00:00",
       "badge_id": ""
     },
     {
       "rank": 26,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
+      "steam_id": "76561198014221839",
+      "display_name": "Drunken.Canadian",
       "prestige_level": 29,
-      "achieved_at": "2026-08-28T00:32:04.4612+00:00",
+      "achieved_at": "2026-08-26T15:35:04.641668+00:00",
       "badge_id": ""
     },
     {
