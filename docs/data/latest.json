@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T21:59:58.4576508+00:00",
-    "fetched_at": "2026-08-28T22:00:49.557182+00:00",
+    "generated_at": "2026-08-28T22:14:58.4554143+00:00",
+    "fetched_at": "2026-08-28T22:15:31.421421+00:00",
     "total_entries": 328
   },
   "entries": [
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198150626390",
+      "display_name": "Bearbee",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-28T22:14:15.44907+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -583,19 +591,11 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 9,
       "achieved_at": "2026-08-26T04:24:20.033925+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198150626390",
-      "display_name": "Bearbee",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-28T07:50:00.268955+00:00",
       "badge_id": ""
     },
     {
