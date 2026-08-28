@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T21:01:58.4617676+00:00",
-    "fetched_at": "2026-08-28T21:02:21.977330+00:00",
+    "generated_at": "2026-08-28T21:14:58.4565844+00:00",
+    "fetched_at": "2026-08-28T21:15:31.287056+00:00",
     "total_entries": 327
   },
   "entries": [
@@ -568,6 +568,14 @@
     },
     {
       "rank": 71,
+      "steam_id": "76561197961096127",
+      "display_name": "Professaur",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-28T21:03:59.786842+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 72,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -575,19 +583,11 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 9,
       "achieved_at": "2026-08-26T04:24:20.033925+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 73,
-      "steam_id": "76561197961096127",
-      "display_name": "Professaur",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-26T06:52:38.372391+00:00",
       "badge_id": ""
     },
     {
