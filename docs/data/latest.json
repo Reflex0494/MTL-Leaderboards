@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T10:44:58.4581112+00:00",
-    "fetched_at": "2026-08-28T10:45:32.408920+00:00",
+    "generated_at": "2026-08-28T10:59:58.4562873+00:00",
+    "fetched_at": "2026-08-28T11:00:50.125471+00:00",
     "total_entries": 311
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 94,
-      "achieved_at": "2026-08-28T08:57:51.250096+00:00",
+      "prestige_level": 95,
+      "achieved_at": "2026-08-28T10:50:56.765487+00:00",
       "badge_id": ""
     },
     {
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198205187064",
+      "display_name": "Cannabis",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-28T10:57:28.890157+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 8,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198067344110",
       "display_name": "Marx",
       "prestige_level": 8,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 8,
       "achieved_at": "2026-08-27T20:00:52.117003+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198205187064",
-      "display_name": "Cannabis",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-28T10:38:00.959074+00:00",
       "badge_id": ""
     },
     {
