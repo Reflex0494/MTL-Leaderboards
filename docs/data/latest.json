@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T07:14:58.4575909+00:00",
-    "fetched_at": "2026-08-28T07:15:33.964624+00:00",
+    "generated_at": "2026-08-28T07:29:58.4564653+00:00",
+    "fetched_at": "2026-08-28T07:30:40.075651+00:00",
     "total_entries": 309
   },
   "entries": [
@@ -120,18 +120,18 @@
     },
     {
       "rank": 15,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-28T05:06:01.605271+00:00",
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-28T07:26:50.170808+00:00",
       "badge_id": "s2_top21"
     },
     {
       "rank": 16,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
       "prestige_level": 39,
-      "achieved_at": "2026-08-28T06:33:12.967096+00:00",
+      "achieved_at": "2026-08-28T05:06:01.605271+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -152,6 +152,14 @@
     },
     {
       "rank": 19,
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 38,
+      "achieved_at": "2026-08-28T07:22:20.981535+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 20,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
       "prestige_level": 37,
@@ -159,7 +167,7 @@
       "badge_id": ""
     },
     {
-      "rank": 20,
+      "rank": 21,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -167,19 +175,11 @@
       "badge_id": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 37,
       "achieved_at": "2026-08-27T09:08:23.399918+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-27T18:31:36.135209+00:00",
       "badge_id": ""
     },
     {
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198150626390",
+      "display_name": "Bearbee",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-28T07:21:02.170918+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 7,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198865816973",
       "display_name": "NightMare",
       "prestige_level": 7,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 7,
@@ -671,20 +679,12 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 7,
       "achieved_at": "2026-08-28T02:31:40.66784+00:00",
       "badge_id": "s2_second"
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561198150626390",
-      "display_name": "Bearbee",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-28T06:57:47.492559+00:00",
-      "badge_id": ""
     },
     {
       "rank": 86,
