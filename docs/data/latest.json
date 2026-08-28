@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T03:44:58.454304+00:00",
-    "fetched_at": "2026-08-28T03:45:30.441968+00:00",
+    "generated_at": "2026-08-28T03:59:58.4565649+00:00",
+    "fetched_at": "2026-08-28T04:00:51.722198+00:00",
     "total_entries": 305
   },
   "entries": [
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-28T03:47:04.242745+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 11,
@@ -495,20 +503,12 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
       "achieved_at": "2026-08-25T14:24:27.924396+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-27T06:05:43.611145+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 64,
