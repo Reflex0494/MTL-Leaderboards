@@ -1,17 +1,17 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T09:44:58.4571815+00:00",
-    "fetched_at": "2026-08-28T09:45:31.101567+00:00",
-    "total_entries": 310
+    "generated_at": "2026-08-28T09:59:58.4572661+00:00",
+    "fetched_at": "2026-08-28T10:00:50.653900+00:00",
+    "total_entries": 311
   },
   "entries": [
     {
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 95,
-      "achieved_at": "2026-08-28T08:18:08.584179+00:00",
+      "prestige_level": 96,
+      "achieved_at": "2026-08-28T09:47:03.026203+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
-      "prestige_level": 44,
-      "achieved_at": "2026-08-28T09:13:57.59413+00:00",
+      "prestige_level": 45,
+      "achieved_at": "2026-08-28T09:56:40.936883+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198000796327",
+      "display_name": "Nemm",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-28T09:53:53.176484+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 9,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 9,
@@ -567,20 +575,12 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198150626390",
       "display_name": "Bearbee",
       "prestige_level": 9,
       "achieved_at": "2026-08-28T07:50:00.268955+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561198000796327",
-      "display_name": "Nemm",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-28T09:26:50.5665+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 73,
