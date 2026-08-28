@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T10:29:58.4577702+00:00",
-    "fetched_at": "2026-08-28T10:30:42.806392+00:00",
+    "generated_at": "2026-08-28T10:44:58.4581112+00:00",
+    "fetched_at": "2026-08-28T10:45:32.408920+00:00",
     "total_entries": 311
   },
   "entries": [
@@ -96,18 +96,18 @@
     },
     {
       "rank": 12,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-28T04:06:09.888234+00:00",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-28T10:39:13.554244+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 13,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
       "prestige_level": 45,
-      "achieved_at": "2026-08-28T09:56:40.936883+00:00",
+      "achieved_at": "2026-08-28T04:06:09.888234+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561198205187064",
+      "display_name": "Cannabis",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-28T10:38:00.959074+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 7,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198865816973",
       "display_name": "NightMare",
       "prestige_level": 7,
       "achieved_at": "2026-08-27T04:02:58.076692+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561198205187064",
-      "display_name": "Cannabis",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-27T10:27:10.525165+00:00",
       "badge_id": ""
     },
     {
