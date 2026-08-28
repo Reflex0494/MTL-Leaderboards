@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T12:44:58.4580977+00:00",
-    "fetched_at": "2026-08-28T12:45:33.930746+00:00",
+    "generated_at": "2026-08-28T12:59:58.460574+00:00",
+    "fetched_at": "2026-08-28T13:00:49.266364+00:00",
     "total_entries": 313
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 97,
-      "achieved_at": "2026-08-28T11:32:44.951149+00:00",
+      "prestige_level": 98,
+      "achieved_at": "2026-08-28T12:49:01.075696+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 61,
-      "achieved_at": "2026-08-27T11:18:00.182199+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-08-28T12:45:20.954369+00:00",
       "badge_id": "s3_third"
     },
     {
