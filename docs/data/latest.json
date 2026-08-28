@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T13:59:58.4556317+00:00",
-    "fetched_at": "2026-08-28T14:00:51.107199+00:00",
-    "total_entries": 315
+    "generated_at": "2026-08-28T14:14:58.4557715+00:00",
+    "fetched_at": "2026-08-28T14:15:31.736587+00:00",
+    "total_entries": 316
   },
   "entries": [
     {
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-27T15:41:59.883204+00:00",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-28T14:09:52.578862+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198000796327",
+      "display_name": "Nemm",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-28T14:10:39.830963+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -519,20 +527,12 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
       "achieved_at": "2026-08-27T07:38:55.205992+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198000796327",
-      "display_name": "Nemm",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-28T11:03:17.204032+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 67,
