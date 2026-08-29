@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T08:29:58.4600926+00:00",
-    "fetched_at": "2026-08-29T08:30:41.094430+00:00",
+    "generated_at": "2026-08-29T08:44:58.4581182+00:00",
+    "fetched_at": "2026-08-29T08:45:27.220647+00:00",
     "total_entries": 343
   },
   "entries": [
@@ -104,19 +104,19 @@
     },
     {
       "rank": 13,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 47,
+      "achieved_at": "2026-08-29T08:34:17.594699+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 14,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 46,
       "achieved_at": "2026-08-28T21:51:35.586078+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 14,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 46,
-      "achieved_at": "2026-08-29T07:26:22.674052+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 15,
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561198053866384",
+      "display_name": "Wiggum",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-29T08:36:51.479119+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198067344110",
       "display_name": "Marx",
       "prestige_level": 8,
@@ -671,19 +679,11 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 8,
       "achieved_at": "2026-08-28T16:04:35.957594+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561198053866384",
-      "display_name": "Wiggum",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-29T08:06:14.704087+00:00",
       "badge_id": ""
     },
     {
