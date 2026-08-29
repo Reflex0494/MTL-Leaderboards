@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T12:44:58.4617103+00:00",
-    "fetched_at": "2026-08-29T12:45:29.094760+00:00",
+    "generated_at": "2026-08-29T12:59:58.4595716+00:00",
+    "fetched_at": "2026-08-29T13:00:47.524946+00:00",
     "total_entries": 343
   },
   "entries": [
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198003470101",
+      "display_name": "Eichi",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-29T12:59:56.441829+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 11,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 11,
@@ -583,15 +591,15 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
-      "steam_id": "76561198003470101",
-      "display_name": "Eichi",
+      "rank": 74,
+      "steam_id": "76561197974754170",
+      "display_name": "Vaupell",
       "prestige_level": 11,
-      "achieved_at": "2026-08-29T12:15:32.701924+00:00",
+      "achieved_at": "2026-08-29T12:51:56.745402+00:00",
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -599,19 +607,11 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
       "achieved_at": "2026-08-26T15:09:47.427097+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561197974754170",
-      "display_name": "Vaupell",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-28T14:58:50.585393+00:00",
       "badge_id": ""
     },
     {
