@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T10:00:58.4593379+00:00",
-    "fetched_at": "2026-08-29T10:01:55.634805+00:00",
+    "generated_at": "2026-08-29T10:14:58.4589019+00:00",
+    "fetched_at": "2026-08-29T10:15:31.589775+00:00",
     "total_entries": 343
   },
   "entries": [
@@ -266,8 +266,8 @@
       "rank": 33,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-28T10:20:29.898096+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-29T10:07:11.787519+00:00",
       "badge_id": ""
     },
     {
