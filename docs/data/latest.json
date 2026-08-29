@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T10:14:58.4589019+00:00",
-    "fetched_at": "2026-08-29T10:15:31.589775+00:00",
+    "generated_at": "2026-08-29T10:29:58.4587642+00:00",
+    "fetched_at": "2026-08-29T10:30:36.846548+00:00",
     "total_entries": 343
   },
   "entries": [
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-29T01:05:55.284694+00:00",
+      "prestige_level": 41,
+      "achieved_at": "2026-08-29T10:28:27.995211+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-29T10:28:36.308826+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 29,
@@ -247,20 +255,12 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
       "achieved_at": "2026-08-29T00:54:19.28126+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-29T09:36:12.853068+00:00",
-      "badge_id": ""
     },
     {
       "rank": 33,
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198025349919",
+      "display_name": "Feel Like Im Fuckin This Fallguy",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-29T10:18:27.401609+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 9,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 9,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 9,
@@ -647,19 +655,11 @@
       "badge_id": "s2_second"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 9,
       "achieved_at": "2026-08-29T08:36:51.479119+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198025349919",
-      "display_name": "Feel Like Im Fuckin This Fallguy",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-29T09:48:15.970681+00:00",
       "badge_id": ""
     },
     {
