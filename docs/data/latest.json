@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T01:44:58.4569196+00:00",
-    "fetched_at": "2026-08-29T01:45:28.440525+00:00",
+    "generated_at": "2026-08-29T01:59:58.4594576+00:00",
+    "fetched_at": "2026-08-29T02:00:43.831381+00:00",
     "total_entries": 332
   },
   "entries": [
@@ -466,8 +466,8 @@
       "rank": 58,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-27T04:41:32.836998+00:00",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-29T01:45:17.910962+00:00",
       "badge_id": ""
     },
     {
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-29T01:48:50.557627+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -543,19 +551,11 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
       "achieved_at": "2026-08-27T07:38:55.205992+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-29T01:19:04.921522+00:00",
       "badge_id": ""
     },
     {
