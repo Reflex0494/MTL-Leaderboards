@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T15:29:58.4576051+00:00",
-    "fetched_at": "2026-08-29T15:30:46.224840+00:00",
+    "generated_at": "2026-08-29T15:44:58.4548419+00:00",
+    "fetched_at": "2026-08-29T15:45:32.065215+00:00",
     "total_entries": 346
   },
   "entries": [
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-29T15:32:26.484763+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 13,
@@ -495,19 +503,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 13,
       "achieved_at": "2026-08-29T02:11:45.273711+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-29T13:13:31.522763+00:00",
       "badge_id": ""
     },
     {
