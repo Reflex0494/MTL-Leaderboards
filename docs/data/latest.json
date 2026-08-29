@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T18:44:58.4581221+00:00",
-    "fetched_at": "2026-08-29T18:45:28.305635+00:00",
+    "generated_at": "2026-08-29T18:59:58.4582983+00:00",
+    "fetched_at": "2026-08-29T19:00:47.667381+00:00",
     "total_entries": 348
   },
   "entries": [
@@ -152,18 +152,18 @@
     },
     {
       "rank": 19,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-29T04:29:02.724993+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-29T18:59:04.098691+00:00",
       "badge_id": ""
     },
     {
       "rank": 20,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
       "prestige_level": 39,
-      "achieved_at": "2026-08-29T04:43:29.005075+00:00",
+      "achieved_at": "2026-08-29T04:29:02.724993+00:00",
       "badge_id": ""
     },
     {
@@ -456,6 +456,14 @@
     },
     {
       "rank": 57,
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-29T18:49:21.582674+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 58,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -463,7 +471,7 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 16,
@@ -471,7 +479,7 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -479,19 +487,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 16,
       "achieved_at": "2026-08-29T16:44:09.390077+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-29T18:27:53.335459+00:00",
       "badge_id": ""
     },
     {
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198031518186",
+      "display_name": "Kody",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-29T18:55:40.587634+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 11,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 11,
@@ -615,15 +623,15 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
-      "steam_id": "76561198031518186",
-      "display_name": "Kody",
+      "rank": 78,
+      "steam_id": "76561199124755171",
+      "display_name": "itz_NOXIS",
       "prestige_level": 11,
-      "achieved_at": "2026-08-29T18:37:16.090518+00:00",
+      "achieved_at": "2026-08-29T18:54:54.896595+00:00",
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
@@ -639,19 +647,11 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198012435781",
       "display_name": "Bing",
       "prestige_level": 10,
       "achieved_at": "2026-08-29T17:10:00.868191+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561199124755171",
-      "display_name": "itz_NOXIS",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-29T18:23:33.047418+00:00",
       "badge_id": ""
     },
     {
