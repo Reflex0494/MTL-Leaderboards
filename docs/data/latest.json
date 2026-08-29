@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T09:44:58.4599986+00:00",
-    "fetched_at": "2026-08-29T09:45:28.387111+00:00",
+    "generated_at": "2026-08-29T10:00:58.4593379+00:00",
+    "fetched_at": "2026-08-29T10:01:55.634805+00:00",
     "total_entries": 343
   },
   "entries": [
@@ -656,6 +656,14 @@
     },
     {
       "rank": 82,
+      "steam_id": "76561198025349919",
+      "display_name": "Feel Like Im Fuckin This Fallguy",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-29T09:48:15.970681+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 83,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198067344110",
       "display_name": "Marx",
       "prestige_level": 8,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 8,
@@ -687,19 +695,11 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 8,
       "achieved_at": "2026-08-29T08:13:35.856231+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 87,
-      "steam_id": "76561198025349919",
-      "display_name": "Feel Like Im Fuckin This Fallguy",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-29T09:22:36.826561+00:00",
       "badge_id": ""
     },
     {
