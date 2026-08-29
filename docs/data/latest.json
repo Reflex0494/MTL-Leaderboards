@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T17:44:58.4615036+00:00",
-    "fetched_at": "2026-08-29T17:45:28.782808+00:00",
+    "generated_at": "2026-08-29T17:59:58.4571999+00:00",
+    "fetched_at": "2026-08-29T18:00:53.542155+00:00",
     "total_entries": 348
   },
   "entries": [
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-29T17:50:09.260546+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 63,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 13,
@@ -503,7 +511,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 13,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 13,
       "achieved_at": "2026-08-29T13:33:12.238861+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-29T17:35:31.08124+00:00",
       "badge_id": ""
     },
     {
