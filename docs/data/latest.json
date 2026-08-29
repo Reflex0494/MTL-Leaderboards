@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T07:14:58.4580427+00:00",
-    "fetched_at": "2026-08-29T07:15:28.463896+00:00",
+    "generated_at": "2026-08-29T07:29:58.458903+00:00",
+    "fetched_at": "2026-08-29T07:30:41.310514+00:00",
     "total_entries": 342
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 45,
-      "achieved_at": "2026-08-28T04:06:09.888234+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-08-29T07:26:22.674052+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -192,18 +192,18 @@
     },
     {
       "rank": 24,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-29T05:53:40.646274+00:00",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-29T07:28:07.777486+00:00",
       "badge_id": ""
     },
     {
       "rank": 25,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
       "prestige_level": 33,
-      "achieved_at": "2026-08-29T06:27:52.584682+00:00",
+      "achieved_at": "2026-08-29T05:53:40.646274+00:00",
       "badge_id": ""
     },
     {
@@ -264,6 +264,14 @@
     },
     {
       "rank": 33,
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-29T07:16:32.381335+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 34,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -271,7 +279,7 @@
       "badge_id": ""
     },
     {
-      "rank": 34,
+      "rank": 35,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 26,
@@ -279,19 +287,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 26,
       "achieved_at": "2026-08-28T22:34:04.216554+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 36,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-29T06:21:13.288611+00:00",
       "badge_id": ""
     },
     {
