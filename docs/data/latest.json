@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T17:14:58.4586476+00:00",
-    "fetched_at": "2026-08-29T17:15:32.792904+00:00",
+    "generated_at": "2026-08-29T17:29:58.4571994+00:00",
+    "fetched_at": "2026-08-29T17:30:43.863333+00:00",
     "total_entries": 348
   },
   "entries": [
@@ -568,6 +568,14 @@
     },
     {
       "rank": 71,
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-29T17:21:42.358866+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 72,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 11,
@@ -591,19 +599,11 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 11,
       "achieved_at": "2026-08-29T10:46:12.486638+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-29T17:10:19.389593+00:00",
       "badge_id": ""
     },
     {
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-29T17:24:17.895432+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 81,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 9,
@@ -655,20 +663,12 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 9,
       "achieved_at": "2026-08-28T20:12:02.288694+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-29T03:45:57.261888+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 84,
