@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T06:44:58.4551758+00:00",
-    "fetched_at": "2026-08-29T06:45:30.713439+00:00",
-    "total_entries": 341
+    "generated_at": "2026-08-29T06:59:58.4593891+00:00",
+    "fetched_at": "2026-08-29T07:00:52.185980+00:00",
+    "total_entries": 342
   },
   "entries": [
     {
@@ -120,19 +120,19 @@
     },
     {
       "rank": 15,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 42,
+      "achieved_at": "2026-08-29T06:52:22.46475+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 16,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 41,
       "achieved_at": "2026-08-29T01:19:34.065413+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 16,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 41,
-      "achieved_at": "2026-08-29T05:56:00.500352+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 17,
