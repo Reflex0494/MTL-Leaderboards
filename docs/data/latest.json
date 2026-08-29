@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T12:29:58.4590821+00:00",
-    "fetched_at": "2026-08-29T12:30:41.005497+00:00",
+    "generated_at": "2026-08-29T12:44:58.4617103+00:00",
+    "fetched_at": "2026-08-29T12:45:29.094760+00:00",
     "total_entries": 343
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 103,
-      "achieved_at": "2026-08-29T08:50:14.68052+00:00",
+      "prestige_level": 104,
+      "achieved_at": "2026-08-29T12:38:04.116384+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-29T12:30:09.933497+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 11,
@@ -567,19 +575,11 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 11,
       "achieved_at": "2026-08-29T10:46:12.486638+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-29T12:13:17.733864+00:00",
       "badge_id": ""
     },
     {
