@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T16:44:58.4590808+00:00",
-    "fetched_at": "2026-08-29T16:45:31.784599+00:00",
+    "generated_at": "2026-08-29T16:59:58.4556957+00:00",
+    "fetched_at": "2026-08-29T17:00:51.584046+00:00",
     "total_entries": 347
   },
   "entries": [
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-28T14:47:39.24101+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-29T16:56:31.206939+00:00",
       "badge_id": ""
     },
     {
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-29T16:50:06.70458+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 9,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 9,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 9,
@@ -655,19 +663,11 @@
       "badge_id": "s2_second"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 9,
       "achieved_at": "2026-08-29T08:36:51.479119+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-29T16:37:11.807259+00:00",
       "badge_id": ""
     },
     {
