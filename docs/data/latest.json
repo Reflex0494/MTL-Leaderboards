@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T06:14:58.4602117+00:00",
-    "fetched_at": "2026-08-29T06:15:29.852307+00:00",
+    "generated_at": "2026-08-29T06:29:58.4542593+00:00",
+    "fetched_at": "2026-08-29T06:30:40.660850+00:00",
     "total_entries": 340
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 101,
-      "achieved_at": "2026-08-28T19:52:11.524226+00:00",
+      "prestige_level": 102,
+      "achieved_at": "2026-08-29T06:19:23.68908+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -200,18 +200,18 @@
     },
     {
       "rank": 25,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-27T23:54:09.209659+00:00",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 33,
+      "achieved_at": "2026-08-29T06:27:52.584682+00:00",
       "badge_id": ""
     },
     {
       "rank": 26,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
       "prestige_level": 32,
-      "achieved_at": "2026-08-29T05:29:50.703141+00:00",
+      "achieved_at": "2026-08-27T23:54:09.209659+00:00",
       "badge_id": ""
     },
     {
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-29T06:21:13.288611+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 25,
@@ -295,19 +303,11 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 25,
       "achieved_at": "2026-08-29T03:06:57.328612+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-29T05:25:27.035169+00:00",
       "badge_id": ""
     },
     {
