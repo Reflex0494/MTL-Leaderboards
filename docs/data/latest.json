@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T06:59:58.4593891+00:00",
-    "fetched_at": "2026-08-29T07:00:52.185980+00:00",
+    "generated_at": "2026-08-29T07:14:58.4580427+00:00",
+    "fetched_at": "2026-08-29T07:15:28.463896+00:00",
     "total_entries": 342
   },
   "entries": [
@@ -440,6 +440,14 @@
     },
     {
       "rank": 55,
+      "steam_id": "76561197961096127",
+      "display_name": "Professaur",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-29T07:05:00.192867+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 56,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -447,7 +455,7 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 16,
@@ -455,20 +463,12 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
       "achieved_at": "2026-08-27T20:39:52.983427+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561197961096127",
-      "display_name": "Professaur",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-29T02:03:03.278823+00:00",
-      "badge_id": ""
     },
     {
       "rank": 59,
