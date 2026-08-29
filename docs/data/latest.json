@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T19:59:58.4578349+00:00",
-    "fetched_at": "2026-08-29T20:00:47.551490+00:00",
+    "generated_at": "2026-08-29T20:14:58.4572832+00:00",
+    "fetched_at": "2026-08-29T20:15:29.982501+00:00",
     "total_entries": 350
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 105,
-      "achieved_at": "2026-08-29T17:07:26.145873+00:00",
+      "prestige_level": 106,
+      "achieved_at": "2026-08-29T20:14:41.097145+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-29T20:09:46.009973+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 18,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 18,
@@ -431,19 +439,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 18,
       "achieved_at": "2026-08-29T07:52:50.885834+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-29T19:55:16.677628+00:00",
       "badge_id": ""
     },
     {
