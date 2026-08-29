@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T17:59:58.4571999+00:00",
-    "fetched_at": "2026-08-29T18:00:53.542155+00:00",
+    "generated_at": "2026-08-29T18:14:58.4570394+00:00",
+    "fetched_at": "2026-08-29T18:15:29.409448+00:00",
     "total_entries": 348
   },
   "entries": [
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-28T18:45:55.846602+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
       "badge_id": ""
     },
     {
@@ -498,8 +498,8 @@
       "rank": 62,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-29T17:50:09.260546+00:00",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-29T18:07:38.883218+00:00",
       "badge_id": ""
     },
     {
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-29T18:04:21.600911+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 11,
@@ -599,20 +607,12 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 11,
       "achieved_at": "2026-08-29T10:46:12.486638+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-29T17:42:29.843266+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 77,
