@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T04:29:58.4600793+00:00",
-    "fetched_at": "2026-08-29T04:30:43.343015+00:00",
+    "generated_at": "2026-08-29T04:44:58.460299+00:00",
+    "fetched_at": "2026-08-29T04:45:30.936132+00:00",
     "total_entries": 334
   },
   "entries": [
@@ -56,6 +56,14 @@
     },
     {
       "rank": 7,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 54,
+      "achieved_at": "2026-08-29T04:38:14.700223+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 8,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
       "prestige_level": 53,
@@ -63,20 +71,12 @@
       "badge_id": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 53,
       "achieved_at": "2026-08-29T01:20:34.141932+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 9,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 53,
-      "achieved_at": "2026-08-29T03:13:56.360655+00:00",
-      "badge_id": ""
     },
     {
       "rank": 10,
@@ -160,18 +160,18 @@
     },
     {
       "rank": 20,
-      "steam_id": "76561198119563776",
-      "display_name": "Pois",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-29T04:43:29.005075+00:00",
       "badge_id": ""
     },
     {
       "rank": 21,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561198119563776",
+      "display_name": "Pois",
       "prestige_level": 38,
-      "achieved_at": "2026-08-28T03:04:37.474605+00:00",
+      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
       "badge_id": ""
     },
     {
