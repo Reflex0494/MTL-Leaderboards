@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T14:44:58.4559752+00:00",
-    "fetched_at": "2026-08-29T14:45:30.855744+00:00",
-    "total_entries": 344
+    "generated_at": "2026-08-29T14:59:58.4594802+00:00",
+    "fetched_at": "2026-08-29T15:00:52.796864+00:00",
+    "total_entries": 345
   },
   "entries": [
     {
@@ -768,18 +768,18 @@
     },
     {
       "rank": 96,
-      "steam_id": "76561198079434484",
-      "display_name": "Brodoodle",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-20T20:58:09.213861+00:00",
+      "steam_id": "76561198090798622",
+      "display_name": "bAGHOUAROUIK",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-29T14:48:17.325397+00:00",
       "badge_id": ""
     },
     {
       "rank": 97,
-      "steam_id": "76561198090798622",
-      "display_name": "bAGHOUAROUIK",
+      "steam_id": "76561198079434484",
+      "display_name": "Brodoodle",
       "prestige_level": 6,
-      "achieved_at": "2026-08-21T15:15:33.205213+00:00",
+      "achieved_at": "2026-08-20T20:58:09.213861+00:00",
       "badge_id": ""
     },
     {
