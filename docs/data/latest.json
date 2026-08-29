@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T11:59:58.4590496+00:00",
-    "fetched_at": "2026-08-29T12:00:45.645073+00:00",
+    "generated_at": "2026-08-29T12:14:58.4587097+00:00",
+    "fetched_at": "2026-08-29T12:15:30.493021+00:00",
     "total_entries": 343
   },
   "entries": [
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-28T13:42:14.74559+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-29T12:01:49.443305+00:00",
       "badge_id": ""
     },
     {
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-29T12:13:17.733864+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
@@ -591,19 +599,11 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 10,
       "achieved_at": "2026-08-28T14:58:50.585393+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-28T20:35:13.260006+00:00",
       "badge_id": ""
     },
     {
