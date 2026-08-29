@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T18:14:58.4570394+00:00",
-    "fetched_at": "2026-08-29T18:15:29.409448+00:00",
+    "generated_at": "2026-08-29T18:29:58.4601602+00:00",
+    "fetched_at": "2026-08-29T18:30:44.523458+00:00",
     "total_entries": 348
   },
   "entries": [
@@ -194,8 +194,8 @@
       "rank": 24,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-29T07:28:07.777486+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-29T18:27:05.859432+00:00",
       "badge_id": ""
     },
     {
@@ -488,19 +488,19 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-29T18:27:53.335459+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 15,
       "achieved_at": "2026-08-29T04:55:41.420221+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-29T18:07:38.883218+00:00",
-      "badge_id": ""
     },
     {
       "rank": 63,
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561199124755171",
+      "display_name": "itz_NOXIS",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-29T18:23:33.047418+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 9,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 9,
@@ -671,19 +679,11 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 9,
       "achieved_at": "2026-08-29T08:36:51.479119+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561199124755171",
-      "display_name": "itz_NOXIS",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-29T17:41:56.628286+00:00",
       "badge_id": ""
     },
     {
