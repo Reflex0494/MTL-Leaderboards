@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-28T23:44:58.4633156+00:00",
-    "fetched_at": "2026-08-28T23:45:30.114806+00:00",
+    "generated_at": "2026-08-28T23:59:58.4549196+00:00",
+    "fetched_at": "2026-08-29T00:00:49.767264+00:00",
     "total_entries": 330
   },
   "entries": [
@@ -202,8 +202,8 @@
       "rank": 25,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-28T11:36:11.776024+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-28T23:58:19.803572+00:00",
       "badge_id": ""
     },
     {
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561197961096127",
+      "display_name": "Professaur",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-28T23:45:21.001168+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -535,19 +543,11 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
       "achieved_at": "2026-08-27T07:38:55.205992+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561197961096127",
-      "display_name": "Professaur",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-28T23:20:58.31122+00:00",
       "badge_id": ""
     },
     {
