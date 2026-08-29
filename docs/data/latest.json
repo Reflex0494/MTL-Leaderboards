@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T21:29:58.4588866+00:00",
-    "fetched_at": "2026-08-29T21:30:39.706108+00:00",
+    "generated_at": "2026-08-29T21:44:58.4587034+00:00",
+    "fetched_at": "2026-08-29T21:45:29.456197+00:00",
     "total_entries": 351
   },
   "entries": [
@@ -144,18 +144,18 @@
     },
     {
       "rank": 18,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 41,
+      "achieved_at": "2026-08-29T21:35:13.565565+00:00",
       "badge_id": ""
     },
     {
       "rank": 19,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 40,
-      "achieved_at": "2026-08-29T18:59:04.098691+00:00",
+      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
       "badge_id": ""
     },
     {
@@ -384,6 +384,14 @@
     },
     {
       "rank": 48,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-29T21:31:22.364949+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 49,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -391,7 +399,7 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
@@ -399,7 +407,7 @@
       "badge_id": ""
     },
     {
-      "rank": 50,
+      "rank": 51,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 19,
@@ -407,19 +415,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
       "prestige_level": 19,
       "achieved_at": "2026-08-29T19:32:13.360409+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-29T20:09:46.009973+00:00",
       "badge_id": ""
     },
     {
