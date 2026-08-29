@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T05:14:58.4536445+00:00",
-    "fetched_at": "2026-08-29T05:15:30.392273+00:00",
+    "generated_at": "2026-08-29T05:29:58.4586223+00:00",
+    "fetched_at": "2026-08-29T05:30:41.315391+00:00",
     "total_entries": 334
   },
   "entries": [
@@ -210,8 +210,8 @@
       "rank": 26,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-29T04:20:02.15399+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-29T05:29:50.703141+00:00",
       "badge_id": ""
     },
     {
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-28T14:49:45.256333+00:00",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-29T05:25:27.035169+00:00",
       "badge_id": ""
     },
     {
