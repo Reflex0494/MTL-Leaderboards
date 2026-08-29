@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T02:44:58.4604425+00:00",
-    "fetched_at": "2026-08-29T02:45:28.052519+00:00",
-    "total_entries": 332
+    "generated_at": "2026-08-29T02:59:58.4598694+00:00",
+    "fetched_at": "2026-08-29T03:00:50.805246+00:00",
+    "total_entries": 333
   },
   "entries": [
     {
@@ -314,8 +314,8 @@
       "rank": 39,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-28T01:11:19.494696+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-29T02:53:30.809761+00:00",
       "badge_id": "og"
     },
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-29T02:47:59.351131+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 16,
@@ -447,7 +455,7 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -455,19 +463,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 16,
       "achieved_at": "2026-08-29T02:03:03.278823+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-29T02:16:24.526312+00:00",
       "badge_id": ""
     },
     {
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198031518186",
+      "display_name": "Kody",
+      "prestige_level": 7,
+      "achieved_at": "2026-08-29T02:54:04.433357+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198079434484",
       "display_name": "Brodoodle",
       "prestige_level": 6,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198090798622",
       "display_name": "bAGHOUAROUIK",
       "prestige_level": 6,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198111972817",
       "display_name": "==OCEAN==",
       "prestige_level": 6,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561199586661483",
       "display_name": "Tahiti",
       "prestige_level": 6,
@@ -767,7 +775,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198068791763",
       "display_name": "Pawnax",
       "prestige_level": 6,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198019688879",
       "display_name": "Thercio",
       "prestige_level": 6,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198169919917",
       "display_name": "KillahKyle",
       "prestige_level": 6,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198192203475",
       "display_name": "ebb",
       "prestige_level": 6,
       "achieved_at": "2026-08-24T02:05:07.553281+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 6,
-      "achieved_at": "2026-08-24T22:43:34.108331+00:00",
       "badge_id": ""
     }
   ]
