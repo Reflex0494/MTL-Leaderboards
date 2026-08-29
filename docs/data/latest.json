@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T00:44:58.45999+00:00",
-    "fetched_at": "2026-08-29T00:45:29.998241+00:00",
+    "generated_at": "2026-08-29T00:59:58.4543+00:00",
+    "fetched_at": "2026-08-29T01:00:47.555845+00:00",
     "total_entries": 330
   },
   "entries": [
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-28T00:42:41.483056+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-29T00:54:19.28126+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -584,18 +584,18 @@
     },
     {
       "rank": 73,
-      "steam_id": "76561198404143581",
-      "display_name": "ChaoticWinta",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-24T14:22:32.753613+00:00",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-29T00:54:59.434849+00:00",
       "badge_id": ""
     },
     {
       "rank": 74,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
+      "steam_id": "76561198404143581",
+      "display_name": "ChaoticWinta",
       "prestige_level": 9,
-      "achieved_at": "2026-08-26T04:24:20.033925+00:00",
+      "achieved_at": "2026-08-24T14:22:32.753613+00:00",
       "badge_id": ""
     },
     {
