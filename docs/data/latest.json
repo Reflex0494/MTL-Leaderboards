@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T01:29:58.4572894+00:00",
-    "fetched_at": "2026-08-29T01:30:41.114229+00:00",
-    "total_entries": 331
+    "generated_at": "2026-08-29T01:44:58.4569196+00:00",
+    "fetched_at": "2026-08-29T01:45:28.440525+00:00",
+    "total_entries": 332
   },
   "entries": [
     {
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-29T01:42:02.548712+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 28,
@@ -247,19 +255,11 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 28,
       "achieved_at": "2026-08-28T19:22:45.358745+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-29T00:22:21.014211+00:00",
       "badge_id": ""
     },
     {
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-28T19:01:30.495422+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-29T01:40:58.863139+00:00",
       "badge_id": ""
     },
     {
