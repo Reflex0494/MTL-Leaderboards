@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T05:59:58.4573039+00:00",
-    "fetched_at": "2026-08-29T06:00:46.282359+00:00",
-    "total_entries": 338
+    "generated_at": "2026-08-29T06:14:58.4602117+00:00",
+    "fetched_at": "2026-08-29T06:15:29.852307+00:00",
+    "total_entries": 340
   },
   "entries": [
     {
@@ -560,6 +560,14 @@
     },
     {
       "rank": 70,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-29T06:09:18.846373+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 71,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 10,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 10,
@@ -591,19 +599,11 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198031518186",
       "display_name": "Kody",
       "prestige_level": 10,
       "achieved_at": "2026-08-29T03:42:26.305315+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-29T05:43:44.676483+00:00",
       "badge_id": ""
     },
     {
