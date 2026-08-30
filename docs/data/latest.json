@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T22:14:58.4599475+00:00",
-    "fetched_at": "2026-08-30T22:15:32.771108+00:00",
+    "generated_at": "2026-08-30T22:29:58.4601+00:00",
+    "fetched_at": "2026-08-30T22:30:39.262823+00:00",
     "total_entries": 382
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-30T20:59:56.898911+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-30T22:19:27.991441+00:00",
       "badge_id": ""
     },
     {
@@ -264,6 +264,14 @@
     },
     {
       "rank": 33,
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-30T22:18:51.588229+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 34,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 29,
@@ -271,20 +279,12 @@
       "badge_id": ""
     },
     {
-      "rank": 34,
+      "rank": 35,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
       "achieved_at": "2026-08-29T00:54:19.28126+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-30T18:56:36.098711+00:00",
-      "badge_id": ""
     },
     {
       "rank": 36,
