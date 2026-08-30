@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T05:29:58.458006+00:00",
-    "fetched_at": "2026-08-30T05:30:38.169161+00:00",
+    "generated_at": "2026-08-30T05:44:58.4600129+00:00",
+    "fetched_at": "2026-08-30T05:45:31.709764+00:00",
     "total_entries": 359
   },
   "entries": [
@@ -320,19 +320,19 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 25,
+      "achieved_at": "2026-08-30T05:33:52.964729+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 41,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 24,
       "achieved_at": "2026-08-29T03:32:42.955864+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 41,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 24,
-      "achieved_at": "2026-08-30T05:05:06.215235+00:00",
-      "badge_id": ""
     },
     {
       "rank": 42,
