@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T16:44:58.4583255+00:00",
-    "fetched_at": "2026-08-30T16:45:30.093719+00:00",
-    "total_entries": 374
+    "generated_at": "2026-08-30T16:59:58.4600816+00:00",
+    "fetched_at": "2026-08-30T17:00:50.333106+00:00",
+    "total_entries": 375
   },
   "entries": [
     {
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-30T16:55:24.246032+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 11,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 11,
@@ -671,19 +679,11 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198075415107",
       "display_name": "Lowtab prime",
       "prestige_level": 11,
       "achieved_at": "2026-08-30T11:56:09.688232+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-30T16:33:17.384642+00:00",
       "badge_id": ""
     },
     {
