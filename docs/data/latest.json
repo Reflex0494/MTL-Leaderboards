@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T15:29:58.4599844+00:00",
-    "fetched_at": "2026-08-30T15:30:40.228748+00:00",
+    "generated_at": "2026-08-30T15:44:58.4603009+00:00",
+    "fetched_at": "2026-08-30T15:45:30.034995+00:00",
     "total_entries": 373
   },
   "entries": [
@@ -768,6 +768,14 @@
     },
     {
       "rank": 96,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-30T15:32:22.846044+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 97,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
       "achieved_at": "2026-08-24T15:54:57.893006+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198255262863",
-      "display_name": "< blank >",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-26T20:37:44.011453+00:00",
       "badge_id": ""
     }
   ]
