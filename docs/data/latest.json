@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T14:14:58.459574+00:00",
-    "fetched_at": "2026-08-30T14:15:29.580100+00:00",
+    "generated_at": "2026-08-30T14:29:58.4596844+00:00",
+    "fetched_at": "2026-08-30T14:30:41.803693+00:00",
     "total_entries": 371
   },
   "entries": [
@@ -104,18 +104,18 @@
     },
     {
       "rank": 13,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-30T14:20:55.827203+00:00",
       "badge_id": ""
     },
     {
       "rank": 14,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-08-30T13:14:15.251852+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
