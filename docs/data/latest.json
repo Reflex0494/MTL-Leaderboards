@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T16:59:58.4600816+00:00",
-    "fetched_at": "2026-08-30T17:00:50.333106+00:00",
+    "generated_at": "2026-08-30T17:14:58.4606835+00:00",
+    "fetched_at": "2026-08-30T17:15:32.386794+00:00",
     "total_entries": 375
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 82,
-      "achieved_at": "2026-08-30T13:41:15.55101+00:00",
+      "prestige_level": 83,
+      "achieved_at": "2026-08-30T17:14:53.806052+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -96,19 +96,19 @@
     },
     {
       "rank": 12,
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-30T17:02:57.910976+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 13,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 48,
       "achieved_at": "2026-08-26T02:25:12.087594+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 13,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
-      "prestige_level": 48,
-      "achieved_at": "2026-08-30T14:20:55.827203+00:00",
-      "badge_id": ""
     },
     {
       "rank": 14,
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-30T04:05:46.066391+00:00",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-30T17:12:54.122301+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 34,
-      "achieved_at": "2026-08-30T13:18:31.391911+00:00",
+      "achieved_at": "2026-08-30T04:05:46.066391+00:00",
       "badge_id": ""
     },
     {
