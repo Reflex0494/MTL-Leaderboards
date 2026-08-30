@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T02:44:58.4581882+00:00",
-    "fetched_at": "2026-08-30T02:45:29.639338+00:00",
+    "generated_at": "2026-08-30T02:59:58.45795+00:00",
+    "fetched_at": "2026-08-30T03:00:48.557586+00:00",
     "total_entries": 356
   },
   "entries": [
@@ -120,6 +120,14 @@
     },
     {
       "rank": 15,
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-30T02:45:41.990355+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 16,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 42,
@@ -127,19 +135,11 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 42,
       "achieved_at": "2026-08-29T22:40:41.46635+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 17,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-30T01:26:38.979728+00:00",
       "badge_id": ""
     },
     {
