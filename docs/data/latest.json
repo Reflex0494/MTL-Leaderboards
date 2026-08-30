@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T00:29:58.4581939+00:00",
-    "fetched_at": "2026-08-30T00:30:40.857518+00:00",
-    "total_entries": 352
+    "generated_at": "2026-08-30T00:44:58.4585682+00:00",
+    "fetched_at": "2026-08-30T00:45:33.806771+00:00",
+    "total_entries": 353
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 100,
-      "achieved_at": "2026-08-29T04:22:56.378391+00:00",
+      "prestige_level": 101,
+      "achieved_at": "2026-08-30T00:30:39.545276+00:00",
       "badge_id": ""
     },
     {
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 60,
-      "achieved_at": "2026-08-29T20:57:05.173165+00:00",
+      "prestige_level": 61,
+      "achieved_at": "2026-08-30T00:44:27.941067+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-29T08:45:51.921273+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-30T00:31:41.405692+00:00",
       "badge_id": ""
     },
     {
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561197998290129",
+      "display_name": "ROBBYDUDE",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-30T00:34:02.113564+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 10,
@@ -655,19 +663,11 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198012435781",
       "display_name": "Bing",
       "prestige_level": 10,
       "achieved_at": "2026-08-29T17:10:00.868191+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561197998290129",
-      "display_name": "ROBBYDUDE",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-29T23:58:53.123103+00:00",
       "badge_id": ""
     },
     {
