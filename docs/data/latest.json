@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T13:59:58.458277+00:00",
-    "fetched_at": "2026-08-30T14:00:48.797279+00:00",
+    "generated_at": "2026-08-30T14:14:58.459574+00:00",
+    "fetched_at": "2026-08-30T14:15:29.580100+00:00",
     "total_entries": 371
   },
   "entries": [
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-30T14:11:42.737916+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 33,
@@ -231,19 +239,11 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 33,
       "achieved_at": "2026-08-30T01:17:28.929184+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-30T12:56:33.46061+00:00",
       "badge_id": ""
     },
     {
