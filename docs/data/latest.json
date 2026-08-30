@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T23:59:58.4595363+00:00",
-    "fetched_at": "2026-08-30T00:00:50.611878+00:00",
+    "generated_at": "2026-08-30T00:14:58.4593099+00:00",
+    "fetched_at": "2026-08-30T00:15:30.923842+00:00",
     "total_entries": 352
   },
   "entries": [
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198025349919",
+      "display_name": "Maggie",
+      "prestige_level": 12,
+      "achieved_at": "2026-08-30T00:11:42.631817+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 11,
       "achieved_at": "2026-08-29T06:09:18.846373+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198025349919",
-      "display_name": "Feel Like Im Fuckin This Fallguy",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-29T10:46:12.486638+00:00",
       "badge_id": ""
     },
     {
