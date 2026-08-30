@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T10:59:58.4616746+00:00",
-    "fetched_at": "2026-08-30T11:00:46.327189+00:00",
+    "generated_at": "2026-08-30T11:14:58.4596382+00:00",
+    "fetched_at": "2026-08-30T11:15:33.350442+00:00",
     "total_entries": 366
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 107,
-      "achieved_at": "2026-08-30T08:22:03.895292+00:00",
+      "prestige_level": 108,
+      "achieved_at": "2026-08-30T11:01:52.706422+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -720,6 +720,14 @@
     },
     {
       "rank": 90,
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-30T11:07:50.065721+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 91,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198067344110",
       "display_name": "Marx",
       "prestige_level": 8,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 8,
@@ -751,19 +759,11 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198100985065",
       "display_name": "CartopApple0",
       "prestige_level": 8,
       "achieved_at": "2026-08-30T01:42:27.937192+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 95,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-30T10:40:46.811645+00:00",
       "badge_id": ""
     },
     {
