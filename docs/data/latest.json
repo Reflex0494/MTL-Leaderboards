@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T03:59:58.4616511+00:00",
-    "fetched_at": "2026-08-30T04:00:52.529404+00:00",
+    "generated_at": "2026-08-30T04:14:58.4587292+00:00",
+    "fetched_at": "2026-08-30T04:15:33.465490+00:00",
     "total_entries": 357
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 56,
-      "achieved_at": "2026-08-29T20:28:44.792071+00:00",
+      "prestige_level": 57,
+      "achieved_at": "2026-08-30T04:11:02.556871+00:00",
       "badge_id": ""
     },
     {
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-30T02:45:41.990355+00:00",
+      "prestige_level": 44,
+      "achieved_at": "2026-08-30T04:05:18.190886+00:00",
       "badge_id": ""
     },
     {
@@ -200,6 +200,14 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-30T04:05:46.066391+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 26,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 33,
@@ -207,19 +215,11 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 33,
       "achieved_at": "2026-08-29T15:13:54.680463+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-29T22:02:30.40657+00:00",
       "badge_id": ""
     },
     {
@@ -242,8 +242,8 @@
       "rank": 30,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-30T03:17:48.989302+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-30T04:04:01.554716+00:00",
       "badge_id": ""
     },
     {
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198158890740",
+      "display_name": "[NOC]-Needer",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-30T04:13:53.369537+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 7,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198865816973",
       "display_name": "NightMare",
       "prestige_level": 7,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198029803975",
       "display_name": "Sgt_Belicake",
       "prestige_level": 7,
       "achieved_at": "2026-08-28T13:22:44.618587+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561197974919498",
-      "display_name": "BSOD",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-28T20:18:33.733665+00:00",
       "badge_id": ""
     }
   ]
