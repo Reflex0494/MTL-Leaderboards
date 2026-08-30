@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T09:14:58.4593429+00:00",
-    "fetched_at": "2026-08-30T09:15:32.833139+00:00",
-    "total_entries": 362
+    "generated_at": "2026-08-30T09:29:58.4595611+00:00",
+    "fetched_at": "2026-08-30T09:30:38.642913+00:00",
+    "total_entries": 363
   },
   "entries": [
     {
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561198143613231",
+      "display_name": "Andrew A",
+      "prestige_level": 9,
+      "achieved_at": "2026-08-30T09:22:00.674352+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198239660058",
       "display_name": "Captain ins muuul",
       "prestige_level": 8,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198157642252",
       "display_name": "GoodEvening",
       "prestige_level": 8,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198067344110",
       "display_name": "Marx",
       "prestige_level": 8,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198037672566",
       "display_name": "\u795eChronicTM",
       "prestige_level": 8,
@@ -743,19 +751,11 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198100985065",
       "display_name": "CartopApple0",
       "prestige_level": 8,
       "achieved_at": "2026-08-30T01:42:27.937192+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 94,
-      "steam_id": "76561198143613231",
-      "display_name": "Andrew A",
-      "prestige_level": 8,
-      "achieved_at": "2026-08-30T08:59:33.013397+00:00",
       "badge_id": ""
     },
     {
