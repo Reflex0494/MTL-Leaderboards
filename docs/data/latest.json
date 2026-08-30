@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T00:59:58.4589473+00:00",
-    "fetched_at": "2026-08-30T01:00:49.278013+00:00",
+    "generated_at": "2026-08-30T01:14:58.4610878+00:00",
+    "fetched_at": "2026-08-30T01:15:29.742592+00:00",
     "total_entries": 353
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 54,
-      "achieved_at": "2026-08-29T19:34:53.190588+00:00",
+      "prestige_level": 55,
+      "achieved_at": "2026-08-30T01:05:08.23292+00:00",
       "badge_id": ""
     },
     {
@@ -504,19 +504,19 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-30T01:08:35.763659+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 13,
       "achieved_at": "2026-08-28T04:32:38.571577+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-29T02:11:45.273711+00:00",
-      "badge_id": ""
     },
     {
       "rank": 65,
@@ -648,18 +648,18 @@
     },
     {
       "rank": 81,
-      "steam_id": "76561198040755103",
-      "display_name": "Deadpan",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-30T01:08:26.381129+00:00",
       "badge_id": ""
     },
     {
       "rank": 82,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
+      "steam_id": "76561198040755103",
+      "display_name": "Deadpan",
       "prestige_level": 10,
-      "achieved_at": "2026-08-26T15:09:47.427097+00:00",
+      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
       "badge_id": ""
     },
     {
