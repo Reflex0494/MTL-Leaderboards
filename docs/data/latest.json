@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T04:59:58.4587244+00:00",
-    "fetched_at": "2026-08-30T05:00:47.474603+00:00",
+    "generated_at": "2026-08-30T05:14:58.4592721+00:00",
+    "fetched_at": "2026-08-30T05:15:30.539165+00:00",
     "total_entries": 359
   },
   "entries": [
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-30T03:41:24.398209+00:00",
+      "prestige_level": 44,
+      "achieved_at": "2026-08-30T05:14:07.651062+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -330,8 +330,8 @@
       "rank": 41,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-29T22:56:00.863648+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-30T05:05:06.215235+00:00",
       "badge_id": ""
     },
     {
