@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T13:44:58.4578459+00:00",
-    "fetched_at": "2026-08-30T13:45:30.658879+00:00",
+    "generated_at": "2026-08-30T13:59:58.458277+00:00",
+    "fetched_at": "2026-08-30T14:00:48.797279+00:00",
     "total_entries": 371
   },
   "entries": [
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-30T13:55:24.071193+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 19,
@@ -439,20 +447,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
       "achieved_at": "2026-08-30T01:19:37.195096+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-30T13:26:47.781017+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 57,
