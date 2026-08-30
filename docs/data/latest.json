@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T10:44:58.462291+00:00",
-    "fetched_at": "2026-08-30T10:45:28.867900+00:00",
+    "generated_at": "2026-08-30T10:59:58.4616746+00:00",
+    "fetched_at": "2026-08-30T11:00:46.327189+00:00",
     "total_entries": 366
   },
   "entries": [
@@ -208,6 +208,14 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-30T10:55:10.499872+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 27,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 33,
@@ -215,7 +223,7 @@
       "badge_id": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 33,
@@ -223,19 +231,11 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 33,
       "achieved_at": "2026-08-30T01:17:28.929184+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-30T09:43:18.592967+00:00",
       "badge_id": ""
     },
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 19,
+      "achieved_at": "2026-08-30T10:48:14.783537+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 18,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 18,
@@ -447,7 +455,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 18,
@@ -455,19 +463,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 18,
       "achieved_at": "2026-08-30T08:59:45.45665+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 18,
-      "achieved_at": "2026-08-30T10:10:48.490006+00:00",
       "badge_id": "og"
     },
     {
