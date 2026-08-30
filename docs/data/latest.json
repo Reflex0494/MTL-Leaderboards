@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T17:14:58.4606835+00:00",
-    "fetched_at": "2026-08-30T17:15:32.386794+00:00",
-    "total_entries": 375
+    "generated_at": "2026-08-30T17:29:58.4561936+00:00",
+    "fetched_at": "2026-08-30T17:30:42.341185+00:00",
+    "total_entries": 376
   },
   "entries": [
     {
@@ -144,19 +144,19 @@
     },
     {
       "rank": 18,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-30T17:28:05.152617+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 19,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 42,
       "achieved_at": "2026-08-29T22:40:41.46635+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 19,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-30T16:04:24.644424+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 20,
@@ -544,19 +544,19 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561197974754170",
+      "display_name": "Vaupell",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-30T17:15:50.422771+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 13,
       "achieved_at": "2026-08-28T04:32:38.571577+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561197974754170",
-      "display_name": "Vaupell",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-29T13:33:12.238861+00:00",
-      "badge_id": ""
     },
     {
       "rank": 70,
