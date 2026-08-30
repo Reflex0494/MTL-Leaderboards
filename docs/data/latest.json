@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T11:59:58.4585789+00:00",
-    "fetched_at": "2026-08-30T12:00:46.323658+00:00",
+    "generated_at": "2026-08-30T12:14:58.4594375+00:00",
+    "fetched_at": "2026-08-30T12:15:34.506017+00:00",
     "total_entries": 366
   },
   "entries": [
@@ -472,19 +472,19 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-30T12:13:07.089339+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 60,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
       "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 60,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T11:16:46.323447+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 61,
@@ -664,6 +664,22 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561198143613231",
+      "display_name": "Andrew A",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-30T12:04:42.562935+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
+      "prestige_level": 11,
+      "achieved_at": "2026-08-30T12:11:32.251285+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 85,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -671,27 +687,11 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 86,
       "steam_id": "76561198012435781",
       "display_name": "Bing",
       "prestige_level": 10,
       "achieved_at": "2026-08-29T17:10:00.868191+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561198143613231",
-      "display_name": "Andrew A",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-30T10:02:49.19899+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-30T11:39:40.904029+00:00",
       "badge_id": ""
     },
     {
