@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T20:44:58.461214+00:00",
-    "fetched_at": "2026-08-30T20:45:28.317919+00:00",
+    "generated_at": "2026-08-30T20:59:58.4562383+00:00",
+    "fetched_at": "2026-08-30T21:00:45.615942+00:00",
     "total_entries": 381
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 58,
-      "achieved_at": "2026-08-30T05:20:53.949493+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-08-30T20:59:56.898911+00:00",
       "badge_id": ""
     },
     {
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561197994306078",
+      "display_name": "OwenCobs",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-30T20:45:01.114988+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
       "achieved_at": "2026-08-24T05:10:28.834759+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198050317829",
-      "display_name": "Kameleon",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-24T15:54:57.893006+00:00",
       "badge_id": ""
     }
   ]
