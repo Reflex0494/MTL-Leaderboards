@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T03:14:58.459507+00:00",
-    "fetched_at": "2026-08-30T03:15:29.535814+00:00",
+    "generated_at": "2026-08-30T03:29:58.4561072+00:00",
+    "fetched_at": "2026-08-30T03:30:45.570001+00:00",
     "total_entries": 356
   },
   "entries": [
@@ -128,6 +128,14 @@
     },
     {
       "rank": 16,
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-30T03:21:36.935025+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 17,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 42,
@@ -135,19 +143,11 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 42,
       "achieved_at": "2026-08-29T22:40:41.46635+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-30T01:39:06.933624+00:00",
       "badge_id": ""
     },
     {
@@ -242,8 +242,8 @@
       "rank": 30,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
-      "prestige_level": 30,
-      "achieved_at": "2026-08-29T10:28:36.308826+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-08-30T03:17:48.989302+00:00",
       "badge_id": ""
     },
     {
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
+      "prestige_level": 17,
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 60,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -479,7 +487,7 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 16,
@@ -487,20 +495,12 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
       "achieved_at": "2026-08-27T20:39:52.983427+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-30T02:34:50.31587+00:00",
-      "badge_id": ""
     },
     {
       "rank": 63,
