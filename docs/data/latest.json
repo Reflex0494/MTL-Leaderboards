@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T07:59:58.4588858+00:00",
-    "fetched_at": "2026-08-30T08:00:45.492094+00:00",
-    "total_entries": 361
+    "generated_at": "2026-08-30T08:14:58.4610073+00:00",
+    "fetched_at": "2026-08-30T08:15:31.674064+00:00",
+    "total_entries": 362
   },
   "entries": [
     {
@@ -320,6 +320,14 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198076913774",
+      "display_name": "Spaceball Trooper",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-30T08:09:43.55199+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 41,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 25,
@@ -327,19 +335,11 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
-      "steam_id": "76561198076913774",
-      "display_name": "Spaceball Trooper",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-30T07:34:46.730242+00:00",
-      "badge_id": "og"
-    },
-    {
       "rank": 42,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-28T08:42:20.01607+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-30T08:06:22.618454+00:00",
       "badge_id": ""
     },
     {
