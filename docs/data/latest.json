@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T14:44:58.4578806+00:00",
-    "fetched_at": "2026-08-30T14:45:32.429472+00:00",
+    "generated_at": "2026-08-30T14:59:58.4592009+00:00",
+    "fetched_at": "2026-08-30T15:00:52.337364+00:00",
     "total_entries": 372
   },
   "entries": [
@@ -184,18 +184,18 @@
     },
     {
       "rank": 23,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 38,
+      "achieved_at": "2026-08-30T14:48:35.983711+00:00",
       "badge_id": ""
     },
     {
       "rank": 24,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 37,
-      "achieved_at": "2026-08-29T22:13:56.02843+00:00",
+      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
     },
     {
