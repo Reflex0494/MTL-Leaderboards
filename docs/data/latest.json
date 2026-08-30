@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T08:29:58.4550032+00:00",
-    "fetched_at": "2026-08-30T08:30:45.177553+00:00",
+    "generated_at": "2026-08-30T08:44:58.4549062+00:00",
+    "fetched_at": "2026-08-30T08:45:32.002750+00:00",
     "total_entries": 362
   },
   "entries": [
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198003470101",
+      "display_name": "Eichi",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-30T08:35:06.630534+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 13,
@@ -535,19 +543,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 13,
       "achieved_at": "2026-08-29T13:33:12.238861+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198003470101",
-      "display_name": "Eichi",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-29T18:39:48.14124+00:00",
       "badge_id": ""
     },
     {
