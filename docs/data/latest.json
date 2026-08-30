@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-29T23:44:58.4582776+00:00",
-    "fetched_at": "2026-08-29T23:45:33.126968+00:00",
+    "generated_at": "2026-08-29T23:59:58.4595363+00:00",
+    "fetched_at": "2026-08-30T00:00:50.611878+00:00",
     "total_entries": 352
   },
   "entries": [
@@ -664,6 +664,14 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561197998290129",
+      "display_name": "ROBBYDUDE",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-29T23:58:53.123103+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 9,
@@ -679,19 +687,11 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 9,
       "achieved_at": "2026-08-28T20:12:02.288694+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561197998290129",
-      "display_name": "ROBBYDUDE",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-29T23:39:45.599853+00:00",
       "badge_id": ""
     },
     {
