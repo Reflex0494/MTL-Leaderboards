@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T19:44:58.4613515+00:00",
-    "fetched_at": "2026-08-30T19:45:37.971054+00:00",
-    "total_entries": 380
+    "generated_at": "2026-08-30T19:59:58.4608159+00:00",
+    "fetched_at": "2026-08-30T20:00:45.509623+00:00",
+    "total_entries": 381
   },
   "entries": [
     {
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 68,
-      "achieved_at": "2026-08-30T19:13:45.758671+00:00",
+      "prestige_level": 69,
+      "achieved_at": "2026-08-30T19:58:47.981857+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -88,19 +88,19 @@
     },
     {
       "rank": 11,
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
+      "prestige_level": 50,
+      "achieved_at": "2026-08-30T19:54:50.713471+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 12,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 49,
       "achieved_at": "2026-08-30T09:14:21.710162+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-30T17:02:57.910976+00:00",
-      "badge_id": ""
     },
     {
       "rank": 13,
