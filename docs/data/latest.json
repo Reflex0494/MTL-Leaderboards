@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T08:59:58.4589593+00:00",
-    "fetched_at": "2026-08-30T09:00:52.999196+00:00",
+    "generated_at": "2026-08-30T09:14:58.4593429+00:00",
+    "fetched_at": "2026-08-30T09:15:32.833139+00:00",
     "total_entries": 362
   },
   "entries": [
@@ -80,6 +80,14 @@
     },
     {
       "rank": 10,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-30T09:14:21.710162+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 11,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 48,
@@ -87,19 +95,11 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 48,
       "achieved_at": "2026-08-29T08:58:18.039702+00:00",
-      "badge_id": "s3_top21"
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 48,
-      "achieved_at": "2026-08-30T07:07:11.634435+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-30T09:13:50.387668+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 68,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 13,
@@ -543,20 +551,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 13,
       "achieved_at": "2026-08-29T13:33:12.238861+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-29T18:39:49.16193+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 70,
