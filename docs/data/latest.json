@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T10:29:58.4608393+00:00",
-    "fetched_at": "2026-08-30T10:30:40.097479+00:00",
-    "total_entries": 364
+    "generated_at": "2026-08-30T10:44:58.462291+00:00",
+    "fetched_at": "2026-08-30T10:45:28.867900+00:00",
+    "total_entries": 366
   },
   "entries": [
     {
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 80,
-      "achieved_at": "2026-08-28T18:15:24.272045+00:00",
+      "prestige_level": 81,
+      "achieved_at": "2026-08-30T10:43:55.216103+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-30T10:40:46.811645+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198074712954",
       "display_name": "Splasshh_",
       "prestige_level": 7,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198257293500",
       "display_name": "Dylan Helms",
       "prestige_level": 7,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 7,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198050317829",
       "display_name": "Kameleon",
       "prestige_level": 7,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 7,
       "achieved_at": "2026-08-26T20:37:44.011453+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198865816973",
-      "display_name": "NightMare",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-27T04:02:58.076692+00:00",
       "badge_id": ""
     }
   ]
