@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T15:14:58.4577362+00:00",
-    "fetched_at": "2026-08-30T15:15:33.556983+00:00",
+    "generated_at": "2026-08-30T15:29:58.4599844+00:00",
+    "fetched_at": "2026-08-30T15:30:40.228748+00:00",
     "total_entries": 373
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 108,
-      "achieved_at": "2026-08-30T11:01:52.706422+00:00",
+      "prestige_level": 109,
+      "achieved_at": "2026-08-30T15:26:04.265399+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -528,18 +528,18 @@
     },
     {
       "rank": 66,
-      "steam_id": "76561198053866384",
-      "display_name": "Wiggum",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-30T01:21:51.334074+00:00",
+      "steam_id": "76561198003470101",
+      "display_name": "Eichi",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-30T15:18:51.690705+00:00",
       "badge_id": ""
     },
     {
       "rank": 67,
-      "steam_id": "76561198003470101",
-      "display_name": "Eichi",
+      "steam_id": "76561198053866384",
+      "display_name": "Wiggum",
       "prestige_level": 14,
-      "achieved_at": "2026-08-30T08:35:06.630534+00:00",
+      "achieved_at": "2026-08-30T01:21:51.334074+00:00",
       "badge_id": ""
     },
     {
