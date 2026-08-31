@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T22:29:58.4594329+00:00",
-    "fetched_at": "2026-08-31T22:30:42.022303+00:00",
+    "generated_at": "2026-08-31T22:44:58.4554498+00:00",
+    "fetched_at": "2026-08-31T22:45:29.859409+00:00",
     "total_entries": 401
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 59,
-      "achieved_at": "2026-08-31T19:03:04.251092+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-08-31T22:40:21.833352+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 46,
-      "achieved_at": "2026-08-31T18:26:39.770923+00:00",
+      "prestige_level": 47,
+      "achieved_at": "2026-08-31T22:30:09.66964+00:00",
       "badge_id": ""
     },
     {
@@ -162,8 +162,8 @@
       "rank": 20,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
-      "prestige_level": 42,
-      "achieved_at": "2026-08-31T15:51:52.893755+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-08-31T22:36:15.623384+00:00",
       "badge_id": ""
     },
     {
