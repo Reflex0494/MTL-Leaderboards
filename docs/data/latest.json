@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T23:44:58.4587026+00:00",
-    "fetched_at": "2026-08-30T23:45:32.808465+00:00",
+    "generated_at": "2026-08-30T23:59:58.460031+00:00",
+    "fetched_at": "2026-08-31T00:00:50.068382+00:00",
     "total_entries": 383
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 104,
-      "achieved_at": "2026-08-30T21:31:54.868454+00:00",
+      "prestige_level": 105,
+      "achieved_at": "2026-08-30T23:51:59.310896+00:00",
       "badge_id": ""
     },
     {
@@ -296,19 +296,19 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561197974466515",
+      "display_name": "Mini Mongo",
+      "prestige_level": 27,
+      "achieved_at": "2026-08-30T23:50:08.408554+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
       "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561197974466515",
-      "display_name": "Mini Mongo",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-28T02:30:50.276645+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 39,
