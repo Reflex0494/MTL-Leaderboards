@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T13:59:58.4864196+00:00",
-    "fetched_at": "2026-08-31T14:00:53.347074+00:00",
-    "total_entries": 393
+    "generated_at": "2026-08-31T14:14:58.4555375+00:00",
+    "fetched_at": "2026-08-31T14:15:31.245507+00:00",
+    "total_entries": 394
   },
   "entries": [
     {
@@ -112,19 +112,19 @@
     },
     {
       "rank": 14,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 49,
+      "achieved_at": "2026-08-31T14:05:46.672168+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 15,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 48,
       "achieved_at": "2026-08-26T02:25:12.087594+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 15,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 48,
-      "achieved_at": "2026-08-31T13:03:35.947361+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 16,
@@ -392,6 +392,14 @@
     },
     {
       "rank": 49,
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
+      "prestige_level": 21,
+      "achieved_at": "2026-08-31T14:05:49.609214+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 50,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -399,7 +407,7 @@
       "badge_id": ""
     },
     {
-      "rank": 50,
+      "rank": 51,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 20,
@@ -407,7 +415,7 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 20,
@@ -415,7 +423,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 20,
@@ -423,7 +431,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 20,
@@ -431,19 +439,11 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 20,
       "achieved_at": "2026-08-31T01:11:55.871934+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-31T01:15:44.157139+00:00",
       "badge_id": "og"
     },
     {
