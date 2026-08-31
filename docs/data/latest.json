@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T02:44:58.4582431+00:00",
-    "fetched_at": "2026-08-31T02:45:31.080004+00:00",
+    "generated_at": "2026-08-31T02:59:58.4594456+00:00",
+    "fetched_at": "2026-08-31T03:00:48.418153+00:00",
     "total_entries": 386
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 70,
-      "achieved_at": "2026-08-31T02:07:57.250318+00:00",
+      "prestige_level": 71,
+      "achieved_at": "2026-08-31T02:51:36.050691+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-31T02:58:29.635087+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 14,
@@ -559,20 +567,12 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 14,
       "achieved_at": "2026-08-30T22:32:09.570933+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-31T01:07:24.060831+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 72,
