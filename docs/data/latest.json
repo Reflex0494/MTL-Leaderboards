@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T09:14:58.4587331+00:00",
-    "fetched_at": "2026-08-31T09:15:31.129244+00:00",
+    "generated_at": "2026-08-31T09:29:58.4595397+00:00",
+    "fetched_at": "2026-08-31T09:30:41.594710+00:00",
     "total_entries": 393
   },
   "entries": [
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561198025349919",
+      "display_name": "Feel Like Im Fuckin This Fallguy",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-31T09:20:13.618963+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -455,7 +463,7 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
@@ -463,19 +471,11 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
       "achieved_at": "2026-08-30T01:19:37.195096+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561198025349919",
-      "display_name": "Feel Like Im Fuckin This Fallguy",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-31T08:09:51.144641+00:00",
       "badge_id": ""
     },
     {
