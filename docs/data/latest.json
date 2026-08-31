@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T21:14:58.4602331+00:00",
-    "fetched_at": "2026-08-31T21:15:30.386799+00:00",
+    "generated_at": "2026-08-31T21:29:58.4591019+00:00",
+    "fetched_at": "2026-08-31T21:30:43.028002+00:00",
     "total_entries": 399
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 65,
-      "achieved_at": "2026-08-31T18:23:58.213253+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-08-31T21:25:12.322603+00:00",
       "badge_id": ""
     },
     {
@@ -184,18 +184,18 @@
     },
     {
       "rank": 23,
-      "steam_id": "76561198119563776",
-      "display_name": "Pois",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 39,
+      "achieved_at": "2026-08-31T21:28:51.884362+00:00",
       "badge_id": ""
     },
     {
       "rank": 24,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
+      "steam_id": "76561198119563776",
+      "display_name": "Pois",
       "prestige_level": 38,
-      "achieved_at": "2026-08-31T20:18:54.30155+00:00",
+      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
       "badge_id": ""
     },
     {
