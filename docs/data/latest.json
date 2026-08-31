@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-30T23:59:58.460031+00:00",
-    "fetched_at": "2026-08-31T00:00:50.068382+00:00",
+    "generated_at": "2026-08-31T00:14:58.463402+00:00",
+    "fetched_at": "2026-08-31T00:15:29.718055+00:00",
     "total_entries": 383
   },
   "entries": [
@@ -258,8 +258,8 @@
       "rank": 32,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-30T17:43:57.149258+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-31T00:00:15.281922+00:00",
       "badge_id": ""
     },
     {
@@ -338,8 +338,8 @@
       "rank": 42,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 23,
-      "achieved_at": "2026-08-30T08:06:22.618454+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-08-31T00:06:39.092989+00:00",
       "badge_id": ""
     },
     {
@@ -538,8 +538,8 @@
       "rank": 67,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-29T04:55:41.420221+00:00",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-31T00:01:28.10405+00:00",
       "badge_id": "og"
     },
     {
