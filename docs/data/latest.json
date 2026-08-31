@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T12:59:58.4621469+00:00",
-    "fetched_at": "2026-08-31T13:00:47.746915+00:00",
+    "generated_at": "2026-08-31T13:14:58.4594183+00:00",
+    "fetched_at": "2026-08-31T13:15:32.921988+00:00",
     "total_entries": 393
   },
   "entries": [
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 50,
-      "achieved_at": "2026-08-30T19:54:50.713471+00:00",
+      "prestige_level": 51,
+      "achieved_at": "2026-08-31T13:05:09.307455+00:00",
       "badge_id": ""
     },
     {
@@ -120,6 +120,14 @@
     },
     {
       "rank": 15,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 48,
+      "achieved_at": "2026-08-31T13:03:35.947361+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 16,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -127,20 +135,12 @@
       "badge_id": ""
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 47,
       "achieved_at": "2026-08-31T04:21:40.679915+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 17,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-31T11:51:54.951525+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 18,
