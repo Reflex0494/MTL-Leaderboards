@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T02:59:58.4594456+00:00",
-    "fetched_at": "2026-08-31T03:00:48.418153+00:00",
+    "generated_at": "2026-08-31T03:14:58.4617652+00:00",
+    "fetched_at": "2026-08-31T03:15:32.680439+00:00",
     "total_entries": 386
   },
   "entries": [
@@ -48,19 +48,19 @@
     },
     {
       "rank": 6,
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
+      "prestige_level": 64,
+      "achieved_at": "2026-08-31T03:12:51.889095+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 7,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
       "prestige_level": 63,
       "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 7,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-31T02:26:37.863671+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 8,
@@ -266,8 +266,8 @@
       "rank": 33,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
-      "prestige_level": 31,
-      "achieved_at": "2026-08-31T01:42:44.148266+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-08-31T03:14:04.861752+00:00",
       "badge_id": ""
     },
     {
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561198074712954",
-      "display_name": "Splasshh_",
-      "prestige_level": 7,
-      "achieved_at": "2026-08-22T03:15:46.352834+00:00",
+      "steam_id": "76561199076113485",
+      "display_name": "Real life big trappa",
+      "prestige_level": 8,
+      "achieved_at": "2026-08-31T03:07:06.038645+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561198257293500",
-      "display_name": "Dylan Helms",
+      "steam_id": "76561198074712954",
+      "display_name": "Splasshh_",
       "prestige_level": 7,
-      "achieved_at": "2026-08-23T22:19:07.23248+00:00",
+      "achieved_at": "2026-08-22T03:15:46.352834+00:00",
       "badge_id": ""
     }
   ]
