@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T00:14:58.463402+00:00",
-    "fetched_at": "2026-08-31T00:15:29.718055+00:00",
-    "total_entries": 383
+    "generated_at": "2026-08-31T00:29:58.4609786+00:00",
+    "fetched_at": "2026-08-31T00:30:41.810118+00:00",
+    "total_entries": 384
   },
   "entries": [
     {
@@ -58,16 +58,16 @@
       "rank": 7,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 61,
-      "achieved_at": "2026-08-30T23:18:53.89082+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-08-31T00:21:17.858571+00:00",
       "badge_id": ""
     },
     {
       "rank": 8,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 56,
-      "achieved_at": "2026-08-30T02:07:44.992179+00:00",
+      "prestige_level": 57,
+      "achieved_at": "2026-08-31T00:17:25.434935+00:00",
       "badge_id": ""
     },
     {
@@ -232,18 +232,18 @@
     },
     {
       "rank": 29,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-29T05:53:40.646274+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 34,
+      "achieved_at": "2026-08-31T00:17:01.586653+00:00",
       "badge_id": ""
     },
     {
       "rank": 30,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
       "prestige_level": 33,
-      "achieved_at": "2026-08-30T01:17:28.929184+00:00",
+      "achieved_at": "2026-08-29T05:53:40.646274+00:00",
       "badge_id": ""
     },
     {
