@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T17:14:58.4587535+00:00",
-    "fetched_at": "2026-08-31T17:15:33.665415+00:00",
+    "generated_at": "2026-08-31T17:29:58.4593752+00:00",
+    "fetched_at": "2026-08-31T17:30:44.670034+00:00",
     "total_entries": 397
   },
   "entries": [
@@ -336,19 +336,19 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-31T17:16:07.965853+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 43,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 25,
       "achieved_at": "2026-08-31T05:01:09.889422+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 43,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-31T16:11:58.512267+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 44,
