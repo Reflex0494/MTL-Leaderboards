@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T14:59:58.460432+00:00",
-    "fetched_at": "2026-08-31T15:00:53.428539+00:00",
-    "total_entries": 395
+    "generated_at": "2026-08-31T15:14:58.4609071+00:00",
+    "fetched_at": "2026-08-31T15:15:34.467595+00:00",
+    "total_entries": 396
   },
   "entries": [
     {
@@ -144,19 +144,19 @@
     },
     {
       "rank": 18,
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 44,
+      "achieved_at": "2026-08-31T15:00:53.822623+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 19,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 43,
       "achieved_at": "2026-08-30T17:28:05.152617+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 19,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-31T13:31:13.272741+00:00",
-      "badge_id": ""
     },
     {
       "rank": 20,
@@ -218,8 +218,8 @@
       "rank": 27,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-30T17:12:54.122301+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-08-31T15:08:08.962896+00:00",
       "badge_id": ""
     },
     {
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-31T00:59:25.111501+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-31T15:08:07.337276+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -496,18 +496,18 @@
     },
     {
       "rank": 62,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-31T15:00:10.842026+00:00",
       "badge_id": ""
     },
     {
       "rank": 63,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-08-31T14:18:47.845252+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     },
     {
@@ -568,6 +568,14 @@
     },
     {
       "rank": 71,
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 15,
+      "achieved_at": "2026-08-31T15:06:43.11891+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 72,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 14,
@@ -575,19 +583,11 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 14,
       "achieved_at": "2026-08-30T22:32:09.570933+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 73,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-31T13:23:18.413331+00:00",
       "badge_id": ""
     },
     {
