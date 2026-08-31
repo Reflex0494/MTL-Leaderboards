@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T19:14:58.4586712+00:00",
-    "fetched_at": "2026-08-31T19:15:30.945396+00:00",
+    "generated_at": "2026-08-31T19:29:58.457671+00:00",
+    "fetched_at": "2026-08-31T19:30:41.468696+00:00",
     "total_entries": 397
   },
   "entries": [
@@ -272,6 +272,14 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 30,
+      "achieved_at": "2026-08-31T19:19:01.576507+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 35,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 29,
@@ -279,20 +287,12 @@
       "badge_id": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
       "achieved_at": "2026-08-29T00:54:19.28126+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 36,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 29,
-      "achieved_at": "2026-08-30T18:59:03.169896+00:00",
-      "badge_id": ""
     },
     {
       "rank": 37,
