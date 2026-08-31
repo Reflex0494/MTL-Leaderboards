@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T21:00:58.4581546+00:00",
-    "fetched_at": "2026-08-31T21:00:59.722645+00:00",
+    "generated_at": "2026-08-31T21:14:58.4602331+00:00",
+    "fetched_at": "2026-08-31T21:15:30.386799+00:00",
     "total_entries": 399
   },
   "entries": [
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561197974919498",
+      "display_name": "BSOD",
+      "prestige_level": 10,
+      "achieved_at": "2026-08-31T21:05:32.739133+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 9,
@@ -759,19 +767,11 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 9,
       "achieved_at": "2026-08-28T20:12:02.288694+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 96,
-      "steam_id": "76561197974919498",
-      "display_name": "BSOD",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-31T18:49:14.96605+00:00",
       "badge_id": ""
     },
     {
