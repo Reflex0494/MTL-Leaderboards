@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T00:59:58.460825+00:00",
-    "fetched_at": "2026-08-31T01:00:47.946383+00:00",
+    "generated_at": "2026-08-31T01:14:58.4601273+00:00",
+    "fetched_at": "2026-08-31T01:15:30.817252+00:00",
     "total_entries": 384
   },
   "entries": [
@@ -48,6 +48,14 @@
     },
     {
       "rank": 6,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 63,
+      "achieved_at": "2026-08-31T01:14:24.846714+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 7,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 62,
@@ -55,19 +63,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 7,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 62,
-      "achieved_at": "2026-08-31T00:21:17.858571+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 8,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 57,
-      "achieved_at": "2026-08-31T00:17:25.434935+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-08-31T01:02:23.864335+00:00",
       "badge_id": ""
     },
     {
@@ -224,18 +224,18 @@
     },
     {
       "rank": 28,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 34,
-      "achieved_at": "2026-08-30T14:11:42.737916+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 35,
+      "achieved_at": "2026-08-31T01:09:43.019703+00:00",
       "badge_id": ""
     },
     {
       "rank": 29,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
       "prestige_level": 34,
-      "achieved_at": "2026-08-31T00:17:01.586653+00:00",
+      "achieved_at": "2026-08-30T14:11:42.737916+00:00",
       "badge_id": ""
     },
     {
@@ -354,8 +354,8 @@
       "rank": 44,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-30T18:58:59.555624+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-08-31T01:12:50.892081+00:00",
       "badge_id": "s2_second"
     },
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 20,
+      "achieved_at": "2026-08-31T01:11:55.871934+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
@@ -447,7 +455,7 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 19,
@@ -455,20 +463,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
       "achieved_at": "2026-08-30T01:19:37.195096+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-31T00:39:19.772234+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 59,
@@ -570,8 +570,8 @@
       "rank": 71,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-28T04:32:38.571577+00:00",
+      "prestige_level": 14,
+      "achieved_at": "2026-08-31T01:07:24.060831+00:00",
       "badge_id": "s3_top21"
     },
     {
