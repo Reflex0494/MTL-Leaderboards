@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T20:44:58.4548608+00:00",
-    "fetched_at": "2026-08-31T20:45:29.983579+00:00",
+    "generated_at": "2026-08-31T21:00:58.4581546+00:00",
+    "fetched_at": "2026-08-31T21:00:59.722645+00:00",
     "total_entries": 399
   },
   "entries": [
@@ -304,19 +304,19 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 29,
+      "achieved_at": "2026-08-31T20:45:58.612514+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 28,
       "achieved_at": "2026-08-31T06:46:49.603481+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 28,
-      "achieved_at": "2026-08-31T19:37:07.491488+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 40,
