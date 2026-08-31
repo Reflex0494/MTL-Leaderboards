@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T11:59:58.4628926+00:00",
-    "fetched_at": "2026-08-31T12:00:50.786262+00:00",
+    "generated_at": "2026-08-31T12:14:58.4599453+00:00",
+    "fetched_at": "2026-08-31T12:15:40.165829+00:00",
     "total_entries": 393
   },
   "entries": [
@@ -488,18 +488,18 @@
     },
     {
       "rank": 61,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561197974754170",
+      "display_name": "Vaupell",
+      "prestige_level": 18,
+      "achieved_at": "2026-08-31T12:09:20.089308+00:00",
       "badge_id": ""
     },
     {
       "rank": 62,
-      "steam_id": "76561197974754170",
-      "display_name": "Vaupell",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-08-31T11:51:20.498849+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     },
     {
