@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T07:29:58.4593681+00:00",
-    "fetched_at": "2026-08-31T07:30:43.812678+00:00",
+    "generated_at": "2026-08-31T07:44:58.4593887+00:00",
+    "fetched_at": "2026-08-31T07:45:38.171249+00:00",
     "total_entries": 392
   },
   "entries": [
@@ -10,16 +10,16 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 111,
-      "achieved_at": "2026-08-30T21:10:31.841277+00:00",
+      "prestige_level": 112,
+      "achieved_at": "2026-08-31T07:39:59.473021+00:00",
       "badge_id": "s3_first"
     },
     {
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 107,
-      "achieved_at": "2026-08-31T05:31:13.004589+00:00",
+      "prestige_level": 108,
+      "achieved_at": "2026-08-31T07:33:15.588967+00:00",
       "badge_id": ""
     },
     {
@@ -80,18 +80,18 @@
     },
     {
       "rank": 10,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 51,
-      "achieved_at": "2026-08-31T04:32:35.190024+00:00",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 52,
+      "achieved_at": "2026-08-31T07:34:53.271999+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 11,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
       "prestige_level": 51,
-      "achieved_at": "2026-08-31T06:40:31.23318+00:00",
+      "achieved_at": "2026-08-31T04:32:35.190024+00:00",
       "badge_id": "s3_top21"
     },
     {
