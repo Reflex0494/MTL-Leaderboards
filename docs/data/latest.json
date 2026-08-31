@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T01:59:58.4604793+00:00",
-    "fetched_at": "2026-08-31T02:00:48.389776+00:00",
+    "generated_at": "2026-08-31T02:14:58.4615922+00:00",
+    "fetched_at": "2026-08-31T02:15:29.189813+00:00",
     "total_entries": 385
   },
   "entries": [
@@ -34,24 +34,24 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 69,
-      "achieved_at": "2026-08-30T19:58:47.981857+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-08-31T02:07:57.250318+00:00",
       "badge_id": "s3_third"
     },
     {
       "rank": 5,
-      "steam_id": "76561198014380387",
-      "display_name": "GaliiLoN",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 64,
+      "achieved_at": "2026-08-31T02:09:26.495092+00:00",
       "badge_id": ""
     },
     {
       "rank": 6,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "steam_id": "76561198014380387",
+      "display_name": "GaliiLoN",
       "prestige_level": 63,
-      "achieved_at": "2026-08-31T01:14:24.846714+00:00",
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 44,
-      "achieved_at": "2026-08-30T04:05:18.190886+00:00",
+      "prestige_level": 45,
+      "achieved_at": "2026-08-31T02:00:00.173349+00:00",
       "badge_id": ""
     },
     {
