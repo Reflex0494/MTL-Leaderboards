@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T17:29:58.4593752+00:00",
-    "fetched_at": "2026-08-31T17:30:44.670034+00:00",
+    "generated_at": "2026-08-31T17:44:58.4584077+00:00",
+    "fetched_at": "2026-08-31T17:45:33.729072+00:00",
     "total_entries": 397
   },
   "entries": [
@@ -344,19 +344,19 @@
     },
     {
       "rank": 43,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 26,
+      "achieved_at": "2026-08-31T17:42:07.742078+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 44,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 25,
       "achieved_at": "2026-08-31T05:01:09.889422+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-31T16:51:52.850163+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 45,
@@ -562,8 +562,8 @@
       "rank": 70,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
-      "prestige_level": 15,
-      "achieved_at": "2026-08-30T15:18:51.690705+00:00",
+      "prestige_level": 16,
+      "achieved_at": "2026-08-31T17:38:34.378039+00:00",
       "badge_id": ""
     },
     {
