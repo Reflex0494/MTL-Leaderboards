@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T00:44:58.4565846+00:00",
-    "fetched_at": "2026-08-31T00:45:28.803033+00:00",
+    "generated_at": "2026-08-31T00:59:58.460825+00:00",
+    "fetched_at": "2026-08-31T01:00:47.946383+00:00",
     "total_entries": 384
   },
   "entries": [
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
-      "prestige_level": 27,
-      "achieved_at": "2026-08-30T23:50:08.408554+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-08-31T00:59:25.111501+00:00",
       "badge_id": "s3_top21"
     },
     {
