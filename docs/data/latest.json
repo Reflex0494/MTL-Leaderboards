@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T20:44:58.461927+00:00",
-    "fetched_at": "2026-09-01T20:45:33.664911+00:00",
+    "generated_at": "2026-09-01T20:59:58.4597414+00:00",
+    "fetched_at": "2026-09-01T21:00:55.665021+00:00",
     "total_entries": 411
   },
   "entries": [
@@ -162,8 +162,8 @@
       "rank": 20,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-01T01:19:47.968221+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-01T20:48:51.110253+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198186683954",
+      "display_name": "TREBLIG",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-01T20:46:27.572093+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -495,7 +503,7 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
@@ -503,19 +511,11 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
       "achieved_at": "2026-08-30T01:19:37.195096+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561198186683954",
-      "display_name": "TREBLIG",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-01T19:20:19.186312+00:00",
       "badge_id": ""
     },
     {
