@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T13:44:58.457332+00:00",
-    "fetched_at": "2026-09-01T13:45:30.575659+00:00",
+    "generated_at": "2026-09-01T13:59:58.4598195+00:00",
+    "fetched_at": "2026-09-01T14:00:51.183211+00:00",
     "total_entries": 408
   },
   "entries": [
@@ -136,18 +136,18 @@
     },
     {
       "rank": 17,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-01T13:55:05.998759+00:00",
       "badge_id": ""
     },
     {
       "rank": 18,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-08-31T22:30:09.66964+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-01T13:57:54.951363+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 60,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -479,7 +487,7 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
@@ -487,19 +495,11 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
       "achieved_at": "2026-08-30T01:19:37.195096+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-31T18:34:22.880772+00:00",
       "badge_id": ""
     },
     {
