@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T19:14:58.4549552+00:00",
-    "fetched_at": "2026-09-01T19:15:29.777712+00:00",
+    "generated_at": "2026-09-01T19:29:58.4595249+00:00",
+    "fetched_at": "2026-09-01T19:30:40.895480+00:00",
     "total_entries": 411
   },
   "entries": [
@@ -376,18 +376,18 @@
     },
     {
       "rank": 47,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-01T11:25:32.855366+00:00",
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-01T19:27:22.557641+00:00",
       "badge_id": ""
     },
     {
       "rank": 48,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
       "prestige_level": 23,
-      "achieved_at": "2026-09-01T18:39:10.901361+00:00",
+      "achieved_at": "2026-09-01T11:25:32.855366+00:00",
       "badge_id": ""
     },
     {
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198186683954",
+      "display_name": "TREBLIG",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-01T19:20:19.186312+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 65,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 18,
@@ -519,7 +527,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 18,
@@ -527,19 +535,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
       "achieved_at": "2026-09-01T08:32:51.885578+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198186683954",
-      "display_name": "TREBLIG",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-01T18:42:37.315521+00:00",
       "badge_id": ""
     },
     {
