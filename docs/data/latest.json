@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T06:59:58.4577648+00:00",
-    "fetched_at": "2026-09-01T07:00:49.573983+00:00",
+    "generated_at": "2026-09-01T07:14:58.4575087+00:00",
+    "fetched_at": "2026-09-01T07:15:31.724325+00:00",
     "total_entries": 406
   },
   "entries": [
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198108875079",
+      "display_name": "puff",
+      "prestige_level": 10,
+      "achieved_at": "2026-09-01T07:13:39.641361+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198404143581",
       "display_name": "ChaoticWinta",
       "prestige_level": 9,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198205187064",
       "display_name": "Cannabis",
       "prestige_level": 9,
@@ -775,19 +783,11 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198211410001",
       "display_name": "Diverted",
       "prestige_level": 9,
       "achieved_at": "2026-08-28T20:12:02.288694+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561198108875079",
-      "display_name": "puff",
-      "prestige_level": 9,
-      "achieved_at": "2026-09-01T06:48:57.214887+00:00",
       "badge_id": ""
     },
     {
