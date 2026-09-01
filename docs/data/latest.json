@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T17:29:58.4589704+00:00",
-    "fetched_at": "2026-09-01T17:30:43.148750+00:00",
+    "generated_at": "2026-09-01T17:44:58.4547158+00:00",
+    "fetched_at": "2026-09-01T17:45:31.281497+00:00",
     "total_entries": 409
   },
   "entries": [
@@ -408,6 +408,14 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198115990249",
+      "display_name": "Not Catualus \u2661",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-01T17:38:27.333488+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -415,7 +423,7 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 21,
@@ -431,15 +439,15 @@
       "badge_id": "og"
     },
     {
-      "rank": 54,
-      "steam_id": "76561198115990249",
-      "display_name": "Not Catualus \u2661",
+      "rank": 55,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
       "prestige_level": 21,
-      "achieved_at": "2026-09-01T10:52:27.547328+00:00",
-      "badge_id": "og"
+      "achieved_at": "2026-09-01T17:30:24.588909+00:00",
+      "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -447,19 +455,11 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 20,
       "achieved_at": "2026-08-26T06:58:37.485695+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 57,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-31T15:59:33.499539+00:00",
       "badge_id": ""
     },
     {
