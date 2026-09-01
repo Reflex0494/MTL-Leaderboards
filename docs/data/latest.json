@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T07:29:58.45954+00:00",
-    "fetched_at": "2026-09-01T07:30:40.770652+00:00",
+    "generated_at": "2026-09-01T07:44:58.4565749+00:00",
+    "fetched_at": "2026-09-01T07:45:36.305062+00:00",
     "total_entries": 406
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 87,
-      "achieved_at": "2026-08-31T18:21:33.559244+00:00",
+      "prestige_level": 88,
+      "achieved_at": "2026-09-01T07:41:30.458298+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -322,8 +322,8 @@
       "rank": 40,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-01T06:28:11.921948+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-01T07:32:43.946907+00:00",
       "badge_id": "og"
     },
     {
