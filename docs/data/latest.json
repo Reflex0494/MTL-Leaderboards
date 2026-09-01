@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T00:29:58.4582972+00:00",
-    "fetched_at": "2026-09-01T00:30:40.530229+00:00",
+    "generated_at": "2026-09-01T00:44:58.4557161+00:00",
+    "fetched_at": "2026-09-01T00:45:29.038953+00:00",
     "total_entries": 403
   },
   "entries": [
@@ -408,6 +408,22 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-01T00:31:00.558573+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 52,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-01T00:38:10.090266+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 53,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -415,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 54,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 20,
@@ -423,27 +439,11 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 55,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 20,
       "achieved_at": "2026-08-27T18:31:39.888177+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-30T13:55:24.071193+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 20,
-      "achieved_at": "2026-08-31T01:11:55.871934+00:00",
       "badge_id": "og"
     },
     {
