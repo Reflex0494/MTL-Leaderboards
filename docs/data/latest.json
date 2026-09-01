@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T15:29:58.4592771+00:00",
-    "fetched_at": "2026-09-01T15:30:41.848578+00:00",
+    "generated_at": "2026-09-01T15:44:58.4607116+00:00",
+    "fetched_at": "2026-09-01T15:45:36.075761+00:00",
     "total_entries": 408
   },
   "entries": [
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198186683954",
+      "display_name": "TREBLIG",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-01T15:30:47.762987+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 14,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 14,
@@ -607,15 +615,15 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
-      "steam_id": "76561198186683954",
-      "display_name": "TREBLIG",
+      "rank": 77,
+      "steam_id": "76561198255262863",
+      "display_name": "< blank >",
       "prestige_level": 14,
-      "achieved_at": "2026-09-01T13:34:17.457376+00:00",
+      "achieved_at": "2026-09-01T15:41:37.451633+00:00",
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
       "achieved_at": "2026-08-31T06:44:37.854997+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198255262863",
-      "display_name": "< blank >",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-01T15:24:04.509716+00:00",
       "badge_id": ""
     },
     {
