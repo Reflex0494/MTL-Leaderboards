@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T02:14:58.4588931+00:00",
-    "fetched_at": "2026-09-01T02:15:31.426145+00:00",
+    "generated_at": "2026-09-01T02:29:58.4589831+00:00",
+    "fetched_at": "2026-09-01T02:30:42.753923+00:00",
     "total_entries": 405
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 111,
-      "achieved_at": "2026-09-01T00:19:09.688078+00:00",
+      "prestige_level": 112,
+      "achieved_at": "2026-09-01T02:29:28.967936+00:00",
       "badge_id": ""
     },
     {
@@ -80,6 +80,14 @@
     },
     {
       "rank": 10,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-01T02:20:17.866677+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 11,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 52,
@@ -87,20 +95,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 52,
       "achieved_at": "2026-08-31T20:24:19.960105+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-01T01:26:26.12523+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 13,
@@ -176,18 +176,18 @@
     },
     {
       "rank": 22,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-29T04:29:02.724993+00:00",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-01T02:28:04.042762+00:00",
       "badge_id": ""
     },
     {
       "rank": 23,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
       "prestige_level": 39,
-      "achieved_at": "2026-08-31T21:28:51.884362+00:00",
+      "achieved_at": "2026-08-29T04:29:02.724993+00:00",
       "badge_id": ""
     },
     {
@@ -512,19 +512,19 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-01T02:16:07.804882+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 65,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
       "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-01T01:46:58.828503+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 66,
