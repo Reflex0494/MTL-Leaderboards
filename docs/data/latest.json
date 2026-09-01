@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T21:29:58.4559405+00:00",
-    "fetched_at": "2026-09-01T21:30:42.615868+00:00",
-    "total_entries": 412
+    "generated_at": "2026-09-01T21:44:58.4570764+00:00",
+    "fetched_at": "2026-09-01T21:45:28.813338+00:00",
+    "total_entries": 413
   },
   "entries": [
     {
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-01T21:35:48.668423+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -335,7 +343,7 @@
       "badge_id": ""
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 26,
@@ -343,19 +351,11 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 26,
       "achieved_at": "2026-08-30T02:40:53.171817+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-01T21:00:45.055744+00:00",
       "badge_id": ""
     },
     {
