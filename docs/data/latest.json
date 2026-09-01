@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T19:59:58.460709+00:00",
-    "fetched_at": "2026-09-01T20:00:49.432204+00:00",
+    "generated_at": "2026-09-01T20:14:58.4599176+00:00",
+    "fetched_at": "2026-09-01T20:15:37.410359+00:00",
     "total_entries": 411
   },
   "entries": [
@@ -144,18 +144,18 @@
     },
     {
       "rank": 18,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-01T20:08:54.528977+00:00",
       "badge_id": ""
     },
     {
       "rank": 19,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-01T07:55:10.544422+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
