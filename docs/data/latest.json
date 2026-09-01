@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T22:14:58.4579898+00:00",
-    "fetched_at": "2026-09-01T22:15:30.486766+00:00",
+    "generated_at": "2026-09-01T22:29:58.4600072+00:00",
+    "fetched_at": "2026-09-01T22:30:37.259267+00:00",
     "total_entries": 414
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 122,
-      "achieved_at": "2026-09-01T19:36:32.700024+00:00",
+      "prestige_level": 123,
+      "achieved_at": "2026-09-01T22:16:53.929701+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -602,8 +602,8 @@
       "rank": 75,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-30T22:32:09.570933+00:00",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-01T22:25:52.605353+00:00",
       "badge_id": ""
     },
     {
