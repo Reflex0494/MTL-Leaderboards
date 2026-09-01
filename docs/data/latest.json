@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T21:44:58.4570764+00:00",
-    "fetched_at": "2026-09-01T21:45:28.813338+00:00",
+    "generated_at": "2026-09-01T21:59:58.459413+00:00",
+    "fetched_at": "2026-09-01T22:00:47.472506+00:00",
     "total_entries": 413
   },
   "entries": [
@@ -120,26 +120,26 @@
     },
     {
       "rank": 15,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-31T04:13:55.471446+00:00",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-01T21:55:47.734502+00:00",
       "badge_id": ""
     },
     {
       "rank": 16,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-01T17:28:56.75093+00:00",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-01T21:56:03.999537+00:00",
       "badge_id": ""
     },
     {
       "rank": 17,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
       "prestige_level": 49,
-      "achieved_at": "2026-09-01T21:10:52.542039+00:00",
+      "achieved_at": "2026-08-31T04:13:55.471446+00:00",
       "badge_id": ""
     },
     {
