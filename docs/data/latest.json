@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T04:29:58.4541883+00:00",
-    "fetched_at": "2026-09-01T04:30:43.953525+00:00",
+    "generated_at": "2026-09-01T04:44:58.4588935+00:00",
+    "fetched_at": "2026-09-01T04:45:29.870535+00:00",
     "total_entries": 406
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-01T03:50:41.596434+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-01T04:41:35.245084+00:00",
       "badge_id": ""
     },
     {
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198076913774",
+      "display_name": "Spaceball Trooper",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-01T04:35:40.729817+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 29,
@@ -295,7 +303,7 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -303,20 +311,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
       "achieved_at": "2026-08-31T15:08:07.337276+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561198076913774",
-      "display_name": "Spaceball Trooper",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-01T03:49:40.36368+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 40,
@@ -520,19 +520,19 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-01T04:30:20.605184+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 66,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
       "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-01T02:37:35.03609+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 67,
