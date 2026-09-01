@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T22:59:58.463389+00:00",
-    "fetched_at": "2026-09-01T23:00:50.012740+00:00",
+    "generated_at": "2026-09-01T23:14:58.4582023+00:00",
+    "fetched_at": "2026-09-01T23:15:31.526319+00:00",
     "total_entries": 415
   },
   "entries": [
@@ -112,6 +112,14 @@
     },
     {
       "rank": 14,
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-01T23:03:03.215237+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 15,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 50,
@@ -119,19 +127,11 @@
       "badge_id": ""
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 50,
       "achieved_at": "2026-09-01T21:55:47.734502+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 16,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-01T21:56:03.999537+00:00",
       "badge_id": ""
     },
     {
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-01T23:02:57.782655+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -223,19 +231,11 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 37,
       "achieved_at": "2026-08-31T13:55:18.193405+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-31T18:46:43.845916+00:00",
       "badge_id": ""
     },
     {
@@ -330,8 +330,8 @@
       "rank": 41,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-01T22:14:41.683613+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-01T23:06:38.31144+00:00",
       "badge_id": ""
     },
     {
