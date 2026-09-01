@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T06:29:58.4587564+00:00",
-    "fetched_at": "2026-09-01T06:30:44.047939+00:00",
+    "generated_at": "2026-09-01T06:44:58.4596694+00:00",
+    "fetched_at": "2026-09-01T06:45:31.841747+00:00",
     "total_entries": 406
   },
   "entries": [
@@ -578,8 +578,8 @@
       "rank": 72,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-30T01:21:51.334074+00:00",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-01T06:33:29.587977+00:00",
       "badge_id": ""
     },
     {
