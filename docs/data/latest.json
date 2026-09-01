@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T07:44:58.4565749+00:00",
-    "fetched_at": "2026-09-01T07:45:36.305062+00:00",
+    "generated_at": "2026-09-01T07:59:58.460239+00:00",
+    "fetched_at": "2026-09-01T08:00:48.241000+00:00",
     "total_entries": 406
   },
   "entries": [
@@ -90,8 +90,8 @@
       "rank": 11,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
-      "prestige_level": 52,
-      "achieved_at": "2026-08-31T07:34:53.271999+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-01T07:57:21.065822+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-01T06:57:32.448043+00:00",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-01T07:55:10.544422+00:00",
       "badge_id": ""
     },
     {
