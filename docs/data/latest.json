@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-08-31T23:59:58.4550403+00:00",
-    "fetched_at": "2026-09-01T00:00:55.643747+00:00",
+    "generated_at": "2026-09-01T00:14:58.4585166+00:00",
+    "fetched_at": "2026-09-01T00:15:34.100181+00:00",
     "total_entries": 402
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 68,
-      "achieved_at": "2026-08-31T23:14:21.290532+00:00",
+      "prestige_level": 69,
+      "achieved_at": "2026-09-01T00:08:03.847021+00:00",
       "badge_id": ""
     },
     {
@@ -162,8 +162,8 @@
       "rank": 20,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
-      "prestige_level": 43,
-      "achieved_at": "2026-08-30T17:28:05.152617+00:00",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-01T00:02:01.167074+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -242,8 +242,8 @@
       "rank": 30,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
-      "prestige_level": 35,
-      "achieved_at": "2026-08-31T01:09:43.019703+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-01T00:07:14.229313+00:00",
       "badge_id": ""
     },
     {
