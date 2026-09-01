@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T02:59:58.4602489+00:00",
-    "fetched_at": "2026-09-01T03:00:53.713102+00:00",
+    "generated_at": "2026-09-01T03:14:58.4586697+00:00",
+    "fetched_at": "2026-09-01T03:15:42.477321+00:00",
     "total_entries": 406
   },
   "entries": [
@@ -32,19 +32,19 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 72,
+      "achieved_at": "2026-09-01T03:04:26.955964+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
       "prestige_level": 71,
       "achieved_at": "2026-08-31T02:51:36.050691+00:00",
       "badge_id": "s3_third"
-    },
-    {
-      "rank": 5,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 71,
-      "achieved_at": "2026-09-01T02:12:10.008867+00:00",
-      "badge_id": ""
     },
     {
       "rank": 6,
@@ -112,18 +112,18 @@
     },
     {
       "rank": 14,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-31T04:13:55.471446+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-01T03:07:47.533524+00:00",
       "badge_id": ""
     },
     {
       "rank": 15,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
       "prestige_level": 49,
-      "achieved_at": "2026-09-01T02:08:08.463207+00:00",
+      "achieved_at": "2026-08-31T04:13:55.471446+00:00",
       "badge_id": ""
     },
     {
