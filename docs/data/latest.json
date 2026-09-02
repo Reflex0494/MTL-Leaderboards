@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T03:29:58.4584469+00:00",
-    "fetched_at": "2026-09-02T03:30:39.703911+00:00",
+    "generated_at": "2026-09-02T03:44:58.4598886+00:00",
+    "fetched_at": "2026-09-02T03:45:31.248662+00:00",
     "total_entries": 428
   },
   "entries": [
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561198124581645",
+      "display_name": "gwilli2",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-02T03:42:54.059366+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -631,19 +639,11 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
       "achieved_at": "2026-08-31T06:44:37.854997+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 80,
-      "steam_id": "76561198124581645",
-      "display_name": "gwilli2",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-02T03:24:02.258499+00:00",
       "badge_id": ""
     },
     {
