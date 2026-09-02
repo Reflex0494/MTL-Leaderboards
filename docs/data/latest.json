@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T01:44:58.4553105+00:00",
-    "fetched_at": "2026-09-02T01:45:33.792982+00:00",
-    "total_entries": 423
+    "generated_at": "2026-09-02T01:59:58.4594136+00:00",
+    "fetched_at": "2026-09-02T02:00:45.328242+00:00",
+    "total_entries": 425
   },
   "entries": [
     {
@@ -192,6 +192,14 @@
     },
     {
       "rank": 24,
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-02T01:54:10.172682+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 25,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -199,19 +207,11 @@
       "badge_id": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 38,
       "achieved_at": "2026-09-01T12:30:03.234845+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 26,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-01T21:09:34.610672+00:00",
       "badge_id": ""
     },
     {
@@ -250,8 +250,8 @@
       "rank": 31,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-02T01:00:24.723027+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-02T01:57:42.09213+00:00",
       "badge_id": "s2_second"
     },
     {
