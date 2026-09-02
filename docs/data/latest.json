@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T02:29:58.4588709+00:00",
-    "fetched_at": "2026-09-02T02:30:41.626982+00:00",
+    "generated_at": "2026-09-02T02:44:58.4619302+00:00",
+    "fetched_at": "2026-09-02T02:45:31.099027+00:00",
     "total_entries": 425
   },
   "entries": [
@@ -112,18 +112,18 @@
     },
     {
       "rank": 14,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-01T23:03:03.215237+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-02T02:31:41.078553+00:00",
       "badge_id": ""
     },
     {
       "rank": 15,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
       "prestige_level": 51,
-      "achieved_at": "2026-09-02T01:03:08.343567+00:00",
+      "achieved_at": "2026-09-01T23:03:03.215237+00:00",
       "badge_id": ""
     },
     {
@@ -538,8 +538,8 @@
       "rank": 67,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-01T04:30:20.605184+00:00",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-02T02:35:54.521013+00:00",
       "badge_id": "og"
     },
     {
