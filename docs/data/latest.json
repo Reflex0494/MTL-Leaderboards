@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T01:29:58.4589891+00:00",
-    "fetched_at": "2026-09-02T01:30:42.025958+00:00",
-    "total_entries": 422
+    "generated_at": "2026-09-02T01:44:58.4553105+00:00",
+    "fetched_at": "2026-09-02T01:45:33.792982+00:00",
+    "total_entries": 423
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 117,
-      "achieved_at": "2026-09-01T22:39:57.097168+00:00",
+      "prestige_level": 118,
+      "achieved_at": "2026-09-02T01:32:01.194117+00:00",
       "badge_id": ""
     },
     {
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 76,
-      "achieved_at": "2026-09-02T00:12:23.554021+00:00",
+      "prestige_level": 77,
+      "achieved_at": "2026-09-02T01:34:04.866081+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-02T00:38:25.479657+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-02T01:30:47.116275+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 18,
@@ -535,19 +543,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
       "achieved_at": "2026-09-01T08:32:51.885578+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-02T00:51:48.610145+00:00",
       "badge_id": ""
     },
     {
