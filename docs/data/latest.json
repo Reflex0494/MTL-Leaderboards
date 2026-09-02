@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T23:29:58.4533116+00:00",
-    "fetched_at": "2026-09-02T23:30:45.213498+00:00",
+    "generated_at": "2026-09-02T23:44:58.4526139+00:00",
+    "fetched_at": "2026-09-02T23:45:29.037128+00:00",
     "total_entries": 461
   },
   "entries": [
@@ -378,8 +378,8 @@
       "rank": 47,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-02T22:45:34.419261+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-02T23:32:48.103312+00:00",
       "badge_id": ""
     },
     {
