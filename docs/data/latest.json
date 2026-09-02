@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T04:44:58.4582356+00:00",
-    "fetched_at": "2026-09-02T04:45:30.543963+00:00",
-    "total_entries": 430
+    "generated_at": "2026-09-02T04:59:58.4589211+00:00",
+    "fetched_at": "2026-09-02T05:00:53.074936+00:00",
+    "total_entries": 431
   },
   "entries": [
     {
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 67,
-      "achieved_at": "2026-09-02T01:06:03.42918+00:00",
+      "prestige_level": 68,
+      "achieved_at": "2026-09-02T04:50:43.099537+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -200,6 +200,14 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-02T04:47:24.24699+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 26,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -207,19 +215,11 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 38,
       "achieved_at": "2026-09-01T12:30:03.234845+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-01T23:02:57.782655+00:00",
       "badge_id": ""
     },
     {
