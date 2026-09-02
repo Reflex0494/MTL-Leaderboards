@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T00:44:58.4567536+00:00",
-    "fetched_at": "2026-09-02T00:45:32.234339+00:00",
+    "generated_at": "2026-09-02T00:59:58.4586689+00:00",
+    "fetched_at": "2026-09-02T01:00:46.813602+00:00",
     "total_entries": 419
   },
   "entries": [
@@ -392,19 +392,19 @@
     },
     {
       "rank": 49,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-02T00:58:43.008856+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 50,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 22,
       "achieved_at": "2026-08-31T23:56:32.827814+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 50,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-01T00:56:26.393657+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 51,
@@ -544,18 +544,18 @@
     },
     {
       "rank": 68,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-02T00:51:48.610145+00:00",
       "badge_id": ""
     },
     {
       "rank": 69,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-09-01T02:37:39.644829+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     },
     {
