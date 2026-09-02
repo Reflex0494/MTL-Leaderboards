@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T18:14:58.4534415+00:00",
-    "fetched_at": "2026-09-02T18:15:29.786117+00:00",
+    "generated_at": "2026-09-02T18:29:58.4541082+00:00",
+    "fetched_at": "2026-09-02T18:30:42.869734+00:00",
     "total_entries": 454
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 126,
-      "achieved_at": "2026-09-02T14:15:58.278693+00:00",
+      "prestige_level": 127,
+      "achieved_at": "2026-09-02T18:23:59.750396+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -272,18 +272,18 @@
     },
     {
       "rank": 34,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-30T12:28:27.770058+00:00",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-02T18:29:44.256255+00:00",
       "badge_id": ""
     },
     {
       "rank": 35,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
       "prestige_level": 32,
-      "achieved_at": "2026-09-01T18:53:22.943097+00:00",
+      "achieved_at": "2026-08-30T12:28:27.770058+00:00",
       "badge_id": ""
     },
     {
