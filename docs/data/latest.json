@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T11:44:58.4537966+00:00",
-    "fetched_at": "2026-09-02T11:45:29.115496+00:00",
+    "generated_at": "2026-09-02T11:59:58.453582+00:00",
+    "fetched_at": "2026-09-02T12:00:52.807431+00:00",
     "total_entries": 442
   },
   "entries": [
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-01T23:03:03.215237+00:00",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-02T11:45:43.26348+00:00",
       "badge_id": ""
     },
     {
