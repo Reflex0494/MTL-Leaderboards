@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T20:14:58.4536374+00:00",
-    "fetched_at": "2026-09-02T20:15:34.392335+00:00",
-    "total_entries": 458
+    "generated_at": "2026-09-02T20:29:58.4533064+00:00",
+    "fetched_at": "2026-09-02T20:30:39.660928+00:00",
+    "total_entries": 459
   },
   "entries": [
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-01T20:33:18.913541+00:00",
+      "prestige_level": 55,
+      "achieved_at": "2026-09-02T20:15:38.869586+00:00",
       "badge_id": ""
     },
     {
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561198092044600",
+      "display_name": "Proxy",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-02T20:25:22.099473+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 14,
@@ -631,19 +639,11 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 14,
       "achieved_at": "2026-09-01T15:41:37.451633+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 80,
-      "steam_id": "76561198092044600",
-      "display_name": "Proxy",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-02T19:53:41.370945+00:00",
       "badge_id": ""
     },
     {
