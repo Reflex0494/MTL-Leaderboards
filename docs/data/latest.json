@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T10:44:58.4539831+00:00",
-    "fetched_at": "2026-09-02T10:45:38.112487+00:00",
-    "total_entries": 441
+    "generated_at": "2026-09-02T10:59:58.4545605+00:00",
+    "fetched_at": "2026-09-02T11:00:50.816586+00:00",
+    "total_entries": 442
   },
   "entries": [
     {
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561198119563776",
-      "display_name": "Pois",
-      "prestige_level": 38,
-      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-02T10:59:31.018508+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
+      "steam_id": "76561198119563776",
+      "display_name": "Pois",
       "prestige_level": 38,
-      "achieved_at": "2026-09-01T12:30:03.234845+00:00",
+      "achieved_at": "2026-08-24T13:20:37.861864+00:00",
       "badge_id": ""
     },
     {
