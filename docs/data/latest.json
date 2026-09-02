@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T08:14:58.4534347+00:00",
-    "fetched_at": "2026-09-02T08:15:35.615690+00:00",
+    "generated_at": "2026-09-02T08:29:58.4531217+00:00",
+    "fetched_at": "2026-09-02T08:30:42.911316+00:00",
     "total_entries": 435
   },
   "entries": [
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-01T08:45:43.608381+00:00",
+      "prestige_level": 55,
+      "achieved_at": "2026-09-02T08:18:30.559519+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-02T08:17:07.701814+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 14,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 14,
       "achieved_at": "2026-09-01T15:41:37.451633+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-02T07:20:03.851163+00:00",
       "badge_id": ""
     },
     {
