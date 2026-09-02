@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T05:29:58.4554036+00:00",
-    "fetched_at": "2026-09-02T05:30:41.493851+00:00",
+    "generated_at": "2026-09-02T05:44:58.456657+00:00",
+    "fetched_at": "2026-09-02T05:45:32.150744+00:00",
     "total_entries": 431
   },
   "entries": [
@@ -88,19 +88,19 @@
     },
     {
       "rank": 11,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 55,
+      "achieved_at": "2026-09-02T05:41:03.797155+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 12,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 54,
       "achieved_at": "2026-09-01T08:45:43.608381+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-01T15:14:13.873489+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 13,
