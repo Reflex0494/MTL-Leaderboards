@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T17:44:58.453934+00:00",
-    "fetched_at": "2026-09-02T17:45:30.781896+00:00",
-    "total_entries": 452
+    "generated_at": "2026-09-02T17:59:58.4538197+00:00",
+    "fetched_at": "2026-09-02T18:00:51.208539+00:00",
+    "total_entries": 453
   },
   "entries": [
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198124581645",
+      "display_name": "gwilli2",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-02T17:49:31.834652+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
@@ -551,19 +559,11 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 18,
       "achieved_at": "2026-09-02T04:07:56.935609+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198124581645",
-      "display_name": "gwilli2",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-02T17:19:46.613251+00:00",
       "badge_id": ""
     },
     {
