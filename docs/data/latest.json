@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T12:44:58.4540404+00:00",
-    "fetched_at": "2026-09-02T12:45:35.470113+00:00",
+    "generated_at": "2026-09-02T12:59:58.4533589+00:00",
+    "fetched_at": "2026-09-02T13:00:52.210452+00:00",
     "total_entries": 444
   },
   "entries": [
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198404143581",
-      "display_name": "ChaoticWinta",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-24T14:22:32.753613+00:00",
+      "steam_id": "76561198044018358",
+      "display_name": "tatsuoo",
+      "prestige_level": 10,
+      "achieved_at": "2026-09-02T12:57:48.49926+00:00",
       "badge_id": ""
     }
   ]
