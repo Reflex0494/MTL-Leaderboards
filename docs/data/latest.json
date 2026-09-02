@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T04:29:58.4602551+00:00",
-    "fetched_at": "2026-09-02T04:30:43.949380+00:00",
-    "total_entries": 429
+    "generated_at": "2026-09-02T04:44:58.4582356+00:00",
+    "fetched_at": "2026-09-02T04:45:30.543963+00:00",
+    "total_entries": 430
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 118,
-      "achieved_at": "2026-09-02T01:32:01.194117+00:00",
+      "prestige_level": 119,
+      "achieved_at": "2026-09-02T04:35:51.632768+00:00",
       "badge_id": ""
     },
     {
@@ -608,6 +608,14 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198124581645",
+      "display_name": "gwilli2",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-02T04:41:54.790744+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 14,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 14,
       "achieved_at": "2026-09-01T15:41:37.451633+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198124581645",
-      "display_name": "gwilli2",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-02T03:42:54.059366+00:00",
       "badge_id": ""
     },
     {
