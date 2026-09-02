@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T22:14:58.4544822+00:00",
-    "fetched_at": "2026-09-02T22:15:28.623401+00:00",
-    "total_entries": 459
+    "generated_at": "2026-09-02T22:29:58.4538999+00:00",
+    "fetched_at": "2026-09-02T22:30:41.766984+00:00",
+    "total_entries": 460
   },
   "entries": [
     {
@@ -152,19 +152,19 @@
     },
     {
       "rank": 19,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-02T22:17:20.329413+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 20,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
       "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 20,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 47,
-      "achieved_at": "2026-09-02T21:17:04.804486+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 21,
