@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T18:44:58.455043+00:00",
-    "fetched_at": "2026-09-02T18:45:33.471092+00:00",
-    "total_entries": 454
+    "generated_at": "2026-09-02T18:59:58.4534703+00:00",
+    "fetched_at": "2026-09-02T19:00:48.975939+00:00",
+    "total_entries": 455
   },
   "entries": [
     {
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-02T18:58:33.810558+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -287,19 +295,11 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 32,
       "achieved_at": "2026-09-02T06:21:47.694564+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-02T13:05:51.082737+00:00",
       "badge_id": "og"
     },
     {
