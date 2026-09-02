@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T15:29:58.4559119+00:00",
-    "fetched_at": "2026-09-02T15:30:44.881098+00:00",
-    "total_entries": 447
+    "generated_at": "2026-09-02T15:44:58.4547412+00:00",
+    "fetched_at": "2026-09-02T15:45:35.689452+00:00",
+    "total_entries": 448
   },
   "entries": [
     {
@@ -568,6 +568,14 @@
     },
     {
       "rank": 71,
+      "steam_id": "76561198124581645",
+      "display_name": "gwilli2",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-02T15:44:05.223572+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 72,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -583,19 +591,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 16,
       "achieved_at": "2026-08-31T17:38:34.378039+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198124581645",
-      "display_name": "gwilli2",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-02T06:16:40.68939+00:00",
       "badge_id": ""
     },
     {
