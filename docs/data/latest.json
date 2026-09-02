@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-01T23:59:58.4593533+00:00",
-    "fetched_at": "2026-09-02T00:00:49.475023+00:00",
-    "total_entries": 417
+    "generated_at": "2026-09-02T00:14:58.4593389+00:00",
+    "fetched_at": "2026-09-02T00:15:29.269364+00:00",
+    "total_entries": 418
   },
   "entries": [
     {
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 75,
-      "achieved_at": "2026-09-01T18:31:01.728149+00:00",
+      "prestige_level": 76,
+      "achieved_at": "2026-09-02T00:12:23.554021+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 53,
-      "achieved_at": "2026-09-01T02:20:17.866677+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-09-02T00:00:36.640732+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -720,6 +720,14 @@
     },
     {
       "rank": 90,
+      "steam_id": "76561198044012775",
+      "display_name": "Mondays",
+      "prestige_level": 12,
+      "achieved_at": "2026-09-02T00:05:14.49624+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 91,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -735,19 +743,11 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198056767250",
       "display_name": "Dirty Colors",
       "prestige_level": 11,
       "achieved_at": "2026-09-01T03:38:49.854082+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 93,
-      "steam_id": "76561198044012775",
-      "display_name": "Mondays",
-      "prestige_level": 11,
-      "achieved_at": "2026-09-01T23:45:23.341486+00:00",
       "badge_id": ""
     },
     {
