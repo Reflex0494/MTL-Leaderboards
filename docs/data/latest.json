@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T20:59:58.4540059+00:00",
-    "fetched_at": "2026-09-02T21:00:49.747180+00:00",
+    "generated_at": "2026-09-02T21:14:58.4531382+00:00",
+    "fetched_at": "2026-09-02T21:15:28.461995+00:00",
     "total_entries": 459
   },
   "entries": [
@@ -352,6 +352,14 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-02T21:07:37.876149+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 45,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -359,19 +367,11 @@
       "badge_id": ""
     },
     {
-      "rank": 45,
+      "rank": 46,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 26,
       "achieved_at": "2026-08-28T22:34:04.216554+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 46,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-02T19:33:54.952452+00:00",
       "badge_id": ""
     },
     {
