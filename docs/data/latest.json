@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T00:59:58.4586689+00:00",
-    "fetched_at": "2026-09-02T01:00:46.813602+00:00",
-    "total_entries": 419
+    "generated_at": "2026-09-02T01:14:58.4591703+00:00",
+    "fetched_at": "2026-09-02T01:15:29.865667+00:00",
+    "total_entries": 421
   },
   "entries": [
     {
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 66,
-      "achieved_at": "2026-09-01T02:41:30.551543+00:00",
+      "prestige_level": 67,
+      "achieved_at": "2026-09-02T01:06:03.42918+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -80,6 +80,14 @@
     },
     {
       "rank": 10,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 55,
+      "achieved_at": "2026-09-02T01:14:49.799275+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 11,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 54,
@@ -87,7 +95,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 54,
@@ -95,20 +103,12 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 54,
       "achieved_at": "2026-09-01T20:33:18.913541+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 13,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-02T00:00:36.640732+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 14,
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-01T03:07:47.533524+00:00",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-02T01:03:08.343567+00:00",
       "badge_id": ""
     },
     {
@@ -248,6 +248,14 @@
     },
     {
       "rank": 31,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-02T01:00:24.723027+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 32,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 33,
@@ -255,20 +263,12 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 33,
       "achieved_at": "2026-08-31T00:36:07.10978+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 33,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-01T18:04:44.719338+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 34,
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-02T01:02:25.122072+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 63,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
@@ -511,20 +519,12 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
       "achieved_at": "2026-08-30T01:19:37.195096+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-02T00:28:10.291762+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 66,
