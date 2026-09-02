@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T12:59:58.4533589+00:00",
-    "fetched_at": "2026-09-02T13:00:52.210452+00:00",
+    "generated_at": "2026-09-02T13:14:58.453521+00:00",
+    "fetched_at": "2026-09-02T13:15:34.103171+00:00",
     "total_entries": 444
   },
   "entries": [
@@ -192,6 +192,14 @@
     },
     {
       "rank": 24,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-02T13:09:21.346792+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 25,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 39,
@@ -199,19 +207,11 @@
       "badge_id": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 39,
       "achieved_at": "2026-09-02T04:47:24.24699+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 26,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-02T10:59:31.018508+00:00",
       "badge_id": ""
     },
     {
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-02T09:38:51.126836+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-02T13:05:51.082737+00:00",
       "badge_id": "og"
     },
     {
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198092044600",
+      "display_name": "Proxy",
+      "prestige_level": 12,
+      "achieved_at": "2026-09-02T13:02:24.264266+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -751,19 +759,11 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198056767250",
       "display_name": "Dirty Colors",
       "prestige_level": 11,
       "achieved_at": "2026-09-01T03:38:49.854082+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 95,
-      "steam_id": "76561198092044600",
-      "display_name": "Proxy",
-      "prestige_level": 11,
-      "achieved_at": "2026-09-02T12:21:37.502155+00:00",
       "badge_id": ""
     },
     {
