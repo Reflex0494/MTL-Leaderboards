@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T07:29:58.4533323+00:00",
-    "fetched_at": "2026-09-02T07:30:47.142726+00:00",
+    "generated_at": "2026-09-02T07:44:58.4535258+00:00",
+    "fetched_at": "2026-09-02T07:45:34.090649+00:00",
     "total_entries": 434
   },
   "entries": [
@@ -10,16 +10,16 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 123,
-      "achieved_at": "2026-09-01T22:16:53.929701+00:00",
+      "prestige_level": 124,
+      "achieved_at": "2026-09-02T07:37:23.605603+00:00",
       "badge_id": "s3_first"
     },
     {
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 119,
-      "achieved_at": "2026-09-02T04:35:51.632768+00:00",
+      "prestige_level": 120,
+      "achieved_at": "2026-09-02T07:36:28.683882+00:00",
       "badge_id": ""
     },
     {
@@ -258,8 +258,8 @@
       "rank": 32,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
-      "prestige_level": 33,
-      "achieved_at": "2026-08-29T05:53:40.646274+00:00",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-02T07:40:29.566573+00:00",
       "badge_id": ""
     },
     {
