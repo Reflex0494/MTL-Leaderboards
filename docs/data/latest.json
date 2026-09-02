@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T09:29:58.4535086+00:00",
-    "fetched_at": "2026-09-02T09:30:43.137676+00:00",
+    "generated_at": "2026-09-02T09:44:58.4534461+00:00",
+    "fetched_at": "2026-09-02T09:45:30.602694+00:00",
     "total_entries": 439
   },
   "entries": [
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-01T14:03:22.236249+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-02T09:38:51.126836+00:00",
       "badge_id": "og"
     },
     {
