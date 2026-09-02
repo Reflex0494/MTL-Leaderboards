@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T20:29:58.4533064+00:00",
-    "fetched_at": "2026-09-02T20:30:39.660928+00:00",
+    "generated_at": "2026-09-02T20:44:58.4558786+00:00",
+    "fetched_at": "2026-09-02T20:45:30.076413+00:00",
     "total_entries": 459
   },
   "entries": [
@@ -176,6 +176,14 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-02T20:43:56.578648+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -183,7 +191,7 @@
       "badge_id": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 40,
@@ -191,19 +199,11 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 40,
       "achieved_at": "2026-09-02T13:09:21.346792+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-02T17:14:48.07797+00:00",
       "badge_id": ""
     },
     {
