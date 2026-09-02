@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T14:59:58.4531758+00:00",
-    "fetched_at": "2026-09-02T15:00:50.518299+00:00",
+    "generated_at": "2026-09-02T15:14:58.4560956+00:00",
+    "fetched_at": "2026-09-02T15:15:33.837191+00:00",
     "total_entries": 447
   },
   "entries": [
@@ -248,19 +248,19 @@
     },
     {
       "rank": 31,
+      "steam_id": "76561199478338551",
+      "display_name": "| Whimsey |",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-02T15:00:23.939394+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 32,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 35,
       "achieved_at": "2026-09-02T01:57:42.09213+00:00",
       "badge_id": "s2_second"
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561199478338551",
-      "display_name": "| Whimsey |",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-02T09:07:34.838684+00:00",
-      "badge_id": ""
     },
     {
       "rank": 33,
