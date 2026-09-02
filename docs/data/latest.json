@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T19:14:58.4540648+00:00",
-    "fetched_at": "2026-09-02T19:15:29.232065+00:00",
-    "total_entries": 456
+    "generated_at": "2026-09-02T19:29:58.4538754+00:00",
+    "fetched_at": "2026-09-02T19:30:43.117014+00:00",
+    "total_entries": 457
   },
   "entries": [
     {
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 61,
-      "achieved_at": "2026-09-02T18:32:05.60767+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-09-02T19:26:55.721565+00:00",
       "badge_id": ""
     },
     {
@@ -360,18 +360,18 @@
     },
     {
       "rank": 45,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 25,
-      "achieved_at": "2026-08-31T05:01:09.889422+00:00",
+      "steam_id": "76561198321234198",
+      "display_name": "mmffkk000",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-02T19:25:36.832662+00:00",
       "badge_id": ""
     },
     {
       "rank": 46,
-      "steam_id": "76561198321234198",
-      "display_name": "mmffkk000",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
       "prestige_level": 25,
-      "achieved_at": "2026-08-31T20:00:19.97089+00:00",
+      "achieved_at": "2026-08-31T05:01:09.889422+00:00",
       "badge_id": ""
     },
     {
