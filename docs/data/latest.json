@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T00:29:58.459992+00:00",
-    "fetched_at": "2026-09-02T00:30:39.216364+00:00",
+    "generated_at": "2026-09-02T00:44:58.4567536+00:00",
+    "fetched_at": "2026-09-02T00:45:32.234339+00:00",
     "total_entries": 419
   },
   "entries": [
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-01T03:23:35.084241+00:00",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-02T00:38:25.479657+00:00",
       "badge_id": ""
     },
     {
