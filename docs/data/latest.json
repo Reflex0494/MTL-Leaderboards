@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T10:59:58.4545605+00:00",
-    "fetched_at": "2026-09-02T11:00:50.816586+00:00",
+    "generated_at": "2026-09-02T11:14:58.453908+00:00",
+    "fetched_at": "2026-09-02T11:15:30.138213+00:00",
     "total_entries": 442
   },
   "entries": [
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561198404143581",
-      "display_name": "ChaoticWinta",
-      "prestige_level": 9,
-      "achieved_at": "2026-08-24T14:22:32.753613+00:00",
+      "steam_id": "76561198092044600",
+      "display_name": "Proxy",
+      "prestige_level": 10,
+      "achieved_at": "2026-09-02T11:07:53.423003+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561198205187064",
-      "display_name": "Cannabis",
+      "steam_id": "76561198404143581",
+      "display_name": "ChaoticWinta",
       "prestige_level": 9,
-      "achieved_at": "2026-08-28T10:57:28.890157+00:00",
+      "achieved_at": "2026-08-24T14:22:32.753613+00:00",
       "badge_id": ""
     }
   ]
