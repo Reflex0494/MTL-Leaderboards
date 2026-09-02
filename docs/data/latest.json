@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T03:59:58.4544347+00:00",
-    "fetched_at": "2026-09-02T04:00:47.350369+00:00",
-    "total_entries": 428
+    "generated_at": "2026-09-02T04:14:58.4582342+00:00",
+    "fetched_at": "2026-09-02T04:15:37.634907+00:00",
+    "total_entries": 429
   },
   "entries": [
     {
@@ -552,18 +552,18 @@
     },
     {
       "rank": 69,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561198158890740",
+      "display_name": "[NOC]-Needer",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-02T04:07:56.935609+00:00",
       "badge_id": ""
     },
     {
       "rank": 70,
-      "steam_id": "76561198158890740",
-      "display_name": "[NOC]-Needer",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-09-02T02:49:39.305314+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     },
     {
