@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T06:14:58.4595473+00:00",
-    "fetched_at": "2026-09-02T06:15:33.068280+00:00",
+    "generated_at": "2026-09-02T06:29:58.4613046+00:00",
+    "fetched_at": "2026-09-02T06:30:45.594193+00:00",
     "total_entries": 432
   },
   "entries": [
@@ -290,8 +290,8 @@
       "rank": 36,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-02T05:11:57.966758+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-02T06:21:47.694564+00:00",
       "badge_id": "og"
     },
     {
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198124581645",
+      "display_name": "gwilli2",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-02T06:16:40.68939+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -599,19 +607,11 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
       "achieved_at": "2026-09-01T08:43:57.428137+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561198124581645",
-      "display_name": "gwilli2",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-02T04:41:54.790744+00:00",
       "badge_id": ""
     },
     {
