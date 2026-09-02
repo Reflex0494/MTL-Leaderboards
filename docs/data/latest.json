@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T14:14:58.4535209+00:00",
-    "fetched_at": "2026-09-02T14:15:29.693077+00:00",
+    "generated_at": "2026-09-02T14:29:58.4531533+00:00",
+    "fetched_at": "2026-09-02T14:30:41.128852+00:00",
     "total_entries": 447
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 125,
-      "achieved_at": "2026-09-02T10:24:14.567037+00:00",
+      "prestige_level": 126,
+      "achieved_at": "2026-09-02T14:15:58.278693+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -224,18 +224,18 @@
     },
     {
       "rank": 28,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-02T14:18:04.064729+00:00",
       "badge_id": ""
     },
     {
       "rank": 29,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 37,
-      "achieved_at": "2026-08-31T13:55:18.193405+00:00",
+      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
     },
     {
