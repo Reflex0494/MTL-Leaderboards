@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-02T04:59:58.4589211+00:00",
-    "fetched_at": "2026-09-02T05:00:53.074936+00:00",
+    "generated_at": "2026-09-02T05:14:58.4608432+00:00",
+    "fetched_at": "2026-09-02T05:15:29.429937+00:00",
     "total_entries": 431
   },
   "entries": [
@@ -290,8 +290,8 @@
       "rank": 36,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-01T04:35:40.729817+00:00",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-02T05:11:57.966758+00:00",
       "badge_id": "og"
     },
     {
