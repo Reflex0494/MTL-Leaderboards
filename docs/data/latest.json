@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T06:59:58.4544785+00:00",
-    "fetched_at": "2026-09-03T07:00:48.640054+00:00",
+    "generated_at": "2026-09-03T07:14:58.4539007+00:00",
+    "fetched_at": "2026-09-03T07:15:32.433744+00:00",
     "total_entries": 470
   },
   "entries": [
@@ -88,18 +88,18 @@
     },
     {
       "rank": 11,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-03T03:28:51.688462+00:00",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-03T07:01:28.00855+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 12,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
       "prestige_level": 57,
-      "achieved_at": "2026-09-03T06:19:32.542881+00:00",
+      "achieved_at": "2026-09-03T03:28:51.688462+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198278205043",
+      "display_name": "XyberBatTV",
+      "prestige_level": 12,
+      "achieved_at": "2026-09-03T07:14:07.800585+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -775,19 +783,11 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198056767250",
       "display_name": "Dirty Colors",
       "prestige_level": 11,
       "achieved_at": "2026-09-01T03:38:49.854082+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561198278205043",
-      "display_name": "XyberBatTV",
-      "prestige_level": 11,
-      "achieved_at": "2026-09-03T06:57:16.475749+00:00",
       "badge_id": ""
     },
     {
