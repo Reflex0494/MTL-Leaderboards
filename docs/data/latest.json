@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T03:29:58.4544495+00:00",
-    "fetched_at": "2026-09-03T03:30:44.332233+00:00",
+    "generated_at": "2026-09-03T03:44:58.4545449+00:00",
+    "fetched_at": "2026-09-03T03:45:41.398424+00:00",
     "total_entries": 468
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 53,
-      "achieved_at": "2026-09-03T02:36:27.329751+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-09-03T03:33:03.199275+00:00",
       "badge_id": ""
     },
     {
@@ -136,19 +136,19 @@
     },
     {
       "rank": 17,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-03T03:31:10.280339+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 18,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
       "prestige_level": 49,
       "achieved_at": "2026-08-31T04:13:55.471446+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-03T02:37:10.370404+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 19,
