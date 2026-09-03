@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T06:29:58.4548334+00:00",
-    "fetched_at": "2026-09-03T06:30:39.790059+00:00",
+    "generated_at": "2026-09-03T06:44:58.4529787+00:00",
+    "fetched_at": "2026-09-03T06:45:28.109834+00:00",
     "total_entries": 470
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 60,
-      "achieved_at": "2026-09-03T06:11:15.855539+00:00",
+      "prestige_level": 61,
+      "achieved_at": "2026-09-03T06:41:43.567972+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-02T11:45:43.26348+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-03T06:40:32.234609+00:00",
       "badge_id": ""
     },
     {
