@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T20:14:58.4535251+00:00",
-    "fetched_at": "2026-09-03T20:15:32.253433+00:00",
+    "generated_at": "2026-09-03T20:29:58.4534446+00:00",
+    "fetched_at": "2026-09-03T20:30:41.948414+00:00",
     "total_entries": 483
   },
   "entries": [
@@ -346,8 +346,8 @@
       "rank": 43,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-02T19:51:16.988208+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-03T20:16:36.383556+00:00",
       "badge_id": ""
     },
     {
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198255262863",
+      "display_name": "< blank >",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-03T20:24:14.8126+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -639,19 +647,11 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 15,
       "achieved_at": "2026-09-03T02:48:51.952667+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198255262863",
-      "display_name": "< blank >",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-03T19:46:51.29504+00:00",
       "badge_id": ""
     },
     {
