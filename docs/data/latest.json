@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T20:59:58.453793+00:00",
-    "fetched_at": "2026-09-03T21:00:47.311660+00:00",
-    "total_entries": 483
+    "generated_at": "2026-09-03T21:14:58.4528795+00:00",
+    "fetched_at": "2026-09-03T21:15:30.247281+00:00",
+    "total_entries": 484
   },
   "entries": [
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 56,
-      "achieved_at": "2026-09-03T11:32:39.7745+00:00",
+      "prestige_level": 57,
+      "achieved_at": "2026-09-03T21:12:47.014758+00:00",
       "badge_id": ""
     },
     {
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198073010642",
-      "display_name": "BzH | TwinKy",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-25T14:24:27.924396+00:00",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 12,
+      "achieved_at": "2026-09-03T21:07:17.443292+00:00",
       "badge_id": ""
     }
   ]
