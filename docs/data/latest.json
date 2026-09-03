@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T02:44:58.4544332+00:00",
-    "fetched_at": "2026-09-03T02:45:34.011811+00:00",
+    "generated_at": "2026-09-03T02:59:58.4538912+00:00",
+    "fetched_at": "2026-09-03T03:00:50.164745+00:00",
     "total_entries": 468
   },
   "entries": [
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198392306570",
+      "display_name": "Oh Dios Mio",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-03T02:48:51.952667+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 14,
@@ -639,19 +647,11 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 14,
       "achieved_at": "2026-09-01T15:41:37.451633+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198392306570",
-      "display_name": "Oh Dios Mio",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-03T02:19:02.262793+00:00",
       "badge_id": ""
     },
     {
