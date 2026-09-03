@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T01:29:58.4532976+00:00",
-    "fetched_at": "2026-09-03T01:30:38.962569+00:00",
+    "generated_at": "2026-09-03T01:44:58.4549148+00:00",
+    "fetched_at": "2026-09-03T01:45:30.074441+00:00",
     "total_entries": 466
   },
   "entries": [
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-03T01:31:32.222695+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 19,
@@ -519,19 +527,11 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
       "achieved_at": "2026-08-30T01:19:37.195096+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-02T01:30:47.116275+00:00",
       "badge_id": ""
     },
     {
@@ -672,6 +672,14 @@
     },
     {
       "rank": 84,
+      "steam_id": "76561198392306570",
+      "display_name": "Oh Dios Mio",
+      "prestige_level": 13,
+      "achieved_at": "2026-09-03T01:43:38.484342+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 85,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -679,7 +687,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561199544449927",
       "display_name": "momomnds",
       "prestige_level": 12,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 12,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198150626390",
       "display_name": "Bearbee",
       "prestige_level": 12,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198031518186",
       "display_name": "Kody",
       "prestige_level": 12,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561199124755171",
       "display_name": "itz_NOXIS",
       "prestige_level": 12,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 12,
@@ -735,19 +743,11 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198108875079",
       "display_name": "puff",
       "prestige_level": 12,
       "achieved_at": "2026-09-01T08:36:49.542333+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 93,
-      "steam_id": "76561198392306570",
-      "display_name": "Oh Dios Mio",
-      "prestige_level": 12,
-      "achieved_at": "2026-09-03T01:10:43.451706+00:00",
       "badge_id": ""
     },
     {
