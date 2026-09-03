@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T13:14:58.4549383+00:00",
-    "fetched_at": "2026-09-03T13:15:32.605703+00:00",
+    "generated_at": "2026-09-03T13:29:58.4542379+00:00",
+    "fetched_at": "2026-09-03T13:30:50.666594+00:00",
     "total_entries": 474
   },
   "entries": [
@@ -768,6 +768,14 @@
     },
     {
       "rank": 96,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 12,
+      "achieved_at": "2026-09-03T13:18:14.084284+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 97,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198056767250",
       "display_name": "Dirty Colors",
       "prestige_level": 11,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
       "prestige_level": 11,
       "achieved_at": "2026-09-03T07:37:06.840298+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 11,
-      "achieved_at": "2026-09-03T12:56:16.218707+00:00",
       "badge_id": ""
     }
   ]
