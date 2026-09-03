@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T21:59:58.4540131+00:00",
-    "fetched_at": "2026-09-03T22:00:50.299002+00:00",
+    "generated_at": "2026-09-03T22:14:58.4539914+00:00",
+    "fetched_at": "2026-09-03T22:15:32.243192+00:00",
     "total_entries": 484
   },
   "entries": [
@@ -664,6 +664,14 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-03T22:01:01.418981+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 13,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 13,
@@ -695,19 +703,11 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561197994306078",
       "display_name": "OwenCobs",
       "prestige_level": 13,
       "achieved_at": "2026-09-03T18:05:21.833005+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 88,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-03T21:36:41.797691+00:00",
       "badge_id": ""
     },
     {
@@ -720,6 +720,14 @@
     },
     {
       "rank": 90,
+      "steam_id": "76561199076113485",
+      "display_name": "Real life big trappa",
+      "prestige_level": 13,
+      "achieved_at": "2026-09-03T22:08:11.340577+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 91,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -727,7 +735,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561199544449927",
       "display_name": "momomnds",
       "prestige_level": 12,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 12,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198150626390",
       "display_name": "Bearbee",
       "prestige_level": 12,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198031518186",
       "display_name": "Kody",
       "prestige_level": 12,
@@ -767,19 +775,11 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561199124755171",
       "display_name": "itz_NOXIS",
       "prestige_level": 12,
       "achieved_at": "2026-08-29T19:38:42.561837+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 97,
-      "steam_id": "76561199076113485",
-      "display_name": "Real life big trappa",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-31T04:55:54.43886+00:00",
       "badge_id": ""
     },
     {
