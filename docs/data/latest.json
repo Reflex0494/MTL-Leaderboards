@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T02:29:58.4535893+00:00",
-    "fetched_at": "2026-09-03T02:30:38.673467+00:00",
-    "total_entries": 466
+    "generated_at": "2026-09-03T02:44:58.4544332+00:00",
+    "fetched_at": "2026-09-03T02:45:34.011811+00:00",
+    "total_entries": 468
   },
   "entries": [
     {
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 70,
-      "achieved_at": "2026-09-03T01:10:22.535575+00:00",
+      "prestige_level": 71,
+      "achieved_at": "2026-09-03T02:32:10.836936+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-02T01:14:49.799275+00:00",
+      "prestige_level": 56,
+      "achieved_at": "2026-09-03T02:43:20.660764+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-02T02:31:41.078553+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-03T02:36:27.329751+00:00",
       "badge_id": ""
     },
     {
@@ -144,19 +144,19 @@
     },
     {
       "rank": 18,
+      "steam_id": "76561198360531319",
+      "display_name": "SCOTT_LAROT",
+      "prestige_level": 49,
+      "achieved_at": "2026-09-03T02:37:10.370404+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 19,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 48,
       "achieved_at": "2026-08-26T02:25:12.087594+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 19,
-      "steam_id": "76561198360531319",
-      "display_name": "SCOTT_LAROT",
-      "prestige_level": 48,
-      "achieved_at": "2026-09-02T22:17:20.329413+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 20,
@@ -552,18 +552,18 @@
     },
     {
       "rank": 69,
-      "steam_id": "76561198045755086",
-      "display_name": "JamakaJudd",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-01T08:32:51.885578+00:00",
+      "steam_id": "76561198158890740",
+      "display_name": "[NOC]-Needer",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-03T02:44:19.976164+00:00",
       "badge_id": ""
     },
     {
       "rank": 70,
-      "steam_id": "76561198158890740",
-      "display_name": "[NOC]-Needer",
+      "steam_id": "76561198045755086",
+      "display_name": "JamakaJudd",
       "prestige_level": 18,
-      "achieved_at": "2026-09-02T04:07:56.935609+00:00",
+      "achieved_at": "2026-09-01T08:32:51.885578+00:00",
       "badge_id": ""
     },
     {
