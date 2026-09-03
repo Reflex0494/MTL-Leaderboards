@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T08:29:58.4542443+00:00",
-    "fetched_at": "2026-09-03T08:30:36.971004+00:00",
+    "generated_at": "2026-09-03T08:44:58.4539299+00:00",
+    "fetched_at": "2026-09-03T08:45:44.400139+00:00",
     "total_entries": 470
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 92,
-      "achieved_at": "2026-09-02T17:14:25.96298+00:00",
+      "prestige_level": 93,
+      "achieved_at": "2026-09-03T08:38:26.981935+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561198278205043",
+      "display_name": "XyberBatTV",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-03T08:37:47.778391+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 14,
@@ -647,19 +655,11 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 14,
       "achieved_at": "2026-09-01T15:41:37.451633+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198278205043",
-      "display_name": "XyberBatTV",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-03T08:07:05.56687+00:00",
       "badge_id": ""
     },
     {
