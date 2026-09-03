@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T12:44:58.4537398+00:00",
-    "fetched_at": "2026-09-03T12:45:32.600979+00:00",
+    "generated_at": "2026-09-03T12:59:58.4545863+00:00",
+    "fetched_at": "2026-09-03T13:00:50.161336+00:00",
     "total_entries": 474
   },
   "entries": [
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198040755103",
-      "display_name": "Deadpan",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 11,
+      "achieved_at": "2026-09-03T12:56:16.218707+00:00",
       "badge_id": ""
     }
   ]
