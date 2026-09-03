@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T17:14:58.4540949+00:00",
-    "fetched_at": "2026-09-03T17:15:35.566427+00:00",
+    "generated_at": "2026-09-03T17:29:58.4541966+00:00",
+    "fetched_at": "2026-09-03T17:30:42.575172+00:00",
     "total_entries": 478
   },
   "entries": [
@@ -296,18 +296,18 @@
     },
     {
       "rank": 37,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-30T12:28:27.770058+00:00",
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-03T17:25:50.999152+00:00",
       "badge_id": ""
     },
     {
       "rank": 38,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
       "prestige_level": 32,
-      "achieved_at": "2026-09-02T23:52:48.531945+00:00",
+      "achieved_at": "2026-08-30T12:28:27.770058+00:00",
       "badge_id": ""
     },
     {
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561197994306078",
+      "display_name": "OwenCobs",
+      "prestige_level": 12,
+      "achieved_at": "2026-09-03T17:26:08.436036+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198073010642",
       "display_name": "BzH | TwinKy",
       "prestige_level": 11,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198032083376",
       "display_name": "Smelygoat",
       "prestige_level": 11,
       "achieved_at": "2026-08-27T07:38:55.205992+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198056767250",
-      "display_name": "Dirty Colors",
-      "prestige_level": 11,
-      "achieved_at": "2026-09-01T03:38:49.854082+00:00",
       "badge_id": ""
     }
   ]
