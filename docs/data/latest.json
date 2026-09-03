@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T18:44:58.4550967+00:00",
-    "fetched_at": "2026-09-03T18:45:37.925171+00:00",
+    "generated_at": "2026-09-03T18:59:58.4537645+00:00",
+    "fetched_at": "2026-09-03T19:00:47.640832+00:00",
     "total_entries": 480
   },
   "entries": [
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561198073010642",
-      "display_name": "BzH | TwinKy",
-      "prestige_level": 11,
-      "achieved_at": "2026-08-25T14:24:27.924396+00:00",
+      "steam_id": "76561197994278013",
+      "display_name": "Redemption",
+      "prestige_level": 12,
+      "achieved_at": "2026-09-03T18:55:11.949958+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561198032083376",
-      "display_name": "Smelygoat",
+      "steam_id": "76561198073010642",
+      "display_name": "BzH | TwinKy",
       "prestige_level": 11,
-      "achieved_at": "2026-08-27T07:38:55.205992+00:00",
+      "achieved_at": "2026-08-25T14:24:27.924396+00:00",
       "badge_id": ""
     }
   ]
