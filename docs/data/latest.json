@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T02:14:58.4545773+00:00",
-    "fetched_at": "2026-09-03T02:15:30.483121+00:00",
+    "generated_at": "2026-09-03T02:29:58.4535893+00:00",
+    "fetched_at": "2026-09-03T02:30:38.673467+00:00",
     "total_entries": 466
   },
   "entries": [
@@ -32,19 +32,19 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198020717966",
+      "display_name": "Reflex?",
+      "prestige_level": 79,
+      "achieved_at": "2026-09-03T02:21:31.914414+00:00",
+      "badge_id": "s3_third"
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
       "prestige_level": 78,
       "achieved_at": "2026-09-03T00:01:49.440825+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 5,
-      "steam_id": "76561198020717966",
-      "display_name": "Reflex?",
-      "prestige_level": 78,
-      "achieved_at": "2026-09-03T00:57:44.914451+00:00",
-      "badge_id": "s3_third"
     },
     {
       "rank": 6,
@@ -418,8 +418,8 @@
       "rank": 52,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
-      "prestige_level": 22,
-      "achieved_at": "2026-08-31T23:56:32.827814+00:00",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-03T02:21:55.50612+00:00",
       "badge_id": ""
     },
     {
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561198392306570",
+      "display_name": "Oh Dios Mio",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-03T02:19:02.262793+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 13,
       "achieved_at": "2026-09-02T15:15:32.707307+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561198392306570",
-      "display_name": "Oh Dios Mio",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-03T01:43:38.484342+00:00",
       "badge_id": ""
     },
     {
