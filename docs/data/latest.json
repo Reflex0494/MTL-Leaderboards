@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T00:14:58.4541633+00:00",
-    "fetched_at": "2026-09-03T00:15:34.322069+00:00",
+    "generated_at": "2026-09-03T00:29:58.4533503+00:00",
+    "fetched_at": "2026-09-03T00:30:37.895432+00:00",
     "total_entries": 465
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 68,
-      "achieved_at": "2026-09-02T04:50:43.099537+00:00",
+      "prestige_level": 69,
+      "achieved_at": "2026-09-03T00:29:36.682459+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -394,8 +394,8 @@
       "rank": 49,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-02T00:58:43.008856+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-03T00:26:54.283842+00:00",
       "badge_id": "og"
     },
     {
