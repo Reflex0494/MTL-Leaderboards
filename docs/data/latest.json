@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T14:14:58.454857+00:00",
-    "fetched_at": "2026-09-03T14:15:39.568874+00:00",
+    "generated_at": "2026-09-03T14:29:58.4547076+00:00",
+    "fetched_at": "2026-09-03T14:30:40.324471+00:00",
     "total_entries": 476
   },
   "entries": [
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-03T13:00:59.956762+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-03T14:28:41.289464+00:00",
       "badge_id": ""
     },
     {
