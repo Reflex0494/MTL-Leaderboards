@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T03:44:58.4545449+00:00",
-    "fetched_at": "2026-09-03T03:45:41.398424+00:00",
+    "generated_at": "2026-09-03T03:59:58.4539306+00:00",
+    "fetched_at": "2026-09-03T04:00:47.180680+00:00",
     "total_entries": 468
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 122,
-      "achieved_at": "2026-09-02T23:56:01.49184+00:00",
+      "prestige_level": 123,
+      "achieved_at": "2026-09-03T03:48:50.979743+00:00",
       "badge_id": ""
     },
     {
@@ -288,19 +288,19 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198076913774",
+      "display_name": "Spaceball Trooper",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-03T03:55:32.541555+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
       "achieved_at": "2026-08-30T12:28:27.770058+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561198076913774",
-      "display_name": "Spaceball Trooper",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-02T06:21:47.694564+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 38,
