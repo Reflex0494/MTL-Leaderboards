@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T10:29:58.4571095+00:00",
-    "fetched_at": "2026-09-03T10:30:40.493610+00:00",
+    "generated_at": "2026-09-03T10:44:58.4542646+00:00",
+    "fetched_at": "2026-09-03T10:45:31.448136+00:00",
     "total_entries": 472
   },
   "entries": [
@@ -184,6 +184,14 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-03T10:35:07.083375+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 24,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -191,19 +199,11 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 40,
       "achieved_at": "2026-09-02T03:04:21.680852+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-02T13:09:21.346792+00:00",
       "badge_id": ""
     },
     {
