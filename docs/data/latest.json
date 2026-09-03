@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T03:14:58.4541463+00:00",
-    "fetched_at": "2026-09-03T03:15:29.951021+00:00",
+    "generated_at": "2026-09-03T03:29:58.4544495+00:00",
+    "fetched_at": "2026-09-03T03:30:44.332233+00:00",
     "total_entries": 468
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 71,
-      "achieved_at": "2026-09-03T02:32:10.836936+00:00",
+      "prestige_level": 72,
+      "achieved_at": "2026-09-03T03:26:39.887407+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -88,18 +88,18 @@
     },
     {
       "rank": 11,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 56,
-      "achieved_at": "2026-09-02T09:11:09.268832+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 57,
+      "achieved_at": "2026-09-03T03:28:51.688462+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 12,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
       "prestige_level": 56,
-      "achieved_at": "2026-09-03T02:43:20.660764+00:00",
+      "achieved_at": "2026-09-02T09:11:09.268832+00:00",
       "badge_id": "s3_top21"
     },
     {
