@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T04:14:58.4546298+00:00",
-    "fetched_at": "2026-09-03T04:15:34.722287+00:00",
+    "generated_at": "2026-09-03T04:29:58.4562549+00:00",
+    "fetched_at": "2026-09-03T04:30:43.445547+00:00",
     "total_entries": 468
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 72,
-      "achieved_at": "2026-09-03T03:26:39.887407+00:00",
+      "prestige_level": 73,
+      "achieved_at": "2026-09-03T04:17:47.705418+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198063303488",
+      "display_name": "Kweekus",
+      "prestige_level": 11,
+      "achieved_at": "2026-09-03T04:17:26.861488+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198040755103",
       "display_name": "Deadpan",
       "prestige_level": 10,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198012435781",
       "display_name": "Bing",
       "prestige_level": 10,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561197994306078",
       "display_name": "OwenCobs",
       "prestige_level": 10,
       "achieved_at": "2026-08-31T06:55:14.991903+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561197974919498",
-      "display_name": "BSOD",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-31T21:05:32.739133+00:00",
       "badge_id": ""
     }
   ]
