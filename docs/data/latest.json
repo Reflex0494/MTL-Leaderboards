@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T04:59:58.4545424+00:00",
-    "fetched_at": "2026-09-03T05:00:47.179783+00:00",
+    "generated_at": "2026-09-03T05:14:58.452924+00:00",
+    "fetched_at": "2026-09-03T05:15:33.651472+00:00",
     "total_entries": 468
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 73,
-      "achieved_at": "2026-09-03T04:17:47.705418+00:00",
+      "prestige_level": 74,
+      "achieved_at": "2026-09-03T05:01:27.28186+00:00",
       "badge_id": "s3_top21"
     },
     {
