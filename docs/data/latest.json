@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T16:29:58.453931+00:00",
-    "fetched_at": "2026-09-03T16:30:42.193475+00:00",
+    "generated_at": "2026-09-03T16:44:58.4540371+00:00",
+    "fetched_at": "2026-09-03T16:45:36.122607+00:00",
     "total_entries": 478
   },
   "entries": [
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-03T16:43:56.018216+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -495,19 +503,11 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
       "achieved_at": "2026-09-01T01:30:20.298864+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-01T13:57:54.951363+00:00",
       "badge_id": ""
     },
     {
