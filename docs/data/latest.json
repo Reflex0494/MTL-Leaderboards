@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T22:59:58.453583+00:00",
-    "fetched_at": "2026-09-03T23:00:49.291027+00:00",
+    "generated_at": "2026-09-03T23:14:58.4540406+00:00",
+    "fetched_at": "2026-09-03T23:15:28.772322+00:00",
     "total_entries": 486
   },
   "entries": [
@@ -112,18 +112,18 @@
     },
     {
       "rank": 14,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-03T03:33:03.199275+00:00",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 55,
+      "achieved_at": "2026-09-03T23:06:13.71819+00:00",
       "badge_id": ""
     },
     {
       "rank": 15,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
       "prestige_level": 54,
-      "achieved_at": "2026-09-03T16:53:39.972697+00:00",
+      "achieved_at": "2026-09-03T03:33:03.199275+00:00",
       "badge_id": ""
     },
     {
@@ -410,8 +410,8 @@
       "rank": 51,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-02T15:52:34.153799+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-03T23:13:43.747241+00:00",
       "badge_id": "og"
     },
     {
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561198020771315",
+      "display_name": "Captain",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-03T23:09:06.277358+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 63,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -503,19 +511,11 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
       "achieved_at": "2026-09-01T01:30:20.298864+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561198020771315",
-      "display_name": "Captain",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-03T21:54:11.862553+00:00",
       "badge_id": ""
     },
     {
