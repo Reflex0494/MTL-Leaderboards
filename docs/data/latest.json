@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T07:29:58.454121+00:00",
-    "fetched_at": "2026-09-03T07:30:40.023911+00:00",
+    "generated_at": "2026-09-03T07:44:58.4532652+00:00",
+    "fetched_at": "2026-09-03T07:45:31.536664+00:00",
     "total_entries": 470
   },
   "entries": [
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198278205043",
+      "display_name": "XyberBatTV",
+      "prestige_level": 13,
+      "achieved_at": "2026-09-03T07:37:26.101772+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -695,7 +703,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561199544449927",
       "display_name": "momomnds",
       "prestige_level": 12,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 12,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198150626390",
       "display_name": "Bearbee",
       "prestige_level": 12,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198031518186",
       "display_name": "Kody",
       "prestige_level": 12,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561199124755171",
       "display_name": "itz_NOXIS",
       "prestige_level": 12,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 12,
@@ -751,19 +759,11 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198108875079",
       "display_name": "puff",
       "prestige_level": 12,
       "achieved_at": "2026-09-01T08:36:49.542333+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 95,
-      "steam_id": "76561198278205043",
-      "display_name": "XyberBatTV",
-      "prestige_level": 12,
-      "achieved_at": "2026-09-03T07:14:07.800585+00:00",
       "badge_id": ""
     },
     {
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561198040755103",
-      "display_name": "Deadpan",
-      "prestige_level": 10,
-      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 11,
+      "achieved_at": "2026-09-03T07:37:06.840298+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561198012435781",
-      "display_name": "Bing",
+      "steam_id": "76561198040755103",
+      "display_name": "Deadpan",
       "prestige_level": 10,
-      "achieved_at": "2026-08-29T17:10:00.868191+00:00",
+      "achieved_at": "2026-08-20T21:05:07.148219+00:00",
       "badge_id": ""
     }
   ]
