@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T13:44:58.4535145+00:00",
-    "fetched_at": "2026-09-03T13:45:33.329792+00:00",
-    "total_entries": 474
+    "generated_at": "2026-09-03T13:59:58.4534981+00:00",
+    "fetched_at": "2026-09-03T14:00:55.665127+00:00",
+    "total_entries": 475
   },
   "entries": [
     {
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 94,
-      "achieved_at": "2026-09-03T10:21:02.458597+00:00",
+      "prestige_level": 95,
+      "achieved_at": "2026-09-03T13:50:35.469424+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-01T21:55:47.734502+00:00",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-03T13:55:17.381059+00:00",
       "badge_id": ""
     },
     {
