@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T17:59:58.4537066+00:00",
-    "fetched_at": "2026-09-03T18:00:50.120704+00:00",
-    "total_entries": 479
+    "generated_at": "2026-09-03T18:14:58.4539218+00:00",
+    "fetched_at": "2026-09-03T18:15:37.029105+00:00",
+    "total_entries": 480
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 124,
-      "achieved_at": "2026-09-03T08:13:01.338328+00:00",
+      "prestige_level": 125,
+      "achieved_at": "2026-09-03T18:13:31.470631+00:00",
       "badge_id": ""
     },
     {
@@ -696,6 +696,14 @@
     },
     {
       "rank": 87,
+      "steam_id": "76561197994306078",
+      "display_name": "OwenCobs",
+      "prestige_level": 13,
+      "achieved_at": "2026-09-03T18:05:21.833005+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 88,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -703,7 +711,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561199544449927",
       "display_name": "momomnds",
       "prestige_level": 12,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 12,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198150626390",
       "display_name": "Bearbee",
       "prestige_level": 12,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198031518186",
       "display_name": "Kody",
       "prestige_level": 12,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561199124755171",
       "display_name": "itz_NOXIS",
       "prestige_level": 12,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 12,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198108875079",
       "display_name": "puff",
       "prestige_level": 12,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 12,
@@ -775,19 +783,11 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 12,
       "achieved_at": "2026-09-03T15:19:40.559122+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561197994306078",
-      "display_name": "OwenCobs",
-      "prestige_level": 12,
-      "achieved_at": "2026-09-03T17:26:08.436036+00:00",
       "badge_id": ""
     },
     {
