@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T19:44:58.4533306+00:00",
-    "fetched_at": "2026-09-03T19:45:33.510800+00:00",
+    "generated_at": "2026-09-03T19:59:58.45387+00:00",
+    "fetched_at": "2026-09-03T20:00:48.431585+00:00",
     "total_entries": 483
   },
   "entries": [
@@ -264,19 +264,19 @@
     },
     {
       "rank": 33,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-03T19:51:45.007875+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 34,
       "steam_id": "76561198076913774",
       "display_name": "Spaceball Trooper",
       "prestige_level": 34,
       "achieved_at": "2026-09-03T04:33:32.311198+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-03T17:01:27.188473+00:00",
-      "badge_id": ""
     },
     {
       "rank": 35,
@@ -648,18 +648,18 @@
     },
     {
       "rank": 81,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 14,
-      "achieved_at": "2026-08-31T22:12:55.564233+00:00",
+      "steam_id": "76561198255262863",
+      "display_name": "< blank >",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-03T19:46:51.29504+00:00",
       "badge_id": ""
     },
     {
       "rank": 82,
-      "steam_id": "76561198255262863",
-      "display_name": "< blank >",
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
       "prestige_level": 14,
-      "achieved_at": "2026-09-01T15:41:37.451633+00:00",
+      "achieved_at": "2026-08-31T22:12:55.564233+00:00",
       "badge_id": ""
     },
     {
