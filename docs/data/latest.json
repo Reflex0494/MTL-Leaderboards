@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-03T01:59:58.4535969+00:00",
-    "fetched_at": "2026-09-03T02:00:46.702853+00:00",
+    "generated_at": "2026-09-03T02:14:58.4545773+00:00",
+    "fetched_at": "2026-09-03T02:15:30.483121+00:00",
     "total_entries": 466
   },
   "entries": [
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-03T02:02:41.513906+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -471,7 +479,7 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 20,
@@ -479,7 +487,7 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -487,7 +495,7 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198075415107",
       "display_name": "Lowtab prime",
       "prestige_level": 20,
@@ -495,20 +503,12 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 20,
       "achieved_at": "2026-09-02T01:02:25.122072+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-03T01:31:32.222695+00:00",
-      "badge_id": ""
     },
     {
       "rank": 64,
