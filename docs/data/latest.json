@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T15:44:58.4538089+00:00",
-    "fetched_at": "2026-09-04T15:45:29.285009+00:00",
-    "total_entries": 499
+    "generated_at": "2026-09-04T15:59:58.4545497+00:00",
+    "fetched_at": "2026-09-04T16:00:46.908074+00:00",
+    "total_entries": 500
   },
   "entries": [
     {
@@ -394,8 +394,8 @@
       "rank": 49,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-04T00:49:34.506437+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-04T15:52:06.762263+00:00",
       "badge_id": "og"
     },
     {
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561198044012775",
+      "display_name": "Mondays",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-04T15:58:44.389612+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -719,19 +727,11 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
       "achieved_at": "2026-08-31T06:44:37.854997+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 91,
-      "steam_id": "76561198044012775",
-      "display_name": "Mondays",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-02T15:15:32.707307+00:00",
       "badge_id": ""
     },
     {
