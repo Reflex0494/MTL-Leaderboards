@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T16:59:58.4528571+00:00",
-    "fetched_at": "2026-09-04T17:00:52.248221+00:00",
+    "generated_at": "2026-09-04T17:14:58.4539369+00:00",
+    "fetched_at": "2026-09-04T17:15:31.640309+00:00",
     "total_entries": 502
   },
   "entries": [
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-04T17:14:34.698189+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 51,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 24,
@@ -407,7 +415,7 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 24,
@@ -415,7 +423,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -423,20 +431,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
       "achieved_at": "2026-09-04T09:47:25.257518+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-04T16:04:31.943912+00:00",
-      "badge_id": ""
     },
     {
       "rank": 55,
