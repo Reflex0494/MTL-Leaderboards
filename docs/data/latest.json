@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T20:59:58.4550412+00:00",
-    "fetched_at": "2026-09-04T21:00:46.727291+00:00",
-    "total_entries": 505
+    "generated_at": "2026-09-04T21:14:58.4541016+00:00",
+    "fetched_at": "2026-09-04T21:15:32.093761+00:00",
+    "total_entries": 506
   },
   "entries": [
     {
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 62,
-      "achieved_at": "2026-09-02T19:26:55.721565+00:00",
+      "prestige_level": 63,
+      "achieved_at": "2026-09-04T21:08:05.668519+00:00",
       "badge_id": ""
     },
     {
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-04T21:06:33.765844+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 15,
@@ -679,19 +687,11 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
       "prestige_level": 15,
       "achieved_at": "2026-09-04T09:51:20.608771+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-04T13:49:47.13938+00:00",
       "badge_id": ""
     },
     {
