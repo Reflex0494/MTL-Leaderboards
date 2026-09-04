@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T12:14:58.4530882+00:00",
-    "fetched_at": "2026-09-04T12:15:37.883335+00:00",
+    "generated_at": "2026-09-04T12:29:58.4531848+00:00",
+    "fetched_at": "2026-09-04T12:30:38.486263+00:00",
     "total_entries": 498
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 130,
-      "achieved_at": "2026-09-03T20:33:24.483496+00:00",
+      "prestige_level": 131,
+      "achieved_at": "2026-09-04T12:26:27.873536+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-04T10:57:32.59676+00:00",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-04T12:18:36.13383+00:00",
       "badge_id": ""
     },
     {
