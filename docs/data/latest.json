@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T21:59:58.4541168+00:00",
-    "fetched_at": "2026-09-04T22:00:46.584467+00:00",
+    "generated_at": "2026-09-04T22:14:58.4559787+00:00",
+    "fetched_at": "2026-09-04T22:15:30.194339+00:00",
     "total_entries": 506
   },
   "entries": [
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-04T22:00:54.217551+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -631,7 +639,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 16,
@@ -647,19 +655,11 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 16,
       "achieved_at": "2026-09-04T21:06:33.765844+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-04T21:41:52.169495+00:00",
       "badge_id": ""
     },
     {
