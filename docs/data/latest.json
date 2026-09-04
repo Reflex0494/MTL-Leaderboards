@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T23:29:58.4532209+00:00",
-    "fetched_at": "2026-09-04T23:30:37.708053+00:00",
+    "generated_at": "2026-09-04T23:44:58.453428+00:00",
+    "fetched_at": "2026-09-04T23:45:29.620866+00:00",
     "total_entries": 506
   },
   "entries": [
@@ -248,18 +248,18 @@
     },
     {
       "rank": 31,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-04T23:33:11.594364+00:00",
       "badge_id": ""
     },
     {
       "rank": 32,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 37,
-      "achieved_at": "2026-09-04T20:52:28.888962+00:00",
+      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
     },
     {
