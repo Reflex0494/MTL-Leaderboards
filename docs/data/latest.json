@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T16:29:58.4543651+00:00",
-    "fetched_at": "2026-09-04T16:30:39.970095+00:00",
+    "generated_at": "2026-09-04T16:44:58.4541053+00:00",
+    "fetched_at": "2026-09-04T16:45:31.534755+00:00",
     "total_entries": 500
   },
   "entries": [
@@ -696,6 +696,14 @@
     },
     {
       "rank": 87,
+      "steam_id": "76561198009437251",
+      "display_name": "ellie",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-04T16:44:03.574758+00:00",
+      "badge_id": "mod"
+    },
+    {
+      "rank": 88,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 14,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 14,
@@ -711,20 +719,12 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 14,
       "achieved_at": "2026-09-04T15:58:44.389612+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 90,
-      "steam_id": "76561198009437251",
-      "display_name": "ellie",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-04T16:12:44.090134+00:00",
-      "badge_id": "mod"
     },
     {
       "rank": 91,
