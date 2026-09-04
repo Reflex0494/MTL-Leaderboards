@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T17:44:58.45358+00:00",
-    "fetched_at": "2026-09-04T17:45:29.579511+00:00",
-    "total_entries": 503
+    "generated_at": "2026-09-04T17:59:58.453834+00:00",
+    "fetched_at": "2026-09-04T18:00:45.455557+00:00",
+    "total_entries": 504
   },
   "entries": [
     {
@@ -272,18 +272,18 @@
     },
     {
       "rank": 34,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-03T19:51:45.007875+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-04T17:50:02.07997+00:00",
       "badge_id": ""
     },
     {
       "rank": 35,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
       "prestige_level": 35,
-      "achieved_at": "2026-09-04T14:01:46.905594+00:00",
+      "achieved_at": "2026-09-03T19:51:45.007875+00:00",
       "badge_id": ""
     },
     {
