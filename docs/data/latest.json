@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T11:59:58.4549932+00:00",
-    "fetched_at": "2026-09-04T12:00:49.537835+00:00",
+    "generated_at": "2026-09-04T12:14:58.4530882+00:00",
+    "fetched_at": "2026-09-04T12:15:37.883335+00:00",
     "total_entries": 498
   },
   "entries": [
@@ -292,7 +292,7 @@
       "display_name": "N-ko",
       "prestige_level": 34,
       "achieved_at": "2026-09-04T11:32:41.604495+00:00",
-      "badge_id": "og"
+      "badge_id": ""
     },
     {
       "rank": 37,
