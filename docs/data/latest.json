@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T21:44:58.4532736+00:00",
-    "fetched_at": "2026-09-04T21:45:28.789775+00:00",
+    "generated_at": "2026-09-04T21:59:58.4541168+00:00",
+    "fetched_at": "2026-09-04T22:00:46.584467+00:00",
     "total_entries": 506
   },
   "entries": [
@@ -72,18 +72,18 @@
     },
     {
       "rank": 9,
-      "steam_id": "76561198014380387",
-      "display_name": "GaliiLoN",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
+      "prestige_level": 64,
+      "achieved_at": "2026-09-04T21:49:06.407623+00:00",
       "badge_id": ""
     },
     {
       "rank": 10,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
+      "steam_id": "76561198014380387",
+      "display_name": "GaliiLoN",
       "prestige_level": 63,
-      "achieved_at": "2026-09-04T21:08:05.668519+00:00",
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
@@ -282,8 +282,8 @@
       "rank": 35,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-03T19:51:45.007875+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-04T21:53:14.873063+00:00",
       "badge_id": ""
     },
     {
