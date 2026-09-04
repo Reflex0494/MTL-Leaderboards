@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T05:29:58.4538856+00:00",
-    "fetched_at": "2026-09-04T05:30:37.529124+00:00",
+    "generated_at": "2026-09-04T05:44:58.4549546+00:00",
+    "fetched_at": "2026-09-04T05:45:28.769092+00:00",
     "total_entries": 493
   },
   "entries": [
@@ -88,18 +88,18 @@
     },
     {
       "rank": 11,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 58,
-      "achieved_at": "2026-09-03T07:01:28.00855+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 59,
+      "achieved_at": "2026-09-04T05:33:16.010038+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 12,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
       "prestige_level": 58,
-      "achieved_at": "2026-09-04T04:43:32.672249+00:00",
+      "achieved_at": "2026-09-03T07:01:28.00855+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561198063303488",
+      "display_name": "Kweekus",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-04T05:43:17.969958+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 15,
       "achieved_at": "2026-09-03T23:26:08.483322+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561198063303488",
-      "display_name": "Kweekus",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-04T02:50:47.764933+00:00",
       "badge_id": ""
     },
     {
