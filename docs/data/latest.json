@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T13:44:58.4547894+00:00",
-    "fetched_at": "2026-09-04T13:45:30.265645+00:00",
+    "generated_at": "2026-09-04T13:59:58.4549187+00:00",
+    "fetched_at": "2026-09-04T14:00:48.385591+00:00",
     "total_entries": 498
   },
   "entries": [
@@ -160,18 +160,18 @@
     },
     {
       "rank": 20,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-04T13:55:00.035213+00:00",
       "badge_id": ""
     },
     {
       "rank": 21,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-04T12:18:36.13383+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-04T13:49:47.13938+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 14,
@@ -695,19 +703,11 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 14,
       "achieved_at": "2026-09-03T22:01:01.418981+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 88,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-04T13:20:43.559737+00:00",
       "badge_id": ""
     },
     {
