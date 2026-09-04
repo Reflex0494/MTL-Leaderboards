@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T03:44:58.4543932+00:00",
-    "fetched_at": "2026-09-04T03:45:31.566360+00:00",
+    "generated_at": "2026-09-04T03:59:58.4530202+00:00",
+    "fetched_at": "2026-09-04T04:00:48.593888+00:00",
     "total_entries": 491
   },
   "entries": [
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198392306570",
+      "display_name": "Oh Dios Mio",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-04T03:56:15.215661+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -615,7 +623,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 16,
       "achieved_at": "2026-09-03T20:24:14.8126+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198392306570",
-      "display_name": "Oh Dios Mio",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-04T03:20:51.089665+00:00",
       "badge_id": ""
     },
     {
