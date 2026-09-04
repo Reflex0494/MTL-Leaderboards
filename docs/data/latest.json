@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T22:44:58.4541777+00:00",
-    "fetched_at": "2026-09-04T22:45:29.814125+00:00",
+    "generated_at": "2026-09-04T22:59:58.4554201+00:00",
+    "fetched_at": "2026-09-04T23:00:47.736763+00:00",
     "total_entries": 506
   },
   "entries": [
@@ -264,6 +264,14 @@
     },
     {
       "rank": 33,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 37,
+      "achieved_at": "2026-09-04T22:48:24.734184+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 34,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 36,
@@ -271,20 +279,12 @@
       "badge_id": ""
     },
     {
-      "rank": 34,
+      "rank": 35,
       "steam_id": "76561198076913774",
       "display_name": "Powdered Toast Man",
       "prestige_level": 36,
       "achieved_at": "2026-09-04T05:14:01.532392+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-04T21:53:14.873063+00:00",
-      "badge_id": ""
     },
     {
       "rank": 36,
