@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T19:29:58.4547473+00:00",
-    "fetched_at": "2026-09-04T19:30:37.359412+00:00",
+    "generated_at": "2026-09-04T19:44:58.4538833+00:00",
+    "fetched_at": "2026-09-04T19:45:30.813635+00:00",
     "total_entries": 504
   },
   "entries": [
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198255262863",
+      "display_name": "< blank >",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-04T19:36:50.809566+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 17,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 17,
@@ -599,19 +607,11 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 17,
       "achieved_at": "2026-09-04T03:56:15.215661+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561198255262863",
-      "display_name": "< blank >",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-04T15:44:01.324681+00:00",
       "badge_id": ""
     },
     {
