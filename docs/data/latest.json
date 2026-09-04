@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T21:29:58.4531146+00:00",
-    "fetched_at": "2026-09-04T21:30:43.222355+00:00",
+    "generated_at": "2026-09-04T21:44:58.4532736+00:00",
+    "fetched_at": "2026-09-04T21:45:28.789775+00:00",
     "total_entries": 506
   },
   "entries": [
@@ -656,6 +656,14 @@
     },
     {
       "rank": 82,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-04T21:41:52.169495+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 83,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -679,19 +687,11 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 15,
       "achieved_at": "2026-09-03T23:26:08.483322+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-04T09:51:20.608771+00:00",
       "badge_id": ""
     },
     {
