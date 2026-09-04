@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T04:14:58.4553163+00:00",
-    "fetched_at": "2026-09-04T04:15:30.502391+00:00",
+    "generated_at": "2026-09-04T04:29:58.4528677+00:00",
+    "fetched_at": "2026-09-04T04:30:40.054048+00:00",
     "total_entries": 491
   },
   "entries": [
@@ -273,9 +273,9 @@
     {
       "rank": 34,
       "steam_id": "76561198076913774",
-      "display_name": "Spaceball Trooper",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-03T04:33:32.311198+00:00",
+      "display_name": "Powdered Toast Man",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-04T04:21:41.713615+00:00",
       "badge_id": "og"
     },
     {
