@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T22:14:58.4559787+00:00",
-    "fetched_at": "2026-09-04T22:15:30.194339+00:00",
+    "generated_at": "2026-09-04T22:29:58.4544434+00:00",
+    "fetched_at": "2026-09-04T22:30:37.919126+00:00",
     "total_entries": 506
   },
   "entries": [
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-04T22:17:50.21329+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 17,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 17,
@@ -607,19 +615,11 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 17,
       "achieved_at": "2026-09-04T03:56:15.215661+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-04T22:00:54.217551+00:00",
       "badge_id": ""
     },
     {
