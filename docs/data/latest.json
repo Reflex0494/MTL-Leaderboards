@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T01:45:58.4551337+00:00",
-    "fetched_at": "2026-09-04T01:46:04.177621+00:00",
+    "generated_at": "2026-09-04T01:59:58.4531853+00:00",
+    "fetched_at": "2026-09-04T02:00:49.498654+00:00",
     "total_entries": 489
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 75,
-      "achieved_at": "2026-09-03T05:39:18.797462+00:00",
+      "prestige_level": 76,
+      "achieved_at": "2026-09-04T01:50:22.171329+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198063303488",
+      "display_name": "Kweekus",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-04T01:51:30.51714+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
@@ -703,19 +711,11 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 13,
       "achieved_at": "2026-09-02T15:15:32.707307+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 89,
-      "steam_id": "76561198063303488",
-      "display_name": "Kweekus",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-03T05:16:31.203916+00:00",
       "badge_id": ""
     },
     {
