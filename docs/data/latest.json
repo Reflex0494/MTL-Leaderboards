@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T09:14:58.4539704+00:00",
-    "fetched_at": "2026-09-04T09:15:30.630636+00:00",
-    "total_entries": 495
+    "generated_at": "2026-09-04T09:29:58.4533849+00:00",
+    "fetched_at": "2026-09-04T09:30:37.554095+00:00",
+    "total_entries": 496
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 127,
-      "achieved_at": "2026-09-04T04:49:30.948932+00:00",
+      "prestige_level": 128,
+      "achieved_at": "2026-09-04T09:24:02.303764+00:00",
       "badge_id": ""
     },
     {
@@ -696,6 +696,14 @@
     },
     {
       "rank": 87,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-04T09:23:11.887167+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 88,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 13,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561197994306078",
       "display_name": "OwenCobs",
       "prestige_level": 13,
@@ -727,19 +735,11 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 13,
       "achieved_at": "2026-09-03T21:53:36.980691+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 92,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-04T08:33:54.863954+00:00",
       "badge_id": ""
     },
     {
