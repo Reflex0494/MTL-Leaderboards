@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T16:14:58.45429+00:00",
-    "fetched_at": "2026-09-04T16:15:34.624467+00:00",
+    "generated_at": "2026-09-04T16:29:58.4543651+00:00",
+    "fetched_at": "2026-09-04T16:30:39.970095+00:00",
     "total_entries": 500
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 66,
-      "achieved_at": "2026-09-03T13:43:06.867077+00:00",
+      "prestige_level": 67,
+      "achieved_at": "2026-09-04T16:27:44.55098+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-03T21:12:47.014758+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-04T16:20:27.922906+00:00",
       "badge_id": ""
     },
     {
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-04T16:21:46.595308+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -231,20 +239,12 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
       "achieved_at": "2026-09-03T08:07:01.167447+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-04T02:45:12.491666+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 31,
