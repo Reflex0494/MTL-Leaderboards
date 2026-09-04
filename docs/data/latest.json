@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T13:59:58.4549187+00:00",
-    "fetched_at": "2026-09-04T14:00:48.385591+00:00",
-    "total_entries": 498
+    "generated_at": "2026-09-04T14:14:58.4543389+00:00",
+    "fetched_at": "2026-09-04T14:15:28.965862+00:00",
+    "total_entries": 499
   },
   "entries": [
     {
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-04T14:01:46.905594+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
       "prestige_level": 34,
@@ -287,19 +295,11 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 34,
       "achieved_at": "2026-09-04T11:32:41.604495+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-04T13:25:58.348688+00:00",
       "badge_id": ""
     },
     {
