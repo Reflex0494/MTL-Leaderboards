@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T04:29:58.4528677+00:00",
-    "fetched_at": "2026-09-04T04:30:40.054048+00:00",
+    "generated_at": "2026-09-04T04:44:58.4533444+00:00",
+    "fetched_at": "2026-09-04T04:45:27.779480+00:00",
     "total_entries": 491
   },
   "entries": [
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-03T03:28:51.688462+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-04T04:43:32.672249+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -112,18 +112,18 @@
     },
     {
       "rank": 14,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-03T23:06:13.71819+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 56,
+      "achieved_at": "2026-09-04T04:43:46.766029+00:00",
       "badge_id": ""
     },
     {
       "rank": 15,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
       "prestige_level": 55,
-      "achieved_at": "2026-09-04T03:21:20.647957+00:00",
+      "achieved_at": "2026-09-03T23:06:13.71819+00:00",
       "badge_id": ""
     },
     {
