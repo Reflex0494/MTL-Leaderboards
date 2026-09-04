@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T14:29:58.4545548+00:00",
-    "fetched_at": "2026-09-04T14:30:39.504749+00:00",
+    "generated_at": "2026-09-04T14:44:58.4538012+00:00",
+    "fetched_at": "2026-09-04T14:45:34.260575+00:00",
     "total_entries": 499
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 80,
-      "achieved_at": "2026-09-04T00:01:17.191041+00:00",
+      "prestige_level": 81,
+      "achieved_at": "2026-09-04T14:30:38.290296+00:00",
       "badge_id": ""
     },
     {
