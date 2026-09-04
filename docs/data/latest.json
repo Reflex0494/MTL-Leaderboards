@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T23:14:58.4542969+00:00",
-    "fetched_at": "2026-09-04T23:15:30.996631+00:00",
+    "generated_at": "2026-09-04T23:29:58.4532209+00:00",
+    "fetched_at": "2026-09-04T23:30:37.708053+00:00",
     "total_entries": 506
   },
   "entries": [
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-04T23:15:06.004082+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -471,19 +479,11 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
       "achieved_at": "2026-08-29T19:09:34.516942+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 60,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-03T02:02:41.513906+00:00",
       "badge_id": ""
     },
     {
