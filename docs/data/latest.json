@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-04T20:44:58.4543689+00:00",
-    "fetched_at": "2026-09-04T20:45:32.637539+00:00",
-    "total_entries": 504
+    "generated_at": "2026-09-04T20:59:58.4550412+00:00",
+    "fetched_at": "2026-09-04T21:00:46.727291+00:00",
+    "total_entries": 505
   },
   "entries": [
     {
@@ -256,6 +256,14 @@
     },
     {
       "rank": 32,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 37,
+      "achieved_at": "2026-09-04T20:52:28.888962+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 33,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 36,
@@ -263,20 +271,12 @@
       "badge_id": ""
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561198076913774",
       "display_name": "Powdered Toast Man",
       "prestige_level": 36,
       "achieved_at": "2026-09-04T05:14:01.532392+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-04T17:50:02.07997+00:00",
-      "badge_id": ""
     },
     {
       "rank": 35,
@@ -300,7 +300,7 @@
       "display_name": "N-ko",
       "prestige_level": 34,
       "achieved_at": "2026-09-04T11:32:41.604495+00:00",
-      "badge_id": ""
+      "badge_id": "og"
     },
     {
       "rank": 38,
