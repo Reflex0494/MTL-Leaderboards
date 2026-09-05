@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T04:59:58.4544515+00:00",
-    "fetched_at": "2026-09-05T05:00:49.585151+00:00",
-    "total_entries": 515
+    "generated_at": "2026-09-05T05:14:58.4548927+00:00",
+    "fetched_at": "2026-09-05T05:15:30.682099+00:00",
+    "total_entries": 516
   },
   "entries": [
     {
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 82,
-      "achieved_at": "2026-09-04T13:04:51.069581+00:00",
+      "prestige_level": 83,
+      "achieved_at": "2026-09-05T05:11:47.18865+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-05T03:59:49.064088+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-05T05:04:52.502066+00:00",
       "badge_id": ""
     },
     {
