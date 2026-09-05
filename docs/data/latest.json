@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T04:14:58.4550577+00:00",
-    "fetched_at": "2026-09-05T04:15:28.310018+00:00",
+    "generated_at": "2026-09-05T04:29:58.4542247+00:00",
+    "fetched_at": "2026-09-05T04:30:38.390078+00:00",
     "total_entries": 515
   },
   "entries": [
@@ -218,8 +218,8 @@
       "rank": 27,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 39,
-      "achieved_at": "2026-08-29T04:29:02.724993+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-05T04:17:45.567356+00:00",
       "badge_id": ""
     },
     {
@@ -768,6 +768,14 @@
     },
     {
       "rank": 96,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 13,
+      "achieved_at": "2026-09-05T04:16:50.815813+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 97,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -775,7 +783,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561199544449927",
       "display_name": "momomnds",
       "prestige_level": 12,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 12,
       "achieved_at": "2026-08-28T06:35:26.303068+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198150626390",
-      "display_name": "Bearbee",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-28T23:06:39.209372+00:00",
       "badge_id": ""
     }
   ]
