@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T00:14:58.4527511+00:00",
-    "fetched_at": "2026-09-05T00:15:32.744414+00:00",
-    "total_entries": 509
+    "generated_at": "2026-09-05T00:29:58.4542249+00:00",
+    "fetched_at": "2026-09-05T00:30:39.260132+00:00",
+    "total_entries": 510
   },
   "entries": [
     {
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-04T05:33:16.010038+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-05T00:18:49.001265+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198341901597",
+      "display_name": "SeanLoh",
+      "prestige_level": 13,
+      "achieved_at": "2026-09-05T00:15:57.658914+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -767,7 +775,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561199544449927",
       "display_name": "momomnds",
       "prestige_level": 12,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198313821276",
       "display_name": "adamkates23",
       "prestige_level": 12,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198150626390",
       "display_name": "Bearbee",
       "prestige_level": 12,
       "achieved_at": "2026-08-28T23:06:39.209372+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198031518186",
-      "display_name": "Kody",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-29T18:55:40.587634+00:00",
       "badge_id": ""
     }
   ]
