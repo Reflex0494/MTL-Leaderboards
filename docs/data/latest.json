@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T10:59:58.4548181+00:00",
-    "fetched_at": "2026-09-05T11:00:46.808641+00:00",
+    "generated_at": "2026-09-05T11:14:58.4545542+00:00",
+    "fetched_at": "2026-09-05T11:15:29.423804+00:00",
     "total_entries": 521
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 72,
-      "achieved_at": "2026-09-05T10:30:29.210465+00:00",
+      "prestige_level": 73,
+      "achieved_at": "2026-09-05T11:06:33.635361+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-05T11:11:36.195217+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -647,7 +655,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
@@ -655,19 +663,11 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 16,
       "achieved_at": "2026-09-04T05:43:17.969958+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-04T21:06:33.765844+00:00",
       "badge_id": ""
     },
     {
