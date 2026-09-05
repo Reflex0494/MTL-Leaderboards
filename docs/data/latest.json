@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T00:59:58.4548328+00:00",
-    "fetched_at": "2026-09-05T01:00:55.485954+00:00",
-    "total_entries": 511
+    "generated_at": "2026-09-05T01:14:58.4546576+00:00",
+    "fetched_at": "2026-09-05T01:15:27.422583+00:00",
+    "total_entries": 513
   },
   "entries": [
     {
@@ -88,18 +88,18 @@
     },
     {
       "rank": 11,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 60,
-      "achieved_at": "2026-09-04T09:14:36.168742+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 61,
+      "achieved_at": "2026-09-05T01:09:44.422623+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 12,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
       "prestige_level": 60,
-      "achieved_at": "2026-09-05T00:18:49.001265+00:00",
+      "achieved_at": "2026-09-04T09:14:36.168742+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -664,6 +664,14 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-05T01:14:46.435904+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 15,
@@ -695,20 +703,12 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 15,
       "achieved_at": "2026-09-04T16:44:03.574758+00:00",
       "badge_id": "mod"
-    },
-    {
-      "rank": 88,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-04T23:46:37.617526+00:00",
-      "badge_id": ""
     },
     {
       "rank": 89,
