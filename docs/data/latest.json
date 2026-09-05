@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T03:44:58.454537+00:00",
-    "fetched_at": "2026-09-05T03:45:29.743643+00:00",
+    "generated_at": "2026-09-05T03:59:58.4554483+00:00",
+    "fetched_at": "2026-09-05T04:00:45.518662+00:00",
     "total_entries": 515
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 56,
-      "achieved_at": "2026-09-04T04:43:46.766029+00:00",
+      "prestige_level": 57,
+      "achieved_at": "2026-09-05T03:59:49.064088+00:00",
       "badge_id": ""
     },
     {
@@ -192,18 +192,18 @@
     },
     {
       "rank": 24,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-05T03:46:12.405248+00:00",
       "badge_id": ""
     },
     {
       "rank": 25,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 40,
-      "achieved_at": "2026-09-02T03:04:21.680852+00:00",
+      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
       "badge_id": ""
     },
     {
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198392306570",
+      "display_name": "Oh Dios Mio",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-05T03:46:49.558061+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -519,19 +527,11 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 20,
       "achieved_at": "2026-09-04T03:02:55.440642+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198392306570",
-      "display_name": "Oh Dios Mio",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-05T03:12:16.649612+00:00",
       "badge_id": ""
     },
     {
