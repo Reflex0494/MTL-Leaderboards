@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T13:14:58.4548273+00:00",
-    "fetched_at": "2026-09-05T13:15:28.093892+00:00",
+    "generated_at": "2026-09-05T13:29:58.454006+00:00",
+    "fetched_at": "2026-09-05T13:30:39.286343+00:00",
     "total_entries": 522
   },
   "entries": [
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-05T09:55:31.405548+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-05T13:18:34.981581+00:00",
       "badge_id": ""
     },
     {
@@ -176,18 +176,18 @@
     },
     {
       "rank": 22,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-05T13:28:23.725019+00:00",
       "badge_id": ""
     },
     {
       "rank": 23,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-09-05T12:50:51.612936+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-05T13:18:32.196876+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -567,19 +575,11 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
       "achieved_at": "2026-09-02T17:49:31.834652+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-05T12:32:58.441062+00:00",
       "badge_id": ""
     },
     {
