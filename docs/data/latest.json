@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T10:14:58.4537917+00:00",
-    "fetched_at": "2026-09-05T10:15:30.506653+00:00",
-    "total_entries": 518
+    "generated_at": "2026-09-05T10:29:58.45493+00:00",
+    "fetched_at": "2026-09-05T10:30:36.661301+00:00",
+    "total_entries": 519
   },
   "entries": [
     {
@@ -200,6 +200,14 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-05T10:28:19.657271+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 26,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -207,7 +215,7 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
       "prestige_level": 40,
@@ -215,19 +223,11 @@
       "badge_id": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 40,
       "achieved_at": "2026-09-05T04:17:45.567356+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-05T07:44:42.676471+00:00",
       "badge_id": ""
     },
     {
@@ -290,8 +290,8 @@
       "rank": 36,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-04T21:19:38.801605+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-05T10:27:48.978264+00:00",
       "badge_id": "og"
     },
     {
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561197994306078",
+      "display_name": "OwenCobs",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-05T10:22:01.207572+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 14,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 14,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 14,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 14,
@@ -743,19 +751,11 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 14,
       "achieved_at": "2026-09-05T08:42:17.512239+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 94,
-      "steam_id": "76561197994306078",
-      "display_name": "OwenCobs",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-05T10:05:05.750456+00:00",
       "badge_id": ""
     },
     {
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561197994278013",
+      "display_name": "Redemption",
+      "prestige_level": 13,
+      "achieved_at": "2026-09-05T10:29:11.630436+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
@@ -791,19 +799,11 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198128626580",
       "display_name": "perfectly balanced entity",
       "prestige_level": 12,
       "achieved_at": "2026-08-23T08:58:40.750421+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561199544449927",
-      "display_name": "momomnds",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-26T22:40:35.063415+00:00",
       "badge_id": ""
     }
   ]
