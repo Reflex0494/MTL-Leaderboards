@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T02:29:58.4547493+00:00",
-    "fetched_at": "2026-09-05T02:30:40.973715+00:00",
+    "generated_at": "2026-09-05T02:44:58.4547571+00:00",
+    "fetched_at": "2026-09-05T02:45:30.082215+00:00",
     "total_entries": 514
   },
   "entries": [
@@ -560,6 +560,14 @@
     },
     {
       "rank": 70,
+      "steam_id": "76561198392306570",
+      "display_name": "Oh Dios Mio",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-05T02:36:32.819776+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 71,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 18,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 18,
@@ -583,19 +591,11 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
       "prestige_level": 18,
       "achieved_at": "2026-09-04T22:17:50.21329+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198392306570",
-      "display_name": "Oh Dios Mio",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-05T01:50:41.68019+00:00",
       "badge_id": ""
     },
     {
