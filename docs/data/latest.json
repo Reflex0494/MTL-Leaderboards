@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T14:29:58.4545118+00:00",
-    "fetched_at": "2026-09-05T14:30:39.180976+00:00",
+    "generated_at": "2026-09-05T14:44:58.4534029+00:00",
+    "fetched_at": "2026-09-05T14:45:27.992616+00:00",
     "total_entries": 523
   },
   "entries": [
@@ -480,6 +480,14 @@
     },
     {
       "rank": 60,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-05T14:41:52.350013+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 61,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -487,7 +495,7 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -495,7 +503,7 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 21,
@@ -503,19 +511,11 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T03:46:49.558061+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-05T14:01:35.161665+00:00",
       "badge_id": ""
     },
     {
