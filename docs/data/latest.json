@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T23:14:58.4549961+00:00",
-    "fetched_at": "2026-09-05T23:15:29.149502+00:00",
+    "generated_at": "2026-09-05T23:29:58.4536593+00:00",
+    "fetched_at": "2026-09-05T23:30:43.821226+00:00",
     "total_entries": 540
   },
   "entries": [
@@ -728,6 +728,14 @@
     },
     {
       "rank": 91,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-05T23:19:49.085016+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 92,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 14,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 14,
@@ -743,19 +751,11 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 14,
       "achieved_at": "2026-09-05T08:06:09.422747+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 94,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-05T08:42:17.512239+00:00",
       "badge_id": ""
     },
     {
