@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T18:14:58.4553265+00:00",
-    "fetched_at": "2026-09-05T18:15:28.047076+00:00",
+    "generated_at": "2026-09-05T18:29:58.4543085+00:00",
+    "fetched_at": "2026-09-05T18:30:40.970700+00:00",
     "total_entries": 529
   },
   "entries": [
@@ -194,8 +194,8 @@
       "rank": 24,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-03T18:41:01.070721+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-05T18:21:22.143647+00:00",
       "badge_id": ""
     },
     {
@@ -608,18 +608,18 @@
     },
     {
       "rank": 76,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561198003470101",
+      "display_name": "Eichi",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-05T18:29:48.358099+00:00",
       "badge_id": ""
     },
     {
       "rank": 77,
-      "steam_id": "76561198003470101",
-      "display_name": "Eichi",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-09-02T17:14:02.958659+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     },
     {
