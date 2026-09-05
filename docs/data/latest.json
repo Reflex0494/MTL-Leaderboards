@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T03:59:58.4554483+00:00",
-    "fetched_at": "2026-09-05T04:00:45.518662+00:00",
+    "generated_at": "2026-09-05T04:14:58.4550577+00:00",
+    "fetched_at": "2026-09-05T04:15:28.310018+00:00",
     "total_entries": 515
   },
   "entries": [
@@ -440,18 +440,18 @@
     },
     {
       "rank": 55,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-03T02:21:55.50612+00:00",
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-05T04:11:19.922328+00:00",
       "badge_id": ""
     },
     {
       "rank": 56,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
       "prestige_level": 23,
-      "achieved_at": "2026-09-05T03:16:38.110948+00:00",
+      "achieved_at": "2026-09-03T02:21:55.50612+00:00",
       "badge_id": ""
     },
     {
