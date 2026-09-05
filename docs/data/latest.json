@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T00:44:58.4547651+00:00",
-    "fetched_at": "2026-09-05T00:45:28.348458+00:00",
-    "total_entries": 510
+    "generated_at": "2026-09-05T00:59:58.4548328+00:00",
+    "fetched_at": "2026-09-05T01:00:55.485954+00:00",
+    "total_entries": 511
   },
   "entries": [
     {
@@ -208,6 +208,14 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-05T00:45:53.687539+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 27,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 39,
@@ -215,7 +223,7 @@
       "badge_id": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 39,
@@ -223,20 +231,12 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 39,
       "achieved_at": "2026-09-04T16:21:46.595308+00:00",
       "badge_id": "s2_second"
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-05T00:00:46.816502+00:00",
-      "badge_id": ""
     },
     {
       "rank": 30,
@@ -728,6 +728,14 @@
     },
     {
       "rank": 91,
+      "steam_id": "76561198341901597",
+      "display_name": "SeanLoh",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-05T00:54:03.38151+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 92,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561197994306078",
       "display_name": "OwenCobs",
       "prestige_level": 13,
@@ -751,19 +759,11 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 13,
       "achieved_at": "2026-09-03T21:53:36.980691+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 95,
-      "steam_id": "76561198341901597",
-      "display_name": "SeanLoh",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-05T00:15:57.658914+00:00",
       "badge_id": ""
     },
     {
