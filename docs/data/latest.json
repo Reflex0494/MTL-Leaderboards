@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T13:59:58.4534981+00:00",
-    "fetched_at": "2026-09-05T14:00:43.317626+00:00",
+    "generated_at": "2026-09-05T14:14:58.4545342+00:00",
+    "fetched_at": "2026-09-05T14:15:27.231136+00:00",
     "total_entries": 522
   },
   "entries": [
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-05T14:01:35.161665+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 65,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 20,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 20,
@@ -543,19 +551,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
       "prestige_level": 20,
       "achieved_at": "2026-09-05T07:46:56.918733+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-05T13:18:32.196876+00:00",
       "badge_id": ""
     },
     {
