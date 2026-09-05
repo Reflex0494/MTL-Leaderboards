@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T11:29:58.4547027+00:00",
-    "fetched_at": "2026-09-05T11:30:36.837402+00:00",
+    "generated_at": "2026-09-05T11:44:58.4535795+00:00",
+    "fetched_at": "2026-09-05T11:45:28.295800+00:00",
     "total_entries": 521
   },
   "entries": [
@@ -402,8 +402,8 @@
       "rank": 50,
       "steam_id": "76561198075415107",
       "display_name": "Lowtab prime",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-04T17:14:34.698189+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-05T11:33:55.933945+00:00",
       "badge_id": ""
     },
     {
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-05T11:43:19.135745+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 76,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 17,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 17,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 17,
       "achieved_at": "2026-09-05T01:43:52.796518+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-05T11:11:36.195217+00:00",
       "badge_id": ""
     },
     {
