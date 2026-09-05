@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T15:29:58.4530322+00:00",
-    "fetched_at": "2026-09-05T15:30:40.426465+00:00",
+    "generated_at": "2026-09-05T15:44:58.4540532+00:00",
+    "fetched_at": "2026-09-05T15:45:28.619303+00:00",
     "total_entries": 524
   },
   "entries": [
@@ -360,6 +360,14 @@
     },
     {
       "rank": 45,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-05T15:44:45.443382+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 46,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 27,
@@ -367,7 +375,7 @@
       "badge_id": ""
     },
     {
-      "rank": 46,
+      "rank": 47,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 27,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 27,
       "achieved_at": "2026-09-05T00:43:52.679746+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-05T06:14:43.095264+00:00",
       "badge_id": "og"
     },
     {
