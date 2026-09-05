@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T09:29:58.4547307+00:00",
-    "fetched_at": "2026-09-05T09:30:37.518350+00:00",
+    "generated_at": "2026-09-05T09:44:58.4545011+00:00",
+    "fetched_at": "2026-09-05T09:45:28.394237+00:00",
     "total_entries": 518
   },
   "entries": [
@@ -88,18 +88,18 @@
     },
     {
       "rank": 11,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 61,
-      "achieved_at": "2026-09-05T01:09:44.422623+00:00",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 62,
+      "achieved_at": "2026-09-05T09:33:49.710037+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 12,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
       "prestige_level": 61,
-      "achieved_at": "2026-09-05T08:51:22.713084+00:00",
+      "achieved_at": "2026-09-05T01:09:44.422623+00:00",
       "badge_id": "s3_top21"
     },
     {
