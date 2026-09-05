@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T16:14:58.4531268+00:00",
-    "fetched_at": "2026-09-05T16:15:34.662109+00:00",
-    "total_entries": 524
+    "generated_at": "2026-09-05T16:29:58.4539308+00:00",
+    "fetched_at": "2026-09-05T16:30:38.573760+00:00",
+    "total_entries": 526
   },
   "entries": [
     {
@@ -792,19 +792,19 @@
     },
     {
       "rank": 99,
+      "steam_id": "76561198062274098",
+      "display_name": "Kimmeh",
+      "prestige_level": 13,
+      "achieved_at": "2026-09-05T16:25:53.452584+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 100,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 12,
       "achieved_at": "2026-08-20T23:04:38.315822+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198128626580",
-      "display_name": "perfectly balanced entity",
-      "prestige_level": 12,
-      "achieved_at": "2026-08-23T08:58:40.750421+00:00",
-      "badge_id": ""
     }
   ]
 }
