@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T18:44:58.4531684+00:00",
-    "fetched_at": "2026-09-05T18:45:27.263855+00:00",
+    "generated_at": "2026-09-05T18:59:58.4547368+00:00",
+    "fetched_at": "2026-09-05T19:00:47.208598+00:00",
     "total_entries": 530
   },
   "entries": [
@@ -392,18 +392,18 @@
     },
     {
       "rank": 49,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-05T18:54:12.824059+00:00",
       "badge_id": ""
     },
     {
       "rank": 50,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
       "prestige_level": 26,
-      "achieved_at": "2026-09-05T11:33:55.933945+00:00",
+      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
     },
     {
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198158890740",
+      "display_name": "[NOC]-Needer",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-05T18:51:22.96767+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 20,
@@ -527,19 +535,11 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
       "achieved_at": "2026-09-01T01:30:20.298864+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198158890740",
-      "display_name": "[NOC]-Needer",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-04T03:02:55.440642+00:00",
       "badge_id": ""
     },
     {
