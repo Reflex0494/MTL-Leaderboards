@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T20:29:58.4534654+00:00",
-    "fetched_at": "2026-09-05T20:30:36.651196+00:00",
+    "generated_at": "2026-09-05T20:44:58.4542527+00:00",
+    "fetched_at": "2026-09-05T20:45:29.058141+00:00",
     "total_entries": 531
   },
   "entries": [
@@ -410,8 +410,8 @@
       "rank": 51,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-05T17:49:57.184398+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-05T20:44:56.578305+00:00",
       "badge_id": "og"
     },
     {
