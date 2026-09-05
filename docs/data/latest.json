@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T17:59:58.4537594+00:00",
-    "fetched_at": "2026-09-05T18:00:44.468129+00:00",
-    "total_entries": 528
+    "generated_at": "2026-09-05T18:14:58.4553265+00:00",
+    "fetched_at": "2026-09-05T18:15:28.047076+00:00",
+    "total_entries": 529
   },
   "entries": [
     {
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-05T18:09:23.902091+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -471,20 +479,12 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 22,
       "achieved_at": "2026-09-03T06:15:56.734794+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 60,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-05T14:41:52.350013+00:00",
-      "badge_id": ""
     },
     {
       "rank": 61,
