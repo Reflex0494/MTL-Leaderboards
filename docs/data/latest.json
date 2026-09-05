@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T12:29:58.4539213+00:00",
-    "fetched_at": "2026-09-05T12:30:38.010878+00:00",
+    "generated_at": "2026-09-05T12:44:58.4543295+00:00",
+    "fetched_at": "2026-09-05T12:45:28.427565+00:00",
     "total_entries": 522
   },
   "entries": [
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-05T12:32:58.441062+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 18,
@@ -591,19 +599,11 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 18,
       "achieved_at": "2026-09-04T19:36:50.809566+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-05T11:43:19.135745+00:00",
       "badge_id": ""
     },
     {
