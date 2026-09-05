@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T01:29:58.4544454+00:00",
-    "fetched_at": "2026-09-05T01:30:40.060610+00:00",
-    "total_entries": 513
+    "generated_at": "2026-09-05T01:44:58.4547738+00:00",
+    "fetched_at": "2026-09-05T01:45:28.079218+00:00",
+    "total_entries": 514
   },
   "entries": [
     {
@@ -256,6 +256,14 @@
     },
     {
       "rank": 32,
+      "steam_id": "76561198076913774",
+      "display_name": "Powdered Toast Man",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-05T01:31:52.421142+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 33,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -263,20 +271,12 @@
       "badge_id": ""
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 37,
       "achieved_at": "2026-09-04T22:48:24.734184+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561198076913774",
-      "display_name": "Powdered Toast Man",
-      "prestige_level": 37,
-      "achieved_at": "2026-09-05T00:35:06.874906+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 35,
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-05T01:43:52.796518+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -639,7 +647,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 16,
@@ -655,19 +663,11 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 16,
       "achieved_at": "2026-09-04T21:06:33.765844+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-05T01:14:46.435904+00:00",
       "badge_id": ""
     },
     {
