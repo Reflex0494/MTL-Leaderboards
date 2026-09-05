@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T18:59:58.4547368+00:00",
-    "fetched_at": "2026-09-05T19:00:47.208598+00:00",
+    "generated_at": "2026-09-05T19:14:58.4523412+00:00",
+    "fetched_at": "2026-09-05T19:15:27.217693+00:00",
     "total_entries": 530
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 65,
-      "achieved_at": "2026-09-05T18:31:03.426168+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-09-05T19:14:54.477675+00:00",
       "badge_id": ""
     },
     {
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-03T18:44:04.392511+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-05T19:10:50.920386+00:00",
       "badge_id": ""
     },
     {
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-05T19:01:12.312357+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 23,
@@ -455,19 +463,11 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 23,
       "achieved_at": "2026-09-05T12:19:00.284819+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-05T18:09:23.902091+00:00",
       "badge_id": ""
     },
     {
