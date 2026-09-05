@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T19:14:58.4523412+00:00",
-    "fetched_at": "2026-09-05T19:15:27.217693+00:00",
+    "generated_at": "2026-09-05T19:29:58.4536209+00:00",
+    "fetched_at": "2026-09-05T19:30:36.547038+00:00",
     "total_entries": 530
   },
   "entries": [
@@ -184,18 +184,18 @@
     },
     {
       "rank": 23,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-05T19:26:07.805234+00:00",
       "badge_id": ""
     },
     {
       "rank": 24,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-09-05T18:21:22.143647+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
@@ -264,18 +264,18 @@
     },
     {
       "rank": 33,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-05T19:22:30.278765+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 37,
-      "achieved_at": "2026-09-04T22:48:24.734184+00:00",
+      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
     },
     {
