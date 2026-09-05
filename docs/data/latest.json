@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T19:59:58.4554655+00:00",
-    "fetched_at": "2026-09-05T20:00:42.112514+00:00",
+    "generated_at": "2026-09-05T20:14:58.4532091+00:00",
+    "fetched_at": "2026-09-05T20:15:28.781096+00:00",
     "total_entries": 531
   },
   "entries": [
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-05T19:10:50.920386+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-05T20:12:38.189868+00:00",
       "badge_id": ""
     },
     {
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-05T20:10:36.315847+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 24,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -431,7 +439,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -439,19 +447,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 24,
       "achieved_at": "2026-09-05T04:11:19.922328+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-05T19:01:12.312357+00:00",
       "badge_id": ""
     },
     {
