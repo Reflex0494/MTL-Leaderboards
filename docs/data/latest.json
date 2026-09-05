@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T03:14:58.4535873+00:00",
-    "fetched_at": "2026-09-05T03:15:29.377403+00:00",
+    "generated_at": "2026-09-05T03:29:58.4531398+00:00",
+    "fetched_at": "2026-09-05T03:30:39.003664+00:00",
     "total_entries": 515
   },
   "entries": [
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-05T03:16:38.110948+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -455,20 +463,12 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 22,
       "achieved_at": "2026-09-03T06:15:56.734794+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-04T23:15:06.004082+00:00",
-      "badge_id": ""
     },
     {
       "rank": 59,
