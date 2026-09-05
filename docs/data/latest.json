@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T00:29:58.4542249+00:00",
-    "fetched_at": "2026-09-05T00:30:39.260132+00:00",
+    "generated_at": "2026-09-05T00:44:58.4547651+00:00",
+    "fetched_at": "2026-09-05T00:45:28.348458+00:00",
     "total_entries": 510
   },
   "entries": [
@@ -272,19 +272,19 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561198076913774",
+      "display_name": "Powdered Toast Man",
+      "prestige_level": 37,
+      "achieved_at": "2026-09-05T00:35:06.874906+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 35,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 36,
       "achieved_at": "2026-08-31T15:08:08.962896+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561198076913774",
-      "display_name": "Powdered Toast Man",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-04T05:14:01.532392+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 36,
@@ -376,19 +376,19 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-05T00:43:52.679746+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
       "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-04T00:33:58.311865+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 49,
