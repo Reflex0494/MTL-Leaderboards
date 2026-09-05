@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T08:29:58.453571+00:00",
-    "fetched_at": "2026-09-05T08:30:48.702929+00:00",
-    "total_entries": 517
+    "generated_at": "2026-09-05T08:44:58.455224+00:00",
+    "fetched_at": "2026-09-05T08:45:29.618581+00:00",
+    "total_entries": 518
   },
   "entries": [
     {
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-05T08:42:17.512239+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561197994306078",
       "display_name": "OwenCobs",
       "prestige_level": 13,
@@ -767,19 +775,11 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 13,
       "achieved_at": "2026-09-03T21:53:36.980691+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 97,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-05T04:16:50.815813+00:00",
       "badge_id": ""
     },
     {
