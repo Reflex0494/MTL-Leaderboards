@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T07:14:58.4536334+00:00",
-    "fetched_at": "2026-09-05T07:15:29.115660+00:00",
+    "generated_at": "2026-09-05T07:29:58.4536031+00:00",
+    "fetched_at": "2026-09-05T07:30:37.186543+00:00",
     "total_entries": 517
   },
   "entries": [
@@ -568,6 +568,14 @@
     },
     {
       "rank": 71,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-05T07:15:58.536344+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 72,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 18,
@@ -583,19 +591,11 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 18,
       "achieved_at": "2026-09-04T19:36:50.809566+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-04T22:17:50.21329+00:00",
       "badge_id": ""
     },
     {
