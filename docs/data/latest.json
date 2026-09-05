@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T12:44:58.4543295+00:00",
-    "fetched_at": "2026-09-05T12:45:28.427565+00:00",
+    "generated_at": "2026-09-05T12:59:58.455602+00:00",
+    "fetched_at": "2026-09-05T13:00:44.069049+00:00",
     "total_entries": 522
   },
   "entries": [
@@ -184,6 +184,14 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-05T12:50:51.612936+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 24,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 42,
@@ -191,19 +199,11 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 42,
       "achieved_at": "2026-09-05T04:47:52.38662+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-05T11:56:03.899304+00:00",
       "badge_id": ""
     },
     {
