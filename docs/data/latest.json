@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T11:14:58.4543528+00:00",
-    "fetched_at": "2026-09-06T11:15:29.060553+00:00",
+    "generated_at": "2026-09-06T11:29:58.4541787+00:00",
+    "fetched_at": "2026-09-06T11:30:37.286382+00:00",
     "total_entries": 550
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 78,
-      "achieved_at": "2026-09-06T09:54:20.925362+00:00",
+      "prestige_level": 79,
+      "achieved_at": "2026-09-06T11:28:00.993377+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 60,
-      "achieved_at": "2026-09-05T13:18:34.981581+00:00",
+      "prestige_level": 61,
+      "achieved_at": "2026-09-06T11:15:07.416066+00:00",
       "badge_id": ""
     },
     {
