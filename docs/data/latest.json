@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T21:44:58.4538465+00:00",
-    "fetched_at": "2026-09-06T21:45:28.120020+00:00",
-    "total_entries": 567
+    "generated_at": "2026-09-06T21:59:58.4552953+00:00",
+    "fetched_at": "2026-09-06T22:00:48.522908+00:00",
+    "total_entries": 568
   },
   "entries": [
     {
@@ -616,18 +616,18 @@
     },
     {
       "rank": 77,
-      "steam_id": "76561198045755086",
-      "display_name": "JamakaJudd",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-01T08:32:51.885578+00:00",
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-06T21:51:09.478946+00:00",
       "badge_id": ""
     },
     {
       "rank": 78,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
+      "steam_id": "76561198045755086",
+      "display_name": "JamakaJudd",
       "prestige_level": 18,
-      "achieved_at": "2026-09-04T03:22:52.553507+00:00",
+      "achieved_at": "2026-09-01T08:32:51.885578+00:00",
       "badge_id": ""
     },
     {
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-06T21:55:21.912621+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 17,
@@ -655,19 +663,11 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 17,
       "achieved_at": "2026-09-06T01:28:24.789317+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-06T20:59:40.118392+00:00",
       "badge_id": ""
     },
     {
