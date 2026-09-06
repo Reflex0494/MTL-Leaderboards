@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T00:59:58.4538437+00:00",
-    "fetched_at": "2026-09-06T01:00:46.351286+00:00",
+    "generated_at": "2026-09-06T01:14:58.4529858+00:00",
+    "fetched_at": "2026-09-06T01:15:29.449751+00:00",
     "total_entries": 543
   },
   "entries": [
@@ -232,6 +232,14 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-06T01:00:34.726147+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 30,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 39,
@@ -239,19 +247,11 @@
       "badge_id": "s2_second"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 39,
       "achieved_at": "2026-09-05T21:46:16.595814+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 31,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-06T00:15:32.658218+00:00",
       "badge_id": ""
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198062274098",
+      "display_name": "Kimmeh",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-06T01:14:07.79115+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 13,
@@ -783,19 +791,11 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561197994278013",
       "display_name": "Redemption",
       "prestige_level": 13,
       "achieved_at": "2026-09-05T10:29:11.630436+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561198062274098",
-      "display_name": "Kimmeh",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-05T16:25:53.452584+00:00",
       "badge_id": ""
     },
     {
