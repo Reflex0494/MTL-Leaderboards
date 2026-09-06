@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T06:29:58.4544349+00:00",
-    "fetched_at": "2026-09-06T06:30:38.800491+00:00",
+    "generated_at": "2026-09-06T06:44:58.4578365+00:00",
+    "fetched_at": "2026-09-06T06:45:29.451137+00:00",
     "total_entries": 548
   },
   "entries": [
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-06T06:32:37.699497+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 20,
@@ -559,19 +567,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 20,
       "achieved_at": "2026-09-05T14:52:43.987319+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-06T05:09:31.867737+00:00",
       "badge_id": ""
     },
     {
