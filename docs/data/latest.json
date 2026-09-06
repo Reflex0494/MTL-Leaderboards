@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T15:29:58.4546629+00:00",
-    "fetched_at": "2026-09-06T15:30:37.629878+00:00",
+    "generated_at": "2026-09-06T15:44:58.4536778+00:00",
+    "fetched_at": "2026-09-06T15:45:27.669422+00:00",
     "total_entries": 556
   },
   "entries": [
@@ -248,19 +248,19 @@
     },
     {
       "rank": 31,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-06T15:40:36.625441+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 32,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 39,
       "achieved_at": "2026-09-04T16:21:46.595308+00:00",
       "badge_id": "s2_second"
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-05T21:46:16.595814+00:00",
-      "badge_id": ""
     },
     {
       "rank": 33,
