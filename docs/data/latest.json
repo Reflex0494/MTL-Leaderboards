@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T15:44:58.4536778+00:00",
-    "fetched_at": "2026-09-06T15:45:27.669422+00:00",
+    "generated_at": "2026-09-06T15:59:58.4550368+00:00",
+    "fetched_at": "2026-09-06T16:00:45.555391+00:00",
     "total_entries": 556
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 134,
-      "achieved_at": "2026-09-06T09:26:29.380995+00:00",
+      "prestige_level": 135,
+      "achieved_at": "2026-09-06T15:57:17.647222+00:00",
       "badge_id": ""
     },
     {
@@ -168,18 +168,18 @@
     },
     {
       "rank": 21,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-06T15:59:09.019402+00:00",
       "badge_id": ""
     },
     {
       "rank": 22,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-06T12:53:03.063052+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
