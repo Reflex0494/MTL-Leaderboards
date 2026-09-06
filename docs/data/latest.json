@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T19:59:58.4540829+00:00",
-    "fetched_at": "2026-09-06T20:00:44.471575+00:00",
+    "generated_at": "2026-09-06T20:14:58.4543925+00:00",
+    "fetched_at": "2026-09-06T20:15:30.583967+00:00",
     "total_entries": 565
   },
   "entries": [
@@ -752,6 +752,22 @@
     },
     {
       "rank": 94,
+      "steam_id": "76561198967280376",
+      "display_name": "CriiMix",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-06T20:10:11.011645+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 95,
+      "steam_id": "76561197997792368",
+      "display_name": "Kick/JPWarrant",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-06T20:13:53.444197+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 14,
@@ -759,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 97,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 14,
@@ -767,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 98,
       "steam_id": "76561198062274098",
       "display_name": "Kimmeh",
       "prestige_level": 14,
@@ -775,27 +791,11 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 99,
       "steam_id": "76561198801139746",
       "display_name": "st00pid",
       "prestige_level": 14,
       "achieved_at": "2026-09-06T17:46:00.086372+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561198967280376",
-      "display_name": "CriiMix",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-06T19:43:02.107404+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561197997792368",
-      "display_name": "Kick/JPWarrant",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-06T19:46:40.924806+00:00",
       "badge_id": ""
     },
     {
