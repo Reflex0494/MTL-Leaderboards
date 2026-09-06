@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T23:14:58.4533945+00:00",
-    "fetched_at": "2026-09-06T23:15:27.427469+00:00",
+    "generated_at": "2026-09-06T23:29:58.453814+00:00",
+    "fetched_at": "2026-09-06T23:30:39.042228+00:00",
     "total_entries": 571
   },
   "entries": [
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198063303488",
+      "display_name": "Kweekus",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-06T23:22:03.895423+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 19,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 19,
       "achieved_at": "2026-09-06T21:51:09.478946+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198063303488",
-      "display_name": "Kweekus",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-06T22:36:32.15947+00:00",
       "badge_id": ""
     },
     {
@@ -704,6 +704,14 @@
     },
     {
       "rank": 88,
+      "steam_id": "76561198979808101",
+      "display_name": "yeee",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-06T23:24:42.639259+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 89,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 15,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561197994306078",
       "display_name": "OwenCobs",
       "prestige_level": 15,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198121764312",
       "display_name": "Bunchi",
       "prestige_level": 15,
@@ -751,7 +759,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198967280376",
       "display_name": "CriiMix",
       "prestige_level": 15,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561197997792368",
       "display_name": "Kick/JPWarrant",
       "prestige_level": 15,
@@ -767,19 +775,11 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
-      "steam_id": "76561198979808101",
-      "display_name": "yeee",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-06T22:42:12.015079+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 97,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-03T22:01:01.418981+00:00",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-06T23:22:07.936822+00:00",
       "badge_id": ""
     },
     {
