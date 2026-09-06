@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T17:45:58.4540041+00:00",
-    "fetched_at": "2026-09-06T17:46:05.991280+00:00",
+    "generated_at": "2026-09-06T17:59:58.4547044+00:00",
+    "fetched_at": "2026-09-06T18:00:50.945725+00:00",
     "total_entries": 563
   },
   "entries": [
@@ -184,18 +184,18 @@
     },
     {
       "rank": 23,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-06T03:20:08.585581+00:00",
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-06T17:53:11.02503+00:00",
       "badge_id": ""
     },
     {
       "rank": 24,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
       "prestige_level": 45,
-      "achieved_at": "2026-09-06T04:34:30.068093+00:00",
+      "achieved_at": "2026-09-06T03:20:08.585581+00:00",
       "badge_id": ""
     },
     {
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198801139746",
+      "display_name": "st00pid",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-06T17:46:00.086372+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561197974919498",
       "display_name": "BSOD",
       "prestige_level": 13,
       "achieved_at": "2026-09-03T21:53:36.980691+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561197994278013",
-      "display_name": "Redemption",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-05T10:29:11.630436+00:00",
       "badge_id": ""
     }
   ]
