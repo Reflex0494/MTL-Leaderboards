@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-05T23:59:58.4535035+00:00",
-    "fetched_at": "2026-09-06T00:00:50.043539+00:00",
+    "generated_at": "2026-09-06T00:14:58.4541414+00:00",
+    "fetched_at": "2026-09-06T00:15:31.473921+00:00",
     "total_entries": 541
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 79,
-      "achieved_at": "2026-09-05T02:50:54.356778+00:00",
+      "prestige_level": 80,
+      "achieved_at": "2026-09-06T00:06:54.003377+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-06T00:02:58.848904+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 17,
       "achieved_at": "2026-09-03T07:51:11.036092+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-05T01:43:52.796518+00:00",
       "badge_id": ""
     },
     {
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-06T00:06:15.353526+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 14,
@@ -743,19 +751,11 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 14,
       "achieved_at": "2026-09-04T15:58:44.389612+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 94,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-05T08:06:09.422747+00:00",
       "badge_id": ""
     },
     {
