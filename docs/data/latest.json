@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T20:44:58.4542505+00:00",
-    "fetched_at": "2026-09-06T20:45:28.587958+00:00",
-    "total_entries": 565
+    "generated_at": "2026-09-06T20:59:58.4543191+00:00",
+    "fetched_at": "2026-09-06T21:00:46.465085+00:00",
+    "total_entries": 566
   },
   "entries": [
     {
@@ -408,19 +408,19 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-06T20:57:03.086037+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
       "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-05T20:44:56.578305+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 53,
@@ -664,6 +664,14 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-06T20:59:40.118392+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -679,19 +687,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
       "achieved_at": "2026-09-03T10:02:00.773751+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-06T00:36:29.383637+00:00",
       "badge_id": ""
     },
     {
