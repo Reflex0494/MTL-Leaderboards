@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T16:44:58.4536746+00:00",
-    "fetched_at": "2026-09-06T16:45:29.492041+00:00",
-    "total_entries": 559
+    "generated_at": "2026-09-06T16:59:58.4544596+00:00",
+    "fetched_at": "2026-09-06T17:00:45.444357+00:00",
+    "total_entries": 562
   },
   "entries": [
     {
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-06T16:46:35.240371+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 51,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -407,20 +415,12 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 26,
       "achieved_at": "2026-09-05T20:44:56.578305+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-06T10:53:16.365549+00:00",
-      "badge_id": ""
     },
     {
       "rank": 53,
