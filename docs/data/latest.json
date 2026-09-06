@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T19:29:58.4536102+00:00",
-    "fetched_at": "2026-09-06T19:30:38.134769+00:00",
-    "total_entries": 563
+    "generated_at": "2026-09-06T19:44:58.4550818+00:00",
+    "fetched_at": "2026-09-06T19:45:28.965694+00:00",
+    "total_entries": 564
   },
   "entries": [
     {
@@ -88,6 +88,14 @@
     },
     {
       "rank": 11,
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
+      "prestige_level": 64,
+      "achieved_at": "2026-09-06T19:35:40.266573+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 12,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
       "prestige_level": 63,
@@ -95,20 +103,12 @@
       "badge_id": ""
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 63,
       "achieved_at": "2026-09-06T02:08:27.242313+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 13,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
-      "prestige_level": 63,
-      "achieved_at": "2026-09-06T17:22:45.555377+00:00",
-      "badge_id": ""
     },
     {
       "rank": 14,
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198967280376",
+      "display_name": "CriiMix",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-06T19:43:02.107404+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198143613231",
       "display_name": "Andrew A",
       "prestige_level": 13,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 13,
       "achieved_at": "2026-08-31T06:44:37.854997+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561197974919498",
-      "display_name": "BSOD",
-      "prestige_level": 13,
-      "achieved_at": "2026-09-03T21:53:36.980691+00:00",
       "badge_id": ""
     }
   ]
