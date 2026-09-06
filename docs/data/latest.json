@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T07:29:58.4532927+00:00",
-    "fetched_at": "2026-09-06T07:30:39.157672+00:00",
+    "generated_at": "2026-09-06T07:44:58.453604+00:00",
+    "fetched_at": "2026-09-06T07:45:33.394444+00:00",
     "total_entries": 548
   },
   "entries": [
@@ -608,6 +608,14 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198003470101",
+      "display_name": "Eichi",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-06T07:35:06.955806+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 18,
       "achieved_at": "2026-09-04T03:22:52.553507+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198003470101",
-      "display_name": "Eichi",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-05T18:29:48.358099+00:00",
       "badge_id": ""
     },
     {
