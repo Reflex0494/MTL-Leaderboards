@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T00:14:58.4541414+00:00",
-    "fetched_at": "2026-09-06T00:15:31.473921+00:00",
-    "total_entries": 541
+    "generated_at": "2026-09-06T00:29:58.4540326+00:00",
+    "fetched_at": "2026-09-06T00:30:38.028805+00:00",
+    "total_entries": 542
   },
   "entries": [
     {
@@ -248,6 +248,14 @@
     },
     {
       "rank": 31,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-06T00:15:32.658218+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 32,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -255,7 +263,7 @@
       "badge_id": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -263,20 +271,12 @@
       "badge_id": ""
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561198076913774",
       "display_name": "Powdered Toast Man",
       "prestige_level": 38,
       "achieved_at": "2026-09-05T01:31:52.421142+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-05T23:41:06.154775+00:00",
-      "badge_id": ""
     },
     {
       "rank": 35,
@@ -376,19 +376,19 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-06T00:19:05.066531+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 27,
       "achieved_at": "2026-09-03T00:41:00.91897+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-05T00:43:52.679746+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 49,
@@ -672,6 +672,22 @@
     },
     {
       "rank": 84,
+      "steam_id": "76561198341901597",
+      "display_name": "SeanLoh",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-06T00:21:08.368133+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 85,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-06T00:28:05.192207+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 86,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -679,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 87,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -687,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 88,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -695,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 89,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 15,
@@ -703,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 90,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 15,
@@ -711,27 +727,11 @@
       "badge_id": "mod"
     },
     {
-      "rank": 89,
+      "rank": 91,
       "steam_id": "76561197994306078",
       "display_name": "OwenCobs",
       "prestige_level": 15,
       "achieved_at": "2026-09-05T10:22:01.207572+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 90,
-      "steam_id": "76561198341901597",
-      "display_name": "SeanLoh",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-05T13:38:10.751918+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 91,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-05T23:19:49.085016+00:00",
       "badge_id": ""
     },
     {
