@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T00:29:58.4540326+00:00",
-    "fetched_at": "2026-09-06T00:30:38.028805+00:00",
+    "generated_at": "2026-09-06T00:44:58.4538906+00:00",
+    "fetched_at": "2026-09-06T00:45:27.533814+00:00",
     "total_entries": 542
   },
   "entries": [
@@ -202,8 +202,8 @@
       "rank": 25,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-05T04:47:52.38662+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-06T00:30:58.038049+00:00",
       "badge_id": ""
     },
     {
@@ -256,6 +256,14 @@
     },
     {
       "rank": 32,
+      "steam_id": "76561198076913774",
+      "display_name": "Dr. Zed",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-06T00:39:50.399839+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 33,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -263,20 +271,12 @@
       "badge_id": ""
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
       "achieved_at": "2026-09-03T08:07:01.167447+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561198076913774",
-      "display_name": "Powdered Toast Man",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-05T01:31:52.421142+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 35,
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-06T00:34:50.850873+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 18,
@@ -607,19 +615,11 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 18,
       "achieved_at": "2026-09-05T18:29:48.358099+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-06T00:02:58.848904+00:00",
       "badge_id": ""
     },
     {
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-06T00:36:29.383637+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 15,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 15,
@@ -727,19 +735,11 @@
       "badge_id": "mod"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561197994306078",
       "display_name": "OwenCobs",
       "prestige_level": 15,
       "achieved_at": "2026-09-05T10:22:01.207572+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 92,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-06T00:06:15.353526+00:00",
       "badge_id": ""
     },
     {
