@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T01:29:58.4540608+00:00",
-    "fetched_at": "2026-09-06T01:30:36.102968+00:00",
-    "total_entries": 543
+    "generated_at": "2026-09-06T01:44:58.4538744+00:00",
+    "fetched_at": "2026-09-06T01:45:32.718931+00:00",
+    "total_entries": 544
   },
   "entries": [
     {
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 61,
-      "achieved_at": "2026-09-05T01:09:44.422623+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-09-06T01:36:45.243727+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 58,
-      "achieved_at": "2026-09-05T05:04:52.502066+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-09-06T01:42:04.015677+00:00",
       "badge_id": ""
     },
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
-      "prestige_level": 49,
-      "achieved_at": "2026-08-31T04:13:55.471446+00:00",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-06T01:42:20.896175+00:00",
       "badge_id": ""
     },
     {
@@ -192,18 +192,18 @@
     },
     {
       "rank": 24,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-06T01:35:58.282244+00:00",
       "badge_id": ""
     },
     {
       "rank": 25,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-09-06T00:30:58.038049+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561197990084841",
+      "display_name": ".vistalu",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-06T01:38:14.145264+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -335,7 +343,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
@@ -343,19 +351,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 29,
       "achieved_at": "2026-09-03T20:48:57.305922+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561197990084841",
-      "display_name": ".vistalu",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-05T20:28:35.556571+00:00",
       "badge_id": ""
     },
     {
