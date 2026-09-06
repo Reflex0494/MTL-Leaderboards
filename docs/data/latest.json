@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T02:44:58.4544943+00:00",
-    "fetched_at": "2026-09-06T02:45:30.635999+00:00",
+    "generated_at": "2026-09-06T02:59:58.4540734+00:00",
+    "fetched_at": "2026-09-06T03:00:47.395857+00:00",
     "total_entries": 545
   },
   "entries": [
@@ -144,18 +144,18 @@
     },
     {
       "rank": 18,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-05T13:37:17.032764+00:00",
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-06T02:54:37.880632+00:00",
       "badge_id": ""
     },
     {
       "rank": 19,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
       "prestige_level": 50,
-      "achieved_at": "2026-09-06T01:42:20.896175+00:00",
+      "achieved_at": "2026-09-05T13:37:17.032764+00:00",
       "badge_id": ""
     },
     {
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-05T21:32:41.237255+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-06T02:51:15.228988+00:00",
       "badge_id": ""
     },
     {
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561199012821096",
+      "display_name": "Dixon mayaz",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-06T02:46:47.768747+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -495,7 +503,7 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 21,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
@@ -519,19 +527,11 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T18:51:22.96767+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561199012821096",
-      "display_name": "Dixon mayaz",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-06T02:06:48.646617+00:00",
       "badge_id": ""
     },
     {
