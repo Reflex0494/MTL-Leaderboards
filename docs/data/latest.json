@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T21:59:58.4552953+00:00",
-    "fetched_at": "2026-09-06T22:00:48.522908+00:00",
-    "total_entries": 568
+    "generated_at": "2026-09-06T22:14:58.4538214+00:00",
+    "fetched_at": "2026-09-06T22:15:29.331479+00:00",
+    "total_entries": 569
   },
   "entries": [
     {
@@ -232,6 +232,14 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-06T22:04:48.615933+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 30,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -239,19 +247,11 @@
       "badge_id": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 40,
       "achieved_at": "2026-09-05T04:17:45.567356+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 31,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-06T01:00:34.726147+00:00",
       "badge_id": ""
     },
     {
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198143613231",
-      "display_name": "Andrew A",
-      "prestige_level": 13,
-      "achieved_at": "2026-08-31T03:40:50.562557+00:00",
+      "steam_id": "76561198979808101",
+      "display_name": "yeee",
+      "prestige_level": 14,
+      "achieved_at": "2026-09-06T22:06:35.060936+00:00",
       "badge_id": ""
     }
   ]
