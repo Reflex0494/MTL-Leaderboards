@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T09:29:58.4540708+00:00",
-    "fetched_at": "2026-09-06T09:30:36.773519+00:00",
+    "generated_at": "2026-09-06T09:44:58.4547954+00:00",
+    "fetched_at": "2026-09-06T09:45:28.286315+00:00",
     "total_entries": 549
   },
   "entries": [
@@ -80,6 +80,14 @@
     },
     {
       "rank": 10,
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 64,
+      "achieved_at": "2026-09-06T09:36:21.827679+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 11,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
       "prestige_level": 63,
@@ -87,19 +95,11 @@
       "badge_id": ""
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 63,
       "achieved_at": "2026-09-06T02:08:27.242313+00:00",
-      "badge_id": "s3_top21"
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 63,
-      "achieved_at": "2026-09-06T08:58:22.835473+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-05T13:37:17.032764+00:00",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-06T09:33:02.872218+00:00",
       "badge_id": ""
     },
     {
