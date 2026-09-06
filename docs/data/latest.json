@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T00:44:58.4538906+00:00",
-    "fetched_at": "2026-09-06T00:45:27.533814+00:00",
-    "total_entries": 542
+    "generated_at": "2026-09-06T00:59:58.4538437+00:00",
+    "fetched_at": "2026-09-06T01:00:46.351286+00:00",
+    "total_entries": 543
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 132,
-      "achieved_at": "2026-09-05T18:41:06.214554+00:00",
+      "prestige_level": 133,
+      "achieved_at": "2026-09-06T00:55:26.025079+00:00",
       "badge_id": ""
     },
     {
@@ -368,18 +368,18 @@
     },
     {
       "rank": 46,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-05T15:44:45.443382+00:00",
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-06T00:46:57.177043+00:00",
       "badge_id": "og"
     },
     {
       "rank": 47,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
       "prestige_level": 28,
-      "achieved_at": "2026-09-06T00:19:05.066531+00:00",
+      "achieved_at": "2026-09-05T15:44:45.443382+00:00",
       "badge_id": "og"
     },
     {
