@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T08:29:58.4538683+00:00",
-    "fetched_at": "2026-09-07T08:30:38.042559+00:00",
+    "generated_at": "2026-09-07T08:44:58.4532049+00:00",
+    "fetched_at": "2026-09-07T08:45:30.635553+00:00",
     "total_entries": 577
   },
   "entries": [
@@ -320,6 +320,14 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-07T08:38:01.772434+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 41,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 31,
@@ -327,20 +335,12 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 31,
       "achieved_at": "2026-09-07T02:06:06.007533+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-07T07:32:51.636873+00:00",
-      "badge_id": ""
     },
     {
       "rank": 43,
@@ -402,8 +402,8 @@
       "rank": 50,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-07T06:40:18.934607+00:00",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-07T08:44:48.746795+00:00",
       "badge_id": ""
     },
     {
