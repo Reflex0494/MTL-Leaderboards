@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T05:14:58.4544953+00:00",
-    "fetched_at": "2026-09-07T05:15:28.784759+00:00",
+    "generated_at": "2026-09-07T05:29:58.4547946+00:00",
+    "fetched_at": "2026-09-07T05:30:40.357809+00:00",
     "total_entries": 576
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 61,
-      "achieved_at": "2026-09-07T03:46:04.567943+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-09-07T05:17:21.302768+00:00",
       "badge_id": ""
     },
     {
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-07T05:24:59.442085+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 60,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 23,
@@ -479,19 +487,11 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 23,
       "achieved_at": "2026-09-07T02:26:44.574777+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-07T03:58:35.778336+00:00",
       "badge_id": ""
     },
     {
