@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T18:44:58.4554452+00:00",
-    "fetched_at": "2026-09-07T18:45:36.959206+00:00",
-    "total_entries": 589
+    "generated_at": "2026-09-07T19:00:58.454218+00:00",
+    "fetched_at": "2026-09-07T19:01:03.320198+00:00",
+    "total_entries": 590
   },
   "entries": [
     {
@@ -330,8 +330,8 @@
       "rank": 41,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-06T07:50:22.446543+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-07T18:45:00.635142+00:00",
       "badge_id": ""
     },
     {
@@ -496,19 +496,19 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-07T18:55:16.464127+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 63,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
       "achieved_at": "2026-09-02T14:41:29.018812+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-03T06:15:56.734794+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 64,
