@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T14:29:58.4533002+00:00",
-    "fetched_at": "2026-09-07T14:30:44.859491+00:00",
-    "total_entries": 581
+    "generated_at": "2026-09-07T14:44:58.4533421+00:00",
+    "fetched_at": "2026-09-07T14:45:36.550067+00:00",
+    "total_entries": 582
   },
   "entries": [
     {
@@ -152,19 +152,19 @@
     },
     {
       "rank": 19,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-07T14:36:24.456848+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 20,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
       "achieved_at": "2026-09-03T04:44:54.903499+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 20,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-07T01:19:43.910367+00:00",
-      "badge_id": ""
     },
     {
       "rank": 21,
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198255262863",
+      "display_name": "< blank >",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-07T14:30:08.261009+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 21,
@@ -543,19 +551,11 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T03:46:49.558061+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198255262863",
-      "display_name": "< blank >",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-06T18:20:46.869528+00:00",
       "badge_id": ""
     },
     {
