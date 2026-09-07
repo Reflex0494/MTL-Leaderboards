@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T19:59:58.4525009+00:00",
-    "fetched_at": "2026-09-07T20:00:54.388287+00:00",
+    "generated_at": "2026-09-07T20:14:58.4546793+00:00",
+    "fetched_at": "2026-09-07T20:15:30.031610+00:00",
     "total_entries": 591
   },
   "entries": [
@@ -304,18 +304,18 @@
     },
     {
       "rank": 38,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-30T12:28:27.770058+00:00",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-07T20:11:00.184655+00:00",
       "badge_id": ""
     },
     {
       "rank": 39,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
       "prestige_level": 32,
-      "achieved_at": "2026-09-06T19:00:30.812732+00:00",
+      "achieved_at": "2026-08-30T12:28:27.770058+00:00",
       "badge_id": ""
     },
     {
@@ -432,18 +432,18 @@
     },
     {
       "rank": 54,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-06T13:14:37.031699+00:00",
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-07T20:11:23.091392+00:00",
       "badge_id": ""
     },
     {
       "rank": 55,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
       "prestige_level": 25,
-      "achieved_at": "2026-09-07T06:50:06.202201+00:00",
+      "achieved_at": "2026-09-06T13:14:37.031699+00:00",
       "badge_id": ""
     },
     {
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198255262863",
+      "display_name": "< blank >",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-07T20:11:23.476451+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
       "achieved_at": "2026-09-06T02:46:47.768747+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198255262863",
-      "display_name": "< blank >",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-07T14:30:08.261009+00:00",
       "badge_id": ""
     },
     {
