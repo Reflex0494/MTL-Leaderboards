@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T04:59:58.4549172+00:00",
-    "fetched_at": "2026-09-07T05:00:48.083811+00:00",
+    "generated_at": "2026-09-07T05:14:58.4544953+00:00",
+    "fetched_at": "2026-09-07T05:15:28.784759+00:00",
     "total_entries": 576
   },
   "entries": [
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-07T05:06:31.579726+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -439,7 +447,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -447,7 +455,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 24,
@@ -455,19 +463,11 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 24,
       "achieved_at": "2026-09-06T04:16:52.022472+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-07T04:30:03.912585+00:00",
       "badge_id": ""
     },
     {
