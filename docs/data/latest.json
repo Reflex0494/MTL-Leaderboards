@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T22:14:58.4538302+00:00",
-    "fetched_at": "2026-09-07T22:15:30.329749+00:00",
+    "generated_at": "2026-09-07T22:29:58.4544916+00:00",
+    "fetched_at": "2026-09-07T22:30:45.399541+00:00",
     "total_entries": 595
   },
   "entries": [
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561198341901597",
+      "display_name": "SeanLoh",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-07T22:28:51.789698+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 18,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -671,19 +679,11 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 17,
       "achieved_at": "2026-09-03T07:51:11.036092+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561198341901597",
-      "display_name": "SeanLoh",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-06T01:28:24.789317+00:00",
       "badge_id": ""
     },
     {
