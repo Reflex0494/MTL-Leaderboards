@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T12:44:58.4536752+00:00",
-    "fetched_at": "2026-09-07T12:45:34.317130+00:00",
+    "generated_at": "2026-09-07T12:59:58.4533352+00:00",
+    "fetched_at": "2026-09-07T13:00:57.808988+00:00",
     "total_entries": 579
   },
   "entries": [
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-07T04:50:36.562838+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-07T12:52:27.323231+00:00",
       "badge_id": ""
     },
     {
@@ -224,19 +224,19 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-07T12:52:28.935552+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 41,
       "achieved_at": "2026-09-06T19:28:50.039261+00:00",
       "badge_id": "s2_second"
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-06T19:29:30.85502+00:00",
-      "badge_id": ""
     },
     {
       "rank": 30,
