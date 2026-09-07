@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T08:44:58.4532049+00:00",
-    "fetched_at": "2026-09-07T08:45:30.635553+00:00",
+    "generated_at": "2026-09-07T08:59:58.4538809+00:00",
+    "fetched_at": "2026-09-07T09:00:46.395795+00:00",
     "total_entries": 577
   },
   "entries": [
@@ -408,19 +408,19 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-07T08:59:21.06271+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 52,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 27,
       "achieved_at": "2026-09-06T20:57:03.086037+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-07T08:05:44.934446+00:00",
-      "badge_id": ""
     },
     {
       "rank": 53,
