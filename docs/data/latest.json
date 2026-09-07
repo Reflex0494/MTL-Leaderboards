@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T03:29:58.4536827+00:00",
-    "fetched_at": "2026-09-07T03:30:41.650731+00:00",
+    "generated_at": "2026-09-07T03:44:58.4537064+00:00",
+    "fetched_at": "2026-09-07T03:45:32.411094+00:00",
     "total_entries": 576
   },
   "entries": [
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198979808101",
+      "display_name": "yeee",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-07T03:34:36.854392+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
@@ -639,19 +647,11 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 18,
       "achieved_at": "2026-09-06T21:55:21.912621+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198979808101",
-      "display_name": "yeee",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-07T02:26:57.589648+00:00",
       "badge_id": ""
     },
     {
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198086061180",
+      "display_name": "Tervin",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-07T03:43:59.505468+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198044012775",
       "display_name": "Mondays",
       "prestige_level": 14,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198062274098",
       "display_name": "Kimmeh",
       "prestige_level": 14,
       "achieved_at": "2026-09-06T01:14:07.79115+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198801139746",
-      "display_name": "st00pid",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-06T17:46:00.086372+00:00",
       "badge_id": ""
     }
   ]
