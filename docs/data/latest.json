@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T03:44:58.4537064+00:00",
-    "fetched_at": "2026-09-07T03:45:32.411094+00:00",
+    "generated_at": "2026-09-07T03:59:58.4547714+00:00",
+    "fetched_at": "2026-09-07T04:00:45.113276+00:00",
     "total_entries": 576
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 60,
-      "achieved_at": "2026-09-06T03:19:57.386644+00:00",
+      "prestige_level": 61,
+      "achieved_at": "2026-09-07T03:46:04.567943+00:00",
       "badge_id": ""
     },
     {
@@ -480,6 +480,22 @@
     },
     {
       "rank": 60,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-07T03:55:44.51304+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 61,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-07T03:58:35.778336+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -487,7 +503,7 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 63,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 22,
@@ -495,27 +511,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 62,
+      "rank": 64,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
       "achieved_at": "2026-09-06T02:46:47.768747+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-06T06:52:12.378643+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-07T02:47:19.505203+00:00",
       "badge_id": ""
     },
     {
