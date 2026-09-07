@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-06T23:59:58.4544291+00:00",
-    "fetched_at": "2026-09-07T00:00:49.873818+00:00",
+    "generated_at": "2026-09-07T00:14:58.4547904+00:00",
+    "fetched_at": "2026-09-07T00:15:29.441348+00:00",
     "total_entries": 572
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 81,
-      "achieved_at": "2026-09-06T01:46:08.511895+00:00",
+      "prestige_level": 82,
+      "achieved_at": "2026-09-07T00:01:46.541954+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -162,8 +162,8 @@
       "rank": 20,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-06T18:02:01.419244+00:00",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-07T00:06:58.955417+00:00",
       "badge_id": ""
     },
     {
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-06T17:53:11.02503+00:00",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-07T00:08:58.745864+00:00",
       "badge_id": ""
     },
     {
