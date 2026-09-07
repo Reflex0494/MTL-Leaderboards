@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T03:59:58.4547714+00:00",
-    "fetched_at": "2026-09-07T04:00:45.113276+00:00",
+    "generated_at": "2026-09-07T04:14:58.4545001+00:00",
+    "fetched_at": "2026-09-07T04:15:29.884994+00:00",
     "total_entries": 576
   },
   "entries": [
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198979808101",
+      "display_name": "yeee",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-07T04:10:34.439801+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 19,
       "achieved_at": "2026-09-06T21:51:09.478946+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198979808101",
-      "display_name": "yeee",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-07T03:34:36.854392+00:00",
       "badge_id": ""
     },
     {
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561198044012775",
-      "display_name": "Mondays",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-04T15:58:44.389612+00:00",
+      "steam_id": "76561198801139746",
+      "display_name": "st00pid",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-07T04:09:46.116768+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561198062274098",
-      "display_name": "Kimmeh",
+      "steam_id": "76561198044012775",
+      "display_name": "Mondays",
       "prestige_level": 14,
-      "achieved_at": "2026-09-06T01:14:07.79115+00:00",
+      "achieved_at": "2026-09-04T15:58:44.389612+00:00",
       "badge_id": ""
     }
   ]
