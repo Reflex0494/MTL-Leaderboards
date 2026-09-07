@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T19:44:58.4544756+00:00",
-    "fetched_at": "2026-09-07T19:45:29.566015+00:00",
+    "generated_at": "2026-09-07T19:59:58.4525009+00:00",
+    "fetched_at": "2026-09-07T20:00:54.388287+00:00",
     "total_entries": 591
   },
   "entries": [
@@ -498,8 +498,8 @@
       "rank": 62,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-07T18:55:16.464127+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-07T19:52:33.645428+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-07T19:46:44.726841+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 21,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
@@ -559,20 +567,12 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 21,
       "achieved_at": "2026-09-07T01:48:18.064219+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-07T19:23:16.138826+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 72,
