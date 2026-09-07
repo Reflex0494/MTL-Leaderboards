@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T19:14:58.4542402+00:00",
-    "fetched_at": "2026-09-07T19:15:31.782919+00:00",
+    "generated_at": "2026-09-07T19:29:58.4538257+00:00",
+    "fetched_at": "2026-09-07T19:30:43.333569+00:00",
     "total_entries": 591
   },
   "entries": [
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 60,
-      "achieved_at": "2026-09-07T12:52:27.323231+00:00",
+      "prestige_level": 61,
+      "achieved_at": "2026-09-07T19:19:05.098649+00:00",
       "badge_id": ""
     },
     {
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-06T19:28:50.039261+00:00",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-07T19:21:16.79154+00:00",
       "badge_id": "s2_second"
     },
     {
@@ -568,6 +568,14 @@
     },
     {
       "rank": 71,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-07T19:23:16.138826+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 72,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 20,
@@ -583,7 +591,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 20,
@@ -591,20 +599,12 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 20,
       "achieved_at": "2026-09-07T04:10:34.439801+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-07T19:02:08.729525+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 76,
