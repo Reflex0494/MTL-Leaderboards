@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T23:29:58.4542321+00:00",
-    "fetched_at": "2026-09-07T23:30:42.050964+00:00",
+    "generated_at": "2026-09-07T23:44:58.4542218+00:00",
+    "fetched_at": "2026-09-07T23:45:33.381065+00:00",
     "total_entries": 597
   },
   "entries": [
@@ -242,8 +242,8 @@
       "rank": 30,
       "steam_id": "76561198076913774",
       "display_name": "Dr. Zed",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-07T22:51:16.695766+00:00",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-07T23:33:47.345193+00:00",
       "badge_id": "og"
     },
     {
@@ -704,6 +704,14 @@
     },
     {
       "rank": 88,
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-07T23:33:20.149564+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 89,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -719,7 +727,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 16,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 16,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198967280376",
       "display_name": "CriiMix",
       "prestige_level": 16,
@@ -751,19 +759,11 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198086061180",
       "display_name": "Tervin",
       "prestige_level": 16,
       "achieved_at": "2026-09-07T18:44:24.40629+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 95,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-07T23:07:44.770772+00:00",
       "badge_id": ""
     },
     {
