@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T00:59:58.4532534+00:00",
-    "fetched_at": "2026-09-07T01:00:46.468817+00:00",
+    "generated_at": "2026-09-07T01:14:58.4546297+00:00",
+    "fetched_at": "2026-09-07T01:15:29.200784+00:00",
     "total_entries": 575
   },
   "entries": [
@@ -176,18 +176,18 @@
     },
     {
       "rank": 22,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-07T01:11:14.643302+00:00",
       "badge_id": ""
     },
     {
       "rank": 23,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-07T00:08:58.745864+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
@@ -352,6 +352,22 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-07T01:03:07.464846+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 45,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-07T01:10:22.042671+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 46,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -359,7 +375,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 45,
+      "rank": 47,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
@@ -367,7 +383,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 46,
+      "rank": 48,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 29,
@@ -375,27 +391,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-06T00:46:57.177043+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198075415107",
       "display_name": "Lowtab prime",
       "prestige_level": 29,
       "achieved_at": "2026-09-06T11:02:25.586393+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 49,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-06T22:24:08.984449+00:00",
       "badge_id": ""
     },
     {
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-07T01:04:29.63948+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -599,19 +607,11 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
       "achieved_at": "2026-09-02T17:49:31.834652+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-06T00:34:50.850873+00:00",
       "badge_id": ""
     },
     {
