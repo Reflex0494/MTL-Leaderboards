@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T05:44:58.4543916+00:00",
-    "fetched_at": "2026-09-07T05:45:30.871438+00:00",
+    "generated_at": "2026-09-07T05:59:58.4539048+00:00",
+    "fetched_at": "2026-09-07T06:00:48.633635+00:00",
     "total_entries": 576
   },
   "entries": [
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-05T06:48:28.632758+00:00",
+      "prestige_level": 55,
+      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
       "badge_id": ""
     },
     {
@@ -218,8 +218,8 @@
       "rank": 27,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-06T22:48:17.423244+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-07T05:58:50.681242+00:00",
       "badge_id": ""
     },
     {
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198044012775",
-      "display_name": "Mondays",
-      "prestige_level": 14,
-      "achieved_at": "2026-09-04T15:58:44.389612+00:00",
+      "steam_id": "76561198081404484",
+      "display_name": "Maggie",
+      "prestige_level": 15,
+      "achieved_at": "2026-09-07T05:55:04.772295+00:00",
       "badge_id": ""
     }
   ]
