@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T09:14:58.4551865+00:00",
-    "fetched_at": "2026-09-07T09:15:29.390055+00:00",
-    "total_entries": 577
+    "generated_at": "2026-09-07T09:29:58.4550899+00:00",
+    "fetched_at": "2026-09-07T09:30:39.291217+00:00",
+    "total_entries": 578
   },
   "entries": [
     {
@@ -482,8 +482,8 @@
       "rank": 60,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-05T12:19:00.284819+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-07T09:24:12.87595+00:00",
       "badge_id": ""
     },
     {
