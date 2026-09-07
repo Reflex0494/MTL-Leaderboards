@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T11:14:58.4539262+00:00",
-    "fetched_at": "2026-09-07T11:15:28.038458+00:00",
+    "generated_at": "2026-09-07T11:29:58.4566367+00:00",
+    "fetched_at": "2026-09-07T11:30:40.555402+00:00",
     "total_entries": 578
   },
   "entries": [
@@ -136,18 +136,18 @@
     },
     {
       "rank": 17,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-07T06:22:43.301339+00:00",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
+      "prestige_level": 55,
+      "achieved_at": "2026-09-07T11:19:32.945544+00:00",
       "badge_id": ""
     },
     {
       "rank": 18,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
       "prestige_level": 54,
-      "achieved_at": "2026-09-07T09:43:38.879126+00:00",
+      "achieved_at": "2026-09-07T06:22:43.301339+00:00",
       "badge_id": ""
     },
     {
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-07T11:19:07.403434+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-09-06T04:02:40.326341+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
