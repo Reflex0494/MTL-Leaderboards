@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T04:29:58.4542786+00:00",
-    "fetched_at": "2026-09-07T04:30:43.063640+00:00",
+    "generated_at": "2026-09-07T04:44:58.4535643+00:00",
+    "fetched_at": "2026-09-07T04:45:28.298756+00:00",
     "total_entries": 576
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 79,
-      "achieved_at": "2026-09-06T11:28:00.993377+00:00",
+      "prestige_level": 80,
+      "achieved_at": "2026-09-07T04:40:13.818506+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-07T04:30:03.912585+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 23,
@@ -471,19 +479,11 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 23,
       "achieved_at": "2026-09-07T02:26:44.574777+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 60,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-07T03:55:44.51304+00:00",
       "badge_id": ""
     },
     {
