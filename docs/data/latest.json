@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T12:14:58.4542943+00:00",
-    "fetched_at": "2026-09-07T12:15:30.956963+00:00",
+    "generated_at": "2026-09-07T12:29:58.4538382+00:00",
+    "fetched_at": "2026-09-07T12:30:43.872428+00:00",
     "total_entries": 579
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 82,
-      "achieved_at": "2026-09-07T10:20:22.029872+00:00",
+      "prestige_level": 83,
+      "achieved_at": "2026-09-07T12:18:16.294734+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -200,18 +200,18 @@
     },
     {
       "rank": 25,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-07T06:44:13.127807+00:00",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-07T12:17:29.296748+00:00",
       "badge_id": ""
     },
     {
       "rank": 26,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
       "prestige_level": 44,
-      "achieved_at": "2026-09-07T11:19:07.403434+00:00",
+      "achieved_at": "2026-09-07T06:44:13.127807+00:00",
       "badge_id": ""
     },
     {
