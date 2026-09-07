@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T19:00:58.454218+00:00",
-    "fetched_at": "2026-09-07T19:01:03.320198+00:00",
-    "total_entries": 590
+    "generated_at": "2026-09-07T19:14:58.4542402+00:00",
+    "fetched_at": "2026-09-07T19:15:31.782919+00:00",
+    "total_entries": 591
   },
   "entries": [
     {
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 48,
-      "achieved_at": "2026-09-07T01:11:14.643302+00:00",
+      "prestige_level": 49,
+      "achieved_at": "2026-09-07T19:07:12.079698+00:00",
       "badge_id": ""
     },
     {
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-07T19:02:08.729525+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -631,20 +639,12 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 19,
       "achieved_at": "2026-09-06T21:51:09.478946+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 80,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-07T18:32:13.542946+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 81,
