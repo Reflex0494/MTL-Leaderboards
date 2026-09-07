@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T23:14:58.4555939+00:00",
-    "fetched_at": "2026-09-07T23:15:31.151463+00:00",
+    "generated_at": "2026-09-07T23:29:58.4542321+00:00",
+    "fetched_at": "2026-09-07T23:30:42.050964+00:00",
     "total_entries": 597
   },
   "entries": [
@@ -418,16 +418,16 @@
       "rank": 52,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-06T20:57:03.086037+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-07T23:19:25.265009+00:00",
       "badge_id": "og"
     },
     {
       "rank": 53,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-07T22:41:17.189959+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-07T23:19:49.189357+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -448,18 +448,18 @@
     },
     {
       "rank": 56,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-06T13:14:37.031699+00:00",
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-07T23:22:24.270556+00:00",
       "badge_id": ""
     },
     {
       "rank": 57,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
       "prestige_level": 25,
-      "achieved_at": "2026-09-07T22:41:57.253233+00:00",
+      "achieved_at": "2026-09-06T13:14:37.031699+00:00",
       "badge_id": ""
     },
     {
@@ -608,6 +608,14 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198341901597",
+      "display_name": "SeanLoh",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-07T23:25:48.671516+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -639,19 +647,11 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 19,
       "achieved_at": "2026-09-06T21:51:09.478946+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198341901597",
-      "display_name": "SeanLoh",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-07T22:28:51.789698+00:00",
       "badge_id": ""
     },
     {
