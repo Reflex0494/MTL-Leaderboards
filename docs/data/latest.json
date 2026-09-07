@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T17:29:58.4544812+00:00",
-    "fetched_at": "2026-09-07T17:30:46.977617+00:00",
-    "total_entries": 585
+    "generated_at": "2026-09-07T17:44:58.4541801+00:00",
+    "fetched_at": "2026-09-07T17:45:31.181753+00:00",
+    "total_entries": 586
   },
   "entries": [
     {
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-07T12:52:28.935552+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-07T17:36:49.983566+00:00",
       "badge_id": ""
     },
     {
