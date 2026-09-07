@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T20:29:58.4541221+00:00",
-    "fetched_at": "2026-09-07T20:30:44.003446+00:00",
-    "total_entries": 591
+    "generated_at": "2026-09-07T20:44:58.45412+00:00",
+    "fetched_at": "2026-09-07T20:45:31.515250+00:00",
+    "total_entries": 593
   },
   "entries": [
     {
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198063303488",
+      "display_name": "Kweekus",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-07T20:35:02.368283+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -583,20 +591,12 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 20,
       "achieved_at": "2026-09-05T05:26:13.062199+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198063303488",
-      "display_name": "Kweekus",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-06T23:22:03.895423+00:00",
-      "badge_id": ""
     },
     {
       "rank": 75,
