@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T01:14:58.4546297+00:00",
-    "fetched_at": "2026-09-07T01:15:29.200784+00:00",
-    "total_entries": 575
+    "generated_at": "2026-09-07T01:29:58.4534724+00:00",
+    "fetched_at": "2026-09-07T01:30:38.862990+00:00",
+    "total_entries": 576
   },
   "entries": [
     {
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 135,
-      "achieved_at": "2026-09-06T15:57:17.647222+00:00",
+      "prestige_level": 136,
+      "achieved_at": "2026-09-07T01:25:56.979409+00:00",
       "badge_id": ""
     },
     {
@@ -162,8 +162,8 @@
       "rank": 20,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-07T00:06:58.955417+00:00",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-07T01:19:43.910367+00:00",
       "badge_id": ""
     },
     {
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198158890740",
+      "display_name": "[NOC]-Needer",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-07T01:21:17.180255+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 21,
@@ -527,19 +535,11 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T03:46:49.558061+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198158890740",
-      "display_name": "[NOC]-Needer",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-05T18:51:22.96767+00:00",
       "badge_id": ""
     },
     {
