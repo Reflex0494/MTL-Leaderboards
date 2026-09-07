@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T06:14:58.4528209+00:00",
-    "fetched_at": "2026-09-07T06:15:30.095699+00:00",
+    "generated_at": "2026-09-07T06:29:58.454074+00:00",
+    "fetched_at": "2026-09-07T06:30:38.500112+00:00",
     "total_entries": 576
   },
   "entries": [
@@ -136,18 +136,18 @@
     },
     {
       "rank": 17,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 53,
-      "achieved_at": "2026-09-06T13:03:18.939603+00:00",
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
+      "prestige_level": 54,
+      "achieved_at": "2026-09-07T06:22:43.301339+00:00",
       "badge_id": ""
     },
     {
       "rank": 18,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
       "prestige_level": 53,
-      "achieved_at": "2026-09-07T04:59:31.92713+00:00",
+      "achieved_at": "2026-09-06T13:03:18.939603+00:00",
       "badge_id": ""
     },
     {
@@ -368,6 +368,14 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-07T06:24:23.443594+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 47,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -375,7 +383,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
@@ -383,19 +391,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 29,
       "achieved_at": "2026-09-03T20:48:57.305922+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 49,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-06T11:02:25.586393+00:00",
       "badge_id": ""
     },
     {
