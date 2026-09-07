@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T22:44:58.4554682+00:00",
-    "fetched_at": "2026-09-07T22:45:30.133814+00:00",
+    "generated_at": "2026-09-07T22:59:58.4542479+00:00",
+    "fetched_at": "2026-09-07T23:00:54.826010+00:00",
     "total_entries": 595
   },
   "entries": [
@@ -40,19 +40,19 @@
     },
     {
       "rank": 5,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 85,
+      "achieved_at": "2026-09-07T22:59:55.230426+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 6,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 84,
       "achieved_at": "2026-09-07T13:07:01.786045+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 6,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 84,
-      "achieved_at": "2026-09-07T17:00:52.96463+00:00",
-      "badge_id": ""
     },
     {
       "rank": 7,
@@ -112,18 +112,18 @@
     },
     {
       "rank": 14,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 62,
-      "achieved_at": "2026-09-07T05:17:21.302768+00:00",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 63,
+      "achieved_at": "2026-09-07T22:48:46.13714+00:00",
       "badge_id": ""
     },
     {
       "rank": 15,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
       "prestige_level": 62,
-      "achieved_at": "2026-09-07T21:33:19.962392+00:00",
+      "achieved_at": "2026-09-07T05:17:21.302768+00:00",
       "badge_id": ""
     },
     {
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561198076913774",
+      "display_name": "Dr. Zed",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-07T22:51:16.695766+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 31,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -247,20 +255,12 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 40,
       "achieved_at": "2026-09-05T04:17:45.567356+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561198076913774",
-      "display_name": "Dr. Zed",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-06T01:28:08.070366+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 33,
