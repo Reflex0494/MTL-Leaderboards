@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T18:29:58.4555199+00:00",
-    "fetched_at": "2026-09-08T18:30:53.058463+00:00",
-    "total_entries": 608
+    "generated_at": "2026-09-08T18:44:58.4550498+00:00",
+    "fetched_at": "2026-09-08T18:45:31.237637+00:00",
+    "total_entries": 609
   },
   "entries": [
     {
@@ -490,8 +490,8 @@
       "rank": 61,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-06T13:14:37.031699+00:00",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-08T18:32:56.633984+00:00",
       "badge_id": ""
     },
     {
