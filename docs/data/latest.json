@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T21:29:58.4539128+00:00",
-    "fetched_at": "2026-09-08T21:30:45.027149+00:00",
+    "generated_at": "2026-09-08T21:44:58.4549503+00:00",
+    "fetched_at": "2026-09-08T21:45:31.348746+00:00",
     "total_entries": 612
   },
   "entries": [
@@ -88,19 +88,19 @@
     },
     {
       "rank": 11,
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 69,
+      "achieved_at": "2026-09-08T21:31:52.74376+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 12,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 68,
       "achieved_at": "2026-09-08T08:14:18.855359+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 68,
-      "achieved_at": "2026-09-08T19:31:52.445061+00:00",
-      "badge_id": ""
     },
     {
       "rank": 13,
@@ -314,8 +314,8 @@
       "rank": 39,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-08T05:14:32.961642+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-08T21:39:13.624455+00:00",
       "badge_id": ""
     },
     {
@@ -384,6 +384,14 @@
     },
     {
       "rank": 48,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-08T21:33:12.920285+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 49,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -391,19 +399,11 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 50,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-08T17:13:41.588175+00:00",
       "badge_id": ""
     },
     {
