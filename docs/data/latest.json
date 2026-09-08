@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T05:29:58.4540813+00:00",
-    "fetched_at": "2026-09-08T05:30:37.801031+00:00",
+    "generated_at": "2026-09-08T05:44:58.4552258+00:00",
+    "fetched_at": "2026-09-08T05:45:28.597707+00:00",
     "total_entries": 601
   },
   "entries": [
@@ -128,18 +128,18 @@
     },
     {
       "rank": 16,
-      "steam_id": "76561198088236961",
-      "display_name": "Kn0z",
-      "prestige_level": 56,
-      "achieved_at": "2026-09-07T12:36:07.532518+00:00",
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
+      "prestige_level": 57,
+      "achieved_at": "2026-09-08T05:39:36.153985+00:00",
       "badge_id": ""
     },
     {
       "rank": 17,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
+      "steam_id": "76561198088236961",
+      "display_name": "Kn0z",
       "prestige_level": 56,
-      "achieved_at": "2026-09-08T03:24:20.486948+00:00",
+      "achieved_at": "2026-09-07T12:36:07.532518+00:00",
       "badge_id": ""
     },
     {
@@ -216,19 +216,19 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-08T05:38:18.434521+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198076913774",
       "display_name": "Dr. Zed",
       "prestige_level": 44,
       "achieved_at": "2026-09-08T01:49:51.265011+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-08T04:45:14.751234+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 29,
