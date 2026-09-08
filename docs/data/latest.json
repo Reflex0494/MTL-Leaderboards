@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T08:44:58.4543668+00:00",
-    "fetched_at": "2026-09-08T08:45:29.943450+00:00",
+    "generated_at": "2026-09-08T08:59:58.4550658+00:00",
+    "fetched_at": "2026-09-08T09:00:49.082572+00:00",
     "total_entries": 603
   },
   "entries": [
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-08T08:46:11.791277+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 20,
@@ -647,19 +655,11 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 20,
       "achieved_at": "2026-09-08T03:52:22.951678+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-08T08:16:52.298188+00:00",
       "badge_id": ""
     },
     {
