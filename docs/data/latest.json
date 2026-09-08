@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T21:59:58.4551456+00:00",
-    "fetched_at": "2026-09-08T22:00:50.644651+00:00",
+    "generated_at": "2026-09-08T22:14:58.4539167+00:00",
+    "fetched_at": "2026-09-08T22:15:29.460914+00:00",
     "total_entries": 612
   },
   "entries": [
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-08T20:57:27.654919+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-09-08T22:02:26.889469+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -328,18 +328,18 @@
     },
     {
       "rank": 41,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-08T19:14:32.413231+00:00",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-08T22:11:36.523954+00:00",
       "badge_id": ""
     },
     {
       "rank": 42,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
       "prestige_level": 34,
-      "achieved_at": "2026-09-08T21:06:57.92636+00:00",
+      "achieved_at": "2026-09-08T19:14:32.413231+00:00",
       "badge_id": ""
     },
     {
@@ -408,6 +408,14 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561198979808101",
+      "display_name": "yeee",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-08T22:10:10.160431+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -415,7 +423,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
@@ -423,19 +431,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 29,
       "achieved_at": "2026-09-03T20:48:57.305922+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561198979808101",
-      "display_name": "yeee",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-08T17:06:46.98132+00:00",
       "badge_id": ""
     },
     {
@@ -608,6 +608,14 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561197974754170",
+      "display_name": "Vaupell",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-08T22:14:49.626235+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 21,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 21,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 21,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 21,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 21,
       "achieved_at": "2026-09-08T19:57:56.446377+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561197974754170",
-      "display_name": "Vaupell",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-08T21:47:37.32624+00:00",
       "badge_id": ""
     },
     {
