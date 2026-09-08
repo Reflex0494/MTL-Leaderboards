@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T21:14:58.4545965+00:00",
-    "fetched_at": "2026-09-08T21:15:33.676433+00:00",
+    "generated_at": "2026-09-08T21:29:58.4539128+00:00",
+    "fetched_at": "2026-09-08T21:30:45.027149+00:00",
     "total_entries": 612
   },
   "entries": [
@@ -458,8 +458,8 @@
       "rank": 57,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-08T05:16:45.711373+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-08T21:21:05.808585+00:00",
       "badge_id": ""
     },
     {
