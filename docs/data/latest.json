@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T19:29:58.455973+00:00",
-    "fetched_at": "2026-09-08T19:30:39.064386+00:00",
+    "generated_at": "2026-09-08T19:44:58.4558807+00:00",
+    "fetched_at": "2026-09-08T19:45:32.111270+00:00",
     "total_entries": 610
   },
   "entries": [
@@ -96,19 +96,19 @@
     },
     {
       "rank": 12,
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 68,
+      "achieved_at": "2026-09-08T19:31:52.445061+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 13,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 67,
       "achieved_at": "2026-09-08T02:25:37.531341+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 13,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 67,
-      "achieved_at": "2026-09-08T16:05:40.694843+00:00",
-      "badge_id": ""
     },
     {
       "rank": 14,
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -511,7 +519,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -519,7 +527,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -535,19 +543,11 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 24,
       "achieved_at": "2026-09-08T01:53:00.187973+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-08T16:28:19.238188+00:00",
       "badge_id": ""
     },
     {
