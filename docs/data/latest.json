@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T17:29:58.4570624+00:00",
-    "fetched_at": "2026-09-08T17:30:41.503537+00:00",
+    "generated_at": "2026-09-08T17:45:58.4550547+00:00",
+    "fetched_at": "2026-09-08T17:46:04.865797+00:00",
     "total_entries": 608
   },
   "entries": [
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198043224364",
+      "display_name": "Icekoolr",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-08T17:31:02.505465+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -495,7 +503,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -503,7 +511,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 24,
@@ -527,7 +535,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 24,
@@ -535,19 +543,11 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 24,
       "achieved_at": "2026-09-08T16:28:19.238188+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198043224364",
-      "display_name": "Icekoolr",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-08T16:45:17.161476+00:00",
       "badge_id": ""
     },
     {
