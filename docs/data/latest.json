@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T14:44:58.454988+00:00",
-    "fetched_at": "2026-09-08T14:45:31.726826+00:00",
+    "generated_at": "2026-09-08T14:59:58.4551183+00:00",
+    "fetched_at": "2026-09-08T15:00:51.784121+00:00",
     "total_entries": 606
   },
   "entries": [
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 65,
-      "achieved_at": "2026-09-08T12:58:08.659328+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-09-08T14:50:51.626356+00:00",
       "badge_id": ""
     },
     {
@@ -712,19 +712,19 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561198009437251",
+      "display_name": "ellie",
+      "prestige_level": 19,
+      "achieved_at": "2026-09-08T14:55:39.796352+00:00",
+      "badge_id": "mod"
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198045755086",
       "display_name": "JamakaJudd",
       "prestige_level": 18,
       "achieved_at": "2026-09-01T08:32:51.885578+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 90,
-      "steam_id": "76561198009437251",
-      "display_name": "ellie",
-      "prestige_level": 18,
-      "achieved_at": "2026-09-08T14:25:48.926678+00:00",
-      "badge_id": "mod"
     },
     {
       "rank": 91,
