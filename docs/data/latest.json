@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T17:59:58.4552803+00:00",
-    "fetched_at": "2026-09-08T18:00:48.307643+00:00",
+    "generated_at": "2026-09-08T18:14:58.4540349+00:00",
+    "fetched_at": "2026-09-08T18:15:31.266247+00:00",
     "total_entries": 608
   },
   "entries": [
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-08T18:07:59.358539+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 63,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -503,7 +511,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -511,7 +519,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -519,20 +527,12 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
       "achieved_at": "2026-09-07T18:04:32.478225+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-07T19:52:33.645428+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 67,
