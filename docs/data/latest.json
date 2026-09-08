@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T21:44:58.4549503+00:00",
-    "fetched_at": "2026-09-08T21:45:31.348746+00:00",
+    "generated_at": "2026-09-08T21:59:58.4551456+00:00",
+    "fetched_at": "2026-09-08T22:00:50.644651+00:00",
     "total_entries": 612
   },
   "entries": [
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198341901597",
+      "display_name": "SeanLoh",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-08T21:46:31.529371+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 21,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 21,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 21,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 21,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 21,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
-      "steam_id": "76561198341901597",
-      "display_name": "SeanLoh",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-08T20:54:56.23762+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 84,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-01T01:30:20.298864+00:00",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-08T21:47:37.32624+00:00",
       "badge_id": ""
     },
     {
