@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T13:44:58.4551758+00:00",
-    "fetched_at": "2026-09-08T13:45:29.458105+00:00",
+    "generated_at": "2026-09-08T13:59:58.4541722+00:00",
+    "fetched_at": "2026-09-08T14:00:49.758381+00:00",
     "total_entries": 604
   },
   "entries": [
@@ -272,6 +272,14 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-08T13:54:17.964833+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 35,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -279,20 +287,12 @@
       "badge_id": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
       "achieved_at": "2026-09-03T08:07:01.167447+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 36,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-07T18:28:38.481825+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 37,
