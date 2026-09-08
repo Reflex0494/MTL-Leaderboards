@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-07T23:44:58.4542218+00:00",
-    "fetched_at": "2026-09-07T23:45:33.381065+00:00",
+    "generated_at": "2026-09-08T00:00:58.454699+00:00",
+    "fetched_at": "2026-09-08T00:00:59.209343+00:00",
     "total_entries": 597
   },
   "entries": [
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198979808101",
+      "display_name": "yeee",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-07T23:47:59.472265+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -591,20 +599,12 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 20,
       "achieved_at": "2026-09-05T05:26:13.062199+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198979808101",
-      "display_name": "yeee",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-07T04:10:34.439801+00:00",
-      "badge_id": ""
     },
     {
       "rank": 76,
@@ -672,6 +672,14 @@
     },
     {
       "rank": 84,
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-07T23:59:30.315578+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 85,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 17,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 17,
@@ -695,19 +703,11 @@
       "badge_id": "mod"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 17,
       "achieved_at": "2026-09-07T23:03:32.669991+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 88,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-07T23:33:20.149564+00:00",
       "badge_id": ""
     },
     {
