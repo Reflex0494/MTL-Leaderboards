@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T12:14:58.4543864+00:00",
-    "fetched_at": "2026-09-08T12:15:31.388349+00:00",
+    "generated_at": "2026-09-08T12:29:58.4532102+00:00",
+    "fetched_at": "2026-09-08T12:30:47.797027+00:00",
     "total_entries": 604
   },
   "entries": [
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561198979808101",
+      "display_name": "yeee",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-08T12:21:59.97128+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -455,7 +463,7 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 26,
@@ -463,19 +471,11 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 26,
       "achieved_at": "2026-09-08T01:29:52.000323+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561198979808101",
-      "display_name": "yeee",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-08T02:33:50.438866+00:00",
       "badge_id": ""
     },
     {
