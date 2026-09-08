@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T14:59:58.4551183+00:00",
-    "fetched_at": "2026-09-08T15:00:51.784121+00:00",
+    "generated_at": "2026-09-08T15:14:58.4538872+00:00",
+    "fetched_at": "2026-09-08T15:15:30.322739+00:00",
     "total_entries": 606
   },
   "entries": [
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-08T15:00:59.569839+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
@@ -559,20 +567,12 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 22,
       "achieved_at": "2026-09-08T03:42:54.831537+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-08T09:13:47.397456+00:00",
-      "badge_id": ""
     },
     {
       "rank": 72,
