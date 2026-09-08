@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T04:59:58.4551023+00:00",
-    "fetched_at": "2026-09-08T05:00:48.550495+00:00",
+    "generated_at": "2026-09-08T05:14:58.4545056+00:00",
+    "fetched_at": "2026-09-08T05:15:29.015078+00:00",
     "total_entries": 601
   },
   "entries": [
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-07T21:07:34.14497+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-08T05:14:32.961642+00:00",
       "badge_id": ""
     },
     {
