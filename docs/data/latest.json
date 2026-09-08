@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T22:14:58.4539167+00:00",
-    "fetched_at": "2026-09-08T22:15:29.460914+00:00",
+    "generated_at": "2026-09-08T22:29:58.4548635+00:00",
+    "fetched_at": "2026-09-08T22:30:40.134819+00:00",
     "total_entries": 612
   },
   "entries": [
@@ -344,19 +344,19 @@
     },
     {
       "rank": 43,
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-08T22:27:35.460635+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 44,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 33,
       "achieved_at": "2026-09-08T16:00:22.296028+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-08T21:01:14.669004+00:00",
-      "badge_id": ""
     },
     {
       "rank": 45,
