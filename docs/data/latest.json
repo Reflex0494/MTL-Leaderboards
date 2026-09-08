@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T20:14:58.4542885+00:00",
-    "fetched_at": "2026-09-08T20:15:31.294498+00:00",
+    "generated_at": "2026-09-08T20:29:58.4555031+00:00",
+    "fetched_at": "2026-09-08T20:30:42.532187+00:00",
     "total_entries": 611
   },
   "entries": [
@@ -200,6 +200,14 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-08T20:21:54.89771+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 26,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 45,
@@ -207,7 +215,7 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
       "prestige_level": 45,
@@ -215,28 +223,20 @@
       "badge_id": ""
     },
     {
-      "rank": 27,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
+      "rank": 28,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
       "prestige_level": 45,
-      "achieved_at": "2026-09-08T05:38:18.434521+00:00",
-      "badge_id": "s2_second"
+      "achieved_at": "2026-09-08T20:29:50.159268+00:00",
+      "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561198076913774",
       "display_name": "Dr. Zed",
       "prestige_level": 44,
       "achieved_at": "2026-09-08T01:49:51.265011+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-08T19:07:13.675114+00:00",
-      "badge_id": ""
     },
     {
       "rank": 30,
@@ -320,19 +320,19 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-08T20:25:34.647311+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 41,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 34,
       "achieved_at": "2026-09-08T19:14:32.413231+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 41,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-08T19:21:35.804947+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 42,
@@ -554,8 +554,8 @@
       "rank": 69,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-07T20:11:23.476451+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-08T20:21:38.64085+00:00",
       "badge_id": ""
     },
     {
