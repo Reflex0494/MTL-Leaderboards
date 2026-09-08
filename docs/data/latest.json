@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T10:14:58.4542161+00:00",
-    "fetched_at": "2026-09-08T10:15:28.429992+00:00",
+    "generated_at": "2026-09-08T10:29:58.4534989+00:00",
+    "fetched_at": "2026-09-08T10:30:40.061283+00:00",
     "total_entries": 603
   },
   "entries": [
@@ -320,18 +320,18 @@
     },
     {
       "rank": 40,
-      "steam_id": "76561198067437754",
-      "display_name": "bilibull",
-      "prestige_level": 32,
-      "achieved_at": "2026-08-30T12:28:27.770058+00:00",
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-08T10:20:00.161524+00:00",
       "badge_id": ""
     },
     {
       "rank": 41,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
+      "steam_id": "76561198067437754",
+      "display_name": "bilibull",
       "prestige_level": 32,
-      "achieved_at": "2026-09-07T08:38:01.772434+00:00",
+      "achieved_at": "2026-08-30T12:28:27.770058+00:00",
       "badge_id": ""
     },
     {
