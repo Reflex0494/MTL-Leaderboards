@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T07:59:58.4532702+00:00",
-    "fetched_at": "2026-09-08T08:00:47.875313+00:00",
+    "generated_at": "2026-09-08T08:14:58.4548074+00:00",
+    "fetched_at": "2026-09-08T08:15:28.622177+00:00",
     "total_entries": 602
   },
   "entries": [
@@ -48,19 +48,19 @@
     },
     {
       "rank": 6,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 86,
+      "achieved_at": "2026-09-08T08:02:18.419721+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 7,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 85,
       "achieved_at": "2026-09-08T01:41:35.817693+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 7,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 85,
-      "achieved_at": "2026-09-08T06:45:27.216745+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 8,
@@ -80,6 +80,14 @@
     },
     {
       "rank": 10,
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
+      "prestige_level": 68,
+      "achieved_at": "2026-09-08T08:14:18.855359+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 11,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 67,
@@ -87,19 +95,11 @@
       "badge_id": ""
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 67,
       "achieved_at": "2026-09-08T02:25:37.531341+00:00",
-      "badge_id": "s3_top21"
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 67,
-      "achieved_at": "2026-09-08T07:34:44.814158+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-08T08:13:28.768422+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 20,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 20,
@@ -639,19 +647,11 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 20,
       "achieved_at": "2026-09-08T03:52:22.951678+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-08T07:12:23.964201+00:00",
       "badge_id": ""
     },
     {
