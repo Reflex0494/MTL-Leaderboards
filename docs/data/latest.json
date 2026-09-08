@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T13:59:58.4541722+00:00",
-    "fetched_at": "2026-09-08T14:00:49.758381+00:00",
-    "total_entries": 604
+    "generated_at": "2026-09-08T14:14:58.4534765+00:00",
+    "fetched_at": "2026-09-08T14:15:35.982872+00:00",
+    "total_entries": 605
   },
   "entries": [
     {
@@ -192,18 +192,18 @@
     },
     {
       "rank": 24,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-06T03:20:08.585581+00:00",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
       "rank": 25,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
       "prestige_level": 45,
-      "achieved_at": "2026-09-07T12:17:29.296748+00:00",
+      "achieved_at": "2026-09-06T03:20:08.585581+00:00",
       "badge_id": ""
     },
     {
@@ -362,8 +362,8 @@
       "rank": 45,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-07T13:27:35.109809+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-08T14:10:49.578194+00:00",
       "badge_id": ""
     },
     {
