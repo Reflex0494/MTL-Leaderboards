@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T06:59:58.4530807+00:00",
-    "fetched_at": "2026-09-08T07:00:57.298462+00:00",
+    "generated_at": "2026-09-08T07:14:58.453839+00:00",
+    "fetched_at": "2026-09-08T07:15:30.986689+00:00",
     "total_entries": 602
   },
   "entries": [
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-08T07:12:23.964201+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 19,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 19,
@@ -695,19 +703,11 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 19,
       "achieved_at": "2026-09-08T01:43:58.788209+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 88,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-08T02:14:48.10624+00:00",
       "badge_id": ""
     },
     {
