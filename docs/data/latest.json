@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T00:00:58.454699+00:00",
-    "fetched_at": "2026-09-08T00:00:59.209343+00:00",
+    "generated_at": "2026-09-08T00:14:58.4545083+00:00",
+    "fetched_at": "2026-09-08T00:15:30.371451+00:00",
     "total_entries": 597
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 137,
-      "achieved_at": "2026-09-07T10:57:11.000921+00:00",
+      "prestige_level": 138,
+      "achieved_at": "2026-09-08T00:01:58.48173+00:00",
       "badge_id": ""
     },
     {
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 83,
-      "achieved_at": "2026-09-07T01:44:02.223643+00:00",
+      "prestige_level": 84,
+      "achieved_at": "2026-09-08T00:07:38.942964+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198025349919",
+      "display_name": "Feel Like Im Fuckin This Fallguy",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-08T00:09:21.974047+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -383,7 +391,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
@@ -391,7 +399,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 29,
@@ -399,15 +407,15 @@
       "badge_id": ""
     },
     {
-      "rank": 50,
-      "steam_id": "76561198025349919",
-      "display_name": "Feel Like Im Fuckin This Fallguy",
+      "rank": 51,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
       "prestige_level": 29,
-      "achieved_at": "2026-09-07T08:44:48.746795+00:00",
-      "badge_id": ""
+      "achieved_at": "2026-09-08T00:03:20.964189+00:00",
+      "badge_id": "s1_top21"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
       "prestige_level": 28,
@@ -415,20 +423,12 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 28,
       "achieved_at": "2026-09-07T23:19:25.265009+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 53,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-07T23:19:49.189357+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 54,
@@ -768,6 +768,14 @@
     },
     {
       "rank": 96,
+      "steam_id": "76561198068953694",
+      "display_name": "BREAD BOY",
+      "prestige_level": 16,
+      "achieved_at": "2026-09-08T00:11:29.391907+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 97,
       "steam_id": "76561198053866384",
       "display_name": "Wiggum",
       "prestige_level": 15,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561197998290129",
       "display_name": "ROBBYDUDE",
       "prestige_level": 15,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198092044600",
       "display_name": "Proxy",
       "prestige_level": 15,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561199076113485",
       "display_name": "Real life big trappa",
       "prestige_level": 15,
       "achieved_at": "2026-09-03T23:26:08.483322+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561197994306078",
-      "display_name": "OwenCobs",
-      "prestige_level": 15,
-      "achieved_at": "2026-09-05T10:22:01.207572+00:00",
       "badge_id": ""
     }
   ]
