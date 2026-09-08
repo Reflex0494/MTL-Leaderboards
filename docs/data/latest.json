@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T04:44:58.4541113+00:00",
-    "fetched_at": "2026-09-08T04:45:28.444275+00:00",
+    "generated_at": "2026-09-08T04:59:58.4551023+00:00",
+    "fetched_at": "2026-09-08T05:00:48.550495+00:00",
     "total_entries": 601
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 68,
-      "achieved_at": "2026-09-06T23:07:10.392449+00:00",
+      "prestige_level": 69,
+      "achieved_at": "2026-09-08T04:48:24.245267+00:00",
       "badge_id": ""
     },
     {
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-08T04:45:14.751234+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
       "prestige_level": 43,
@@ -231,20 +239,12 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 43,
       "achieved_at": "2026-09-07T17:36:49.983566+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-07T20:28:27.341112+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 31,
@@ -472,18 +472,18 @@
     },
     {
       "rank": 59,
-      "steam_id": "76561198026534468",
-      "display_name": "[\u0445] Badziy",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-06T13:14:37.031699+00:00",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-08T04:51:02.953035+00:00",
       "badge_id": ""
     },
     {
       "rank": 60,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
+      "steam_id": "76561198026534468",
+      "display_name": "[\u0445] Badziy",
       "prestige_level": 25,
-      "achieved_at": "2026-09-08T04:12:26.824386+00:00",
+      "achieved_at": "2026-09-06T13:14:37.031699+00:00",
       "badge_id": ""
     },
     {
