@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T19:44:58.4536876+00:00",
-    "fetched_at": "2026-09-09T19:45:32.620794+00:00",
+    "generated_at": "2026-09-09T19:59:58.4532308+00:00",
+    "fetched_at": "2026-09-09T20:00:48.536602+00:00",
     "total_entries": 634
   },
   "entries": [
@@ -64,19 +64,19 @@
     },
     {
       "rank": 8,
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
+      "prestige_level": 73,
+      "achieved_at": "2026-09-09T19:50:33.989457+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 9,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
       "prestige_level": 72,
       "achieved_at": "2026-09-09T01:01:05.723017+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 9,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 72,
-      "achieved_at": "2026-09-09T18:15:42.977723+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 10,
