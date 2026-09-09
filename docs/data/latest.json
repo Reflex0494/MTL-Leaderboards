@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T20:44:58.4556431+00:00",
-    "fetched_at": "2026-09-09T20:45:34.163189+00:00",
+    "generated_at": "2026-09-09T20:59:58.4532198+00:00",
+    "fetched_at": "2026-09-09T21:00:48.983875+00:00",
     "total_entries": 636
   },
   "entries": [
@@ -520,18 +520,18 @@
     },
     {
       "rank": 65,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
+      "steam_id": "76561198050651475",
+      "display_name": "Fresh 1026",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-09T20:47:17.182879+00:00",
       "badge_id": ""
     },
     {
       "rank": 66,
-      "steam_id": "76561198050651475",
-      "display_name": "Fresh 1026",
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
       "prestige_level": 25,
-      "achieved_at": "2026-09-09T03:46:24.876422+00:00",
+      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
       "badge_id": ""
     },
     {
