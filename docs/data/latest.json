@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T08:14:58.4622448+00:00",
-    "fetched_at": "2026-09-09T08:15:31.601022+00:00",
+    "generated_at": "2026-09-09T08:29:58.4542103+00:00",
+    "fetched_at": "2026-09-09T08:30:42.835615+00:00",
     "total_entries": 623
   },
   "entries": [
@@ -368,6 +368,14 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-09T08:29:02.832199+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 47,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
       "achieved_at": "2026-09-08T06:44:47.923006+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-09T07:34:20.763721+00:00",
       "badge_id": ""
     },
     {
