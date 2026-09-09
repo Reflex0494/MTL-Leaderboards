@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-08T23:59:58.4549528+00:00",
-    "fetched_at": "2026-09-09T00:00:53.346772+00:00",
-    "total_entries": 613
+    "generated_at": "2026-09-09T00:14:58.4553697+00:00",
+    "fetched_at": "2026-09-09T00:15:30.028398+00:00",
+    "total_entries": 614
   },
   "entries": [
     {
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 87,
-      "achieved_at": "2026-09-08T02:37:31.019444+00:00",
+      "prestige_level": 88,
+      "achieved_at": "2026-09-09T00:10:21.482752+00:00",
       "badge_id": ""
     },
     {
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 85,
-      "achieved_at": "2026-09-08T01:41:35.817693+00:00",
+      "prestige_level": 86,
+      "achieved_at": "2026-09-09T00:06:45.74964+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -210,8 +210,8 @@
       "rank": 26,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-06T03:20:08.585581+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-09T00:06:15.519801+00:00",
       "badge_id": ""
     },
     {
@@ -233,9 +233,9 @@
     {
       "rank": 29,
       "steam_id": "76561198076913774",
-      "display_name": "Dr. Zed",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-08T01:49:51.265011+00:00",
+      "display_name": "ksizzle22",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-09T00:12:28.549814+00:00",
       "badge_id": "og"
     },
     {
