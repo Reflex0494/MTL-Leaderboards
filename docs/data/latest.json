@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T14:14:58.453959+00:00",
-    "fetched_at": "2026-09-09T14:15:31.601645+00:00",
+    "generated_at": "2026-09-09T14:29:58.4535023+00:00",
+    "fetched_at": "2026-09-09T14:30:44.273573+00:00",
     "total_entries": 627
   },
   "entries": [
@@ -32,6 +32,14 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198020717966",
+      "display_name": "Reflex?",
+      "prestige_level": 92,
+      "achieved_at": "2026-09-09T14:28:00.660825+00:00",
+      "badge_id": "s3_third"
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
       "prestige_level": 91,
@@ -39,20 +47,12 @@
       "badge_id": ""
     },
     {
-      "rank": 5,
+      "rank": 6,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 91,
       "achieved_at": "2026-09-09T10:44:38.887+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 6,
-      "steam_id": "76561198020717966",
-      "display_name": "Reflex?",
-      "prestige_level": 91,
-      "achieved_at": "2026-09-09T12:27:16.764962+00:00",
-      "badge_id": "s3_third"
     },
     {
       "rank": 7,
@@ -184,6 +184,14 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-09T14:29:46.582801+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 24,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -191,20 +199,12 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 47,
       "achieved_at": "2026-09-09T03:18:59.560962+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 47,
-      "achieved_at": "2026-09-09T13:26:21.821732+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 26,
