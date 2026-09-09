@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T03:44:58.4550617+00:00",
-    "fetched_at": "2026-09-09T03:45:33.107173+00:00",
-    "total_entries": 618
+    "generated_at": "2026-09-09T03:59:58.454717+00:00",
+    "fetched_at": "2026-09-09T04:00:51.284089+00:00",
+    "total_entries": 619
   },
   "entries": [
     {
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198050651475",
+      "display_name": "Fresh 1026",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-09T03:46:24.876422+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -527,7 +535,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -535,7 +543,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 24,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 24,
       "achieved_at": "2026-09-09T01:20:28.466243+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198050651475",
-      "display_name": "Fresh 1026",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-09T01:34:46.474735+00:00",
       "badge_id": ""
     },
     {
@@ -594,8 +594,8 @@
       "rank": 74,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-09T01:09:34.271931+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-09T03:47:08.636817+00:00",
       "badge_id": ""
     },
     {
