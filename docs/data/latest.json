@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T17:14:58.4527135+00:00",
-    "fetched_at": "2026-09-09T17:15:29.542298+00:00",
-    "total_entries": 628
+    "generated_at": "2026-09-09T17:29:58.4542374+00:00",
+    "fetched_at": "2026-09-09T17:30:42.586483+00:00",
+    "total_entries": 629
   },
   "entries": [
     {
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 48,
-      "achieved_at": "2026-09-09T14:29:46.582801+00:00",
+      "prestige_level": 49,
+      "achieved_at": "2026-09-09T17:22:18.039355+00:00",
       "badge_id": "s2_second"
     },
     {
