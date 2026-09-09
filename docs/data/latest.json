@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T18:14:58.4552151+00:00",
-    "fetched_at": "2026-09-09T18:15:41.312105+00:00",
+    "generated_at": "2026-09-09T18:29:58.4543801+00:00",
+    "fetched_at": "2026-09-09T18:30:42.295944+00:00",
     "total_entries": 631
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
-      "prestige_level": 71,
-      "achieved_at": "2026-09-08T16:19:42.990372+00:00",
+      "prestige_level": 72,
+      "achieved_at": "2026-09-09T18:15:42.977723+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-09T17:22:18.039355+00:00",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-09T18:24:54.740368+00:00",
       "badge_id": "s2_second"
     },
     {
@@ -352,6 +352,14 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-09T18:23:42.272764+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 45,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 33,
@@ -359,20 +367,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 33,
       "achieved_at": "2026-09-09T00:38:21.688313+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 46,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-09T08:29:02.832199+00:00",
-      "badge_id": ""
     },
     {
       "rank": 47,
