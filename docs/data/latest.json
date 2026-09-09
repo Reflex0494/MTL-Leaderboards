@@ -1,17 +1,17 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T21:29:58.4539104+00:00",
-    "fetched_at": "2026-09-09T21:30:42.811528+00:00",
-    "total_entries": 636
+    "generated_at": "2026-09-09T21:44:58.4539824+00:00",
+    "fetched_at": "2026-09-09T21:45:32.412987+00:00",
+    "total_entries": 638
   },
   "entries": [
     {
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 140,
-      "achieved_at": "2026-09-09T00:49:24.640644+00:00",
+      "prestige_level": 141,
+      "achieved_at": "2026-09-09T21:41:29.530695+00:00",
       "badge_id": ""
     },
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561199100481765",
+      "display_name": "Himari",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-09T21:36:29.654333+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -551,7 +559,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -559,7 +567,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 24,
@@ -583,19 +591,11 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
       "achieved_at": "2026-09-09T03:18:24.488552+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561199100481765",
-      "display_name": "Himari",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-09T03:47:08.636817+00:00",
       "badge_id": ""
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198308394752",
+      "display_name": "Ramoneur2schneck",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-09T21:41:20.961389+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -775,7 +783,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 16,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198967280376",
       "display_name": "CriiMix",
       "prestige_level": 16,
       "achieved_at": "2026-09-07T14:16:26.826177+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198308394752",
-      "display_name": "Ramoneur2schneck",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-09T07:25:57.386102+00:00",
       "badge_id": ""
     }
   ]
