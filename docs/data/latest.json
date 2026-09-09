@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T16:44:58.455046+00:00",
-    "fetched_at": "2026-09-09T16:45:34.497996+00:00",
+    "generated_at": "2026-09-09T16:59:58.4540356+00:00",
+    "fetched_at": "2026-09-09T17:00:52.350230+00:00",
     "total_entries": 627
   },
   "entries": [
@@ -744,18 +744,18 @@
     },
     {
       "rank": 93,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561198086061180",
+      "display_name": "Tervin",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-09T16:56:26.141777+00:00",
       "badge_id": ""
     },
     {
       "rank": 94,
-      "steam_id": "76561198086061180",
-      "display_name": "Tervin",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-09-09T16:20:06.271469+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     },
     {
