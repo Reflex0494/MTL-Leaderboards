@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T09:14:58.4534795+00:00",
-    "fetched_at": "2026-09-09T09:15:30.295507+00:00",
+    "generated_at": "2026-09-09T09:29:58.4546551+00:00",
+    "fetched_at": "2026-09-09T09:30:42.169352+00:00",
     "total_entries": 624
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 69,
-      "achieved_at": "2026-09-08T20:59:03.855063+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-09-09T09:17:07.155626+00:00",
       "badge_id": ""
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
-      "prestige_level": 68,
-      "achieved_at": "2026-09-08T08:14:18.855359+00:00",
+      "prestige_level": 69,
+      "achieved_at": "2026-09-09T09:21:14.431565+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -392,18 +392,18 @@
     },
     {
       "rank": 49,
-      "steam_id": "76561198979808101",
-      "display_name": "yeee",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-09T03:27:39.448713+00:00",
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-09T09:29:15.263282+00:00",
       "badge_id": ""
     },
     {
       "rank": 50,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
+      "steam_id": "76561198979808101",
+      "display_name": "yeee",
       "prestige_level": 31,
-      "achieved_at": "2026-09-09T08:08:38.7524+00:00",
+      "achieved_at": "2026-09-09T03:27:39.448713+00:00",
       "badge_id": ""
     },
     {
