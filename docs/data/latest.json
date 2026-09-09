@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T23:14:58.4536681+00:00",
-    "fetched_at": "2026-09-09T23:15:30.583152+00:00",
-    "total_entries": 642
+    "generated_at": "2026-09-09T23:29:58.4544054+00:00",
+    "fetched_at": "2026-09-09T23:30:41.367090+00:00",
+    "total_entries": 643
   },
   "entries": [
     {
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561199100481765",
+      "display_name": "Himari",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-09T23:17:20.22329+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -535,19 +543,11 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 25,
       "achieved_at": "2026-09-09T05:15:24.58446+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561199100481765",
-      "display_name": "Himari",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-09T21:36:29.654333+00:00",
       "badge_id": ""
     },
     {
@@ -616,18 +616,18 @@
     },
     {
       "rank": 77,
-      "steam_id": "76561198063303488",
-      "display_name": "Kweekus",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-09T04:29:56.213472+00:00",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-09T23:22:54.768413+00:00",
       "badge_id": ""
     },
     {
       "rank": 78,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
+      "steam_id": "76561198063303488",
+      "display_name": "Kweekus",
       "prestige_level": 23,
-      "achieved_at": "2026-09-09T22:21:33.432274+00:00",
+      "achieved_at": "2026-09-09T04:29:56.213472+00:00",
       "badge_id": ""
     },
     {
