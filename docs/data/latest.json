@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T06:59:58.4540574+00:00",
-    "fetched_at": "2026-09-09T07:00:51.241204+00:00",
+    "generated_at": "2026-09-09T07:14:58.4539496+00:00",
+    "fetched_at": "2026-09-09T07:15:30.096313+00:00",
     "total_entries": 623
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 105,
-      "achieved_at": "2026-09-08T09:39:04.36535+00:00",
+      "prestige_level": 106,
+      "achieved_at": "2026-09-09T07:05:26.025724+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-09T07:00:43.070162+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -431,20 +439,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
       "achieved_at": "2026-08-31T15:08:07.337276+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-09T04:52:11.338458+00:00",
-      "badge_id": ""
     },
     {
       "rank": 56,
