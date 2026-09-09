@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T14:29:58.4535023+00:00",
-    "fetched_at": "2026-09-09T14:30:44.273573+00:00",
+    "generated_at": "2026-09-09T14:44:58.454261+00:00",
+    "fetched_at": "2026-09-09T14:45:34.935367+00:00",
     "total_entries": 627
   },
   "entries": [
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-09T14:37:34.607275+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -439,20 +447,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
       "achieved_at": "2026-08-31T15:08:07.337276+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-09T13:47:14.995007+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 57,
