@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T03:59:58.454717+00:00",
-    "fetched_at": "2026-09-09T04:00:51.284089+00:00",
-    "total_entries": 619
+    "generated_at": "2026-09-09T04:14:58.4553866+00:00",
+    "fetched_at": "2026-09-09T04:15:29.716952+00:00",
+    "total_entries": 620
   },
   "entries": [
     {
@@ -256,6 +256,14 @@
     },
     {
       "rank": 32,
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-09T04:07:44.113369+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 33,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -263,19 +271,11 @@
       "badge_id": ""
     },
     {
-      "rank": 33,
+      "rank": 34,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 40,
       "achieved_at": "2026-09-09T02:13:01.257079+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-09T03:06:56.884946+00:00",
       "badge_id": ""
     },
     {
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-09T04:00:34.078405+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 21,
@@ -671,19 +679,11 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T03:46:49.558061+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-09T03:06:08.830281+00:00",
       "badge_id": ""
     },
     {
