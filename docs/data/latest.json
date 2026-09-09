@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T00:44:58.4552875+00:00",
-    "fetched_at": "2026-09-09T00:45:34.647688+00:00",
+    "generated_at": "2026-09-09T00:59:58.4557174+00:00",
+    "fetched_at": "2026-09-09T01:00:49.108164+00:00",
     "total_entries": 614
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 139,
-      "achieved_at": "2026-09-08T11:05:50.354385+00:00",
+      "prestige_level": 140,
+      "achieved_at": "2026-09-09T00:49:24.640644+00:00",
       "badge_id": ""
     },
     {
@@ -96,18 +96,18 @@
     },
     {
       "rank": 12,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 68,
-      "achieved_at": "2026-09-08T08:14:18.855359+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 69,
+      "achieved_at": "2026-09-09T00:49:45.782107+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 13,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
       "prestige_level": 68,
-      "achieved_at": "2026-09-09T00:23:19.372882+00:00",
+      "achieved_at": "2026-09-08T08:14:18.855359+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198076913774",
+      "display_name": "ksizzle22",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-09T00:57:15.152656+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 28,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
       "prestige_level": 45,
@@ -223,20 +231,12 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 45,
       "achieved_at": "2026-09-08T20:29:50.159268+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198076913774",
-      "display_name": "ksizzle22",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-09T00:12:28.549814+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 30,
