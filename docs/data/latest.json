@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T14:44:58.454261+00:00",
-    "fetched_at": "2026-09-09T14:45:34.935367+00:00",
+    "generated_at": "2026-09-09T14:59:58.4541896+00:00",
+    "fetched_at": "2026-09-09T15:00:55.268127+00:00",
     "total_entries": 627
   },
   "entries": [
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-09T14:45:27.12364+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -543,7 +551,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -551,7 +559,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
       "achieved_at": "2026-09-07T18:04:32.478225+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-08T01:53:00.187973+00:00",
       "badge_id": ""
     },
     {
@@ -608,18 +608,18 @@
     },
     {
       "rank": 76,
-      "steam_id": "76561198063303488",
-      "display_name": "Kweekus",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-09T04:29:56.213472+00:00",
+      "steam_id": "76561198341901597",
+      "display_name": "SeanLoh",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-09T14:47:26.760242+00:00",
       "badge_id": ""
     },
     {
       "rank": 77,
-      "steam_id": "76561198341901597",
-      "display_name": "SeanLoh",
+      "steam_id": "76561198063303488",
+      "display_name": "Kweekus",
       "prestige_level": 23,
-      "achieved_at": "2026-09-09T13:50:07.536629+00:00",
+      "achieved_at": "2026-09-09T04:29:56.213472+00:00",
       "badge_id": ""
     },
     {
