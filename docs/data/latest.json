@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T15:29:58.4549128+00:00",
-    "fetched_at": "2026-09-09T15:30:51.158577+00:00",
+    "generated_at": "2026-09-09T15:45:58.455465+00:00",
+    "fetched_at": "2026-09-09T15:46:06.851793+00:00",
     "total_entries": 627
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 138,
-      "achieved_at": "2026-09-08T10:38:02.13472+00:00",
+      "prestige_level": 139,
+      "achieved_at": "2026-09-09T15:43:51.576325+00:00",
       "badge_id": "s3_first"
     },
     {
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-09T15:32:54.825214+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 25,
@@ -527,19 +535,11 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 25,
       "achieved_at": "2026-09-09T05:15:24.58446+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-09T14:45:27.12364+00:00",
       "badge_id": ""
     },
     {
