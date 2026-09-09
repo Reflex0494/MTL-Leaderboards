@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T05:44:58.454905+00:00",
-    "fetched_at": "2026-09-09T05:45:28.799633+00:00",
+    "generated_at": "2026-09-09T05:59:58.4552462+00:00",
+    "fetched_at": "2026-09-09T06:00:50.350000+00:00",
     "total_entries": 622
   },
   "entries": [
@@ -248,18 +248,18 @@
     },
     {
       "rank": 31,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-08T02:03:26.864597+00:00",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-09T05:49:03.806214+00:00",
       "badge_id": ""
     },
     {
       "rank": 32,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
       "prestige_level": 41,
-      "achieved_at": "2026-09-09T04:07:44.113369+00:00",
+      "achieved_at": "2026-09-08T02:03:26.864597+00:00",
       "badge_id": ""
     },
     {
