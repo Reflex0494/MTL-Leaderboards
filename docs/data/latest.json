@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T02:44:58.4551288+00:00",
-    "fetched_at": "2026-09-09T02:45:33.140077+00:00",
+    "generated_at": "2026-09-09T02:59:58.4549611+00:00",
+    "fetched_at": "2026-09-09T03:00:51.129171+00:00",
     "total_entries": 618
   },
   "entries": [
@@ -472,18 +472,18 @@
     },
     {
       "rank": 59,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-09T02:46:19.087636+00:00",
       "badge_id": ""
     },
     {
       "rank": 60,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
       "prestige_level": 26,
-      "achieved_at": "2026-09-07T23:22:24.270556+00:00",
+      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
     },
     {
