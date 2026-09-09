@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T01:44:58.4548668+00:00",
-    "fetched_at": "2026-09-09T01:45:32.226987+00:00",
-    "total_entries": 615
+    "generated_at": "2026-09-09T01:59:58.4538164+00:00",
+    "fetched_at": "2026-09-09T02:00:47.208738+00:00",
+    "total_entries": 616
   },
   "entries": [
     {
@@ -168,19 +168,19 @@
     },
     {
       "rank": 21,
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-09T01:50:59.371686+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 22,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
       "achieved_at": "2026-09-07T02:17:01.933486+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-08T01:25:32.119374+00:00",
-      "badge_id": ""
     },
     {
       "rank": 23,
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-09T01:58:01.37542+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -287,7 +295,7 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -295,20 +303,12 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 38,
       "achieved_at": "2026-09-08T22:50:08.560226+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-09T01:01:17.190528+00:00",
-      "badge_id": ""
     },
     {
       "rank": 39,
