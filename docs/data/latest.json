@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T21:44:58.4539824+00:00",
-    "fetched_at": "2026-09-09T21:45:32.412987+00:00",
+    "generated_at": "2026-09-09T21:59:58.4541398+00:00",
+    "fetched_at": "2026-09-09T22:00:49.659036+00:00",
     "total_entries": 638
   },
   "entries": [
@@ -72,18 +72,18 @@
     },
     {
       "rank": 9,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 72,
-      "achieved_at": "2026-09-09T01:01:05.723017+00:00",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 73,
+      "achieved_at": "2026-09-09T21:47:54.53636+00:00",
       "badge_id": ""
     },
     {
       "rank": 10,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
       "prestige_level": 72,
-      "achieved_at": "2026-09-09T20:27:25.406029+00:00",
+      "achieved_at": "2026-09-09T01:01:05.723017+00:00",
       "badge_id": ""
     },
     {
@@ -216,6 +216,14 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-09T21:59:32.029709+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 46,
@@ -223,7 +231,7 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561198076913774",
       "display_name": "ksizzle22",
       "prestige_level": 46,
@@ -231,27 +239,19 @@
       "badge_id": "og"
     },
     {
-      "rank": 29,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-09T21:10:11.79085+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 30,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-09T21:57:38.749242+00:00",
       "badge_id": ""
     },
     {
       "rank": 31,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-09-09T21:02:54.515151+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
