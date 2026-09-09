@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T22:14:58.4545019+00:00",
-    "fetched_at": "2026-09-09T22:15:30.001211+00:00",
-    "total_entries": 639
+    "generated_at": "2026-09-09T22:29:58.4535029+00:00",
+    "fetched_at": "2026-09-09T22:30:41.582421+00:00",
+    "total_entries": 640
   },
   "entries": [
     {
@@ -272,6 +272,14 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-09T22:16:31.652565+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 35,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -279,20 +287,12 @@
       "badge_id": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "steam_id": "76561198075415107",
       "display_name": "Lowtab prime",
       "prestige_level": 40,
       "achieved_at": "2026-09-09T20:17:38.064406+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 36,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-09T20:27:30.620834+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 37,
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-09T22:21:33.432274+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
@@ -639,20 +647,12 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 22,
       "achieved_at": "2026-09-08T03:42:54.831537+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-09T04:00:34.078405+00:00",
-      "badge_id": ""
     },
     {
       "rank": 82,
