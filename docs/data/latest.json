@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T19:29:58.4549525+00:00",
-    "fetched_at": "2026-09-09T19:30:42.964475+00:00",
+    "generated_at": "2026-09-09T19:44:58.4536876+00:00",
+    "fetched_at": "2026-09-09T19:45:32.620794+00:00",
     "total_entries": 634
   },
   "entries": [
@@ -88,19 +88,19 @@
     },
     {
       "rank": 11,
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 71,
+      "achieved_at": "2026-09-09T19:34:12.052146+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 12,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 70,
       "achieved_at": "2026-09-09T09:56:57.716197+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 70,
-      "achieved_at": "2026-09-09T13:20:12.201992+00:00",
-      "badge_id": ""
     },
     {
       "rank": 13,
