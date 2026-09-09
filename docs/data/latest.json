@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T02:59:58.4549611+00:00",
-    "fetched_at": "2026-09-09T03:00:51.129171+00:00",
+    "generated_at": "2026-09-09T03:14:58.4552664+00:00",
+    "fetched_at": "2026-09-09T03:15:32.573063+00:00",
     "total_entries": 618
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 89,
-      "achieved_at": "2026-09-09T01:36:30.563848+00:00",
+      "prestige_level": 90,
+      "achieved_at": "2026-09-09T03:10:18.827226+00:00",
       "badge_id": ""
     },
     {
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 65,
-      "achieved_at": "2026-09-09T02:25:52.41261+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-09-09T03:10:29.764297+00:00",
       "badge_id": ""
     },
     {
@@ -272,19 +272,19 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-09T03:06:56.884946+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 35,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 39,
       "achieved_at": "2026-09-08T13:54:17.964833+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-09T01:58:01.37542+00:00",
-      "badge_id": ""
     },
     {
       "rank": 36,
@@ -682,8 +682,8 @@
       "rank": 85,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-09T02:19:05.446798+00:00",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-09T03:06:08.830281+00:00",
       "badge_id": ""
     },
     {
