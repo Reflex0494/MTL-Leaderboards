@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T07:59:58.4548747+00:00",
-    "fetched_at": "2026-09-09T08:00:51.146441+00:00",
+    "generated_at": "2026-09-09T08:14:58.4622448+00:00",
+    "fetched_at": "2026-09-09T08:15:31.601022+00:00",
     "total_entries": 623
   },
   "entries": [
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-09T08:08:38.7524+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 51,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -407,7 +415,7 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
@@ -415,19 +423,11 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 30,
       "achieved_at": "2026-09-08T22:43:28.761589+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 53,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-09T07:00:43.070162+00:00",
       "badge_id": ""
     },
     {
