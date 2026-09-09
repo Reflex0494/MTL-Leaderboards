@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T02:14:58.4548107+00:00",
-    "fetched_at": "2026-09-09T02:15:31.547298+00:00",
+    "generated_at": "2026-09-09T02:29:58.4563183+00:00",
+    "fetched_at": "2026-09-09T02:30:44.169629+00:00",
     "total_entries": 616
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 64,
-      "achieved_at": "2026-09-08T03:01:06.847091+00:00",
+      "prestige_level": 65,
+      "achieved_at": "2026-09-09T02:25:52.41261+00:00",
       "badge_id": ""
     },
     {
@@ -680,6 +680,14 @@
     },
     {
       "rank": 85,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-09T02:19:05.446798+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 86,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 19,
@@ -719,20 +727,12 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 19,
       "achieved_at": "2026-09-08T14:55:39.796352+00:00",
       "badge_id": "mod"
-    },
-    {
-      "rank": 91,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-09T01:34:13.941323+00:00",
-      "badge_id": ""
     },
     {
       "rank": 92,
