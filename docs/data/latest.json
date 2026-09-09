@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T03:29:58.4550476+00:00",
-    "fetched_at": "2026-09-09T03:30:41.022579+00:00",
+    "generated_at": "2026-09-09T03:44:58.4550617+00:00",
+    "fetched_at": "2026-09-09T03:45:33.107173+00:00",
     "total_entries": 618
   },
   "entries": [
@@ -586,8 +586,8 @@
       "rank": 73,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-08T23:21:12.89013+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-09T03:32:39.282457+00:00",
       "badge_id": ""
     },
     {
