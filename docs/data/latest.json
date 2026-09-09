@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T22:44:58.4533533+00:00",
-    "fetched_at": "2026-09-09T22:45:29.612838+00:00",
-    "total_entries": 640
+    "generated_at": "2026-09-09T22:59:58.4533168+00:00",
+    "fetched_at": "2026-09-09T23:00:47.815306+00:00",
+    "total_entries": 641
   },
   "entries": [
     {
@@ -192,6 +192,14 @@
     },
     {
       "rank": 24,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-09T22:48:06.827537+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 25,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -199,7 +207,7 @@
       "badge_id": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 47,
@@ -207,19 +215,11 @@
       "badge_id": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 47,
       "achieved_at": "2026-09-09T17:33:28.77294+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 47,
-      "achieved_at": "2026-09-09T21:59:32.029709+00:00",
       "badge_id": ""
     },
     {
@@ -242,8 +242,8 @@
       "rank": 30,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-09T21:57:38.749242+00:00",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-09T22:57:39.056809+00:00",
       "badge_id": ""
     },
     {
