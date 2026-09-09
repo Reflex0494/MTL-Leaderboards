@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-09T10:59:58.4540512+00:00",
-    "fetched_at": "2026-09-09T11:00:51.971603+00:00",
+    "generated_at": "2026-09-09T11:14:58.454169+00:00",
+    "fetched_at": "2026-09-09T11:15:30.215953+00:00",
     "total_entries": 625
   },
   "entries": [
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-09T09:46:16.738077+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-09T11:04:25.734137+00:00",
       "badge_id": ""
     },
     {
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-09T11:03:56.920597+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -383,19 +391,11 @@
       "badge_id": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
       "achieved_at": "2026-09-08T06:44:47.923006+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 49,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-09T09:29:15.263282+00:00",
       "badge_id": ""
     },
     {
