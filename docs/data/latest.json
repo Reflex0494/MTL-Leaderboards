@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T01:29:58.4561561+00:00",
-    "fetched_at": "2026-09-10T01:30:41.549348+00:00",
+    "generated_at": "2026-09-10T01:44:58.4544935+00:00",
+    "fetched_at": "2026-09-10T01:45:29.860369+00:00",
     "total_entries": 643
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 74,
-      "achieved_at": "2026-09-10T00:43:05.689094+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-09-10T01:37:27.751054+00:00",
       "badge_id": ""
     },
     {
@@ -330,8 +330,8 @@
       "rank": 41,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-08T21:39:13.624455+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-09-10T01:30:01.995663+00:00",
       "badge_id": ""
     },
     {
@@ -480,6 +480,14 @@
     },
     {
       "rank": 60,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-10T01:36:52.993071+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 61,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 27,
@@ -487,19 +495,11 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 27,
       "achieved_at": "2026-09-10T00:18:31.447774+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-10T00:49:32.746689+00:00",
       "badge_id": ""
     },
     {
