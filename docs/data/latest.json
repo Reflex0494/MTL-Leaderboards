@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T03:14:58.4531922+00:00",
-    "fetched_at": "2026-09-10T03:15:32.368216+00:00",
+    "generated_at": "2026-09-10T03:29:58.454308+00:00",
+    "fetched_at": "2026-09-10T03:30:38.798486+00:00",
     "total_entries": 643
   },
   "entries": [
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-10T03:22:26.283612+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 63,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 27,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 27,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 27,
       "achieved_at": "2026-09-10T01:58:00.472838+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-10T02:16:10.217304+00:00",
       "badge_id": ""
     },
     {
