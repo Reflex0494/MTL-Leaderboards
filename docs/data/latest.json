@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T15:29:58.4539314+00:00",
-    "fetched_at": "2026-09-10T15:30:49.096778+00:00",
+    "generated_at": "2026-09-10T15:44:58.4546872+00:00",
+    "fetched_at": "2026-09-10T15:45:30.306329+00:00",
     "total_entries": 647
   },
   "entries": [
@@ -272,19 +272,19 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-10T15:34:03.980981+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 35,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 41,
       "achieved_at": "2026-09-09T22:16:31.652565+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-10T09:16:55.342061+00:00",
-      "badge_id": ""
     },
     {
       "rank": 36,
@@ -552,18 +552,18 @@
     },
     {
       "rank": 69,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
+      "steam_id": "76561197974754170",
+      "display_name": "Vaupell",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-10T15:44:08.872918+00:00",
       "badge_id": ""
     },
     {
       "rank": 70,
-      "steam_id": "76561197974754170",
-      "display_name": "Vaupell",
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
       "prestige_level": 25,
-      "achieved_at": "2026-09-10T15:09:54.86657+00:00",
+      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
       "badge_id": ""
     },
     {
