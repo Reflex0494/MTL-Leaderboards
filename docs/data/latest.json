@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T05:14:58.4549687+00:00",
-    "fetched_at": "2026-09-10T05:15:34.589740+00:00",
+    "generated_at": "2026-09-10T05:29:58.454159+00:00",
+    "fetched_at": "2026-09-10T05:30:39.711182+00:00",
     "total_entries": 644
   },
   "entries": [
@@ -184,19 +184,19 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-10T05:29:33.158683+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 24,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
       "achieved_at": "2026-09-07T02:17:01.933486+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 24,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-10T04:12:47.789022+00:00",
-      "badge_id": ""
     },
     {
       "rank": 25,
@@ -456,19 +456,19 @@
     },
     {
       "rank": 57,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-10T05:29:35.669316+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 58,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
       "achieved_at": "2026-09-08T21:07:49.970372+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-09T03:17:38.836808+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 59,
