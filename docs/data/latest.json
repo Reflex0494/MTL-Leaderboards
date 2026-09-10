@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T06:29:58.4555671+00:00",
-    "fetched_at": "2026-09-10T06:30:43.912558+00:00",
+    "generated_at": "2026-09-10T06:44:58.4532432+00:00",
+    "fetched_at": "2026-09-10T06:45:38.395235+00:00",
     "total_entries": 644
   },
   "entries": [
@@ -176,19 +176,19 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-10T06:38:18.277687+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
       "achieved_at": "2026-09-03T04:44:54.903499+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-10T05:29:33.158683+00:00",
-      "badge_id": ""
     },
     {
       "rank": 24,
@@ -216,18 +216,18 @@
     },
     {
       "rank": 27,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-10T06:42:12.448614+00:00",
       "badge_id": ""
     },
     {
       "rank": 28,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-09T03:18:59.560962+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
@@ -440,6 +440,14 @@
     },
     {
       "rank": 55,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-10T06:30:42.91461+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 56,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -447,19 +455,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
       "achieved_at": "2026-08-31T15:08:07.337276+00:00",
-      "badge_id": "s3_top21"
-    },
-    {
-      "rank": 57,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-10T05:29:35.669316+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -752,18 +752,18 @@
     },
     {
       "rank": 94,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561198308394752",
+      "display_name": "Ramoneur2schneck",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-10T06:40:25.694898+00:00",
       "badge_id": ""
     },
     {
       "rank": 95,
-      "steam_id": "76561198308394752",
-      "display_name": "Ramoneur2schneck",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-09-09T21:41:20.961389+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     },
     {
