@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T19:59:58.4540634+00:00",
-    "fetched_at": "2026-09-10T20:00:51.976600+00:00",
+    "generated_at": "2026-09-10T20:14:58.4546175+00:00",
+    "fetched_at": "2026-09-10T20:15:31.930075+00:00",
     "total_entries": 650
   },
   "entries": [
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-08T13:54:17.964833+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-10T20:09:19.956555+00:00",
       "badge_id": "og"
     },
     {
@@ -530,8 +530,8 @@
       "rank": 66,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-10T00:18:31.447774+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-10T20:09:02.053141+00:00",
       "badge_id": ""
     },
     {
