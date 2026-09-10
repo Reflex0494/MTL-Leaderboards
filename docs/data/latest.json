@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T00:59:58.4534838+00:00",
-    "fetched_at": "2026-09-10T01:00:49.686668+00:00",
+    "generated_at": "2026-09-10T01:14:58.4546804+00:00",
+    "fetched_at": "2026-09-10T01:15:28.852280+00:00",
     "total_entries": 643
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 92,
-      "achieved_at": "2026-09-09T14:28:00.660825+00:00",
+      "prestige_level": 93,
+      "achieved_at": "2026-09-10T01:06:36.041114+00:00",
       "badge_id": "s3_third"
     },
     {
@@ -176,19 +176,19 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-10T01:02:27.230386+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
       "achieved_at": "2026-09-07T02:17:01.933486+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-09T18:24:54.740368+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 24,
@@ -232,18 +232,18 @@
     },
     {
       "rank": 29,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-10T01:05:19.539521+00:00",
       "badge_id": ""
     },
     {
       "rank": 30,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-09-10T00:07:36.34305+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
@@ -474,8 +474,8 @@
       "rank": 59,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-09T02:46:19.087636+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-10T01:09:30.963312+00:00",
       "badge_id": ""
     },
     {
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-10T01:11:00.554712+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -543,19 +551,11 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 25,
       "achieved_at": "2026-09-09T05:15:24.58446+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-10T00:20:32.782041+00:00",
       "badge_id": ""
     },
     {
