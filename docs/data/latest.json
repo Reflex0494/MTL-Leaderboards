@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T15:00:58.4546901+00:00",
-    "fetched_at": "2026-09-10T15:01:02.525992+00:00",
-    "total_entries": 646
+    "generated_at": "2026-09-10T15:14:58.4524286+00:00",
+    "fetched_at": "2026-09-10T15:15:33.540517+00:00",
+    "total_entries": 647
   },
   "entries": [
     {
@@ -560,6 +560,14 @@
     },
     {
       "rank": 70,
+      "steam_id": "76561197974754170",
+      "display_name": "Vaupell",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-10T15:09:54.86657+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 71,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -567,7 +575,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -575,7 +583,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 24,
@@ -599,19 +607,11 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
       "achieved_at": "2026-09-09T03:18:24.488552+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561197974754170",
-      "display_name": "Vaupell",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-09T14:05:35.040788+00:00",
       "badge_id": ""
     },
     {
