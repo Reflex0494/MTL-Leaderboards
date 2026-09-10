@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T06:44:58.4532432+00:00",
-    "fetched_at": "2026-09-10T06:45:38.395235+00:00",
+    "generated_at": "2026-09-10T06:59:58.4540664+00:00",
+    "fetched_at": "2026-09-10T07:00:50.600578+00:00",
     "total_entries": 644
   },
   "entries": [
@@ -344,18 +344,18 @@
     },
     {
       "rank": 43,
-      "steam_id": "76561198426141872",
-      "display_name": "G_behindert",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-08T22:27:35.460635+00:00",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-10T06:50:46.331658+00:00",
       "badge_id": ""
     },
     {
       "rank": 44,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
+      "steam_id": "76561198426141872",
+      "display_name": "G_behindert",
       "prestige_level": 34,
-      "achieved_at": "2026-09-09T18:23:42.272764+00:00",
+      "achieved_at": "2026-09-08T22:27:35.460635+00:00",
       "badge_id": ""
     },
     {
@@ -544,18 +544,18 @@
     },
     {
       "rank": 68,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-10T06:46:19.387511+00:00",
       "badge_id": ""
     },
     {
       "rank": 69,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
       "prestige_level": 25,
-      "achieved_at": "2026-09-09T05:15:24.58446+00:00",
+      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
       "badge_id": ""
     },
     {
