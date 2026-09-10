@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T02:14:58.4540654+00:00",
-    "fetched_at": "2026-09-10T02:15:29.546422+00:00",
+    "generated_at": "2026-09-10T02:29:58.4532946+00:00",
+    "fetched_at": "2026-09-10T02:30:42.031301+00:00",
     "total_entries": 643
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 72,
-      "achieved_at": "2026-09-09T01:01:05.723017+00:00",
+      "prestige_level": 73,
+      "achieved_at": "2026-09-10T02:16:48.071932+00:00",
       "badge_id": ""
     },
     {
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-10T02:16:10.217304+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -527,19 +535,11 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
       "achieved_at": "2026-09-08T18:32:56.633984+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-10T01:11:00.554712+00:00",
       "badge_id": ""
     },
     {
