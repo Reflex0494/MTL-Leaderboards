@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T04:44:58.4543747+00:00",
-    "fetched_at": "2026-09-10T04:45:29.889501+00:00",
+    "generated_at": "2026-09-10T04:59:58.4557569+00:00",
+    "fetched_at": "2026-09-10T05:00:52.253988+00:00",
     "total_entries": 644
   },
   "entries": [
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-10T04:59:34.821421+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 80,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -639,20 +647,12 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
       "achieved_at": "2026-09-06T02:46:47.768747+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-08T03:42:54.831537+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 82,
