@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T07:44:58.4534699+00:00",
-    "fetched_at": "2026-09-10T07:45:30.396279+00:00",
+    "generated_at": "2026-09-10T07:59:58.454082+00:00",
+    "fetched_at": "2026-09-10T08:00:49.719903+00:00",
     "total_entries": 644
   },
   "entries": [
@@ -336,18 +336,18 @@
     },
     {
       "rank": 42,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-10T00:51:31.324973+00:00",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-10T07:51:51.782185+00:00",
       "badge_id": ""
     },
     {
       "rank": 43,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
       "prestige_level": 35,
-      "achieved_at": "2026-09-10T06:50:46.331658+00:00",
+      "achieved_at": "2026-09-10T00:51:31.324973+00:00",
       "badge_id": ""
     },
     {
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-10T07:57:45.243859+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -535,19 +543,11 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
       "achieved_at": "2026-09-08T18:32:56.633984+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-10T06:46:19.387511+00:00",
       "badge_id": ""
     },
     {
