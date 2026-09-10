@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T00:14:58.4546932+00:00",
-    "fetched_at": "2026-09-10T00:15:30.276555+00:00",
+    "generated_at": "2026-09-10T00:29:58.4552275+00:00",
+    "fetched_at": "2026-09-10T00:30:43.279127+00:00",
     "total_entries": 643
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 87,
-      "achieved_at": "2026-09-09T01:35:27.384989+00:00",
+      "prestige_level": 88,
+      "achieved_at": "2026-09-10T00:22:13.034295+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 69,
-      "achieved_at": "2026-09-09T00:49:45.782107+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-09-10T00:20:13.444984+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198050651475",
+      "display_name": "Fresh 1026",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-10T00:18:31.447774+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -495,7 +503,7 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 26,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 26,
       "achieved_at": "2026-09-09T15:32:54.825214+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198050651475",
-      "display_name": "Fresh 1026",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-09T20:47:17.182879+00:00",
       "badge_id": ""
     },
     {
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-10T00:20:32.782041+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -559,7 +567,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -567,7 +575,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 24,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 24,
@@ -607,19 +615,11 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 24,
       "achieved_at": "2026-09-09T14:47:26.760242+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-09T23:22:54.768413+00:00",
       "badge_id": ""
     },
     {
