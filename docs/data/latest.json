@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T00:44:58.4540027+00:00",
-    "fetched_at": "2026-09-10T00:45:30.798172+00:00",
+    "generated_at": "2026-09-10T00:59:58.4534838+00:00",
+    "fetched_at": "2026-09-10T01:00:49.686668+00:00",
     "total_entries": 643
   },
   "entries": [
@@ -96,18 +96,18 @@
     },
     {
       "rank": 12,
-      "steam_id": "76561198028639677",
-      "display_name": "Axzid",
-      "prestige_level": 70,
-      "achieved_at": "2026-09-09T09:56:57.716197+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 71,
+      "achieved_at": "2026-09-10T00:57:43.603143+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 13,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561198028639677",
+      "display_name": "Axzid",
       "prestige_level": 70,
-      "achieved_at": "2026-09-10T00:20:13.444984+00:00",
+      "achieved_at": "2026-09-09T09:56:57.716197+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -224,19 +224,19 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198076913774",
+      "display_name": "Thomas Story Kirkbride",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-10T00:54:21.388777+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 29,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 46,
       "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198076913774",
-      "display_name": "ksizzle22",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-09T00:57:15.152656+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 30,
@@ -338,8 +338,8 @@
       "rank": 42,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-08T19:14:32.413231+00:00",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-10T00:51:31.324973+00:00",
       "badge_id": ""
     },
     {
@@ -370,8 +370,8 @@
       "rank": 46,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-08T16:00:22.296028+00:00",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-10T00:54:29.472712+00:00",
       "badge_id": "og"
     },
     {
@@ -496,18 +496,18 @@
     },
     {
       "rank": 62,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-10T00:49:32.746689+00:00",
       "badge_id": ""
     },
     {
       "rank": 63,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
+      "steam_id": "76561198010421170",
+      "display_name": "Lubricants",
       "prestige_level": 26,
-      "achieved_at": "2026-09-08T01:29:52.000323+00:00",
+      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
       "badge_id": ""
     },
     {
