@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T21:59:58.4541058+00:00",
-    "fetched_at": "2026-09-10T22:00:53.049606+00:00",
+    "generated_at": "2026-09-10T22:14:58.4553763+00:00",
+    "fetched_at": "2026-09-10T22:15:30.084023+00:00",
     "total_entries": 650
   },
   "entries": [
@@ -184,19 +184,19 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-10T22:02:27.061288+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 24,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
       "achieved_at": "2026-09-03T04:44:54.903499+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 24,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-10T21:04:44.481732+00:00",
-      "badge_id": ""
     },
     {
       "rank": 25,
