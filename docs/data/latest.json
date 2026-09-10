@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T18:14:58.4540949+00:00",
-    "fetched_at": "2026-09-10T18:15:34.566698+00:00",
+    "generated_at": "2026-09-10T18:29:58.4550593+00:00",
+    "fetched_at": "2026-09-10T18:30:52.698853+00:00",
     "total_entries": 648
   },
   "entries": [
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-10T18:16:24.902502+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -711,19 +719,11 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
       "achieved_at": "2026-09-06T07:35:06.955806+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 90,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-06T21:51:09.478946+00:00",
       "badge_id": ""
     },
     {
