@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T03:29:58.454308+00:00",
-    "fetched_at": "2026-09-10T03:30:38.798486+00:00",
+    "generated_at": "2026-09-10T03:44:58.4551867+00:00",
+    "fetched_at": "2026-09-10T03:45:37.796005+00:00",
     "total_entries": 643
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 67,
-      "achieved_at": "2026-09-10T02:47:58.164892+00:00",
+      "prestige_level": 68,
+      "achieved_at": "2026-09-10T03:37:06.904186+00:00",
       "badge_id": ""
     },
     {
@@ -208,6 +208,14 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561198076913774",
+      "display_name": "Thomas Story Kirkbride",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-10T03:31:29.828276+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 27,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -215,7 +223,7 @@
       "badge_id": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 47,
@@ -223,20 +231,12 @@
       "badge_id": ""
     },
     {
-      "rank": 28,
+      "rank": 29,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 47,
       "achieved_at": "2026-09-09T17:33:28.77294+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198076913774",
-      "display_name": "Thomas Story Kirkbride",
-      "prestige_level": 47,
-      "achieved_at": "2026-09-10T00:54:21.388777+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 30,
