@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-10T17:44:58.4552633+00:00",
-    "fetched_at": "2026-09-10T17:45:36.581849+00:00",
+    "generated_at": "2026-09-10T17:59:58.4547598+00:00",
+    "fetched_at": "2026-09-10T18:00:56.759580+00:00",
     "total_entries": 648
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 75,
-      "achieved_at": "2026-09-10T01:37:27.751054+00:00",
+      "prestige_level": 76,
+      "achieved_at": "2026-09-10T17:53:29.885123+00:00",
       "badge_id": ""
     },
     {
@@ -346,8 +346,8 @@
       "rank": 43,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-10T00:51:31.324973+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-10T17:52:26.566186+00:00",
       "badge_id": ""
     },
     {
