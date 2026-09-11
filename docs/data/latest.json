@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T21:59:58.453507+00:00",
-    "fetched_at": "2026-09-11T22:00:52.306973+00:00",
+    "generated_at": "2026-09-11T22:14:58.4537348+00:00",
+    "fetched_at": "2026-09-11T22:15:37.277396+00:00",
     "total_entries": 661
   },
   "entries": [
@@ -224,19 +224,19 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 49,
+      "achieved_at": "2026-09-11T22:11:08.081533+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 29,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 48,
       "achieved_at": "2026-09-10T18:33:37.296665+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 48,
-      "achieved_at": "2026-09-11T21:25:41.445502+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 30,
