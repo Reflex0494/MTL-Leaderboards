@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T00:59:58.454525+00:00",
-    "fetched_at": "2026-09-11T01:00:52.019041+00:00",
+    "generated_at": "2026-09-11T01:14:58.4545542+00:00",
+    "fetched_at": "2026-09-11T01:15:31.731908+00:00",
     "total_entries": 651
   },
   "entries": [
@@ -768,6 +768,14 @@
     },
     {
       "rank": 96,
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-11T01:04:23.973377+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 97,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -783,7 +791,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 16,
       "achieved_at": "2026-09-07T06:59:04.760259+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198967280376",
-      "display_name": "CriiMix",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-07T14:16:26.826177+00:00",
       "badge_id": ""
     }
   ]
