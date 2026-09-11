@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T04:59:58.4532239+00:00",
-    "fetched_at": "2026-09-11T05:00:55.111251+00:00",
+    "generated_at": "2026-09-11T05:14:58.4542017+00:00",
+    "fetched_at": "2026-09-11T05:15:30.911021+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-11T05:02:30.81507+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -311,7 +319,7 @@
       "badge_id": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -319,19 +327,11 @@
       "badge_id": ""
     },
     {
-      "rank": 40,
+      "rank": 41,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 38,
       "achieved_at": "2026-09-10T19:16:57.203336+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 41,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-11T03:54:10.161443+00:00",
       "badge_id": ""
     },
     {
