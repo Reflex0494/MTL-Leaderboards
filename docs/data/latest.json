@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T03:59:58.4541955+00:00",
-    "fetched_at": "2026-09-11T04:00:51.517170+00:00",
+    "generated_at": "2026-09-11T04:14:58.4600992+00:00",
+    "fetched_at": "2026-09-11T04:15:32.269888+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -72,19 +72,19 @@
     },
     {
       "rank": 9,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 75,
+      "achieved_at": "2026-09-11T04:11:46.395742+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 10,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
       "prestige_level": 74,
       "achieved_at": "2026-09-10T03:02:43.306313+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 10,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 74,
-      "achieved_at": "2026-09-11T03:46:53.034489+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 11,
@@ -378,8 +378,8 @@
       "rank": 47,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-09T11:03:56.920597+00:00",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-11T04:12:42.729636+00:00",
       "badge_id": ""
     },
     {
@@ -410,8 +410,8 @@
       "rank": 51,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-11T02:44:51.769041+00:00",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-11T04:05:27.198485+00:00",
       "badge_id": ""
     },
     {
