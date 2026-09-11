@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T07:14:58.4549446+00:00",
-    "fetched_at": "2026-09-11T07:15:29.599104+00:00",
-    "total_entries": 654
+    "generated_at": "2026-09-11T07:29:58.4546145+00:00",
+    "fetched_at": "2026-09-11T07:30:40.492650+00:00",
+    "total_entries": 656
   },
   "entries": [
     {
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-11T07:22:36.950036+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
@@ -655,19 +663,11 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 22,
       "achieved_at": "2026-09-11T04:34:29.45585+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-11T05:49:03.881229+00:00",
       "badge_id": ""
     },
     {
