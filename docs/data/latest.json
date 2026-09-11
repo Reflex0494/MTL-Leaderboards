@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T10:14:58.4581607+00:00",
-    "fetched_at": "2026-09-11T10:15:33.894564+00:00",
+    "generated_at": "2026-09-11T10:29:58.4547931+00:00",
+    "fetched_at": "2026-09-11T10:30:43.604186+00:00",
     "total_entries": 656
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 142,
-      "achieved_at": "2026-09-10T16:28:30.064166+00:00",
+      "prestige_level": 143,
+      "achieved_at": "2026-09-11T10:19:05.249835+00:00",
       "badge_id": ""
     },
     {
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 109,
-      "achieved_at": "2026-09-10T11:52:02.829704+00:00",
+      "prestige_level": 110,
+      "achieved_at": "2026-09-11T10:25:55.468573+00:00",
       "badge_id": "s3_top21"
     },
     {
