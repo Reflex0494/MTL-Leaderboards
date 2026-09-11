@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T15:14:58.4544103+00:00",
-    "fetched_at": "2026-09-11T15:15:30.352518+00:00",
+    "generated_at": "2026-09-11T15:29:58.4543362+00:00",
+    "fetched_at": "2026-09-11T15:30:40.253519+00:00",
     "total_entries": 656
   },
   "entries": [
@@ -250,8 +250,8 @@
       "rank": 31,
       "steam_id": "76561198075415107",
       "display_name": "Lowtab prime",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-11T10:02:33.594183+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-11T15:23:47.755412+00:00",
       "badge_id": ""
     },
     {
