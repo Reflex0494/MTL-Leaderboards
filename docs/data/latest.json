@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T01:14:58.4545542+00:00",
-    "fetched_at": "2026-09-11T01:15:31.731908+00:00",
-    "total_entries": 651
+    "generated_at": "2026-09-11T01:29:58.4550739+00:00",
+    "fetched_at": "2026-09-11T01:30:41.802637+00:00",
+    "total_entries": 653
   },
   "entries": [
     {
@@ -40,19 +40,19 @@
     },
     {
       "rank": 5,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 95,
+      "achieved_at": "2026-09-11T01:27:54.103581+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 6,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
       "prestige_level": 94,
       "achieved_at": "2026-09-10T02:03:22.513806+00:00",
       "badge_id": "s3_third"
-    },
-    {
-      "rank": 6,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 94,
-      "achieved_at": "2026-09-11T00:03:02.240875+00:00",
-      "badge_id": ""
     },
     {
       "rank": 7,
@@ -218,8 +218,8 @@
       "rank": 27,
       "steam_id": "76561198076913774",
       "display_name": "Thomas Story Kirkbride",
-      "prestige_level": 48,
-      "achieved_at": "2026-09-10T03:31:29.828276+00:00",
+      "prestige_level": 49,
+      "achieved_at": "2026-09-11T01:17:35.213426+00:00",
       "badge_id": "og"
     },
     {
