@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T03:44:58.453388+00:00",
-    "fetched_at": "2026-09-11T03:45:37.942406+00:00",
+    "generated_at": "2026-09-11T03:59:58.4541955+00:00",
+    "fetched_at": "2026-09-11T04:00:51.517170+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -80,18 +80,18 @@
     },
     {
       "rank": 10,
-      "steam_id": "76561197976793673",
-      "display_name": "Omeletil",
-      "prestige_level": 73,
-      "achieved_at": "2026-09-09T19:50:33.989457+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 74,
+      "achieved_at": "2026-09-11T03:46:53.034489+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 11,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561197976793673",
+      "display_name": "Omeletil",
       "prestige_level": 73,
-      "achieved_at": "2026-09-11T03:24:48.380685+00:00",
+      "achieved_at": "2026-09-09T19:50:33.989457+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -328,18 +328,18 @@
     },
     {
       "rank": 41,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-11T03:54:10.161443+00:00",
       "badge_id": ""
     },
     {
       "rank": 42,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 37,
-      "achieved_at": "2026-09-10T21:53:34.017087+00:00",
+      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
     },
     {
