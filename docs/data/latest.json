@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T22:14:58.4537348+00:00",
-    "fetched_at": "2026-09-11T22:15:37.277396+00:00",
+    "generated_at": "2026-09-11T22:29:58.4553864+00:00",
+    "fetched_at": "2026-09-11T22:30:40.785214+00:00",
     "total_entries": 661
   },
   "entries": [
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 62,
-      "achieved_at": "2026-09-11T21:31:30.585655+00:00",
+      "prestige_level": 63,
+      "achieved_at": "2026-09-11T22:24:46.06401+00:00",
       "badge_id": ""
     },
     {
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-11T22:17:46.788704+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -295,20 +303,12 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 40,
       "achieved_at": "2026-09-10T20:09:19.956555+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-11T20:44:00.873272+00:00",
-      "badge_id": ""
     },
     {
       "rank": 39,
