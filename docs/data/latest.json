@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T01:59:58.4541091+00:00",
-    "fetched_at": "2026-09-11T02:00:50.741683+00:00",
+    "generated_at": "2026-09-11T02:14:58.4547646+00:00",
+    "fetched_at": "2026-09-11T02:15:34.983506+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 68,
-      "achieved_at": "2026-09-10T03:37:06.904186+00:00",
+      "prestige_level": 69,
+      "achieved_at": "2026-09-11T02:00:49.008318+00:00",
       "badge_id": ""
     },
     {
@@ -480,6 +480,14 @@
     },
     {
       "rank": 60,
+      "steam_id": "76561199100481765",
+      "display_name": "Himari",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-11T02:14:23.081263+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 61,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -487,7 +495,7 @@
       "badge_id": ""
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 28,
@@ -495,7 +503,7 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 28,
@@ -503,19 +511,11 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 28,
       "achieved_at": "2026-09-10T03:07:01.066908+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561199100481765",
-      "display_name": "Himari",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-10T18:39:03.191769+00:00",
       "badge_id": ""
     },
     {
