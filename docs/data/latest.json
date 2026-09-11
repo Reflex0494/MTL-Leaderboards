@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T20:59:58.4541272+00:00",
-    "fetched_at": "2026-09-11T21:00:51.458920+00:00",
+    "generated_at": "2026-09-11T21:14:58.4548553+00:00",
+    "fetched_at": "2026-09-11T21:15:34.505778+00:00",
     "total_entries": 661
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 76,
-      "achieved_at": "2026-09-10T17:53:29.885123+00:00",
+      "prestige_level": 77,
+      "achieved_at": "2026-09-11T21:13:09.908967+00:00",
       "badge_id": ""
     },
     {
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-11T21:00:16.923858+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 28,
       "achieved_at": "2026-09-10T01:09:30.963312+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-10T03:07:01.066908+00:00",
       "badge_id": ""
     },
     {
