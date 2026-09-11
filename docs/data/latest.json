@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T02:29:58.4538545+00:00",
-    "fetched_at": "2026-09-11T02:30:42.140161+00:00",
+    "generated_at": "2026-09-11T02:44:58.4548752+00:00",
+    "fetched_at": "2026-09-11T02:45:30.464730+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 69,
-      "achieved_at": "2026-09-11T02:00:49.008318+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-09-11T02:41:33.539882+00:00",
       "badge_id": ""
     },
     {
@@ -408,6 +408,14 @@
     },
     {
       "rank": 51,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-11T02:44:51.769041+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 52,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -415,7 +423,7 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 30,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 30,
@@ -439,20 +447,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 30,
       "achieved_at": "2026-09-10T06:30:42.91461+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-10T23:55:46.087841+00:00",
-      "badge_id": ""
     },
     {
       "rank": 57,
