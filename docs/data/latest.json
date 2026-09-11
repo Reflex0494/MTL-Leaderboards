@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T05:29:58.4544753+00:00",
-    "fetched_at": "2026-09-11T05:30:41.408930+00:00",
+    "generated_at": "2026-09-11T05:44:58.4542578+00:00",
+    "fetched_at": "2026-09-11T05:45:30.580848+00:00",
     "total_entries": 654
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 96,
-      "achieved_at": "2026-09-11T04:42:38.032855+00:00",
+      "prestige_level": 97,
+      "achieved_at": "2026-09-11T05:42:29.750986+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -138,8 +138,8 @@
       "rank": 17,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 58,
-      "achieved_at": "2026-09-11T04:39:11.775215+00:00",
+      "prestige_level": 59,
+      "achieved_at": "2026-09-11T05:35:55.591069+00:00",
       "badge_id": ""
     },
     {
