@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T02:59:58.454722+00:00",
-    "fetched_at": "2026-09-11T03:00:54.251521+00:00",
+    "generated_at": "2026-09-11T03:14:58.4542914+00:00",
+    "fetched_at": "2026-09-11T03:15:31.059847+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -32,19 +32,19 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 96,
+      "achieved_at": "2026-09-11T03:13:50.080509+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 95,
       "achieved_at": "2026-09-10T09:53:17.708941+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 5,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 95,
-      "achieved_at": "2026-09-11T01:27:54.103581+00:00",
-      "badge_id": ""
     },
     {
       "rank": 6,
@@ -96,19 +96,19 @@
     },
     {
       "rank": 12,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 72,
+      "achieved_at": "2026-09-11T03:04:42.142981+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 13,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
       "prestige_level": 71,
       "achieved_at": "2026-09-09T17:05:29.026333+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 13,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 71,
-      "achieved_at": "2026-09-10T00:57:43.603143+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 14,
@@ -760,26 +760,26 @@
     },
     {
       "rank": 95,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561198846044671",
+      "display_name": "mrstevens05",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-11T03:01:17.895486+00:00",
       "badge_id": ""
     },
     {
       "rank": 96,
       "steam_id": "76561198050855635",
       "display_name": "UnlikelyFloof",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-11T01:04:23.973377+00:00",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-11T03:09:25.660628+00:00",
       "badge_id": ""
     },
     {
       "rank": 97,
-      "steam_id": "76561198846044671",
-      "display_name": "mrstevens05",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-09-11T02:19:22.890687+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     },
     {
