@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T06:14:58.4562091+00:00",
-    "fetched_at": "2026-09-11T06:15:30.680611+00:00",
+    "generated_at": "2026-09-11T06:29:58.4542991+00:00",
+    "fetched_at": "2026-09-11T06:30:45.458738+00:00",
     "total_entries": 654
   },
   "entries": [
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
-      "prestige_level": 72,
-      "achieved_at": "2026-09-10T12:12:07.321028+00:00",
+      "prestige_level": 73,
+      "achieved_at": "2026-09-11T06:26:44.33647+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561199100481765",
+      "display_name": "Himari",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-11T06:16:36.665006+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 30,
@@ -447,7 +455,7 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 30,
@@ -455,7 +463,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 30,
@@ -463,19 +471,11 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 30,
       "achieved_at": "2026-09-11T03:33:24.304041+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561199100481765",
-      "display_name": "Himari",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-11T03:39:57.232302+00:00",
       "badge_id": ""
     },
     {
