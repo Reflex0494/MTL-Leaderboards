@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T17:44:58.4541079+00:00",
-    "fetched_at": "2026-09-11T17:45:34.971663+00:00",
+    "generated_at": "2026-09-11T17:59:58.4549737+00:00",
+    "fetched_at": "2026-09-11T18:00:51.029590+00:00",
     "total_entries": 658
   },
   "entries": [
@@ -72,19 +72,19 @@
     },
     {
       "rank": 9,
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
+      "prestige_level": 76,
+      "achieved_at": "2026-09-11T17:49:41.36638+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 10,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 75,
       "achieved_at": "2026-09-11T04:11:46.395742+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 10,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 75,
-      "achieved_at": "2026-09-11T06:35:58.36494+00:00",
-      "badge_id": ""
     },
     {
       "rank": 11,
