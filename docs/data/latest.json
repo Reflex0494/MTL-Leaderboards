@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T02:14:58.4547646+00:00",
-    "fetched_at": "2026-09-11T02:15:34.983506+00:00",
+    "generated_at": "2026-09-11T02:29:58.4538545+00:00",
+    "fetched_at": "2026-09-11T02:30:42.140161+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -208,19 +208,19 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561198076913774",
+      "display_name": "Thomas Story Kirkbride",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-11T02:19:58.543712+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 27,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
       "achieved_at": "2026-09-10T07:33:28.070898+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198076913774",
-      "display_name": "Thomas Story Kirkbride",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-11T01:17:35.213426+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 28,
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-11T02:29:24.709004+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -495,19 +503,11 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 28,
       "achieved_at": "2026-09-10T01:09:30.963312+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-10T01:36:52.993071+00:00",
       "badge_id": ""
     },
     {
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198846044671",
+      "display_name": "mrstevens05",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-11T02:19:22.890687+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198120247642",
       "display_name": "bran",
       "prestige_level": 16,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561197970965822",
       "display_name": "Mus",
       "prestige_level": 16,
@@ -791,19 +799,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198278205043",
       "display_name": "XyberBatTV",
       "prestige_level": 16,
       "achieved_at": "2026-09-03T10:02:00.773751+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198081404484",
-      "display_name": "Maggie",
-      "prestige_level": 16,
-      "achieved_at": "2026-09-07T06:59:04.760259+00:00",
       "badge_id": ""
     }
   ]
