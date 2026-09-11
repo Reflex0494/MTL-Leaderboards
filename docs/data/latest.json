@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T05:44:58.4542578+00:00",
-    "fetched_at": "2026-09-11T05:45:30.580848+00:00",
+    "generated_at": "2026-09-11T05:59:58.4556244+00:00",
+    "fetched_at": "2026-09-11T06:00:49.107534+00:00",
     "total_entries": 654
   },
   "entries": [
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561199055511626",
+      "display_name": "DadBotMatias",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-11T05:51:05.476934+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
@@ -431,7 +439,7 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 30,
@@ -439,20 +447,12 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 30,
       "achieved_at": "2026-09-09T14:37:34.607275+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561199055511626",
-      "display_name": "DadBotMatias",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-10T06:30:42.91461+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 57,
@@ -664,6 +664,14 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-11T05:49:03.881229+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -679,19 +687,11 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T03:46:49.558061+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-10T19:45:19.860156+00:00",
       "badge_id": ""
     },
     {
