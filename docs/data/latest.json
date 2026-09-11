@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T02:44:58.4548752+00:00",
-    "fetched_at": "2026-09-11T02:45:30.464730+00:00",
+    "generated_at": "2026-09-11T02:59:58.454722+00:00",
+    "fetched_at": "2026-09-11T03:00:54.251521+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-11T02:46:47.430603+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 63,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 28,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 28,
       "achieved_at": "2026-09-10T03:07:01.066908+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-10T19:22:16.315405+00:00",
       "badge_id": ""
     },
     {
