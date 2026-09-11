@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-11T04:29:58.4546853+00:00",
-    "fetched_at": "2026-09-11T04:30:44.589735+00:00",
+    "generated_at": "2026-09-11T04:44:58.454705+00:00",
+    "fetched_at": "2026-09-11T04:45:28.923094+00:00",
     "total_entries": 653
   },
   "entries": [
@@ -34,16 +34,16 @@
       "rank": 4,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 96,
-      "achieved_at": "2026-09-11T03:13:50.080509+00:00",
+      "prestige_level": 97,
+      "achieved_at": "2026-09-11T04:39:28.576298+00:00",
       "badge_id": ""
     },
     {
       "rank": 5,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 95,
-      "achieved_at": "2026-09-10T09:53:17.708941+00:00",
+      "prestige_level": 96,
+      "achieved_at": "2026-09-11T04:42:38.032855+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -136,18 +136,18 @@
     },
     {
       "rank": 17,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-08T05:39:36.153985+00:00",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-11T04:39:11.775215+00:00",
       "badge_id": ""
     },
     {
       "rank": 18,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
       "prestige_level": 57,
-      "achieved_at": "2026-09-11T03:42:26.6043+00:00",
+      "achieved_at": "2026-09-08T05:39:36.153985+00:00",
       "badge_id": ""
     },
     {
@@ -656,6 +656,14 @@
     },
     {
       "rank": 82,
+      "steam_id": "76561198044622006",
+      "display_name": "ThyMisfit",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-11T04:34:29.45585+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 83,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -663,19 +671,11 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
       "achieved_at": "2026-08-29T19:09:34.516942+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-03T09:40:05.757573+00:00",
       "badge_id": ""
     },
     {
