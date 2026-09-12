@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T20:59:58.455592+00:00",
-    "fetched_at": "2026-09-12T21:00:50.480527+00:00",
+    "generated_at": "2026-09-12T21:14:58.4551414+00:00",
+    "fetched_at": "2026-09-12T21:15:33.300227+00:00",
     "total_entries": 670
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 97,
-      "achieved_at": "2026-09-11T04:39:28.576298+00:00",
+      "prestige_level": 98,
+      "achieved_at": "2026-09-12T21:05:20.380096+00:00",
       "badge_id": ""
     },
     {
@@ -152,18 +152,18 @@
     },
     {
       "rank": 19,
-      "steam_id": "76561198119588380",
-      "display_name": "w1ll1am1564",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-08T05:39:36.153985+00:00",
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-12T21:12:02.735766+00:00",
       "badge_id": ""
     },
     {
       "rank": 20,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
+      "steam_id": "76561198119588380",
+      "display_name": "w1ll1am1564",
       "prestige_level": 57,
-      "achieved_at": "2026-09-12T20:08:34.455068+00:00",
+      "achieved_at": "2026-09-08T05:39:36.153985+00:00",
       "badge_id": ""
     },
     {
