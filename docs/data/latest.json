@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T03:14:58.4534121+00:00",
-    "fetched_at": "2026-09-12T03:15:28.959050+00:00",
+    "generated_at": "2026-09-12T03:29:58.4559584+00:00",
+    "fetched_at": "2026-09-12T03:30:41.875395+00:00",
     "total_entries": 663
   },
   "entries": [
@@ -72,19 +72,19 @@
     },
     {
       "rank": 9,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 77,
+      "achieved_at": "2026-09-12T03:15:03.574195+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 10,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
       "prestige_level": 76,
       "achieved_at": "2026-09-11T17:49:41.36638+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 10,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 76,
-      "achieved_at": "2026-09-12T01:23:17.682596+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 11,
@@ -640,18 +640,18 @@
     },
     {
       "rank": 80,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-11T07:22:36.950036+00:00",
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-12T03:15:42.684597+00:00",
       "badge_id": ""
     },
     {
       "rank": 81,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
       "prestige_level": 23,
-      "achieved_at": "2026-09-12T01:13:03.454028+00:00",
+      "achieved_at": "2026-09-11T07:22:36.950036+00:00",
       "badge_id": ""
     },
     {
