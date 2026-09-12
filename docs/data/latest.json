@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T18:44:58.4543112+00:00",
-    "fetched_at": "2026-09-12T18:45:34.656505+00:00",
+    "generated_at": "2026-09-12T18:59:58.4543842+00:00",
+    "fetched_at": "2026-09-12T19:00:53.350086+00:00",
     "total_entries": 668
   },
   "entries": [
@@ -64,6 +64,14 @@
     },
     {
       "rank": 8,
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
+      "prestige_level": 78,
+      "achieved_at": "2026-09-12T18:48:34.373272+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 9,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 77,
@@ -71,20 +79,12 @@
       "badge_id": ""
     },
     {
-      "rank": 9,
+      "rank": 10,
       "steam_id": "76561197975191379",
       "display_name": "verb",
       "prestige_level": 77,
       "achieved_at": "2026-09-12T03:15:03.574195+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 10,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 77,
-      "achieved_at": "2026-09-12T06:05:22.944279+00:00",
-      "badge_id": ""
     },
     {
       "rank": 11,
@@ -160,18 +160,18 @@
     },
     {
       "rank": 20,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 56,
+      "achieved_at": "2026-09-12T18:46:07.373959+00:00",
       "badge_id": ""
     },
     {
       "rank": 21,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
       "prestige_level": 55,
-      "achieved_at": "2026-09-12T17:47:17.3786+00:00",
+      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
       "badge_id": ""
     },
     {
