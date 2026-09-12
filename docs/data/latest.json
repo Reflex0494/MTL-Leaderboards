@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T08:29:58.4556059+00:00",
-    "fetched_at": "2026-09-12T08:30:40.306435+00:00",
+    "generated_at": "2026-09-12T08:44:58.4564404+00:00",
+    "fetched_at": "2026-09-12T08:45:31.320814+00:00",
     "total_entries": 665
   },
   "entries": [
@@ -248,18 +248,18 @@
     },
     {
       "rank": 31,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-12T08:41:38.010599+00:00",
       "badge_id": ""
     },
     {
       "rank": 32,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-09-11T15:23:47.755412+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
