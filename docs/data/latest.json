@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T02:29:58.4551013+00:00",
-    "fetched_at": "2026-09-12T02:30:39.888158+00:00",
+    "generated_at": "2026-09-12T02:44:58.4535705+00:00",
+    "fetched_at": "2026-09-12T02:45:30.581743+00:00",
     "total_entries": 662
   },
   "entries": [
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 68,
-      "achieved_at": "2026-09-12T01:36:34.003462+00:00",
+      "prestige_level": 69,
+      "achieved_at": "2026-09-12T02:31:53.849485+00:00",
       "badge_id": ""
     },
     {
@@ -392,6 +392,14 @@
     },
     {
       "rank": 49,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-12T02:32:22.361433+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 50,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -399,7 +407,7 @@
       "badge_id": ""
     },
     {
-      "rank": 50,
+      "rank": 51,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -407,7 +415,7 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 32,
@@ -415,7 +423,7 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 32,
@@ -423,19 +431,11 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 32,
       "achieved_at": "2026-09-11T22:38:53.402449+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-12T01:23:06.449425+00:00",
       "badge_id": ""
     },
     {
