@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T01:14:58.4539866+00:00",
-    "fetched_at": "2026-09-12T01:15:31.034841+00:00",
-    "total_entries": 661
+    "generated_at": "2026-09-12T01:29:58.4551005+00:00",
+    "fetched_at": "2026-09-12T01:30:41.151438+00:00",
+    "total_entries": 662
   },
   "entries": [
     {
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 75,
-      "achieved_at": "2026-09-11T04:11:46.395742+00:00",
+      "prestige_level": 76,
+      "achieved_at": "2026-09-12T01:23:17.682596+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-12T01:23:06.449425+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 31,
@@ -439,19 +447,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 31,
       "achieved_at": "2026-09-11T22:57:23.658426+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-12T00:34:17.157079+00:00",
       "badge_id": ""
     },
     {
