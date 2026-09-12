@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T03:59:58.4556569+00:00",
-    "fetched_at": "2026-09-12T04:00:53.634019+00:00",
+    "generated_at": "2026-09-12T04:14:58.4539394+00:00",
+    "fetched_at": "2026-09-12T04:15:28.793054+00:00",
     "total_entries": 664
   },
   "entries": [
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 69,
-      "achieved_at": "2026-09-12T02:31:53.849485+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-09-12T04:08:01.668564+00:00",
       "badge_id": ""
     },
     {
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-12T04:11:23.95715+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 60,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -479,19 +487,11 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-11T03:33:24.304041+00:00",
       "badge_id": ""
     },
     {
