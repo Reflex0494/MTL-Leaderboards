@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T19:59:58.4545876+00:00",
-    "fetched_at": "2026-09-12T20:00:51.151904+00:00",
+    "generated_at": "2026-09-12T20:14:58.45471+00:00",
+    "fetched_at": "2026-09-12T20:15:29.981988+00:00",
     "total_entries": 668
   },
   "entries": [
@@ -162,8 +162,8 @@
       "rank": 20,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 56,
-      "achieved_at": "2026-09-12T18:46:07.373959+00:00",
+      "prestige_level": 57,
+      "achieved_at": "2026-09-12T20:08:34.455068+00:00",
       "badge_id": ""
     },
     {
@@ -336,6 +336,14 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-12T20:09:10.046182+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 43,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -343,20 +351,12 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 37,
       "achieved_at": "2026-09-12T02:07:28.005283+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 37,
-      "achieved_at": "2026-09-12T18:24:59.779666+00:00",
-      "badge_id": ""
     },
     {
       "rank": 45,
