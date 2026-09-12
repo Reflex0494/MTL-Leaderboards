@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T02:44:58.4535705+00:00",
-    "fetched_at": "2026-09-12T02:45:30.581743+00:00",
-    "total_entries": 662
+    "generated_at": "2026-09-12T02:59:58.4533246+00:00",
+    "fetched_at": "2026-09-12T03:00:54.501078+00:00",
+    "total_entries": 663
   },
   "entries": [
     {
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
-      "prestige_level": 71,
-      "achieved_at": "2026-09-12T01:51:07.388049+00:00",
+      "prestige_level": 72,
+      "achieved_at": "2026-09-12T02:57:59.465181+00:00",
       "badge_id": ""
     },
     {
