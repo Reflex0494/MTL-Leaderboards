@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T08:14:58.4556384+00:00",
-    "fetched_at": "2026-09-12T08:15:36.602716+00:00",
+    "generated_at": "2026-09-12T08:29:58.4556059+00:00",
+    "fetched_at": "2026-09-12T08:30:40.306435+00:00",
     "total_entries": 665
   },
   "entries": [
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
-      "prestige_level": 64,
-      "achieved_at": "2026-09-11T08:39:35.581441+00:00",
+      "prestige_level": 65,
+      "achieved_at": "2026-09-12T08:23:51.903157+00:00",
       "badge_id": ""
     },
     {
@@ -282,16 +282,16 @@
       "rank": 35,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-09T11:54:01.132613+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-12T08:24:58.981277+00:00",
       "badge_id": ""
     },
     {
       "rank": 36,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-12T07:24:09.756019+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-12T08:26:58.873678+00:00",
       "badge_id": ""
     },
     {
