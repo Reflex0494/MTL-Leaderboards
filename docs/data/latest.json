@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T00:00:58.4546939+00:00",
-    "fetched_at": "2026-09-12T00:01:00.835622+00:00",
+    "generated_at": "2026-09-12T00:14:58.455203+00:00",
+    "fetched_at": "2026-09-12T00:15:30.448936+00:00",
     "total_entries": 661
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
-      "prestige_level": 91,
-      "achieved_at": "2026-09-11T04:45:02.740455+00:00",
+      "prestige_level": 92,
+      "achieved_at": "2026-09-12T00:12:17.743539+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -200,19 +200,19 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561198076913774",
+      "display_name": "Thomas Story Kirkbride",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-12T00:05:24.270636+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 26,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
       "achieved_at": "2026-09-07T02:17:01.933486+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 26,
-      "steam_id": "76561198076913774",
-      "display_name": "Thomas Story Kirkbride",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-11T02:19:58.543712+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 27,
