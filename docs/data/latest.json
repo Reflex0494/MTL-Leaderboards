@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T03:29:58.4559584+00:00",
-    "fetched_at": "2026-09-12T03:30:41.875395+00:00",
-    "total_entries": 663
+    "generated_at": "2026-09-12T03:44:58.4544448+00:00",
+    "fetched_at": "2026-09-12T03:45:40.326067+00:00",
+    "total_entries": 664
   },
   "entries": [
     {
@@ -104,18 +104,18 @@
     },
     {
       "rank": 13,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
-      "prestige_level": 72,
-      "achieved_at": "2026-09-11T15:04:51.507323+00:00",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
+      "prestige_level": 73,
+      "achieved_at": "2026-09-12T03:31:50.055501+00:00",
       "badge_id": ""
     },
     {
       "rank": 14,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
       "prestige_level": 72,
-      "achieved_at": "2026-09-12T02:57:59.465181+00:00",
+      "achieved_at": "2026-09-11T15:04:51.507323+00:00",
       "badge_id": ""
     },
     {
