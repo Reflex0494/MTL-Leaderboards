@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T04:29:58.4539635+00:00",
-    "fetched_at": "2026-09-12T04:30:43.505596+00:00",
+    "generated_at": "2026-09-12T04:44:58.4538174+00:00",
+    "fetched_at": "2026-09-12T04:45:32.241854+00:00",
     "total_entries": 664
   },
   "entries": [
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 70,
-      "achieved_at": "2026-09-12T04:08:01.668564+00:00",
+      "prestige_level": 71,
+      "achieved_at": "2026-09-12T04:39:33.988938+00:00",
       "badge_id": ""
     },
     {
