@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T06:44:58.454923+00:00",
-    "fetched_at": "2026-09-12T06:45:32.121668+00:00",
+    "generated_at": "2026-09-12T06:59:58.4533793+00:00",
+    "fetched_at": "2026-09-12T07:00:50.949904+00:00",
     "total_entries": 665
   },
   "entries": [
@@ -104,18 +104,18 @@
     },
     {
       "rank": 13,
-      "steam_id": "76561197967629639",
-      "display_name": "WillFM",
-      "prestige_level": 73,
-      "achieved_at": "2026-09-12T03:31:50.055501+00:00",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 74,
+      "achieved_at": "2026-09-12T06:58:03.200969+00:00",
       "badge_id": ""
     },
     {
       "rank": 14,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
+      "steam_id": "76561197967629639",
+      "display_name": "WillFM",
       "prestige_level": 73,
-      "achieved_at": "2026-09-12T05:59:33.318547+00:00",
+      "achieved_at": "2026-09-12T03:31:50.055501+00:00",
       "badge_id": ""
     },
     {
