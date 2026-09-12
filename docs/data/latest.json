@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-12T05:14:58.4547152+00:00",
-    "fetched_at": "2026-09-12T05:15:31.369700+00:00",
+    "generated_at": "2026-09-12T05:29:58.4547915+00:00",
+    "fetched_at": "2026-09-12T05:30:40.274064+00:00",
     "total_entries": 664
   },
   "entries": [
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 71,
-      "achieved_at": "2026-09-12T04:39:33.988938+00:00",
+      "prestige_level": 72,
+      "achieved_at": "2026-09-12T05:26:33.803127+00:00",
       "badge_id": ""
     },
     {
@@ -560,18 +560,18 @@
     },
     {
       "rank": 70,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
+      "steam_id": "76561198063303488",
+      "display_name": "Kweekus",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-12T05:18:18.012604+00:00",
       "badge_id": ""
     },
     {
       "rank": 71,
-      "steam_id": "76561198063303488",
-      "display_name": "Kweekus",
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
       "prestige_level": 25,
-      "achieved_at": "2026-09-12T02:15:46.908191+00:00",
+      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
       "badge_id": ""
     },
     {
