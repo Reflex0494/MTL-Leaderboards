@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-13T03:44:58.4555633+00:00",
-    "fetched_at": "2026-09-13T03:45:35.074234+00:00",
-    "total_entries": 674
+    "generated_at": "2026-09-13T03:59:58.4556047+00:00",
+    "fetched_at": "2026-09-13T04:00:51.202334+00:00",
+    "total_entries": 675
   },
   "entries": [
     {
@@ -568,18 +568,18 @@
     },
     {
       "rank": 71,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-13T03:50:15.965508+00:00",
       "badge_id": ""
     },
     {
       "rank": 72,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
       "prestige_level": 25,
-      "achieved_at": "2026-09-13T02:54:47.347925+00:00",
+      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
       "badge_id": ""
     },
     {
