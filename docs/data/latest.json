@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-13T00:44:58.4609408+00:00",
-    "fetched_at": "2026-09-13T00:45:31.490635+00:00",
+    "generated_at": "2026-09-13T00:59:58.4558403+00:00",
+    "fetched_at": "2026-09-13T01:00:52.290248+00:00",
     "total_entries": 673
   },
   "entries": [
@@ -72,19 +72,19 @@
     },
     {
       "rank": 9,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 78,
+      "achieved_at": "2026-09-13T00:51:18.216563+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 10,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 77,
       "achieved_at": "2026-09-11T21:13:09.908967+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 10,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 77,
-      "achieved_at": "2026-09-12T03:15:03.574195+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 11,
@@ -394,8 +394,8 @@
       "rank": 49,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-12T02:32:22.361433+00:00",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-13T00:47:46.27512+00:00",
       "badge_id": ""
     },
     {
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-13T00:49:59.730146+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -431,19 +439,11 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
       "achieved_at": "2026-09-08T06:44:47.923006+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-11T04:05:27.198485+00:00",
       "badge_id": ""
     },
     {
