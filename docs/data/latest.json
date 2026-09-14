@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T04:29:58.4535941+00:00",
-    "fetched_at": "2026-09-14T04:30:40.600691+00:00",
+    "generated_at": "2026-09-14T04:44:58.4542401+00:00",
+    "fetched_at": "2026-09-14T04:45:30.286664+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -88,19 +88,19 @@
     },
     {
       "rank": 11,
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 77,
+      "achieved_at": "2026-09-14T04:31:27.795673+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 12,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 76,
       "achieved_at": "2026-09-12T10:39:10.178363+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 76,
-      "achieved_at": "2026-09-14T02:12:21.132611+00:00",
-      "badge_id": ""
     },
     {
       "rank": 13,
