@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T17:29:58.4535439+00:00",
-    "fetched_at": "2026-09-14T17:30:41.620911+00:00",
+    "generated_at": "2026-09-14T17:44:58.4545416+00:00",
+    "fetched_at": "2026-09-14T17:45:33.743496+00:00",
     "total_entries": 699
   },
   "entries": [
@@ -72,18 +72,18 @@
     },
     {
       "rank": 9,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 79,
-      "achieved_at": "2026-09-14T03:20:43.937155+00:00",
+      "steam_id": "76561197985446261",
+      "display_name": "SentientWaffle",
+      "prestige_level": 80,
+      "achieved_at": "2026-09-14T17:38:46.7222+00:00",
       "badge_id": ""
     },
     {
       "rank": 10,
-      "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
       "prestige_level": 79,
-      "achieved_at": "2026-09-14T14:23:25.179222+00:00",
+      "achieved_at": "2026-09-14T03:20:43.937155+00:00",
       "badge_id": ""
     },
     {
@@ -200,19 +200,19 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-14T17:32:16.852441+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 26,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
       "achieved_at": "2026-09-03T04:44:54.903499+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 26,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-14T16:42:47.800483+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 27,
