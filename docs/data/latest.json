@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T13:14:58.4545846+00:00",
-    "fetched_at": "2026-09-14T13:15:31.020203+00:00",
+    "generated_at": "2026-09-14T13:29:58.4542898+00:00",
+    "fetched_at": "2026-09-14T13:30:43.642743+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-14T13:15:08.281165+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661",
       "prestige_level": 24,
@@ -591,7 +599,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -599,7 +607,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 24,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 24,
@@ -639,20 +647,12 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 24,
       "achieved_at": "2026-09-11T04:57:56.405101+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-14T12:22:41.43043+00:00",
-      "badge_id": ""
     },
     {
       "rank": 82,
