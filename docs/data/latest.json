@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T15:14:58.4539802+00:00",
-    "fetched_at": "2026-09-14T15:15:32.137756+00:00",
+    "generated_at": "2026-09-14T15:29:58.4548396+00:00",
+    "fetched_at": "2026-09-14T15:30:43.758789+00:00",
     "total_entries": 698
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 101,
-      "achieved_at": "2026-09-14T13:05:51.4041+00:00",
+      "prestige_level": 102,
+      "achieved_at": "2026-09-14T15:18:49.082709+00:00",
       "badge_id": ""
     },
     {
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198075415107",
+      "display_name": "Lowtab prime",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-14T15:27:40.395982+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
@@ -231,20 +239,12 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 49,
       "achieved_at": "2026-09-11T22:11:08.081533+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-13T06:52:45.920692+00:00",
-      "badge_id": ""
     },
     {
       "rank": 31,
