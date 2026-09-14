@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T08:14:58.4564325+00:00",
-    "fetched_at": "2026-09-14T08:15:29.180746+00:00",
+    "generated_at": "2026-09-14T08:29:58.4543198+00:00",
+    "fetched_at": "2026-09-14T08:30:42.497250+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-14T08:19:53.932183+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 19,
@@ -751,7 +759,7 @@
       "badge_id": "mod"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198308394752",
       "display_name": "Ramoneur2schneck",
       "prestige_level": 19,
@@ -759,19 +767,11 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 19,
       "achieved_at": "2026-09-14T06:29:32.91304+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 96,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-14T07:26:38.229111+00:00",
       "badge_id": ""
     },
     {
