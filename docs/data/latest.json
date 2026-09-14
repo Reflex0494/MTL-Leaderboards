@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T18:44:58.4545029+00:00",
-    "fetched_at": "2026-09-14T18:45:28.839293+00:00",
+    "generated_at": "2026-09-14T18:59:58.4537084+00:00",
+    "fetched_at": "2026-09-14T19:00:53.679279+00:00",
     "total_entries": 700
   },
   "entries": [
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-14T18:56:11.732241+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 28,
@@ -543,19 +551,11 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
       "achieved_at": "2026-09-14T04:51:40.563141+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-14T17:05:38.06222+00:00",
       "badge_id": ""
     },
     {
