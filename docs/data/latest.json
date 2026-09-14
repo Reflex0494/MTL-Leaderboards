@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T04:14:58.455029+00:00",
-    "fetched_at": "2026-09-14T04:15:33.981402+00:00",
+    "generated_at": "2026-09-14T04:29:58.4535941+00:00",
+    "fetched_at": "2026-09-14T04:30:40.600691+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -176,6 +176,14 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561198239903508",
+      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
+      "prestige_level": 56,
+      "achieved_at": "2026-09-14T04:17:26.863076+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
       "prestige_level": 55,
@@ -183,20 +191,12 @@
       "badge_id": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 55,
       "achieved_at": "2026-09-13T21:02:01.48406+00:00",
       "badge_id": "s2_second"
-    },
-    {
-      "rank": 24,
-      "steam_id": "76561198239903508",
-      "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-14T03:24:25.379163+00:00",
-      "badge_id": ""
     },
     {
       "rank": 25,
