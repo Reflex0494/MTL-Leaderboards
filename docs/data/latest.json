@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T05:59:58.45465+00:00",
-    "fetched_at": "2026-09-14T06:00:52.112966+00:00",
+    "generated_at": "2026-09-14T06:15:58.4547899+00:00",
+    "fetched_at": "2026-09-14T06:16:17.222908+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198081404484",
+      "display_name": "Maggie",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-14T06:04:50.927098+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -783,19 +791,11 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198801139746",
       "display_name": "st00pid",
       "prestige_level": 17,
       "achieved_at": "2026-09-13T01:10:45.143355+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561198081404484",
-      "display_name": "Maggie",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-14T05:38:42.435445+00:00",
       "badge_id": ""
     },
     {
