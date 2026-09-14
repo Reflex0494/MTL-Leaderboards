@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T08:59:58.4539484+00:00",
-    "fetched_at": "2026-09-14T09:00:53.108405+00:00",
+    "generated_at": "2026-09-14T09:14:58.4555296+00:00",
+    "fetched_at": "2026-09-14T09:15:30.729885+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -704,18 +704,18 @@
     },
     {
       "rank": 88,
-      "steam_id": "76561198086061180",
-      "display_name": "Tervin",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-14T01:58:08.54823+00:00",
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-14T09:09:18.293629+00:00",
       "badge_id": ""
     },
     {
       "rank": 89,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
+      "steam_id": "76561198086061180",
+      "display_name": "Tervin",
       "prestige_level": 20,
-      "achieved_at": "2026-09-14T08:19:53.932183+00:00",
+      "achieved_at": "2026-09-14T01:58:08.54823+00:00",
       "badge_id": ""
     },
     {
