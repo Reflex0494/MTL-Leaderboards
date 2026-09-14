@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T21:59:58.4548062+00:00",
-    "fetched_at": "2026-09-14T22:00:51.603391+00:00",
+    "generated_at": "2026-09-14T22:14:58.4549291+00:00",
+    "fetched_at": "2026-09-14T22:15:28.896805+00:00",
     "total_entries": 703
   },
   "entries": [
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561197960452653",
-      "display_name": "Widgets",
-      "prestige_level": 17,
-      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-14T22:01:23.04222+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561198801139746",
-      "display_name": "st00pid",
+      "steam_id": "76561197960452653",
+      "display_name": "Widgets",
       "prestige_level": 17,
-      "achieved_at": "2026-09-13T01:10:45.143355+00:00",
+      "achieved_at": "2026-08-30T03:25:55.385552+00:00",
       "badge_id": ""
     }
   ]
