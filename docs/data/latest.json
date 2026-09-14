@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T14:14:58.4543917+00:00",
-    "fetched_at": "2026-09-14T14:15:32.380187+00:00",
-    "total_entries": 697
+    "generated_at": "2026-09-14T14:29:58.4549349+00:00",
+    "fetched_at": "2026-09-14T14:30:43.285687+00:00",
+    "total_entries": 698
   },
   "entries": [
     {
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 78,
-      "achieved_at": "2026-09-13T15:11:09.396059+00:00",
+      "prestige_level": 79,
+      "achieved_at": "2026-09-14T14:23:25.179222+00:00",
       "badge_id": ""
     },
     {
@@ -576,18 +576,18 @@
     },
     {
       "rank": 72,
-      "steam_id": "76561198652837951",
-      "display_name": "TheGreatDandini",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-14T14:16:39.527019+00:00",
       "badge_id": ""
     },
     {
       "rank": 73,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
+      "steam_id": "76561198652837951",
+      "display_name": "TheGreatDandini",
       "prestige_level": 25,
-      "achieved_at": "2026-09-14T13:15:08.281165+00:00",
+      "achieved_at": "2026-09-08T19:39:03.180222+00:00",
       "badge_id": ""
     },
     {
