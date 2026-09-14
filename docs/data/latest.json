@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T04:44:58.4542401+00:00",
-    "fetched_at": "2026-09-14T04:45:30.286664+00:00",
+    "generated_at": "2026-09-14T04:59:58.4538446+00:00",
+    "fetched_at": "2026-09-14T05:00:52.870690+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -546,8 +546,8 @@
       "rank": 68,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-13T20:27:49.632442+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-14T04:51:40.563141+00:00",
       "badge_id": ""
     },
     {
