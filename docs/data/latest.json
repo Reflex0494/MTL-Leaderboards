@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T14:44:58.4564333+00:00",
-    "fetched_at": "2026-09-14T14:45:32.555272+00:00",
+    "generated_at": "2026-09-14T14:59:58.4558867+00:00",
+    "fetched_at": "2026-09-14T15:00:54.544233+00:00",
     "total_entries": 698
   },
   "entries": [
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561197969063615",
+      "display_name": "CallMyDad",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-14T14:56:38.670364+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -447,20 +455,12 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 32,
       "achieved_at": "2026-09-11T21:45:50.854012+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 57,
-      "steam_id": "76561197969063615",
-      "display_name": "CallMyDad",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-13T01:56:11.203828+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 58,
