@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T15:29:58.4548396+00:00",
-    "fetched_at": "2026-09-14T15:30:43.758789+00:00",
+    "generated_at": "2026-09-14T15:45:58.4547188+00:00",
+    "fetched_at": "2026-09-14T15:46:05.751747+00:00",
     "total_entries": 698
   },
   "entries": [
@@ -232,19 +232,19 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-14T15:45:21.607333+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 30,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
       "achieved_at": "2026-09-10T07:33:28.070898+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-11T22:11:08.081533+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 31,
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-14T15:35:47.462246+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -567,19 +575,11 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 26,
       "achieved_at": "2026-09-10T15:44:08.872918+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-14T14:16:39.527019+00:00",
       "badge_id": ""
     },
     {
