@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T09:59:58.4566374+00:00",
-    "fetched_at": "2026-09-14T10:00:52.407786+00:00",
+    "generated_at": "2026-09-14T10:14:58.4547422+00:00",
+    "fetched_at": "2026-09-14T10:15:29.748343+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
-      "prestige_level": 69,
-      "achieved_at": "2026-09-14T09:19:44.802334+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-09-14T10:02:58.029956+00:00",
       "badge_id": ""
     },
     {
@@ -264,18 +264,18 @@
     },
     {
       "rank": 33,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-14T10:07:48.019103+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-09-13T21:31:28.751953+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
