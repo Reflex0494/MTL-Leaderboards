@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T11:29:58.4542156+00:00",
-    "fetched_at": "2026-09-14T11:30:46.319007+00:00",
+    "generated_at": "2026-09-14T11:44:58.4531772+00:00",
+    "fetched_at": "2026-09-14T11:45:32.563475+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
-      "prestige_level": 101,
-      "achieved_at": "2026-09-14T10:20:23.648683+00:00",
+      "prestige_level": 102,
+      "achieved_at": "2026-09-14T11:43:12.895455+00:00",
       "badge_id": "s3_third"
     },
     {
