@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T06:29:58.4535728+00:00",
-    "fetched_at": "2026-09-14T06:30:43.345145+00:00",
+    "generated_at": "2026-09-14T06:44:58.4542692+00:00",
+    "fetched_at": "2026-09-14T06:45:31.472786+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 18,
+      "achieved_at": "2026-09-14T06:42:52.601501+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561197960452653",
       "display_name": "Widgets",
       "prestige_level": 17,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198801139746",
       "display_name": "st00pid",
       "prestige_level": 17,
       "achieved_at": "2026-09-13T01:10:45.143355+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 17,
-      "achieved_at": "2026-09-14T05:43:08.261181+00:00",
       "badge_id": ""
     }
   ]
