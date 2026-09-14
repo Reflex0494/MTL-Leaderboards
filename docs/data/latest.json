@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T17:14:58.4544569+00:00",
-    "fetched_at": "2026-09-14T17:15:31.060493+00:00",
-    "total_entries": 698
+    "generated_at": "2026-09-14T17:29:58.4535439+00:00",
+    "fetched_at": "2026-09-14T17:30:41.620911+00:00",
+    "total_entries": 699
   },
   "entries": [
     {
@@ -392,6 +392,14 @@
     },
     {
       "rank": 49,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-14T17:16:15.692717+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 50,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -399,7 +407,7 @@
       "badge_id": ""
     },
     {
-      "rank": 50,
+      "rank": 51,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -407,7 +415,7 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 34,
@@ -415,19 +423,11 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 34,
       "achieved_at": "2026-09-14T03:53:58.302322+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 53,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-14T03:56:13.477296+00:00",
       "badge_id": ""
     },
     {
