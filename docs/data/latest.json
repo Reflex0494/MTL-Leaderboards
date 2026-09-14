@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T12:14:58.4545204+00:00",
-    "fetched_at": "2026-09-14T12:15:30.480135+00:00",
+    "generated_at": "2026-09-14T12:29:58.4533587+00:00",
+    "fetched_at": "2026-09-14T12:30:43.352305+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -648,18 +648,18 @@
     },
     {
       "rank": 81,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-11T07:22:36.950036+00:00",
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-14T12:22:41.43043+00:00",
       "badge_id": ""
     },
     {
       "rank": 82,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
       "prestige_level": 23,
-      "achieved_at": "2026-09-14T11:07:17.366443+00:00",
+      "achieved_at": "2026-09-11T07:22:36.950036+00:00",
       "badge_id": ""
     },
     {
