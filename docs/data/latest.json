@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T21:14:58.4543452+00:00",
-    "fetched_at": "2026-09-14T21:15:30.640221+00:00",
+    "generated_at": "2026-09-14T21:29:58.4552567+00:00",
+    "fetched_at": "2026-09-14T21:30:38.003840+00:00",
     "total_entries": 703
   },
   "entries": [
@@ -384,18 +384,18 @@
     },
     {
       "rank": 48,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-14T01:23:44.042325+00:00",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 37,
+      "achieved_at": "2026-09-14T21:25:40.260517+00:00",
       "badge_id": ""
     },
     {
       "rank": 49,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
       "prestige_level": 36,
-      "achieved_at": "2026-09-14T18:32:32.143386+00:00",
+      "achieved_at": "2026-09-14T01:23:44.042325+00:00",
       "badge_id": ""
     },
     {
