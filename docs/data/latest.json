@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-14T05:29:58.4546237+00:00",
-    "fetched_at": "2026-09-14T05:30:40.862956+00:00",
+    "generated_at": "2026-09-14T05:44:58.4541738+00:00",
+    "fetched_at": "2026-09-14T05:45:30.595630+00:00",
     "total_entries": 697
   },
   "entries": [
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-14T05:34:58.391446+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -311,20 +319,12 @@
       "badge_id": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 40,
       "achieved_at": "2026-09-10T20:09:19.956555+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-13T14:20:49.889298+00:00",
-      "badge_id": ""
     },
     {
       "rank": 41,
@@ -792,19 +792,19 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561198120247642",
-      "display_name": "bran",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-26T01:56:34.879386+00:00",
+      "steam_id": "76561198081404484",
+      "display_name": "Maggie",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-14T05:38:42.435445+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561197970965822",
-      "display_name": "Mus",
-      "prestige_level": 16,
-      "achieved_at": "2026-08-27T20:39:52.983427+00:00",
-      "badge_id": "og"
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 17,
+      "achieved_at": "2026-09-14T05:43:08.261181+00:00",
+      "badge_id": ""
     }
   ]
 }
