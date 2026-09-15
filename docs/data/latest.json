@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T05:59:58.4561699+00:00",
-    "fetched_at": "2026-09-15T06:00:48.131167+00:00",
+    "generated_at": "2026-09-15T06:14:58.4553927+00:00",
+    "fetched_at": "2026-09-15T06:15:31.873707+00:00",
     "total_entries": 711
   },
   "entries": [
@@ -344,6 +344,14 @@
     },
     {
       "rank": 43,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-15T06:05:00.357868+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 44,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -351,7 +359,7 @@
       "badge_id": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -359,7 +367,7 @@
       "badge_id": ""
     },
     {
-      "rank": 45,
+      "rank": 46,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 38,
@@ -367,7 +375,7 @@
       "badge_id": ""
     },
     {
-      "rank": 46,
+      "rank": 47,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 38,
@@ -375,20 +383,12 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 38,
       "achieved_at": "2026-09-15T02:20:16.605923+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-15T04:16:31.73111+00:00",
-      "badge_id": ""
     },
     {
       "rank": 49,
