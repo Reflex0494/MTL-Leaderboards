@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T00:59:58.45558+00:00",
-    "fetched_at": "2026-09-15T01:00:51.682689+00:00",
-    "total_entries": 707
+    "generated_at": "2026-09-15T01:14:58.4550648+00:00",
+    "fetched_at": "2026-09-15T01:15:31.425419+00:00",
+    "total_entries": 708
   },
   "entries": [
     {
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-14T05:34:58.391446+00:00",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-15T01:01:43.470866+00:00",
       "badge_id": ""
     },
     {
@@ -536,18 +536,18 @@
     },
     {
       "rank": 67,
-      "steam_id": "76561198043224364",
-      "display_name": "Icekoolr",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-08T21:07:49.970372+00:00",
+      "steam_id": "76561198050651475",
+      "display_name": "Fresh 1026",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-15T01:08:13.764193+00:00",
       "badge_id": ""
     },
     {
       "rank": 68,
-      "steam_id": "76561198050651475",
-      "display_name": "Fresh 1026",
+      "steam_id": "76561198043224364",
+      "display_name": "Icekoolr",
       "prestige_level": 28,
-      "achieved_at": "2026-09-10T20:09:02.053141+00:00",
+      "achieved_at": "2026-09-08T21:07:49.970372+00:00",
       "badge_id": ""
     },
     {
