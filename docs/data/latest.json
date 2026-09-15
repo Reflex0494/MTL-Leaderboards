@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T02:29:58.4559312+00:00",
-    "fetched_at": "2026-09-15T02:30:43.015667+00:00",
+    "generated_at": "2026-09-15T02:44:58.4541433+00:00",
+    "fetched_at": "2026-09-15T02:45:30.540646+00:00",
     "total_entries": 710
   },
   "entries": [
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198076913774",
       "display_name": "Thomas Story Kirkbride",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-15T02:09:59.712864+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-15T02:42:24.0548+00:00",
       "badge_id": "og"
     },
     {
