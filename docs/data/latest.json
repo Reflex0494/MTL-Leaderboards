@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T02:14:58.4552245+00:00",
-    "fetched_at": "2026-09-15T02:15:28.646703+00:00",
-    "total_entries": 709
+    "generated_at": "2026-09-15T02:29:58.4559312+00:00",
+    "fetched_at": "2026-09-15T02:30:43.015667+00:00",
+    "total_entries": 710
   },
   "entries": [
     {
@@ -368,19 +368,19 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-15T02:20:16.605923+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 47,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
       "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 47,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 37,
-      "achieved_at": "2026-09-14T01:23:45.5184+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 48,
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-15T02:16:46.084962+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 60,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 31,
@@ -479,19 +487,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 31,
       "achieved_at": "2026-09-13T23:43:15.169517+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-15T01:31:45.353339+00:00",
       "badge_id": ""
     },
     {
