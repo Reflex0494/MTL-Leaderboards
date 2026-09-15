@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T09:14:58.4567994+00:00",
-    "fetched_at": "2026-09-15T09:15:32.641119+00:00",
+    "generated_at": "2026-09-15T09:30:58.4555012+00:00",
+    "fetched_at": "2026-09-15T09:31:20.077551+00:00",
     "total_entries": 714
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 118,
-      "achieved_at": "2026-09-15T07:00:03.406453+00:00",
+      "prestige_level": 119,
+      "achieved_at": "2026-09-15T09:17:55.073188+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-15T09:29:50.040697+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
@@ -247,19 +255,11 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 49,
       "achieved_at": "2026-09-14T20:57:36.571487+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-15T08:12:22.987538+00:00",
       "badge_id": ""
     },
     {
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-15T09:23:30.626665+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 63,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -503,19 +511,11 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 64,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-15T07:52:00.560696+00:00",
       "badge_id": ""
     },
     {
