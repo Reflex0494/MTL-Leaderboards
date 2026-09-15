@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T02:59:58.4585005+00:00",
-    "fetched_at": "2026-09-15T03:00:50.778666+00:00",
+    "generated_at": "2026-09-15T03:14:58.4556676+00:00",
+    "fetched_at": "2026-09-15T03:15:30.407598+00:00",
     "total_entries": 710
   },
   "entries": [
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-15T01:01:43.470866+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-15T03:03:10.623956+00:00",
       "badge_id": ""
     },
     {
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-15T03:06:38.107963+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -383,19 +391,11 @@
       "badge_id": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 37,
       "achieved_at": "2026-09-14T02:53:21.073628+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 49,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 37,
-      "achieved_at": "2026-09-14T21:25:40.260517+00:00",
       "badge_id": ""
     },
     {
