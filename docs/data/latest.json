@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T06:59:58.4558906+00:00",
-    "fetched_at": "2026-09-15T07:00:51.299447+00:00",
+    "generated_at": "2026-09-15T07:14:58.4554511+00:00",
+    "fetched_at": "2026-09-15T07:15:32.076973+00:00",
     "total_entries": 713
   },
   "entries": [
@@ -18,16 +18,16 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 143,
-      "achieved_at": "2026-09-13T19:25:22.975431+00:00",
+      "prestige_level": 144,
+      "achieved_at": "2026-09-15T07:06:36.750471+00:00",
       "badge_id": "s2_first"
     },
     {
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 117,
-      "achieved_at": "2026-09-14T08:50:12.465052+00:00",
+      "prestige_level": 118,
+      "achieved_at": "2026-09-15T07:00:03.406453+00:00",
       "badge_id": "s3_top21"
     },
     {
