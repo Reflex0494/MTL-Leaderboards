@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T15:44:58.4540574+00:00",
-    "fetched_at": "2026-09-15T15:45:31.216865+00:00",
+    "generated_at": "2026-09-15T15:59:58.4540558+00:00",
+    "fetched_at": "2026-09-15T16:00:52.263647+00:00",
     "total_entries": 718
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 75,
-      "achieved_at": "2026-09-13T18:14:08.874373+00:00",
+      "prestige_level": 76,
+      "achieved_at": "2026-09-15T15:52:52.110312+00:00",
       "badge_id": ""
     },
     {
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198050651475",
+      "display_name": "Fresh 1026",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-15T15:50:08.949945+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -527,20 +535,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 29,
       "achieved_at": "2026-08-31T15:08:07.337276+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198050651475",
-      "display_name": "Fresh 1026",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-15T01:08:13.764193+00:00",
-      "badge_id": ""
     },
     {
       "rank": 68,
