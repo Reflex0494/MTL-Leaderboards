@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T10:59:58.455127+00:00",
-    "fetched_at": "2026-09-15T11:00:49.331664+00:00",
+    "generated_at": "2026-09-15T11:14:58.4543274+00:00",
+    "fetched_at": "2026-09-15T11:15:37.954536+00:00",
     "total_entries": 714
   },
   "entries": [
@@ -480,6 +480,14 @@
     },
     {
       "rank": 60,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-15T11:14:40.748847+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 61,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 31,
@@ -487,19 +495,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 31,
       "achieved_at": "2026-09-13T23:43:15.169517+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 62,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-15T09:23:30.626665+00:00",
       "badge_id": ""
     },
     {
