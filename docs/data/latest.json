@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T02:44:58.4541433+00:00",
-    "fetched_at": "2026-09-15T02:45:30.540646+00:00",
+    "generated_at": "2026-09-15T02:59:58.4585005+00:00",
+    "fetched_at": "2026-09-15T03:00:50.778666+00:00",
     "total_entries": 710
   },
   "entries": [
@@ -402,8 +402,8 @@
       "rank": 50,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-14T18:38:55.332177+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-15T02:49:49.322398+00:00",
       "badge_id": ""
     },
     {
