@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T04:14:58.4559574+00:00",
-    "fetched_at": "2026-09-15T04:15:29.475201+00:00",
+    "generated_at": "2026-09-15T04:29:58.4565314+00:00",
+    "fetched_at": "2026-09-15T04:30:39.469402+00:00",
     "total_entries": 710
   },
   "entries": [
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-15T04:21:09.692361+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
       "prestige_level": 43,
@@ -287,19 +295,11 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 43,
       "achieved_at": "2026-09-12T08:24:58.981277+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-15T00:40:57.354467+00:00",
       "badge_id": ""
     },
     {
@@ -384,18 +384,18 @@
     },
     {
       "rank": 48,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-15T04:16:31.73111+00:00",
       "badge_id": ""
     },
     {
       "rank": 49,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 37,
-      "achieved_at": "2026-09-14T02:53:21.073628+00:00",
+      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
     },
     {
