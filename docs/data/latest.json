@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T19:29:58.4539586+00:00",
-    "fetched_at": "2026-09-15T19:30:41.657221+00:00",
+    "generated_at": "2026-09-15T19:44:58.4549868+00:00",
+    "fetched_at": "2026-09-15T19:45:31.763071+00:00",
     "total_entries": 722
   },
   "entries": [
@@ -176,6 +176,14 @@
     },
     {
       "rank": 22,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-15T19:37:09.002034+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 23,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 57,
@@ -183,20 +191,12 @@
       "badge_id": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 57,
       "achieved_at": "2026-09-15T18:27:42.557677+00:00",
       "badge_id": "s2_second"
-    },
-    {
-      "rank": 24,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-15T18:51:35.664395+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 25,
