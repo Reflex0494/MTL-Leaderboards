@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T10:29:58.455861+00:00",
-    "fetched_at": "2026-09-16T10:30:56.237883+00:00",
+    "generated_at": "2026-09-16T10:44:58.4558154+00:00",
+    "fetched_at": "2026-09-16T10:45:31.414006+00:00",
     "total_entries": 725
   },
   "entries": [
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-16T10:29:58.568197+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
@@ -231,19 +239,11 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561198075415107",
       "display_name": "Lowtab prime",
       "prestige_level": 50,
       "achieved_at": "2026-09-14T15:27:40.395982+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-15T09:29:50.040697+00:00",
       "badge_id": ""
     },
     {
