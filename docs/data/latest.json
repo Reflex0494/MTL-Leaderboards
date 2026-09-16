@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T19:14:58.4552984+00:00",
-    "fetched_at": "2026-09-16T19:15:33.357211+00:00",
+    "generated_at": "2026-09-16T19:29:58.4555109+00:00",
+    "fetched_at": "2026-09-16T19:30:43.701919+00:00",
     "total_entries": 733
   },
   "entries": [
@@ -216,19 +216,19 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-16T19:19:16.70774+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
       "achieved_at": "2026-09-03T04:44:54.903499+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-15T09:14:02.600323+00:00",
-      "badge_id": ""
     },
     {
       "rank": 29,
@@ -728,18 +728,18 @@
     },
     {
       "rank": 91,
-      "steam_id": "76561198086061180",
-      "display_name": "Tervin",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-14T01:58:08.54823+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-16T19:24:56.277903+00:00",
       "badge_id": ""
     },
     {
       "rank": 92,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
+      "steam_id": "76561198086061180",
+      "display_name": "Tervin",
       "prestige_level": 20,
-      "achieved_at": "2026-09-15T18:23:02.095625+00:00",
+      "achieved_at": "2026-09-14T01:58:08.54823+00:00",
       "badge_id": ""
     },
     {
