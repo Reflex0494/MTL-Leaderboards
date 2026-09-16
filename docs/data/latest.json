@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T11:44:58.4549337+00:00",
-    "fetched_at": "2026-09-16T11:45:28.604573+00:00",
+    "generated_at": "2026-09-16T11:59:58.4554787+00:00",
+    "fetched_at": "2026-09-16T12:00:50.809728+00:00",
     "total_entries": 725
   },
   "entries": [
@@ -208,6 +208,14 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-16T11:58:07.39317+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 27,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
@@ -215,19 +223,11 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 51,
       "achieved_at": "2026-09-15T09:14:02.600323+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-16T10:29:58.568197+00:00",
       "badge_id": ""
     },
     {
