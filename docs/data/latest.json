@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-15T23:59:58.4551189+00:00",
-    "fetched_at": "2026-09-16T00:00:49.906130+00:00",
+    "generated_at": "2026-09-16T00:14:58.4553908+00:00",
+    "fetched_at": "2026-09-16T00:15:35.608649+00:00",
     "total_entries": 722
   },
   "entries": [
@@ -160,6 +160,14 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 59,
+      "achieved_at": "2026-09-16T00:02:29.12152+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
       "prestige_level": 58,
@@ -167,20 +175,12 @@
       "badge_id": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561198076913774",
       "display_name": "Thomas Story Kirkbride",
       "prestige_level": 58,
       "achieved_at": "2026-09-15T02:42:24.0548+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 22,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 58,
-      "achieved_at": "2026-09-15T19:37:09.002034+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 23,
@@ -728,6 +728,14 @@
     },
     {
       "rank": 91,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-16T00:10:44.097068+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 92,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 19,
@@ -767,7 +775,7 @@
       "badge_id": "mod"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198308394752",
       "display_name": "Ramoneur2schneck",
       "prestige_level": 19,
@@ -775,19 +783,11 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 19,
       "achieved_at": "2026-09-14T06:29:32.91304+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-15T23:28:16.579461+00:00",
       "badge_id": ""
     },
     {
