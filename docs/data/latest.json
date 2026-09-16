@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T18:59:58.4553943+00:00",
-    "fetched_at": "2026-09-16T19:00:51.158868+00:00",
+    "generated_at": "2026-09-16T19:14:58.4552984+00:00",
+    "fetched_at": "2026-09-16T19:15:33.357211+00:00",
     "total_entries": 733
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 120,
-      "achieved_at": "2026-09-16T06:49:43.797367+00:00",
+      "prestige_level": 121,
+      "achieved_at": "2026-09-16T19:01:04.638931+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -752,6 +752,14 @@
     },
     {
       "rank": 94,
+      "steam_id": "76561198308394752",
+      "display_name": "Ramoneur2schneck",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-16T19:01:26.680017+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 95,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -783,20 +791,12 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 19,
       "achieved_at": "2026-09-08T14:55:39.796352+00:00",
       "badge_id": "mod"
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561198308394752",
-      "display_name": "Ramoneur2schneck",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-11T20:27:46.280628+00:00",
-      "badge_id": ""
     },
     {
       "rank": 100,
