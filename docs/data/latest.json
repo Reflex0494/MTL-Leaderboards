@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T21:14:58.4573503+00:00",
-    "fetched_at": "2026-09-16T21:15:28.481489+00:00",
+    "generated_at": "2026-09-16T21:29:58.4562561+00:00",
+    "fetched_at": "2026-09-16T21:30:44.027131+00:00",
     "total_entries": 735
   },
   "entries": [
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 77,
-      "achieved_at": "2026-09-16T16:09:05.166107+00:00",
+      "prestige_level": 78,
+      "achieved_at": "2026-09-16T21:22:24.833695+00:00",
       "badge_id": ""
     },
     {
@@ -608,6 +608,14 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-16T21:23:18.010806+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -615,7 +623,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 24,
@@ -647,20 +655,12 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 24,
       "achieved_at": "2026-09-11T04:57:56.405101+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-16T19:53:06.057429+00:00",
-      "badge_id": ""
     },
     {
       "rank": 83,
