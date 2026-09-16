@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T17:14:58.4558531+00:00",
-    "fetched_at": "2026-09-16T17:15:35.137323+00:00",
+    "generated_at": "2026-09-16T17:29:58.4550055+00:00",
+    "fetched_at": "2026-09-16T17:30:43.840926+00:00",
     "total_entries": 730
   },
   "entries": [
@@ -290,8 +290,8 @@
       "rank": 36,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-16T16:19:34.116213+00:00",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-16T17:22:25.954257+00:00",
       "badge_id": ""
     },
     {
@@ -368,6 +368,14 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-16T17:22:10.980156+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 47,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
       "achieved_at": "2026-09-03T08:07:01.167447+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-14T03:34:44.105454+00:00",
       "badge_id": ""
     },
     {
@@ -440,19 +440,19 @@
     },
     {
       "rank": 55,
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-16T17:16:44.637629+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 56,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 33,
       "achieved_at": "2026-09-14T14:56:38.670364+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-16T16:11:58.934892+00:00",
-      "badge_id": ""
     },
     {
       "rank": 57,
