@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T13:29:58.4562794+00:00",
-    "fetched_at": "2026-09-16T13:30:40.926564+00:00",
+    "generated_at": "2026-09-16T13:44:58.4569038+00:00",
+    "fetched_at": "2026-09-16T13:45:38.403470+00:00",
     "total_entries": 726
   },
   "entries": [
@@ -336,6 +336,14 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-16T13:37:07.687927+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 43,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 39,
@@ -343,19 +351,11 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 39,
       "achieved_at": "2026-09-15T06:05:00.357868+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-16T11:38:26.679065+00:00",
       "badge_id": ""
     },
     {
