@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T19:29:58.4555109+00:00",
-    "fetched_at": "2026-09-16T19:30:43.701919+00:00",
+    "generated_at": "2026-09-16T19:44:58.4561254+00:00",
+    "fetched_at": "2026-09-16T19:45:30.800015+00:00",
     "total_entries": 733
   },
   "entries": [
@@ -696,6 +696,14 @@
     },
     {
       "rank": 87,
+      "steam_id": "76561198095288801",
+      "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-16T19:37:22.943563+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 88,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -711,19 +719,11 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T03:46:49.558061+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 90,
-      "steam_id": "76561198095288801",
-      "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-16T10:45:28.52828+00:00",
       "badge_id": ""
     },
     {
