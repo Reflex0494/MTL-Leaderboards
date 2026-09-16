@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T19:44:58.4561254+00:00",
-    "fetched_at": "2026-09-16T19:45:30.800015+00:00",
+    "generated_at": "2026-09-16T19:59:58.4559369+00:00",
+    "fetched_at": "2026-09-16T20:00:49.739798+00:00",
     "total_entries": 733
   },
   "entries": [
@@ -658,8 +658,8 @@
       "rank": 82,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-11T07:22:36.950036+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-16T19:53:06.057429+00:00",
       "badge_id": ""
     },
     {
