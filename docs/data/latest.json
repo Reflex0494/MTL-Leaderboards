@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T17:29:58.4550055+00:00",
-    "fetched_at": "2026-09-16T17:30:43.840926+00:00",
+    "generated_at": "2026-09-16T17:44:58.4557669+00:00",
+    "fetched_at": "2026-09-16T17:45:29.067710+00:00",
     "total_entries": 730
   },
   "entries": [
@@ -160,19 +160,19 @@
     },
     {
       "rank": 20,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 61,
+      "achieved_at": "2026-09-16T17:37:59.50266+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 21,
       "steam_id": "76561198076913774",
       "display_name": "Thomas Story Kirkbride",
       "prestige_level": 60,
       "achieved_at": "2026-09-16T07:38:45.07854+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 21,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 60,
-      "achieved_at": "2026-09-16T16:45:00.56712+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 22,
