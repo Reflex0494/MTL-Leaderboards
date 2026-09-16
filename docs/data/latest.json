@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T22:44:58.4559936+00:00",
-    "fetched_at": "2026-09-16T22:45:29.958463+00:00",
+    "generated_at": "2026-09-16T22:59:58.4556898+00:00",
+    "fetched_at": "2026-09-16T23:00:47.987854+00:00",
     "total_entries": 737
   },
   "entries": [
@@ -248,18 +248,18 @@
     },
     {
       "rank": 31,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-16T22:50:50.112751+00:00",
       "badge_id": ""
     },
     {
       "rank": 32,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
       "prestige_level": 49,
-      "achieved_at": "2026-09-14T20:57:36.571487+00:00",
+      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
       "badge_id": ""
     },
     {
