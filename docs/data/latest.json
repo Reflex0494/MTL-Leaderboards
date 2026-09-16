@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T16:44:58.4560832+00:00",
-    "fetched_at": "2026-09-16T16:45:30.100461+00:00",
+    "generated_at": "2026-09-16T16:59:58.4563018+00:00",
+    "fetched_at": "2026-09-16T17:00:54.060163+00:00",
     "total_entries": 730
   },
   "entries": [
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-16T00:02:29.12152+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-16T16:45:00.56712+00:00",
       "badge_id": "s1_top21"
     },
     {
