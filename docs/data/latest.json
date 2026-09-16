@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T00:44:58.4548044+00:00",
-    "fetched_at": "2026-09-16T00:45:28.435557+00:00",
+    "generated_at": "2026-09-16T00:59:58.4534136+00:00",
+    "fetched_at": "2026-09-16T01:00:48.316804+00:00",
     "total_entries": 722
   },
   "entries": [
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198050651475",
+      "display_name": "Fresh 1026",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-16T00:54:15.152684+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198050651475",
-      "display_name": "Fresh 1026",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-15T15:50:08.949945+00:00",
       "badge_id": ""
     },
     {
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-16T00:46:52.45519+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198086061180",
       "display_name": "Tervin",
       "prestige_level": 20,
@@ -719,19 +727,11 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198015442060",
       "display_name": "War Eeyore",
       "prestige_level": 20,
       "achieved_at": "2026-09-15T18:23:02.095625+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 91,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-16T00:10:44.097068+00:00",
       "badge_id": ""
     },
     {
