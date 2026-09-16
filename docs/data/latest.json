@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T02:29:58.4540585+00:00",
-    "fetched_at": "2026-09-16T02:30:38.887805+00:00",
+    "generated_at": "2026-09-16T02:44:58.4544947+00:00",
+    "fetched_at": "2026-09-16T02:45:30.883904+00:00",
     "total_entries": 722
   },
   "entries": [
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-16T02:35:05.059653+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -703,19 +711,11 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T03:46:49.558061+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 89,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-16T00:46:52.45519+00:00",
       "badge_id": ""
     },
     {
