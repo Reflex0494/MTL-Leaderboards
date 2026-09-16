@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T18:44:58.4559539+00:00",
-    "fetched_at": "2026-09-16T18:45:29.981347+00:00",
-    "total_entries": 732
+    "generated_at": "2026-09-16T18:59:58.4553943+00:00",
+    "fetched_at": "2026-09-16T19:00:51.158868+00:00",
+    "total_entries": 733
   },
   "entries": [
     {
@@ -312,6 +312,14 @@
     },
     {
       "rank": 39,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-16T18:57:54.672305+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 40,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 41,
@@ -319,7 +327,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -327,20 +335,12 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 40,
       "achieved_at": "2026-09-10T20:09:19.956555+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-16T13:37:07.687927+00:00",
-      "badge_id": ""
     },
     {
       "rank": 43,
