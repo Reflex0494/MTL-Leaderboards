@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T16:14:58.4557179+00:00",
-    "fetched_at": "2026-09-16T16:15:31.765750+00:00",
+    "generated_at": "2026-09-16T16:29:58.45592+00:00",
+    "fetched_at": "2026-09-16T16:30:45.369030+00:00",
     "total_entries": 729
   },
   "entries": [
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-16T16:19:34.116213+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
       "prestige_level": 43,
@@ -295,19 +303,11 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 43,
       "achieved_at": "2026-09-12T08:24:58.981277+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-15T03:03:10.623956+00:00",
       "badge_id": ""
     },
     {
@@ -344,6 +344,14 @@
     },
     {
       "rank": 43,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-16T16:21:09.704697+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 44,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 39,
@@ -351,19 +359,11 @@
       "badge_id": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 39,
       "achieved_at": "2026-09-15T06:05:00.357868+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 45,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-16T14:50:53.997771+00:00",
       "badge_id": ""
     },
     {
