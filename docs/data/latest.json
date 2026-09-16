@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T06:29:58.4554713+00:00",
-    "fetched_at": "2026-09-16T06:30:41.518238+00:00",
+    "generated_at": "2026-09-16T06:44:58.4557773+00:00",
+    "fetched_at": "2026-09-16T06:45:30.711265+00:00",
     "total_entries": 722
   },
   "entries": [
@@ -10,8 +10,8 @@
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 146,
-      "achieved_at": "2026-09-14T20:05:37.11976+00:00",
+      "prestige_level": 147,
+      "achieved_at": "2026-09-16T06:40:03.561392+00:00",
       "badge_id": ""
     },
     {
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198095288801",
+      "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-16T06:37:09.976728+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 19,
@@ -775,7 +783,7 @@
       "badge_id": "mod"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198308394752",
       "display_name": "Ramoneur2schneck",
       "prestige_level": 19,
@@ -783,19 +791,11 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
       "prestige_level": 19,
       "achieved_at": "2026-09-14T06:29:32.91304+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561198095288801",
-      "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-16T06:15:41.608042+00:00",
       "badge_id": ""
     },
     {
