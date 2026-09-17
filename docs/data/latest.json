@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T03:44:58.4562437+00:00",
-    "fetched_at": "2026-09-17T03:45:35.132031+00:00",
+    "generated_at": "2026-09-17T03:59:58.4583681+00:00",
+    "fetched_at": "2026-09-17T04:00:52.638625+00:00",
     "total_entries": 742
   },
   "entries": [
@@ -80,18 +80,18 @@
     },
     {
       "rank": 10,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 80,
-      "achieved_at": "2026-09-14T18:40:30.943728+00:00",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
+      "prestige_level": 81,
+      "achieved_at": "2026-09-17T03:45:40.61964+00:00",
       "badge_id": ""
     },
     {
       "rank": 11,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
       "prestige_level": 80,
-      "achieved_at": "2026-09-17T01:53:32.254458+00:00",
+      "achieved_at": "2026-09-14T18:40:30.943728+00:00",
       "badge_id": ""
     },
     {
