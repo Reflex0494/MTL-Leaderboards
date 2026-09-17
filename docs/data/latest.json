@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T22:45:11.1124101+00:00",
-    "fetched_at": "2026-09-17T22:45:30.092891+00:00",
+    "generated_at": "2026-09-17T23:00:11.1118895+00:00",
+    "fetched_at": "2026-09-17T23:00:46.744253+00:00",
     "total_entries": 751
   },
   "entries": [
@@ -352,19 +352,19 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-17T22:56:50.753234+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 45,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
       "achieved_at": "2026-08-29T18:03:11.965518+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 45,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-10T20:09:19.956555+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 46,
