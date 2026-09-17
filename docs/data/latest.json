@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T05:29:58.456588+00:00",
-    "fetched_at": "2026-09-17T05:30:39.717471+00:00",
+    "generated_at": "2026-09-17T05:44:58.4570584+00:00",
+    "fetched_at": "2026-09-17T05:45:28.598576+00:00",
     "total_entries": 743
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 81,
-      "achieved_at": "2026-09-17T03:45:40.61964+00:00",
+      "prestige_level": 82,
+      "achieved_at": "2026-09-17T05:40:13.83071+00:00",
       "badge_id": ""
     },
     {
@@ -296,6 +296,14 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-17T05:34:46.865045+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
       "prestige_level": 43,
@@ -303,19 +311,11 @@
       "badge_id": ""
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 43,
       "achieved_at": "2026-09-12T08:24:58.981277+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-17T02:30:20.128267+00:00",
       "badge_id": ""
     },
     {
