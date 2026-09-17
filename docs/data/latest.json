@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T14:15:11.1102338+00:00",
-    "fetched_at": "2026-09-17T14:15:50.259514+00:00",
+    "generated_at": "2026-09-17T14:30:11.1119082+00:00",
+    "fetched_at": "2026-09-17T14:30:43.311938+00:00",
     "total_entries": 750
   },
   "entries": [
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-17T14:24:13.589494+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 46,
@@ -287,19 +295,11 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 46,
       "achieved_at": "2026-09-17T04:22:25.119704+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-17T11:47:21.995582+00:00",
       "badge_id": ""
     },
     {
