@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T16:30:11.1111478+00:00",
-    "fetched_at": "2026-09-17T16:30:42.922711+00:00",
+    "generated_at": "2026-09-17T16:45:11.1122718+00:00",
+    "fetched_at": "2026-09-17T16:45:29.488846+00:00",
     "total_entries": 751
   },
   "entries": [
@@ -680,6 +680,14 @@
     },
     {
       "rank": 85,
+      "steam_id": "76561198055441918",
+      "display_name": "LobsterDog",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-17T16:41:17.927996+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 86,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 22,
@@ -703,19 +711,11 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198015442060",
       "display_name": "War Eeyore",
       "prestige_level": 22,
       "achieved_at": "2026-09-16T22:01:35.640577+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 89,
-      "steam_id": "76561198055441918",
-      "display_name": "LobsterDog",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-17T15:46:09.272675+00:00",
       "badge_id": ""
     },
     {
