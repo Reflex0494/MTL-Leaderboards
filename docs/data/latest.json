@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-16T23:59:58.4558557+00:00",
-    "fetched_at": "2026-09-17T00:00:51.438582+00:00",
+    "generated_at": "2026-09-17T00:14:58.4561559+00:00",
+    "fetched_at": "2026-09-17T00:15:30.581742+00:00",
     "total_entries": 740
   },
   "entries": [
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-17T00:06:45.2874+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -423,7 +431,7 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -431,19 +439,11 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 34,
       "achieved_at": "2026-09-14T03:53:58.302322+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-16T17:16:44.637629+00:00",
       "badge_id": ""
     },
     {
