@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T14:30:11.1119082+00:00",
-    "fetched_at": "2026-09-17T14:30:43.311938+00:00",
+    "generated_at": "2026-09-17T14:45:11.1114922+00:00",
+    "fetched_at": "2026-09-17T14:45:35.192745+00:00",
     "total_entries": 750
   },
   "entries": [
@@ -288,18 +288,18 @@
     },
     {
       "rank": 36,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-17T14:36:29.404212+00:00",
       "badge_id": ""
     },
     {
       "rank": 37,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-09-17T04:22:25.119704+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561197974466515",
+      "display_name": "Mini Mongo",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-17T14:32:49.878858+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -519,20 +527,12 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561197974466515",
-      "display_name": "Mini Mongo",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-17T13:20:21.902442+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 67,
