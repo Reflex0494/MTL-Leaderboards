@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T00:59:58.4554835+00:00",
-    "fetched_at": "2026-09-17T01:00:49.063707+00:00",
+    "generated_at": "2026-09-17T01:14:58.4549488+00:00",
+    "fetched_at": "2026-09-17T01:15:29.021221+00:00",
     "total_entries": 740
   },
   "entries": [
@@ -664,6 +664,14 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-17T01:13:48.526706+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
@@ -679,19 +687,11 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 22,
       "achieved_at": "2026-09-11T04:34:29.45585+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 86,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-16T02:35:05.059653+00:00",
       "badge_id": ""
     },
     {
