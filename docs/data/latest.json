@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T16:00:11.1127305+00:00",
-    "fetched_at": "2026-09-17T16:00:50.346892+00:00",
+    "generated_at": "2026-09-17T16:15:11.1176381+00:00",
+    "fetched_at": "2026-09-17T16:16:10.692024+00:00",
     "total_entries": 751
   },
   "entries": [
@@ -144,19 +144,19 @@
     },
     {
       "rank": 18,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 64,
+      "achieved_at": "2026-09-17T16:08:46.35168+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 19,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
       "prestige_level": 63,
       "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 19,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 63,
-      "achieved_at": "2026-09-16T20:52:38.198132+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 20,
@@ -272,18 +272,18 @@
     },
     {
       "rank": 34,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-17T16:03:07.253158+00:00",
       "badge_id": ""
     },
     {
       "rank": 35,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-17T14:24:13.589494+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
