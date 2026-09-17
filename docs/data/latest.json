@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T02:29:58.4566747+00:00",
-    "fetched_at": "2026-09-17T02:30:37.583763+00:00",
+    "generated_at": "2026-09-17T02:44:58.4565925+00:00",
+    "fetched_at": "2026-09-17T02:45:28.934933+00:00",
     "total_entries": 740
   },
   "entries": [
@@ -314,8 +314,8 @@
       "rank": 39,
       "steam_id": "76561198123871725",
       "display_name": "drju6ka",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-16T18:57:54.672305+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-17T02:30:20.128267+00:00",
       "badge_id": ""
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198055441918",
+      "display_name": "LobsterDog",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-17T02:41:27.98574+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198124581645",
       "display_name": "gwilli2",
       "prestige_level": 19,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198003470101",
       "display_name": "Eichi",
       "prestige_level": 19,
@@ -791,20 +799,12 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 19,
       "achieved_at": "2026-09-08T14:55:39.796352+00:00",
       "badge_id": "mod"
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198081404484",
-      "display_name": "Maggie",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-14T06:29:32.91304+00:00",
-      "badge_id": ""
     }
   ]
 }
