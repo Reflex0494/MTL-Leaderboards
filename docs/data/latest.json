@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T03:29:58.4550963+00:00",
-    "fetched_at": "2026-09-17T03:30:39.218062+00:00",
+    "generated_at": "2026-09-17T03:44:58.4562437+00:00",
+    "fetched_at": "2026-09-17T03:45:35.132031+00:00",
     "total_entries": 742
   },
   "entries": [
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-17T03:32:01.874673+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 78,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -623,7 +631,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
@@ -647,20 +655,12 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 24,
       "achieved_at": "2026-09-09T14:47:26.760242+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-11T04:57:56.405101+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 83,
