@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T23:00:11.1118895+00:00",
-    "fetched_at": "2026-09-17T23:00:46.744253+00:00",
+    "generated_at": "2026-09-17T23:15:11.1108347+00:00",
+    "fetched_at": "2026-09-17T23:15:30.962957+00:00",
     "total_entries": 751
   },
   "entries": [
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561199100481765",
+      "display_name": "Himari",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-17T23:04:38.656448+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -431,19 +439,11 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
       "achieved_at": "2026-09-11T14:25:29.828115+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561199100481765",
-      "display_name": "Himari",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-14T03:53:58.302322+00:00",
       "badge_id": ""
     },
     {
