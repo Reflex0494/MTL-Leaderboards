@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T03:59:58.4583681+00:00",
-    "fetched_at": "2026-09-17T04:00:52.638625+00:00",
+    "generated_at": "2026-09-17T04:14:58.4568202+00:00",
+    "fetched_at": "2026-09-17T04:15:30.576551+00:00",
     "total_entries": 742
   },
   "entries": [
@@ -362,8 +362,8 @@
       "rank": 45,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-15T06:05:00.357868+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-17T04:13:38.149123+00:00",
       "badge_id": ""
     },
     {
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198055441918",
+      "display_name": "LobsterDog",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-17T04:09:26.554979+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198086061180",
       "display_name": "Tervin",
       "prestige_level": 20,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 20,
@@ -751,19 +759,11 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198308394752",
       "display_name": "Ramoneur2schneck",
       "prestige_level": 20,
       "achieved_at": "2026-09-16T19:01:26.680017+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 95,
-      "steam_id": "76561198055441918",
-      "display_name": "LobsterDog",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-17T02:41:27.98574+00:00",
       "badge_id": ""
     },
     {
