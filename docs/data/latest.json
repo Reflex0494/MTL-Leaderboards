@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T19:15:11.1122511+00:00",
-    "fetched_at": "2026-09-17T19:15:30.521336+00:00",
+    "generated_at": "2026-09-17T19:30:11.1118569+00:00",
+    "fetched_at": "2026-09-17T19:30:41.438934+00:00",
     "total_entries": 751
   },
   "entries": [
@@ -664,6 +664,14 @@
     },
     {
       "rank": 83,
+      "steam_id": "76561198055441918",
+      "display_name": "LobsterDog",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-17T19:16:32.671811+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 84,
       "steam_id": "76561198257899621",
       "display_name": "Blood Money",
       "prestige_level": 23,
@@ -671,19 +679,11 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198095288801",
       "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
       "prestige_level": 23,
       "achieved_at": "2026-09-17T09:21:24.587188+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561198055441918",
-      "display_name": "LobsterDog",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-17T16:41:17.927996+00:00",
       "badge_id": ""
     },
     {
