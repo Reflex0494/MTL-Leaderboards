@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T14:45:11.1114922+00:00",
-    "fetched_at": "2026-09-17T14:45:35.192745+00:00",
-    "total_entries": 750
+    "generated_at": "2026-09-17T15:00:11.1112838+00:00",
+    "fetched_at": "2026-09-17T15:00:53.093064+00:00",
+    "total_entries": 751
   },
   "entries": [
     {
@@ -32,19 +32,19 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 110,
+      "achieved_at": "2026-09-17T14:53:11.320533+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 109,
       "achieved_at": "2026-09-17T06:45:23.62753+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 5,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 109,
-      "achieved_at": "2026-09-17T11:35:38.469244+00:00",
-      "badge_id": ""
     },
     {
       "rank": 6,
@@ -450,8 +450,8 @@
       "rank": 56,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-14T14:56:38.670364+00:00",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-17T14:55:07.869348+00:00",
       "badge_id": "og"
     },
     {
