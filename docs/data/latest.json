@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T04:14:58.4568202+00:00",
-    "fetched_at": "2026-09-17T04:15:30.576551+00:00",
-    "total_entries": 742
+    "generated_at": "2026-09-17T04:29:58.4566038+00:00",
+    "fetched_at": "2026-09-17T04:30:43.676513+00:00",
+    "total_entries": 743
   },
   "entries": [
     {
@@ -210,8 +210,8 @@
       "rank": 26,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-16T11:58:07.39317+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-17T04:27:03.350877+00:00",
       "badge_id": ""
     },
     {
@@ -290,8 +290,8 @@
       "rank": 36,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-16T17:22:25.954257+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-17T04:22:25.119704+00:00",
       "badge_id": ""
     },
     {
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-17T04:27:23.449427+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -335,7 +343,7 @@
       "badge_id": ""
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 40,
@@ -343,19 +351,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 40,
       "achieved_at": "2026-09-16T16:21:09.704697+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-17T02:05:44.099991+00:00",
       "badge_id": ""
     },
     {
@@ -746,8 +746,8 @@
       "rank": 93,
       "steam_id": "76561198086061180",
       "display_name": "Tervin",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-14T01:58:08.54823+00:00",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-17T04:19:59.967924+00:00",
       "badge_id": ""
     },
     {
