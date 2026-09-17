@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-17T03:14:58.456568+00:00",
-    "fetched_at": "2026-09-17T03:15:29.535440+00:00",
-    "total_entries": 741
+    "generated_at": "2026-09-17T03:29:58.4550963+00:00",
+    "fetched_at": "2026-09-17T03:30:39.218062+00:00",
+    "total_entries": 742
   },
   "entries": [
     {
@@ -264,18 +264,18 @@
     },
     {
       "rank": 33,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-17T03:21:59.460127+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-16T21:12:58.230587+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
@@ -410,8 +410,8 @@
       "rank": 51,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-15T02:49:49.322398+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-09-17T03:20:19.074455+00:00",
       "badge_id": ""
     },
     {
