@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T04:15:11.1126146+00:00",
-    "fetched_at": "2026-09-18T04:15:31.210790+00:00",
+    "generated_at": "2026-09-18T04:30:11.1123677+00:00",
+    "fetched_at": "2026-09-18T04:30:39.806914+00:00",
     "total_entries": 753
   },
   "entries": [
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561198123871725",
       "display_name": "drju6ka",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-18T02:34:16.110801+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-18T04:19:27.015531+00:00",
       "badge_id": ""
     },
     {
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-18T04:16:34.161522+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -383,7 +391,7 @@
       "badge_id": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -391,20 +399,12 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 38,
       "achieved_at": "2026-09-15T02:20:16.605923+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 50,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-17T04:30:04.381734+00:00",
-      "badge_id": ""
     },
     {
       "rank": 51,
