@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T21:30:11.1118862+00:00",
-    "fetched_at": "2026-09-18T21:30:36.884572+00:00",
+    "generated_at": "2026-09-18T21:45:11.1120018+00:00",
+    "fetched_at": "2026-09-18T21:45:30.703363+00:00",
     "total_entries": 757
   },
   "entries": [
@@ -208,6 +208,14 @@
     },
     {
       "rank": 26,
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
+      "prestige_level": 56,
+      "achieved_at": "2026-09-18T21:34:46.524493+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 27,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
       "prestige_level": 55,
@@ -215,19 +223,11 @@
       "badge_id": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
       "prestige_level": 55,
       "achieved_at": "2026-09-18T04:55:58.102861+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-18T17:14:26.322553+00:00",
       "badge_id": ""
     },
     {
