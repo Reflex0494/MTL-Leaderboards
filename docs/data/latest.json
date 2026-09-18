@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T06:15:11.1117426+00:00",
-    "fetched_at": "2026-09-18T06:15:33.452252+00:00",
+    "generated_at": "2026-09-18T06:30:11.1115043+00:00",
+    "fetched_at": "2026-09-18T06:30:41.007488+00:00",
     "total_entries": 753
   },
   "entries": [
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561198207785195",
+      "display_name": "Chad McGee",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-18T06:27:22.305958+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -647,7 +655,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 24,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198015442060",
       "display_name": "War Eeyore",
       "prestige_level": 24,
@@ -687,19 +695,11 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198095288801",
       "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
       "prestige_level": 24,
       "achieved_at": "2026-09-17T23:52:31.380236+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 87,
-      "steam_id": "76561198207785195",
-      "display_name": "Chad McGee",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-18T04:49:36.850686+00:00",
       "badge_id": ""
     },
     {
