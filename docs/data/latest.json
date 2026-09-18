@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T02:45:11.1113802+00:00",
-    "fetched_at": "2026-09-18T02:45:30.223203+00:00",
+    "generated_at": "2026-09-18T03:00:11.1123841+00:00",
+    "fetched_at": "2026-09-18T03:00:48.568660+00:00",
     "total_entries": 752
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 83,
-      "achieved_at": "2026-09-17T13:23:31.198698+00:00",
+      "prestige_level": 84,
+      "achieved_at": "2026-09-18T02:49:53.249765+00:00",
       "badge_id": ""
     },
     {
@@ -720,6 +720,22 @@
     },
     {
       "rank": 90,
+      "steam_id": "76561198086061180",
+      "display_name": "Tervin",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-18T02:45:54.869464+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 91,
+      "steam_id": "76561198207785195",
+      "display_name": "Chad McGee",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-18T02:51:47.083189+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 92,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -727,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 93,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -735,27 +751,11 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 94,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
       "achieved_at": "2026-09-05T03:46:49.558061+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 93,
-      "steam_id": "76561198086061180",
-      "display_name": "Tervin",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-17T04:19:59.967924+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 94,
-      "steam_id": "76561198207785195",
-      "display_name": "Chad McGee",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-18T02:03:51.213553+00:00",
       "badge_id": ""
     },
     {
