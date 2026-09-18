@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T20:45:11.1112889+00:00",
-    "fetched_at": "2026-09-18T20:45:33.714694+00:00",
+    "generated_at": "2026-09-18T21:00:11.1115854+00:00",
+    "fetched_at": "2026-09-18T21:00:51.117122+00:00",
     "total_entries": 757
   },
   "entries": [
@@ -160,18 +160,18 @@
     },
     {
       "rank": 20,
-      "steam_id": "76561198014380387",
-      "display_name": "GaliiLoN",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 64,
+      "achieved_at": "2026-09-18T20:53:46.475902+00:00",
       "badge_id": ""
     },
     {
       "rank": 21,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561198014380387",
+      "display_name": "GaliiLoN",
       "prestige_level": 63,
-      "achieved_at": "2026-09-18T20:29:49.928813+00:00",
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198207785195",
+      "display_name": "Chad McGee",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-18T20:52:08.092689+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -551,19 +559,11 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
       "achieved_at": "2026-09-14T04:51:40.563141+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198207785195",
-      "display_name": "Chad McGee",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-18T19:54:06.770187+00:00",
       "badge_id": ""
     },
     {
