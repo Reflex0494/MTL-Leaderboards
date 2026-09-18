@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T06:00:11.1114834+00:00",
-    "fetched_at": "2026-09-18T06:00:50.253018+00:00",
+    "generated_at": "2026-09-18T06:15:11.1117426+00:00",
+    "fetched_at": "2026-09-18T06:15:33.452252+00:00",
     "total_entries": 753
   },
   "entries": [
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561198123871725",
       "display_name": "drju6ka",
-      "prestige_level": 53,
-      "achieved_at": "2026-09-18T04:19:27.015531+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-09-18T06:00:49.153481+00:00",
       "badge_id": ""
     },
     {
