@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T06:45:11.1112126+00:00",
-    "fetched_at": "2026-09-18T06:45:30.050193+00:00",
+    "generated_at": "2026-09-18T07:00:11.111628+00:00",
+    "fetched_at": "2026-09-18T07:00:52.164799+00:00",
     "total_entries": 754
   },
   "entries": [
@@ -248,19 +248,19 @@
     },
     {
       "rank": 31,
+      "steam_id": "76561198075415107",
+      "display_name": "Gamos",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-18T06:50:06.769348+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 32,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
       "achieved_at": "2026-09-07T02:17:01.933486+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561198075415107",
-      "display_name": "Lowtab prime",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-14T15:27:40.395982+00:00",
-      "badge_id": ""
     },
     {
       "rank": 33,
