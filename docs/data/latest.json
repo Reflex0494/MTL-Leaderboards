@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T08:15:11.1122964+00:00",
-    "fetched_at": "2026-09-18T08:15:30.197928+00:00",
+    "generated_at": "2026-09-18T08:30:11.1117315+00:00",
+    "fetched_at": "2026-09-18T08:30:41.176988+00:00",
     "total_entries": 754
   },
   "entries": [
@@ -232,19 +232,19 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-18T08:19:49.060588+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 30,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
       "achieved_at": "2026-09-03T04:44:54.903499+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-17T08:53:37.303118+00:00",
-      "badge_id": ""
     },
     {
       "rank": 31,
