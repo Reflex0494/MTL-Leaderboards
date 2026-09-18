@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T04:45:11.111353+00:00",
-    "fetched_at": "2026-09-18T04:45:30.589493+00:00",
+    "generated_at": "2026-09-18T05:00:11.112233+00:00",
+    "fetched_at": "2026-09-18T05:00:47.793534+00:00",
     "total_entries": 753
   },
   "entries": [
@@ -210,8 +210,8 @@
       "rank": 26,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-17T05:29:51.189207+00:00",
+      "prestige_level": 55,
+      "achieved_at": "2026-09-18T04:55:58.102861+00:00",
       "badge_id": ""
     },
     {
@@ -698,8 +698,8 @@
       "rank": 87,
       "steam_id": "76561198207785195",
       "display_name": "Chad McGee",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-18T03:43:43.274727+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-18T04:49:36.850686+00:00",
       "badge_id": ""
     },
     {
