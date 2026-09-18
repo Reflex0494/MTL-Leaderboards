@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T02:30:11.1117433+00:00",
-    "fetched_at": "2026-09-18T02:30:39.567323+00:00",
+    "generated_at": "2026-09-18T02:45:11.1113802+00:00",
+    "fetched_at": "2026-09-18T02:45:30.223203+00:00",
     "total_entries": 752
   },
   "entries": [
@@ -74,8 +74,8 @@
       "rank": 9,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
-      "prestige_level": 86,
-      "achieved_at": "2026-09-18T00:34:22.054596+00:00",
+      "prestige_level": 87,
+      "achieved_at": "2026-09-18T02:43:44.985346+00:00",
       "badge_id": ""
     },
     {
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-18T02:34:16.110801+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
@@ -231,19 +239,11 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 51,
       "achieved_at": "2026-09-17T08:53:37.303118+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-17T20:58:37.260904+00:00",
       "badge_id": ""
     },
     {
