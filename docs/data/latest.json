@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T19:15:11.1122043+00:00",
-    "fetched_at": "2026-09-18T19:15:39.516387+00:00",
+    "generated_at": "2026-09-18T19:30:11.1122354+00:00",
+    "fetched_at": "2026-09-18T19:30:38.169632+00:00",
     "total_entries": 757
   },
   "entries": [
@@ -264,18 +264,18 @@
     },
     {
       "rank": 33,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-18T19:18:20.857458+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
       "prestige_level": 49,
-      "achieved_at": "2026-09-17T18:38:05.885619+00:00",
+      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
       "badge_id": ""
     },
     {
