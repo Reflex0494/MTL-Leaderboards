@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T19:00:11.1127436+00:00",
-    "fetched_at": "2026-09-18T19:00:51.503129+00:00",
+    "generated_at": "2026-09-18T19:15:11.1122043+00:00",
+    "fetched_at": "2026-09-18T19:15:39.516387+00:00",
     "total_entries": 757
   },
   "entries": [
@@ -136,19 +136,19 @@
     },
     {
       "rank": 17,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 68,
+      "achieved_at": "2026-09-18T19:12:49.475346+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 18,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
       "prestige_level": 67,
       "achieved_at": "2026-09-17T18:43:49.675008+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 67,
-      "achieved_at": "2026-09-18T17:51:46.453755+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 19,
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-15T03:38:20.155323+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-18T19:12:07.673166+00:00",
       "badge_id": ""
     },
     {
@@ -762,8 +762,8 @@
       "rank": 95,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-16T18:31:53.49504+00:00",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-18T19:03:54.876927+00:00",
       "badge_id": ""
     },
     {
