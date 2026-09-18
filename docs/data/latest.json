@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T12:30:11.1123175+00:00",
-    "fetched_at": "2026-09-18T12:30:40.681797+00:00",
+    "generated_at": "2026-09-18T12:45:11.1111088+00:00",
+    "fetched_at": "2026-09-18T12:45:28.896008+00:00",
     "total_entries": 755
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
-      "prestige_level": 84,
-      "achieved_at": "2026-09-18T02:49:53.249765+00:00",
+      "prestige_level": 85,
+      "achieved_at": "2026-09-18T12:43:19.294095+00:00",
       "badge_id": ""
     },
     {
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
-      "prestige_level": 61,
-      "achieved_at": "2026-09-16T10:06:24.851962+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-09-18T12:41:57.031125+00:00",
       "badge_id": ""
     },
     {
