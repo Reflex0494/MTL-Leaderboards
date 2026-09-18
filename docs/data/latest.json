@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T01:45:11.1119953+00:00",
-    "fetched_at": "2026-09-18T01:45:27.816419+00:00",
+    "generated_at": "2026-09-18T02:00:11.1118797+00:00",
+    "fetched_at": "2026-09-18T02:00:47.960535+00:00",
     "total_entries": 751
   },
   "entries": [
@@ -320,6 +320,14 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-18T01:53:40.989035+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 41,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 41,
@@ -327,7 +335,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 41,
@@ -335,19 +343,11 @@
       "badge_id": ""
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 41,
       "achieved_at": "2026-09-17T10:43:25.013735+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 43,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-17T20:54:34.277397+00:00",
       "badge_id": ""
     },
     {
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-18T01:49:24.292018+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661 | TTV",
       "prestige_level": 25,
@@ -615,7 +623,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 25,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198055441918",
       "display_name": "LobsterDog",
       "prestige_level": 25,
       "achieved_at": "2026-09-17T21:05:32.6524+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-18T00:51:14.44956+00:00",
       "badge_id": ""
     },
     {
