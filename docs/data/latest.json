@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T19:45:11.1122557+00:00",
-    "fetched_at": "2026-09-18T19:45:42.293722+00:00",
+    "generated_at": "2026-09-18T20:00:11.1110223+00:00",
+    "fetched_at": "2026-09-18T20:00:50.933819+00:00",
     "total_entries": 757
   },
   "entries": [
@@ -560,18 +560,18 @@
     },
     {
       "rank": 70,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-18T16:47:12.37174+00:00",
+      "steam_id": "76561198207785195",
+      "display_name": "Chad McGee",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-18T19:54:06.770187+00:00",
       "badge_id": ""
     },
     {
       "rank": 71,
-      "steam_id": "76561198207785195",
-      "display_name": "Chad McGee",
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
       "prestige_level": 27,
-      "achieved_at": "2026-09-18T18:26:41.988362+00:00",
+      "achieved_at": "2026-09-18T16:47:12.37174+00:00",
       "badge_id": ""
     },
     {
