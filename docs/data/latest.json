@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T01:30:11.1119437+00:00",
-    "fetched_at": "2026-09-18T01:30:39.996432+00:00",
+    "generated_at": "2026-09-18T01:45:11.1119953+00:00",
+    "fetched_at": "2026-09-18T01:45:27.816419+00:00",
     "total_entries": 751
   },
   "entries": [
@@ -161,9 +161,9 @@
     {
       "rank": 20,
       "steam_id": "76561198076913774",
-      "display_name": "Thomas Story Kirkbride",
-      "prestige_level": 62,
-      "achieved_at": "2026-09-17T05:03:43.823417+00:00",
+      "display_name": "Earl Sinclair",
+      "prestige_level": 63,
+      "achieved_at": "2026-09-18T01:33:48.660875+00:00",
       "badge_id": "og"
     },
     {
