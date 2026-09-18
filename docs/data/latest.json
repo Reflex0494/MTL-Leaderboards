@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T17:15:11.1119757+00:00",
-    "fetched_at": "2026-09-18T17:16:05.735726+00:00",
+    "generated_at": "2026-09-18T17:30:11.1117111+00:00",
+    "fetched_at": "2026-09-18T17:30:39.536448+00:00",
     "total_entries": 756
   },
   "entries": [
@@ -608,6 +608,14 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198207785195",
+      "display_name": "Chad McGee",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-18T17:28:58.059649+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661 | TTV",
       "prestige_level": 25,
@@ -623,7 +631,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 25,
@@ -631,19 +639,11 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198055441918",
       "display_name": "LobsterDog",
       "prestige_level": 25,
       "achieved_at": "2026-09-17T21:05:32.6524+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 80,
-      "steam_id": "76561198207785195",
-      "display_name": "Chad McGee",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-18T06:27:22.305958+00:00",
       "badge_id": ""
     },
     {
@@ -656,6 +656,14 @@
     },
     {
       "rank": 82,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-18T17:18:51.164415+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 83,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -663,7 +671,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
@@ -687,19 +695,11 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 24,
       "achieved_at": "2026-09-09T14:47:26.760242+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 87,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-17T21:29:30.453057+00:00",
       "badge_id": ""
     },
     {
