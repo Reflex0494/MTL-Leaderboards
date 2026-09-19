@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T00:00:11.1120073+00:00",
-    "fetched_at": "2026-09-19T00:00:57.332912+00:00",
+    "generated_at": "2026-09-19T00:15:11.111266+00:00",
+    "fetched_at": "2026-09-19T00:15:38.939812+00:00",
     "total_entries": 759
   },
   "entries": [
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198076913774",
       "display_name": "Earl Sinclair",
-      "prestige_level": 64,
-      "achieved_at": "2026-09-18T02:12:23.933336+00:00",
+      "prestige_level": 65,
+      "achieved_at": "2026-09-19T00:07:17.84767+00:00",
       "badge_id": "og"
     },
     {
@@ -384,6 +384,14 @@
     },
     {
       "rank": 48,
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-19T00:05:41.791884+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 49,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -391,7 +399,7 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -399,20 +407,12 @@
       "badge_id": ""
     },
     {
-      "rank": 50,
+      "rank": 51,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 38,
       "achieved_at": "2026-09-15T02:20:16.605923+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 51,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-18T01:09:42.835642+00:00",
-      "badge_id": ""
     },
     {
       "rank": 52,
