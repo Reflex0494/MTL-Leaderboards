@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T19:15:11.1109437+00:00",
-    "fetched_at": "2026-09-19T19:15:29.257742+00:00",
+    "generated_at": "2026-09-19T19:30:11.1106765+00:00",
+    "fetched_at": "2026-09-19T19:30:42.072027+00:00",
     "total_entries": 763
   },
   "entries": [
@@ -544,19 +544,19 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-19T19:23:18.085154+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
       "achieved_at": "2026-08-29T00:54:19.28126+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-19T16:42:10.729543+00:00",
-      "badge_id": ""
     },
     {
       "rank": 70,
@@ -786,24 +786,24 @@
       "rank": 98,
       "steam_id": "76561198308394752",
       "display_name": "Ramoneur2schneck",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-16T19:01:26.680017+00:00",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-19T19:26:50.549962+00:00",
       "badge_id": ""
     },
     {
       "rank": 99,
-      "steam_id": "76561198107255403",
-      "display_name": "Astra",
-      "prestige_level": 19,
-      "achieved_at": "2026-08-23T07:52:57.025677+00:00",
+      "steam_id": "76561198171507451",
+      "display_name": "evergreen",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-19T19:15:16.540358+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561197961096127",
-      "display_name": "Professaur",
+      "steam_id": "76561198107255403",
+      "display_name": "Astra",
       "prestige_level": 19,
-      "achieved_at": "2026-08-30T01:19:37.195096+00:00",
+      "achieved_at": "2026-08-23T07:52:57.025677+00:00",
       "badge_id": ""
     }
   ]
