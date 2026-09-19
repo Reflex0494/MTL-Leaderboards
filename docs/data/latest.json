@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T21:15:11.1116101+00:00",
-    "fetched_at": "2026-09-19T21:15:33.242513+00:00",
+    "generated_at": "2026-09-19T21:30:11.1108836+00:00",
+    "fetched_at": "2026-09-19T21:30:37.547139+00:00",
     "total_entries": 764
   },
   "entries": [
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198076913774",
       "display_name": "Earl Sinclair",
-      "prestige_level": 66,
-      "achieved_at": "2026-09-19T00:35:20.545279+00:00",
+      "prestige_level": 67,
+      "achieved_at": "2026-09-19T21:16:32.480818+00:00",
       "badge_id": "og"
     },
     {
@@ -338,8 +338,8 @@
       "rank": 42,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-19T05:42:53.092859+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-19T21:20:11.289115+00:00",
       "badge_id": "og"
     },
     {
