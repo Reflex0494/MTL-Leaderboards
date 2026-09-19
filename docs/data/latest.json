@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T01:00:11.1118975+00:00",
-    "fetched_at": "2026-09-19T01:00:45.120103+00:00",
+    "generated_at": "2026-09-19T01:15:11.1122359+00:00",
+    "fetched_at": "2026-09-19T01:15:31.113035+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -216,18 +216,18 @@
     },
     {
       "rank": 27,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 56,
+      "achieved_at": "2026-09-19T01:13:39.258123+00:00",
       "badge_id": ""
     },
     {
       "rank": 28,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
       "prestige_level": 55,
-      "achieved_at": "2026-09-18T04:55:58.102861+00:00",
+      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
       "badge_id": ""
     },
     {
@@ -376,18 +376,18 @@
     },
     {
       "rank": 47,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 39,
-      "achieved_at": "2026-09-18T04:16:34.161522+00:00",
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 40,
+      "achieved_at": "2026-09-19T01:14:41.256851+00:00",
       "badge_id": ""
     },
     {
       "rank": 48,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
       "prestige_level": 39,
-      "achieved_at": "2026-09-19T00:05:41.791884+00:00",
+      "achieved_at": "2026-09-18T04:16:34.161522+00:00",
       "badge_id": ""
     },
     {
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198207785195",
+      "display_name": "Chad McGee",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-19T01:07:19.927973+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -527,19 +535,11 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198207785195",
-      "display_name": "Chad McGee",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-18T23:10:27.823141+00:00",
       "badge_id": ""
     },
     {
