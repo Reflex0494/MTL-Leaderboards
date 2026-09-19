@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T05:30:11.111853+00:00",
-    "fetched_at": "2026-09-19T05:30:40.111189+00:00",
+    "generated_at": "2026-09-19T05:45:11.1113745+00:00",
+    "fetched_at": "2026-09-19T05:45:30.097218+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
       "prestige_level": 43,
@@ -311,19 +319,11 @@
       "badge_id": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 43,
       "achieved_at": "2026-09-12T08:24:58.981277+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-18T04:35:46.976578+00:00",
       "badge_id": ""
     },
     {
@@ -338,8 +338,8 @@
       "rank": 42,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-15T20:07:00.333997+00:00",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-19T05:42:53.092859+00:00",
       "badge_id": "og"
     },
     {
