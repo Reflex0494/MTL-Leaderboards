@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-18T23:45:11.1112061+00:00",
-    "fetched_at": "2026-09-18T23:45:33.286983+00:00",
+    "generated_at": "2026-09-19T00:00:11.1120073+00:00",
+    "fetched_at": "2026-09-19T00:00:57.332912+00:00",
     "total_entries": 759
   },
   "entries": [
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-18T08:19:49.060588+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-18T23:52:41.003565+00:00",
       "badge_id": ""
     },
     {
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198095288801",
+      "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-18T23:48:14.4545+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661 | TTV",
       "prestige_level": 25,
@@ -647,19 +655,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198055441918",
       "display_name": "LobsterDog",
       "prestige_level": 25,
       "achieved_at": "2026-09-17T21:05:32.6524+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198095288801",
-      "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-18T10:56:07.323828+00:00",
       "badge_id": ""
     },
     {
