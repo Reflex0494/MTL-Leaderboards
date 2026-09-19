@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T16:30:11.11193+00:00",
-    "fetched_at": "2026-09-19T16:30:42.239452+00:00",
+    "generated_at": "2026-09-19T16:45:11.1169907+00:00",
+    "fetched_at": "2026-09-19T16:45:29.909211+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-19T16:42:10.729543+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
       "achieved_at": "2026-09-14T04:51:40.563141+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-19T03:31:10.608623+00:00",
       "badge_id": ""
     },
     {
