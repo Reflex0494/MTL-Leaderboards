@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T03:15:11.1116422+00:00",
-    "fetched_at": "2026-09-19T03:15:31.142189+00:00",
+    "generated_at": "2026-09-19T03:31:11.1116446+00:00",
+    "fetched_at": "2026-09-19T03:31:15.100448+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -570,8 +570,8 @@
       "rank": 71,
       "steam_id": "76561198257899621",
       "display_name": "Blood Money",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-18T16:47:12.37174+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-19T03:31:10.608623+00:00",
       "badge_id": ""
     },
     {
