@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T02:15:11.1120492+00:00",
-    "fetched_at": "2026-09-19T02:15:34.190066+00:00",
+    "generated_at": "2026-09-19T02:30:11.1117026+00:00",
+    "fetched_at": "2026-09-19T02:30:40.864297+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198052055706",
+      "display_name": "OG",
+      "prestige_level": 20,
+      "achieved_at": "2026-09-19T02:20:03.483762+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198107255403",
       "display_name": "Astra",
       "prestige_level": 19,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561197961096127",
       "display_name": "Professaur",
       "prestige_level": 19,
       "achieved_at": "2026-08-30T01:19:37.195096+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198124581645",
-      "display_name": "gwilli2",
-      "prestige_level": 19,
-      "achieved_at": "2026-09-02T17:49:31.834652+00:00",
       "badge_id": ""
     }
   ]
