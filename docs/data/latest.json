@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T08:45:11.110284+00:00",
-    "fetched_at": "2026-09-19T08:45:30.416596+00:00",
+    "generated_at": "2026-09-19T09:00:11.110167+00:00",
+    "fetched_at": "2026-09-19T09:00:47.393476+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 67,
-      "achieved_at": "2026-09-17T18:43:49.675008+00:00",
+      "prestige_level": 68,
+      "achieved_at": "2026-09-19T08:49:02.303274+00:00",
       "badge_id": ""
     },
     {
