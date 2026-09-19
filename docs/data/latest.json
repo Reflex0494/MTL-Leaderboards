@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T06:30:11.113171+00:00",
-    "fetched_at": "2026-09-19T06:30:42.358749+00:00",
+    "generated_at": "2026-09-19T06:45:11.1129627+00:00",
+    "fetched_at": "2026-09-19T06:45:28.459573+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561198207785195",
+      "display_name": "Chad McGee",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-19T06:31:00.371993+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 63,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 31,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 31,
@@ -511,20 +519,12 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 31,
       "achieved_at": "2026-09-17T14:32:49.878858+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198207785195",
-      "display_name": "Chad McGee",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-19T01:07:19.927973+00:00",
-      "badge_id": ""
     },
     {
       "rank": 66,
