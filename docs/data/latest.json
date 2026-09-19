@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T10:15:11.1109185+00:00",
-    "fetched_at": "2026-09-19T10:15:30.923149+00:00",
+    "generated_at": "2026-09-19T10:30:11.1106298+00:00",
+    "fetched_at": "2026-09-19T10:30:37.750893+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 145,
-      "achieved_at": "2026-09-16T17:07:14.943763+00:00",
+      "prestige_level": 146,
+      "achieved_at": "2026-09-19T10:21:29.757312+00:00",
       "badge_id": "s2_first"
     },
     {
@@ -272,18 +272,18 @@
     },
     {
       "rank": 34,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-19T10:27:12.107124+00:00",
       "badge_id": ""
     },
     {
       "rank": 35,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
       "prestige_level": 49,
-      "achieved_at": "2026-09-18T20:33:03.667351+00:00",
+      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
       "badge_id": ""
     },
     {
