@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-19T13:00:11.1116417+00:00",
-    "fetched_at": "2026-09-19T13:00:45.865982+00:00",
+    "generated_at": "2026-09-19T13:15:11.1130661+00:00",
+    "fetched_at": "2026-09-19T13:15:30.315606+00:00",
     "total_entries": 761
   },
   "entries": [
@@ -776,19 +776,19 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198009437251",
+      "display_name": "ellie",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-19T13:08:06.662057+00:00",
+      "badge_id": "mod"
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198308394752",
       "display_name": "Ramoneur2schneck",
       "prestige_level": 20,
       "achieved_at": "2026-09-16T19:01:26.680017+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561198009437251",
-      "display_name": "ellie",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-17T17:04:09.807187+00:00",
-      "badge_id": "mod"
     },
     {
       "rank": 99,
