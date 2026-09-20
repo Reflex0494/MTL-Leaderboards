@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T15:00:11.1114381+00:00",
-    "fetched_at": "2026-09-20T15:00:47.509855+00:00",
+    "generated_at": "2026-09-20T15:15:11.1114099+00:00",
+    "fetched_at": "2026-09-20T15:15:28.998413+00:00",
     "total_entries": 779
   },
   "entries": [
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-20T15:10:01.084682+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 31,
@@ -519,20 +527,12 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 31,
       "achieved_at": "2026-09-17T14:32:49.878858+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-20T12:08:07.032761+00:00",
-      "badge_id": ""
     },
     {
       "rank": 67,
