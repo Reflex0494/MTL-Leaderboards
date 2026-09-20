@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T12:00:11.1110314+00:00",
-    "fetched_at": "2026-09-20T12:00:47.632621+00:00",
+    "generated_at": "2026-09-20T12:15:11.1127678+00:00",
+    "fetched_at": "2026-09-20T12:15:29.934909+00:00",
     "total_entries": 776
   },
   "entries": [
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-20T12:08:07.032761+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -535,19 +543,11 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-19T19:23:18.085154+00:00",
       "badge_id": ""
     },
     {
