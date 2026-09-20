@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T10:00:11.1114945+00:00",
-    "fetched_at": "2026-09-20T10:00:46.224853+00:00",
+    "generated_at": "2026-09-20T10:15:11.1116667+00:00",
+    "fetched_at": "2026-09-20T10:15:31.015422+00:00",
     "total_entries": 776
   },
   "entries": [
@@ -320,18 +320,18 @@
     },
     {
       "rank": 40,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-20T10:09:01.696026+00:00",
       "badge_id": ""
     },
     {
       "rank": 41,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
       "prestige_level": 44,
-      "achieved_at": "2026-09-20T08:56:33.9393+00:00",
+      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
       "badge_id": ""
     },
     {
