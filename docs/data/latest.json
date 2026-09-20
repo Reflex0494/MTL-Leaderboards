@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T02:15:11.1109519+00:00",
-    "fetched_at": "2026-09-20T02:15:29.068271+00:00",
+    "generated_at": "2026-09-20T02:30:11.110672+00:00",
+    "fetched_at": "2026-09-20T02:30:42.836495+00:00",
     "total_entries": 769
   },
   "entries": [
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-20T02:25:51.251507+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 26,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
@@ -615,20 +623,12 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 26,
       "achieved_at": "2026-09-17T04:51:09.113185+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-18T18:54:54.447603+00:00",
-      "badge_id": ""
     },
     {
       "rank": 79,
