@@ -1,17 +1,17 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T03:30:11.1119352+00:00",
-    "fetched_at": "2026-09-20T03:30:38.406544+00:00",
-    "total_entries": 769
+    "generated_at": "2026-09-20T03:45:11.1117753+00:00",
+    "fetched_at": "2026-09-20T03:45:32.451740+00:00",
+    "total_entries": 770
   },
   "entries": [
     {
       "rank": 1,
       "steam_id": "76561197984207176",
       "display_name": "Squid.",
-      "prestige_level": 148,
-      "achieved_at": "2026-09-18T03:05:16.444004+00:00",
+      "prestige_level": 149,
+      "achieved_at": "2026-09-20T03:30:49.643074+00:00",
       "badge_id": ""
     },
     {
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-20T03:39:10.325547+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 26,
@@ -615,20 +623,12 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
       "achieved_at": "2026-09-15T16:45:02.481532+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-17T04:51:09.113185+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 79,
@@ -714,8 +714,8 @@
       "rank": 89,
       "steam_id": "76561198052055706",
       "display_name": "OG",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-19T10:39:19.990193+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-20T03:33:31.229519+00:00",
       "badge_id": ""
     },
     {
