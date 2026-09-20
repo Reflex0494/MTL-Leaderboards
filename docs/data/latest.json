@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T03:45:11.1117753+00:00",
-    "fetched_at": "2026-09-20T03:45:32.451740+00:00",
+    "generated_at": "2026-09-20T04:00:11.111092+00:00",
+    "fetched_at": "2026-09-20T04:00:48.025368+00:00",
     "total_entries": 770
   },
   "entries": [
@@ -312,19 +312,19 @@
     },
     {
       "rank": 39,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-20T03:47:02.827468+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 40,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 44,
       "achieved_at": "2026-09-19T05:31:39.237682+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-20T00:09:38.753289+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 41,
@@ -586,8 +586,8 @@
       "rank": 73,
       "steam_id": "76561198015442060",
       "display_name": "War Eeyore",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-20T02:25:51.251507+00:00",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-20T03:47:42.709862+00:00",
       "badge_id": ""
     },
     {
