@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T06:00:11.1105567+00:00",
-    "fetched_at": "2026-09-20T06:00:48.054507+00:00",
+    "generated_at": "2026-09-20T06:15:11.1102872+00:00",
+    "fetched_at": "2026-09-20T06:15:31.156252+00:00",
     "total_entries": 771
   },
   "entries": [
@@ -376,18 +376,18 @@
     },
     {
       "rank": 47,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-20T06:13:52.948601+00:00",
       "badge_id": ""
     },
     {
       "rank": 48,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 40,
-      "achieved_at": "2026-09-19T01:34:10.444038+00:00",
+      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
       "badge_id": ""
     },
     {
