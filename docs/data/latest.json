@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T18:30:11.1116052+00:00",
-    "fetched_at": "2026-09-20T18:30:41.535965+00:00",
+    "generated_at": "2026-09-20T18:45:11.1110282+00:00",
+    "fetched_at": "2026-09-20T18:45:28.539643+00:00",
     "total_entries": 781
   },
   "entries": [
@@ -794,8 +794,8 @@
       "rank": 99,
       "steam_id": "76561198171507451",
       "display_name": "evergreen",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-19T19:15:16.540358+00:00",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-20T18:42:41.675868+00:00",
       "badge_id": ""
     },
     {
