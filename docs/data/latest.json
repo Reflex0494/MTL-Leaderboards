@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T08:45:11.1116171+00:00",
-    "fetched_at": "2026-09-20T08:45:28.833458+00:00",
+    "generated_at": "2026-09-20T09:00:11.1141847+00:00",
+    "fetched_at": "2026-09-20T09:00:45.807768+00:00",
     "total_entries": 775
   },
   "entries": [
@@ -328,18 +328,18 @@
     },
     {
       "rank": 41,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-20T08:56:33.9393+00:00",
       "badge_id": ""
     },
     {
       "rank": 42,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-09-12T08:24:58.981277+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
