@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T21:15:11.1118424+00:00",
-    "fetched_at": "2026-09-20T21:15:30.988787+00:00",
+    "generated_at": "2026-09-20T21:30:11.1110996+00:00",
+    "fetched_at": "2026-09-20T21:30:38.395260+00:00",
     "total_entries": 782
   },
   "entries": [
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561199046246823",
+      "display_name": "Liric",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-20T21:21:37.205714+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -439,7 +447,7 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -447,20 +455,12 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 34,
       "achieved_at": "2026-09-17T14:55:07.869348+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 57,
-      "steam_id": "76561199046246823",
-      "display_name": "Liric",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-20T20:19:56.028999+00:00",
-      "badge_id": ""
     },
     {
       "rank": 58,
