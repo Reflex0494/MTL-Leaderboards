@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-20T09:15:11.1112627+00:00",
-    "fetched_at": "2026-09-20T09:15:32.088015+00:00",
-    "total_entries": 775
+    "generated_at": "2026-09-20T09:30:11.1108341+00:00",
+    "fetched_at": "2026-09-20T09:30:39.312786+00:00",
+    "total_entries": 776
   },
   "entries": [
     {
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 113,
-      "achieved_at": "2026-09-20T05:54:07.539418+00:00",
+      "prestige_level": 114,
+      "achieved_at": "2026-09-20T09:24:39.499873+00:00",
       "badge_id": ""
     },
     {
@@ -184,6 +184,14 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 59,
+      "achieved_at": "2026-09-20T09:16:58.517901+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 24,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
       "prestige_level": 58,
@@ -191,19 +199,11 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 58,
       "achieved_at": "2026-09-18T19:12:07.673166+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 58,
-      "achieved_at": "2026-09-20T08:15:45.369132+00:00",
       "badge_id": ""
     },
     {
