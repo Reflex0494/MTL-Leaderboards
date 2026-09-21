@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T17:45:11.1112639+00:00",
-    "fetched_at": "2026-09-21T17:45:33.977649+00:00",
+    "generated_at": "2026-09-21T18:00:11.111505+00:00",
+    "fetched_at": "2026-09-21T18:00:51.109391+00:00",
     "total_entries": 787
   },
   "entries": [
@@ -256,19 +256,19 @@
     },
     {
       "rank": 32,
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-21T17:49:55.036987+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 33,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
       "achieved_at": "2026-09-03T04:44:54.903499+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 33,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-21T07:38:22.745432+00:00",
-      "badge_id": ""
     },
     {
       "rank": 34,
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-21T17:54:36.264458+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -543,19 +551,11 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-21T15:34:33.138849+00:00",
       "badge_id": ""
     },
     {
