@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T07:30:11.112556+00:00",
-    "fetched_at": "2026-09-21T07:30:47.037136+00:00",
+    "generated_at": "2026-09-21T07:45:11.110287+00:00",
+    "fetched_at": "2026-09-21T07:45:30.949023+00:00",
     "total_entries": 787
   },
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "steam_id": "76561198014285868",
       "display_name": "Fonsgart",
-      "prestige_level": 146,
-      "achieved_at": "2026-09-19T10:21:29.757312+00:00",
+      "prestige_level": 147,
+      "achieved_at": "2026-09-21T07:34:30.802713+00:00",
       "badge_id": "s2_first"
     },
     {
@@ -264,19 +264,19 @@
     },
     {
       "rank": 33,
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-21T07:38:22.745432+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 34,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
       "achieved_at": "2026-09-07T02:17:01.933486+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 34,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-19T10:27:12.107124+00:00",
-      "badge_id": ""
     },
     {
       "rank": 35,
