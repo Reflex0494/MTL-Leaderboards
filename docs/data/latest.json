@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T14:30:11.1120437+00:00",
-    "fetched_at": "2026-09-21T14:30:45.678696+00:00",
+    "generated_at": "2026-09-21T14:45:11.1129017+00:00",
+    "fetched_at": "2026-09-21T14:45:33.381610+00:00",
     "total_entries": 787
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 117,
-      "achieved_at": "2026-09-21T05:36:52.183532+00:00",
+      "prestige_level": 118,
+      "achieved_at": "2026-09-21T14:42:34.550338+00:00",
       "badge_id": "s2_top21"
     },
     {
