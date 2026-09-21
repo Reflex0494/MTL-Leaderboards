@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T18:00:11.111505+00:00",
-    "fetched_at": "2026-09-21T18:00:51.109391+00:00",
+    "generated_at": "2026-09-21T18:15:11.1116079+00:00",
+    "fetched_at": "2026-09-21T18:15:32.537084+00:00",
     "total_entries": 787
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 125,
-      "achieved_at": "2026-09-20T10:58:04.943552+00:00",
+      "prestige_level": 126,
+      "achieved_at": "2026-09-21T18:15:04.490238+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561198123871725",
       "display_name": "drju6ka",
-      "prestige_level": 73,
-      "achieved_at": "2026-09-21T16:08:55.165196+00:00",
+      "prestige_level": 74,
+      "achieved_at": "2026-09-21T18:09:18.165302+00:00",
       "badge_id": ""
     },
     {
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561197997275874",
+      "display_name": "sheepmee",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-21T18:15:00.20569+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661 | TTV",
       "prestige_level": 25,
@@ -663,19 +671,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198055441918",
       "display_name": "LobsterDog",
       "prestige_level": 25,
       "achieved_at": "2026-09-17T21:05:32.6524+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561197997275874",
-      "display_name": "sheepmee",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-20T07:26:37.898389+00:00",
       "badge_id": ""
     },
     {
