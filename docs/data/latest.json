@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T15:30:11.1119946+00:00",
-    "fetched_at": "2026-09-21T15:30:45.572775+00:00",
+    "generated_at": "2026-09-21T15:45:11.1118198+00:00",
+    "fetched_at": "2026-09-21T15:45:32.369218+00:00",
     "total_entries": 787
   },
   "entries": [
@@ -552,19 +552,19 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-21T15:34:33.138849+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
       "achieved_at": "2026-08-29T00:54:19.28126+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-21T05:27:49.970801+00:00",
-      "badge_id": ""
     },
     {
       "rank": 71,
