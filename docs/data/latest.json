@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T04:30:11.1114616+00:00",
-    "fetched_at": "2026-09-21T04:30:41.050580+00:00",
+    "generated_at": "2026-09-21T04:45:11.1112768+00:00",
+    "fetched_at": "2026-09-21T04:45:29.033733+00:00",
     "total_entries": 787
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 94,
-      "achieved_at": "2026-09-21T03:18:52.500473+00:00",
+      "prestige_level": 95,
+      "achieved_at": "2026-09-21T04:33:40.803163+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
-      "prestige_level": 53,
-      "achieved_at": "2026-09-18T23:52:41.003565+00:00",
+      "prestige_level": 54,
+      "achieved_at": "2026-09-21T04:37:20.323028+00:00",
       "badge_id": ""
     },
     {
