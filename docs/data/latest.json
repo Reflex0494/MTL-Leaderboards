@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T02:15:11.1109498+00:00",
-    "fetched_at": "2026-09-21T02:15:28.866331+00:00",
+    "generated_at": "2026-09-21T02:30:11.1113827+00:00",
+    "fetched_at": "2026-09-21T02:30:38.583449+00:00",
     "total_entries": 785
   },
   "entries": [
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-21T02:19:57.306963+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 33,
@@ -471,19 +479,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561198207785195",
       "display_name": "Chad McGee",
       "prestige_level": 33,
       "achieved_at": "2026-09-19T18:56:23.277002+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 60,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-20T23:00:12.705836+00:00",
       "badge_id": ""
     },
     {
@@ -802,8 +802,8 @@
       "rank": 100,
       "steam_id": "76561198081404484",
       "display_name": "Maggie",
-      "prestige_level": 20,
-      "achieved_at": "2026-09-21T01:13:55.966041+00:00",
+      "prestige_level": 21,
+      "achieved_at": "2026-09-21T02:16:04.005636+00:00",
       "badge_id": ""
     }
   ]
