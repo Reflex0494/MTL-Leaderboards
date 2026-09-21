@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T00:15:11.1110033+00:00",
-    "fetched_at": "2026-09-21T00:15:30.319079+00:00",
+    "generated_at": "2026-09-21T00:30:11.1102475+00:00",
+    "fetched_at": "2026-09-21T00:30:38.196920+00:00",
     "total_entries": 785
   },
   "entries": [
@@ -146,8 +146,8 @@
       "rank": 18,
       "steam_id": "76561198076913774",
       "display_name": "Earl Sinclair",
-      "prestige_level": 69,
-      "achieved_at": "2026-09-20T05:49:08.219732+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-09-21T00:19:25.505213+00:00",
       "badge_id": "og"
     },
     {
