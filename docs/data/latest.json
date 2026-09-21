@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-21T16:15:11.1124323+00:00",
-    "fetched_at": "2026-09-21T16:15:30.916431+00:00",
+    "generated_at": "2026-09-21T16:30:11.1113013+00:00",
+    "fetched_at": "2026-09-21T16:30:42.475114+00:00",
     "total_entries": 787
   },
   "entries": [
@@ -352,18 +352,18 @@
     },
     {
       "rank": 44,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-20T07:26:13.416866+00:00",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-21T16:17:47.601539+00:00",
       "badge_id": ""
     },
     {
       "rank": 45,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
       "prestige_level": 42,
-      "achieved_at": "2026-09-21T02:39:23.472204+00:00",
+      "achieved_at": "2026-09-20T07:26:13.416866+00:00",
       "badge_id": ""
     },
     {
