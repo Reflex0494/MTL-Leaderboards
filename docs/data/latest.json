@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T16:30:11.111489+00:00",
-    "fetched_at": "2026-09-22T16:30:41.387613+00:00",
+    "generated_at": "2026-09-22T16:45:11.1126394+00:00",
+    "fetched_at": "2026-09-22T16:45:33.851344+00:00",
     "total_entries": 797
   },
   "entries": [
@@ -90,8 +90,8 @@
       "rank": 11,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 80,
-      "achieved_at": "2026-09-14T18:40:30.943728+00:00",
+      "prestige_level": 81,
+      "achieved_at": "2026-09-22T16:40:48.744647+00:00",
       "badge_id": ""
     },
     {
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198123871725",
       "display_name": "drju6ka",
-      "prestige_level": 78,
-      "achieved_at": "2026-09-22T12:31:58.620837+00:00",
+      "prestige_level": 79,
+      "achieved_at": "2026-09-22T16:38:33.092726+00:00",
       "badge_id": ""
     },
     {
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-22T16:43:03.826574+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -495,7 +503,7 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 32,
@@ -511,19 +519,11 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
       "achieved_at": "2026-09-13T23:13:33.644997+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-22T14:50:24.93133+00:00",
       "badge_id": ""
     },
     {
