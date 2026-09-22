@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T20:30:11.1129339+00:00",
-    "fetched_at": "2026-09-22T20:30:42.994987+00:00",
+    "generated_at": "2026-09-22T20:45:11.1126669+00:00",
+    "fetched_at": "2026-09-22T20:45:29.595058+00:00",
     "total_entries": 799
   },
   "entries": [
@@ -352,18 +352,18 @@
     },
     {
       "rank": 44,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-22T20:31:31.58256+00:00",
       "badge_id": ""
     },
     {
       "rank": 45,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-09-21T16:17:47.601539+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
