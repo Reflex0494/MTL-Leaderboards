@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T18:30:11.1116753+00:00",
-    "fetched_at": "2026-09-22T18:30:39.460077+00:00",
+    "generated_at": "2026-09-22T18:45:11.1117651+00:00",
+    "fetched_at": "2026-09-22T18:45:30.858346+00:00",
     "total_entries": 798
   },
   "entries": [
@@ -90,8 +90,8 @@
       "rank": 11,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
-      "prestige_level": 81,
-      "achieved_at": "2026-09-22T16:40:48.744647+00:00",
+      "prestige_level": 82,
+      "achieved_at": "2026-09-22T18:31:35.674973+00:00",
       "badge_id": ""
     },
     {
@@ -730,8 +730,8 @@
       "rank": 91,
       "steam_id": "76561198219933312",
       "display_name": "KepilOtol",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-22T18:04:03.130292+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-22T18:45:02.493204+00:00",
       "badge_id": ""
     },
     {
