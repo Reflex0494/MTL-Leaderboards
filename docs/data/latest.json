@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T01:30:11.1113086+00:00",
-    "fetched_at": "2026-09-22T01:30:41.436098+00:00",
+    "generated_at": "2026-09-22T01:45:11.1131948+00:00",
+    "fetched_at": "2026-09-22T01:45:29.977580+00:00",
     "total_entries": 788
   },
   "entries": [
@@ -298,8 +298,8 @@
       "rank": 37,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
-      "prestige_level": 48,
-      "achieved_at": "2026-09-22T00:25:50.210712+00:00",
+      "prestige_level": 49,
+      "achieved_at": "2026-09-22T01:38:41.840313+00:00",
       "badge_id": "og"
     },
     {
@@ -592,19 +592,19 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198052055706",
+      "display_name": "OG",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-22T01:33:55.242965+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 27,
       "achieved_at": "2026-09-20T03:39:10.325547+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198052055706",
-      "display_name": "OG",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-21T07:12:09.859106+00:00",
-      "badge_id": ""
     },
     {
       "rank": 76,
