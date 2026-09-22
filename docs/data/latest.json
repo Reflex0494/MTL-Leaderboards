@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T01:00:11.1146729+00:00",
-    "fetched_at": "2026-09-22T01:00:48.561930+00:00",
+    "generated_at": "2026-09-22T01:15:11.1112396+00:00",
+    "fetched_at": "2026-09-22T01:15:31.522360+00:00",
     "total_entries": 788
   },
   "entries": [
@@ -362,8 +362,8 @@
       "rank": 45,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-20T07:26:13.416866+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-22T01:10:31.759061+00:00",
       "badge_id": ""
     },
     {
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-22T01:10:04.110896+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -455,19 +463,11 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
       "achieved_at": "2026-09-11T14:25:29.828115+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-21T02:19:57.306963+00:00",
       "badge_id": ""
     },
     {
