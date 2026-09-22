@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T04:45:11.1106975+00:00",
-    "fetched_at": "2026-09-22T04:45:29.782926+00:00",
+    "generated_at": "2026-09-22T05:00:11.1099666+00:00",
+    "fetched_at": "2026-09-22T05:00:49.918507+00:00",
     "total_entries": 793
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 95,
-      "achieved_at": "2026-09-21T04:33:40.803163+00:00",
+      "prestige_level": 96,
+      "achieved_at": "2026-09-22T04:45:50.714825+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -426,8 +426,8 @@
       "rank": 53,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-17T23:04:38.656448+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-22T04:54:00.916043+00:00",
       "badge_id": ""
     },
     {
