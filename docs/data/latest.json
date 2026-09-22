@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T14:45:11.1110882+00:00",
-    "fetched_at": "2026-09-22T14:45:35.819566+00:00",
+    "generated_at": "2026-09-22T15:00:11.1123449+00:00",
+    "fetched_at": "2026-09-22T15:00:56.980320+00:00",
     "total_entries": 797
   },
   "entries": [
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 32,
+      "achieved_at": "2026-09-22T14:50:24.93133+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 31,
@@ -527,20 +535,12 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 31,
       "achieved_at": "2026-09-17T14:32:49.878858+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 31,
-      "achieved_at": "2026-09-21T17:54:36.264458+00:00",
-      "badge_id": ""
     },
     {
       "rank": 68,
