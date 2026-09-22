@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T01:15:11.1112396+00:00",
-    "fetched_at": "2026-09-22T01:15:31.522360+00:00",
+    "generated_at": "2026-09-22T01:30:11.1113086+00:00",
+    "fetched_at": "2026-09-22T01:30:41.436098+00:00",
     "total_entries": 788
   },
   "entries": [
@@ -290,8 +290,8 @@
       "rank": 36,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
-      "prestige_level": 48,
-      "achieved_at": "2026-09-22T00:08:14.934755+00:00",
+      "prestige_level": 49,
+      "achieved_at": "2026-09-22T01:28:54.114445+00:00",
       "badge_id": ""
     },
     {
@@ -320,18 +320,18 @@
     },
     {
       "rank": 40,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-20T10:09:01.696026+00:00",
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-22T01:28:04.437625+00:00",
       "badge_id": ""
     },
     {
       "rank": 41,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
       "prestige_level": 45,
-      "achieved_at": "2026-09-22T00:38:12.14264+00:00",
+      "achieved_at": "2026-09-20T10:09:01.696026+00:00",
       "badge_id": ""
     },
     {
