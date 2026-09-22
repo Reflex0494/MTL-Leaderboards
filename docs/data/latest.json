@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T21:30:11.1117293+00:00",
-    "fetched_at": "2026-09-22T21:30:45.643162+00:00",
+    "generated_at": "2026-09-22T21:45:11.1114501+00:00",
+    "fetched_at": "2026-09-22T21:45:32.591847+00:00",
     "total_entries": 800
   },
   "entries": [
@@ -768,6 +768,14 @@
     },
     {
       "rank": 96,
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-22T21:43:22.602255+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 97,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198392306570",
       "display_name": "Oh Dios Mio",
       "prestige_level": 21,
@@ -791,20 +799,12 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 21,
       "achieved_at": "2026-09-19T13:08:06.662057+00:00",
       "badge_id": "mod"
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198308394752",
-      "display_name": "Ramoneur2schneck",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-19T19:26:50.549962+00:00",
-      "badge_id": ""
     }
   ]
 }
