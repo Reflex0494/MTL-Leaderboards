@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T12:45:11.1130142+00:00",
-    "fetched_at": "2026-09-22T12:45:32.730608+00:00",
+    "generated_at": "2026-09-22T13:00:11.1134068+00:00",
+    "fetched_at": "2026-09-22T13:00:52.002371+00:00",
     "total_entries": 797
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 126,
-      "achieved_at": "2026-09-21T18:15:04.490238+00:00",
+      "prestige_level": 127,
+      "achieved_at": "2026-09-22T12:54:48.954949+00:00",
       "badge_id": "s3_top21"
     },
     {
