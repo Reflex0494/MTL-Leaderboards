@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T04:15:11.1116249+00:00",
-    "fetched_at": "2026-09-22T04:15:31.655674+00:00",
+    "generated_at": "2026-09-22T04:30:11.112025+00:00",
+    "fetched_at": "2026-09-22T04:30:40.567992+00:00",
     "total_entries": 793
   },
   "entries": [
@@ -104,6 +104,14 @@
     },
     {
       "rank": 13,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 77,
+      "achieved_at": "2026-09-22T04:24:50.473348+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 14,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 76,
@@ -111,7 +119,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 76,
@@ -119,19 +127,11 @@
       "badge_id": ""
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 76,
       "achieved_at": "2026-09-17T10:03:56.054564+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 16,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 76,
-      "achieved_at": "2026-09-22T00:06:14.927703+00:00",
       "badge_id": ""
     },
     {
@@ -304,18 +304,18 @@
     },
     {
       "rank": 38,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-22T04:28:09.332965+00:00",
       "badge_id": ""
     },
     {
       "rank": 39,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-22T02:50:30.932627+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
