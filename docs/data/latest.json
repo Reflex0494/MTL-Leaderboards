@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-22T00:00:11.1111944+00:00",
-    "fetched_at": "2026-09-22T00:01:07.806675+00:00",
-    "total_entries": 787
+    "generated_at": "2026-09-22T00:15:11.1107597+00:00",
+    "fetched_at": "2026-09-22T00:15:31.595642+00:00",
+    "total_entries": 788
   },
   "entries": [
     {
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 116,
-      "achieved_at": "2026-09-21T13:00:06.83173+00:00",
+      "prestige_level": 117,
+      "achieved_at": "2026-09-22T00:06:15.37891+00:00",
       "badge_id": ""
     },
     {
@@ -128,6 +128,14 @@
     },
     {
       "rank": 16,
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 76,
+      "achieved_at": "2026-09-22T00:06:14.927703+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 17,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 75,
@@ -135,20 +143,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
       "prestige_level": 75,
       "achieved_at": "2026-09-21T18:23:24.421329+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
-      "prestige_level": 75,
-      "achieved_at": "2026-09-21T19:37:48.376969+00:00",
-      "badge_id": ""
     },
     {
       "rank": 19,
@@ -288,18 +288,18 @@
     },
     {
       "rank": 36,
-      "steam_id": "76561198034504272",
-      "display_name": "Kotsugawa",
-      "prestige_level": 47,
-      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-22T00:08:14.934755+00:00",
       "badge_id": ""
     },
     {
       "rank": 37,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
+      "steam_id": "76561198034504272",
+      "display_name": "Kotsugawa",
       "prestige_level": 47,
-      "achieved_at": "2026-09-21T01:50:24.221221+00:00",
+      "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
     },
     {
