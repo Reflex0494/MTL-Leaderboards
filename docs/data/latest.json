@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T00:00:11.112012+00:00",
-    "fetched_at": "2026-09-23T00:00:50.526922+00:00",
+    "generated_at": "2026-09-23T00:15:11.1111824+00:00",
+    "fetched_at": "2026-09-23T00:15:30.867618+00:00",
     "total_entries": 800
   },
   "entries": [
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198123871725",
       "display_name": "drju6ka",
-      "prestige_level": 79,
-      "achieved_at": "2026-09-22T16:38:33.092726+00:00",
+      "prestige_level": 80,
+      "achieved_at": "2026-09-23T00:06:54.323907+00:00",
       "badge_id": ""
     },
     {
@@ -306,8 +306,8 @@
       "rank": 38,
       "steam_id": "76561198050855635",
       "display_name": "UnlikelyFloof",
-      "prestige_level": 48,
-      "achieved_at": "2026-09-22T04:28:09.332965+00:00",
+      "prestige_level": 49,
+      "achieved_at": "2026-09-23T00:14:39.200222+00:00",
       "badge_id": ""
     },
     {
