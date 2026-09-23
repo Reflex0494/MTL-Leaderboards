@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T17:45:11.1115528+00:00",
-    "fetched_at": "2026-09-23T17:45:29.940906+00:00",
+    "generated_at": "2026-09-23T18:00:11.1114506+00:00",
+    "fetched_at": "2026-09-23T18:00:52.668836+00:00",
     "total_entries": 804
   },
   "entries": [
@@ -88,18 +88,18 @@
     },
     {
       "rank": 11,
-      "steam_id": "76561198099253753",
-      "display_name": "schrock",
-      "prestige_level": 82,
-      "achieved_at": "2026-09-22T18:31:35.674973+00:00",
+      "steam_id": "76561198123871725",
+      "display_name": "drju6ka",
+      "prestige_level": 83,
+      "achieved_at": "2026-09-23T17:53:12.697765+00:00",
       "badge_id": ""
     },
     {
       "rank": 12,
-      "steam_id": "76561198123871725",
-      "display_name": "drju6ka",
+      "steam_id": "76561198099253753",
+      "display_name": "schrock",
       "prestige_level": 82,
-      "achieved_at": "2026-09-23T14:25:32.237139+00:00",
+      "achieved_at": "2026-09-22T18:31:35.674973+00:00",
       "badge_id": ""
     },
     {
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 78,
-      "achieved_at": "2026-09-23T15:59:45.276899+00:00",
+      "prestige_level": 79,
+      "achieved_at": "2026-09-23T17:58:36.605429+00:00",
       "badge_id": "s1_top21"
     },
     {
