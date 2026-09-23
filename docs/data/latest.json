@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T17:15:11.1113968+00:00",
-    "fetched_at": "2026-09-23T17:15:30.451027+00:00",
+    "generated_at": "2026-09-23T17:30:11.1115683+00:00",
+    "fetched_at": "2026-09-23T17:30:40.919590+00:00",
     "total_entries": 804
   },
   "entries": [
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198052055706",
+      "display_name": "OG",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-23T17:17:14.397087+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198052055706",
-      "display_name": "OG",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-23T14:52:03.097915+00:00",
       "badge_id": ""
     },
     {
