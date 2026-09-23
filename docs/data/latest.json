@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T03:00:11.1123268+00:00",
-    "fetched_at": "2026-09-23T03:00:53.209041+00:00",
+    "generated_at": "2026-09-23T03:15:11.1129994+00:00",
+    "fetched_at": "2026-09-23T03:15:34.066302+00:00",
     "total_entries": 801
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 98,
-      "achieved_at": "2026-09-23T00:22:29.856348+00:00",
+      "prestige_level": 99,
+      "achieved_at": "2026-09-23T03:02:39.79523+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -154,8 +154,8 @@
       "rank": 19,
       "steam_id": "76561198076913774",
       "display_name": "Earl Sinclair",
-      "prestige_level": 74,
-      "achieved_at": "2026-09-23T02:47:52.077055+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-09-23T03:13:04.486162+00:00",
       "badge_id": "og"
     },
     {
