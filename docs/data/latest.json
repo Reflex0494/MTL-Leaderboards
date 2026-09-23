@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T10:00:11.1119169+00:00",
-    "fetched_at": "2026-09-23T10:00:51.986887+00:00",
+    "generated_at": "2026-09-23T10:15:11.1126764+00:00",
+    "fetched_at": "2026-09-23T10:15:31.620440+00:00",
     "total_entries": 802
   },
   "entries": [
@@ -106,8 +106,8 @@
       "rank": 13,
       "steam_id": "76561198123871725",
       "display_name": "drju6ka",
-      "prestige_level": 80,
-      "achieved_at": "2026-09-23T00:06:54.323907+00:00",
+      "prestige_level": 81,
+      "achieved_at": "2026-09-23T10:12:41.60067+00:00",
       "badge_id": ""
     },
     {
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561197997275874",
+      "display_name": "sheepmee",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-23T10:04:57.468529+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 26,
@@ -647,19 +655,11 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
       "achieved_at": "2026-09-15T16:45:02.481532+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561197997275874",
-      "display_name": "sheepmee",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-21T18:15:00.20569+00:00",
       "badge_id": ""
     },
     {
