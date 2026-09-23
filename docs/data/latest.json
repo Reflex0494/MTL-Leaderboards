@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T19:30:11.1119027+00:00",
-    "fetched_at": "2026-09-23T19:30:44.093134+00:00",
+    "generated_at": "2026-09-23T19:45:11.112319+00:00",
+    "fetched_at": "2026-09-23T19:45:28.933060+00:00",
     "total_entries": 805
   },
   "entries": [
@@ -202,8 +202,8 @@
       "rank": 25,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-22T21:19:49.637055+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-23T19:34:31.539193+00:00",
       "badge_id": ""
     },
     {
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198009437251",
+      "display_name": "ellie",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-23T19:43:23.527027+00:00",
+      "badge_id": "mod"
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 22,
@@ -767,20 +775,12 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198086061180",
       "display_name": "Tervin",
       "prestige_level": 22,
       "achieved_at": "2026-09-18T02:45:54.869464+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 97,
-      "steam_id": "76561198009437251",
-      "display_name": "ellie",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-23T01:16:06.940587+00:00",
-      "badge_id": "mod"
     },
     {
       "rank": 98,
