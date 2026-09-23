@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T22:15:11.1118717+00:00",
-    "fetched_at": "2026-09-23T22:15:29.100185+00:00",
+    "generated_at": "2026-09-23T22:30:11.111841+00:00",
+    "fetched_at": "2026-09-23T22:30:37.255009+00:00",
     "total_entries": 805
   },
   "entries": [
@@ -232,18 +232,18 @@
     },
     {
       "rank": 29,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 56,
+      "achieved_at": "2026-09-23T22:27:53.265106+00:00",
       "badge_id": ""
     },
     {
       "rank": 30,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
       "prestige_level": 55,
-      "achieved_at": "2026-09-23T00:32:40.87324+00:00",
+      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
       "badge_id": ""
     },
     {
