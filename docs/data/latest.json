@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T15:45:11.1121223+00:00",
-    "fetched_at": "2026-09-23T15:46:07.792044+00:00",
+    "generated_at": "2026-09-23T16:00:11.1106059+00:00",
+    "fetched_at": "2026-09-23T16:00:50.531190+00:00",
     "total_entries": 804
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 77,
-      "achieved_at": "2026-09-22T17:19:36.621967+00:00",
+      "prestige_level": 78,
+      "achieved_at": "2026-09-23T15:59:45.276899+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-23T15:49:21.95108+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
@@ -287,19 +295,11 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561198050855635",
       "display_name": "UnlikelyFloof",
       "prestige_level": 50,
       "achieved_at": "2026-09-23T01:02:32.074067+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-23T14:35:07.698942+00:00",
       "badge_id": ""
     },
     {
