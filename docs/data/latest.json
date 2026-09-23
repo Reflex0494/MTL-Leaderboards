@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T01:00:11.1116838+00:00",
-    "fetched_at": "2026-09-23T01:00:49.088168+00:00",
+    "generated_at": "2026-09-23T01:15:11.1127038+00:00",
+    "fetched_at": "2026-09-23T01:15:32.961069+00:00",
     "total_entries": 800
   },
   "entries": [
@@ -280,6 +280,14 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-23T01:02:32.074067+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 36,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
@@ -287,7 +295,7 @@
       "badge_id": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
       "prestige_level": 49,
@@ -295,20 +303,12 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
       "prestige_level": 49,
       "achieved_at": "2026-09-22T01:38:41.840313+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-23T00:14:39.200222+00:00",
-      "badge_id": ""
     },
     {
       "rank": 39,
