@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T17:30:11.1115683+00:00",
-    "fetched_at": "2026-09-23T17:30:40.919590+00:00",
+    "generated_at": "2026-09-23T17:45:11.1115528+00:00",
+    "fetched_at": "2026-09-23T17:45:29.940906+00:00",
     "total_entries": 804
   },
   "entries": [
@@ -456,6 +456,14 @@
     },
     {
       "rank": 57,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 35,
+      "achieved_at": "2026-09-23T17:36:27.903964+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 58,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -463,19 +471,11 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
       "achieved_at": "2026-09-11T14:25:29.828115+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 34,
-      "achieved_at": "2026-09-23T14:55:25.538219+00:00",
       "badge_id": ""
     },
     {
