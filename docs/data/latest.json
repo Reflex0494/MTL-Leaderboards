@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-23T09:45:11.1128042+00:00",
-    "fetched_at": "2026-09-23T09:45:30.230000+00:00",
+    "generated_at": "2026-09-23T10:00:11.1119169+00:00",
+    "fetched_at": "2026-09-23T10:00:51.986887+00:00",
     "total_entries": 802
   },
   "entries": [
@@ -176,18 +176,18 @@
     },
     {
       "rank": 22,
-      "steam_id": "76561198014380387",
-      "display_name": "GaliiLoN",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 64,
+      "achieved_at": "2026-09-23T09:55:57.63544+00:00",
       "badge_id": ""
     },
     {
       "rank": 23,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
+      "steam_id": "76561198014380387",
+      "display_name": "GaliiLoN",
       "prestige_level": 63,
-      "achieved_at": "2026-09-22T03:50:57.689058+00:00",
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
