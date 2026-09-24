@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T00:15:11.1105189+00:00",
-    "fetched_at": "2026-09-24T00:15:29.473905+00:00",
+    "generated_at": "2026-09-24T00:30:11.1118733+00:00",
+    "fetched_at": "2026-09-24T00:30:38.723921+00:00",
     "total_entries": 806
   },
   "entries": [
@@ -168,18 +168,18 @@
     },
     {
       "rank": 21,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 65,
-      "achieved_at": "2026-09-23T10:39:53.286353+00:00",
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 66,
+      "achieved_at": "2026-09-24T00:28:50.070151+00:00",
       "badge_id": ""
     },
     {
       "rank": 22,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
       "prestige_level": 65,
-      "achieved_at": "2026-09-24T00:00:10.636755+00:00",
+      "achieved_at": "2026-09-23T10:39:53.286353+00:00",
       "badge_id": ""
     },
     {
@@ -376,19 +376,19 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-24T00:17:56.548434+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 41,
       "achieved_at": "2026-09-17T10:43:25.013735+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-22T00:22:55.626446+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 49,
