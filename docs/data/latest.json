@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T01:00:11.1114969+00:00",
-    "fetched_at": "2026-09-24T01:00:49.175137+00:00",
+    "generated_at": "2026-09-24T01:15:11.1128871+00:00",
+    "fetched_at": "2026-09-24T01:15:33.283015+00:00",
     "total_entries": 806
   },
   "entries": [
@@ -266,8 +266,8 @@
       "rank": 33,
       "steam_id": "76561197961894696",
       "display_name": "DonkeyDuff",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-24T00:02:17.634993+00:00",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-24T01:06:49.573383+00:00",
       "badge_id": ""
     },
     {
