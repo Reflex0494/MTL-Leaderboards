@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T19:30:11.1108433+00:00",
-    "fetched_at": "2026-09-24T19:30:40.520675+00:00",
+    "generated_at": "2026-09-24T19:45:11.1117477+00:00",
+    "fetched_at": "2026-09-24T19:45:31.768566+00:00",
     "total_entries": 812
   },
   "entries": [
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-24T16:29:40.176352+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-24T19:32:27.570159+00:00",
       "badge_id": ""
     },
     {
