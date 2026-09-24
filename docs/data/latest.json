@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T12:15:11.1113451+00:00",
-    "fetched_at": "2026-09-24T12:15:30.024656+00:00",
+    "generated_at": "2026-09-24T12:30:11.1106778+00:00",
+    "fetched_at": "2026-09-24T12:30:40.670595+00:00",
     "total_entries": 810
   },
   "entries": [
@@ -320,6 +320,14 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-24T12:24:11.736145+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 41,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 46,
@@ -327,20 +335,12 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 46,
       "achieved_at": "2026-09-24T10:26:12.916558+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-24T11:02:35.794576+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 43,
@@ -738,8 +738,8 @@
       "rank": 92,
       "steam_id": "76561198165404808",
       "display_name": "Spazious",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-23T07:36:20.124978+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-24T12:15:13.634282+00:00",
       "badge_id": ""
     },
     {
