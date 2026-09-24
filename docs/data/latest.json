@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T05:15:11.1130023+00:00",
-    "fetched_at": "2026-09-24T05:15:28.581297+00:00",
+    "generated_at": "2026-09-24T05:30:11.1103076+00:00",
+    "fetched_at": "2026-09-24T05:30:36.674553+00:00",
     "total_entries": 808
   },
   "entries": [
@@ -34,8 +34,8 @@
       "rank": 4,
       "steam_id": "76561198054909698",
       "display_name": "Art",
-      "prestige_level": 122,
-      "achieved_at": "2026-09-23T12:43:20.89885+00:00",
+      "prestige_level": 123,
+      "achieved_at": "2026-09-24T05:25:52.158122+00:00",
       "badge_id": "s2_top21"
     },
     {
@@ -440,6 +440,14 @@
     },
     {
       "rank": 55,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 36,
+      "achieved_at": "2026-09-24T05:21:26.630018+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 56,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 35,
@@ -447,19 +455,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198257899621",
       "display_name": "Blood Money",
       "prestige_level": 35,
       "achieved_at": "2026-09-22T01:10:04.110896+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 57,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 35,
-      "achieved_at": "2026-09-23T17:36:27.903964+00:00",
       "badge_id": ""
     },
     {
