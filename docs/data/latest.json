@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T02:15:11.1114406+00:00",
-    "fetched_at": "2026-09-24T02:15:29.240736+00:00",
+    "generated_at": "2026-09-24T02:30:11.1113636+00:00",
+    "fetched_at": "2026-09-24T02:30:43.958447+00:00",
     "total_entries": 806
   },
   "entries": [
@@ -434,8 +434,8 @@
       "rank": 54,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-23T00:53:53.670679+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-09-24T02:24:45.139147+00:00",
       "badge_id": ""
     },
     {
