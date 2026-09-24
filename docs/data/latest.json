@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T21:15:11.1106375+00:00",
-    "fetched_at": "2026-09-24T21:15:37.420260+00:00",
+    "generated_at": "2026-09-24T21:30:11.1103682+00:00",
+    "fetched_at": "2026-09-24T21:30:40.492809+00:00",
     "total_entries": 812
   },
   "entries": [
@@ -114,8 +114,8 @@
       "rank": 14,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 81,
-      "achieved_at": "2026-09-24T17:33:15.731924+00:00",
+      "prestige_level": 82,
+      "achieved_at": "2026-09-24T21:29:04.161437+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -560,6 +560,14 @@
     },
     {
       "rank": 70,
+      "steam_id": "76561198171507451",
+      "display_name": "evergreen",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-24T21:22:06.44708+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 71,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -567,19 +575,11 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561198171507451",
-      "display_name": "evergreen",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-24T04:22:49.836864+00:00",
       "badge_id": ""
     },
     {
