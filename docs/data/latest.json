@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T23:00:11.1107992+00:00",
-    "fetched_at": "2026-09-24T23:00:46.023126+00:00",
+    "generated_at": "2026-09-24T23:15:11.1117083+00:00",
+    "fetched_at": "2026-09-24T23:15:27.651090+00:00",
     "total_entries": 814
   },
   "entries": [
@@ -608,19 +608,19 @@
     },
     {
       "rank": 76,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-24T23:10:45.403403+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 77,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 27,
       "achieved_at": "2026-09-20T03:39:10.325547+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-22T15:59:06.785571+00:00",
-      "badge_id": ""
     },
     {
       "rank": 78,
