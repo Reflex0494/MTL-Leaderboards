@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T18:00:11.1128199+00:00",
-    "fetched_at": "2026-09-24T18:00:52.535251+00:00",
+    "generated_at": "2026-09-24T18:15:11.1136464+00:00",
+    "fetched_at": "2026-09-24T18:15:31.239560+00:00",
     "total_entries": 812
   },
   "entries": [
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-24T18:12:52.551276+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -431,19 +439,11 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 37,
       "achieved_at": "2026-09-22T19:35:54.736347+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 37,
-      "achieved_at": "2026-09-24T16:11:00.156555+00:00",
       "badge_id": ""
     },
     {
