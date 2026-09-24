@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T21:30:11.1103682+00:00",
-    "fetched_at": "2026-09-24T21:30:40.492809+00:00",
+    "generated_at": "2026-09-24T21:45:11.1106834+00:00",
+    "fetched_at": "2026-09-24T21:45:31.633346+00:00",
     "total_entries": 812
   },
   "entries": [
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 39,
+      "achieved_at": "2026-09-24T21:37:19.132154+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 51,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -407,7 +415,7 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -415,19 +423,11 @@
       "badge_id": ""
     },
     {
-      "rank": 52,
+      "rank": 53,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 38,
       "achieved_at": "2026-09-24T03:49:21.040311+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 53,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 38,
-      "achieved_at": "2026-09-24T18:12:52.551276+00:00",
       "badge_id": ""
     },
     {
