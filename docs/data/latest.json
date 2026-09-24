@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T02:00:11.1117928+00:00",
-    "fetched_at": "2026-09-24T02:00:46.721358+00:00",
+    "generated_at": "2026-09-24T02:15:11.1114406+00:00",
+    "fetched_at": "2026-09-24T02:15:29.240736+00:00",
     "total_entries": 806
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 120,
-      "achieved_at": "2026-09-23T15:37:16.044693+00:00",
+      "prestige_level": 121,
+      "achieved_at": "2026-09-24T02:04:41.949423+00:00",
       "badge_id": ""
     },
     {
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 100,
-      "achieved_at": "2026-09-24T00:47:36.518576+00:00",
+      "prestige_level": 101,
+      "achieved_at": "2026-09-24T02:11:57.263408+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198012829920",
       "display_name": "Prec",
-      "prestige_level": 67,
-      "achieved_at": "2026-09-24T00:52:10.582411+00:00",
+      "prestige_level": 68,
+      "achieved_at": "2026-09-24T02:10:46.174951+00:00",
       "badge_id": ""
     },
     {
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 57,
-      "achieved_at": "2026-09-15T18:27:42.557677+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-09-24T02:10:08.77773+00:00",
       "badge_id": "s2_second"
     },
     {
