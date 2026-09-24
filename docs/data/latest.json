@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T04:15:11.1178836+00:00",
-    "fetched_at": "2026-09-24T04:15:30.080564+00:00",
+    "generated_at": "2026-09-24T04:30:11.1114571+00:00",
+    "fetched_at": "2026-09-24T04:30:38.088927+00:00",
     "total_entries": 808
   },
   "entries": [
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 66,
-      "achieved_at": "2026-09-24T03:46:22.856202+00:00",
+      "prestige_level": 67,
+      "achieved_at": "2026-09-24T04:23:59.892606+00:00",
       "badge_id": ""
     },
     {
@@ -576,19 +576,19 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198171507451",
+      "display_name": "evergreen",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-24T04:22:49.836864+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
       "achieved_at": "2026-08-29T00:54:19.28126+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 73,
-      "steam_id": "76561198171507451",
-      "display_name": "evergreen",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-23T01:36:41.227577+00:00",
-      "badge_id": ""
     },
     {
       "rank": 74,
