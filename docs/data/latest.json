@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-24T10:15:11.1120097+00:00",
-    "fetched_at": "2026-09-24T10:15:30.931402+00:00",
+    "generated_at": "2026-09-24T10:30:11.1123787+00:00",
+    "fetched_at": "2026-09-24T10:30:48.573063+00:00",
     "total_entries": 810
   },
   "entries": [
@@ -330,8 +330,8 @@
       "rank": 41,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
-      "prestige_level": 45,
-      "achieved_at": "2026-09-20T10:09:01.696026+00:00",
+      "prestige_level": 46,
+      "achieved_at": "2026-09-24T10:26:12.916558+00:00",
       "badge_id": ""
     },
     {
