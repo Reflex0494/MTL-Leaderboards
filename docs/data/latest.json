@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T19:45:11.1110474+00:00",
-    "fetched_at": "2026-09-25T19:45:33.636943+00:00",
+    "generated_at": "2026-09-25T20:00:11.1121875+00:00",
+    "fetched_at": "2026-09-25T20:00:47.525176+00:00",
     "total_entries": 827
   },
   "entries": [
@@ -384,18 +384,18 @@
     },
     {
       "rank": 48,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-17T10:43:25.013735+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 42,
+      "achieved_at": "2026-09-25T19:57:18.31882+00:00",
       "badge_id": ""
     },
     {
       "rank": 49,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
       "prestige_level": 41,
-      "achieved_at": "2026-09-25T17:06:37.416383+00:00",
+      "achieved_at": "2026-09-17T10:43:25.013735+00:00",
       "badge_id": ""
     },
     {
