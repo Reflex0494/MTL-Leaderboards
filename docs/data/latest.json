@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T20:15:11.1126083+00:00",
-    "fetched_at": "2026-09-25T20:15:29.597064+00:00",
+    "generated_at": "2026-09-25T20:30:11.1117359+00:00",
+    "fetched_at": "2026-09-25T20:30:48.795857+00:00",
     "total_entries": 827
   },
   "entries": [
@@ -82,8 +82,8 @@
       "rank": 10,
       "steam_id": "76561198123871725",
       "display_name": "QCDfluffer",
-      "prestige_level": 91,
-      "achieved_at": "2026-09-25T17:56:16.10812+00:00",
+      "prestige_level": 92,
+      "achieved_at": "2026-09-25T20:19:32.472763+00:00",
       "badge_id": ""
     },
     {
@@ -218,8 +218,8 @@
       "rank": 27,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-24T18:58:13.191435+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-25T20:22:07.916194+00:00",
       "badge_id": "s2_second"
     },
     {
