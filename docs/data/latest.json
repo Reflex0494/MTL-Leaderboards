@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T00:30:11.112146+00:00",
-    "fetched_at": "2026-09-25T00:30:38.468119+00:00",
+    "generated_at": "2026-09-25T00:45:11.1117303+00:00",
+    "fetched_at": "2026-09-25T00:45:26.937477+00:00",
     "total_entries": 814
   },
   "entries": [
@@ -344,18 +344,18 @@
     },
     {
       "rank": 43,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-25T00:40:35.931329+00:00",
       "badge_id": ""
     },
     {
       "rank": 44,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
       "prestige_level": 44,
-      "achieved_at": "2026-09-22T02:56:49.744594+00:00",
+      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
       "badge_id": ""
     },
     {
