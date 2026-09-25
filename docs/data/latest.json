@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T02:30:11.1119688+00:00",
-    "fetched_at": "2026-09-25T02:30:37.855019+00:00",
-    "total_entries": 818
+    "generated_at": "2026-09-25T02:45:11.112925+00:00",
+    "fetched_at": "2026-09-25T02:45:28.283251+00:00",
+    "total_entries": 819
   },
   "entries": [
     {
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198060560653",
+      "display_name": "Floofs",
+      "prestige_level": 22,
+      "achieved_at": "2026-09-25T02:42:55.238903+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198071815550",
       "display_name": "evozakira",
       "prestige_level": 21,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198173409838",
       "display_name": "CookieNagato",
       "prestige_level": 21,
       "achieved_at": "2026-08-29T19:09:34.516942+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198392306570",
-      "display_name": "Oh Dios Mio",
-      "prestige_level": 21,
-      "achieved_at": "2026-09-05T03:46:49.558061+00:00",
       "badge_id": ""
     }
   ]
