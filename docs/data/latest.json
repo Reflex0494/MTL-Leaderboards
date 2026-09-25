@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T18:00:11.1112044+00:00",
-    "fetched_at": "2026-09-25T18:00:48.389353+00:00",
+    "generated_at": "2026-09-25T18:15:11.1126361+00:00",
+    "fetched_at": "2026-09-25T18:15:29.640925+00:00",
     "total_entries": 826
   },
   "entries": [
@@ -120,6 +120,14 @@
     },
     {
       "rank": 15,
+      "steam_id": "76561198012829920",
+      "display_name": "Prec",
+      "prestige_level": 77,
+      "achieved_at": "2026-09-25T18:06:31.814256+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 16,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 76,
@@ -127,7 +135,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 76,
@@ -135,19 +143,11 @@
       "badge_id": ""
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 76,
       "achieved_at": "2026-09-17T10:03:56.054564+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 18,
-      "steam_id": "76561198012829920",
-      "display_name": "Prec",
-      "prestige_level": 76,
-      "achieved_at": "2026-09-25T02:21:48.077245+00:00",
       "badge_id": ""
     },
     {
