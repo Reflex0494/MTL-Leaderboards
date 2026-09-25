@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T20:00:11.1121875+00:00",
-    "fetched_at": "2026-09-25T20:00:47.525176+00:00",
+    "generated_at": "2026-09-25T20:15:11.1126083+00:00",
+    "fetched_at": "2026-09-25T20:15:29.597064+00:00",
     "total_entries": 827
   },
   "entries": [
@@ -744,19 +744,19 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198060560653",
+      "display_name": "Floofs",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-25T20:00:37.72311+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 23,
       "achieved_at": "2026-09-23T19:43:23.527027+00:00",
       "badge_id": "mod"
-    },
-    {
-      "rank": 94,
-      "steam_id": "76561198060560653",
-      "display_name": "Floofs",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-25T18:42:32.976244+00:00",
-      "badge_id": ""
     },
     {
       "rank": 95,
