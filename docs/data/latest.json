@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T03:45:11.1108562+00:00",
-    "fetched_at": "2026-09-25T03:45:32.947946+00:00",
+    "generated_at": "2026-09-25T04:00:11.1116777+00:00",
+    "fetched_at": "2026-09-25T04:00:43.969537+00:00",
     "total_entries": 819
   },
   "entries": [
@@ -56,19 +56,19 @@
     },
     {
       "rank": 7,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 103,
+      "achieved_at": "2026-09-25T03:46:41.209112+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 8,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
       "prestige_level": 102,
       "achieved_at": "2026-09-14T11:43:12.895455+00:00",
       "badge_id": "s3_third"
-    },
-    {
-      "rank": 8,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 102,
-      "achieved_at": "2026-09-25T01:25:56.852969+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 9,
@@ -210,8 +210,8 @@
       "rank": 26,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-24T17:53:02.713017+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-25T03:48:56.179474+00:00",
       "badge_id": ""
     },
     {
