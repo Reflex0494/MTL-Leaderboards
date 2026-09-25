@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T00:45:11.1117303+00:00",
-    "fetched_at": "2026-09-25T00:45:26.937477+00:00",
+    "generated_at": "2026-09-25T01:00:11.1119404+00:00",
+    "fetched_at": "2026-09-25T01:00:46.226830+00:00",
     "total_entries": 814
   },
   "entries": [
@@ -312,19 +312,19 @@
     },
     {
       "rank": 39,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-25T00:58:10.764316+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 40,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
       "achieved_at": "2026-08-27T21:33:54.18797+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 47,
-      "achieved_at": "2026-09-24T12:24:11.736145+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 41,
@@ -378,8 +378,8 @@
       "rank": 47,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
-      "prestige_level": 42,
-      "achieved_at": "2026-09-24T00:17:56.548434+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-09-25T00:55:02.831947+00:00",
       "badge_id": "og"
     },
     {
