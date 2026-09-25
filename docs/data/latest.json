@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-25T17:00:11.1109266+00:00",
-    "fetched_at": "2026-09-25T17:00:47.118203+00:00",
+    "generated_at": "2026-09-25T17:15:11.1116719+00:00",
+    "fetched_at": "2026-09-25T17:15:29.635332+00:00",
     "total_entries": 826
   },
   "entries": [
@@ -42,8 +42,8 @@
       "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 124,
-      "achieved_at": "2026-09-25T12:46:41.510147+00:00",
+      "prestige_level": 125,
+      "achieved_at": "2026-09-25T17:10:13.521436+00:00",
       "badge_id": ""
     },
     {
@@ -392,18 +392,18 @@
     },
     {
       "rank": 49,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-25T17:06:37.416383+00:00",
       "badge_id": ""
     },
     {
       "rank": 50,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 40,
-      "achieved_at": "2026-09-25T04:21:54.168159+00:00",
+      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
       "badge_id": ""
     },
     {
