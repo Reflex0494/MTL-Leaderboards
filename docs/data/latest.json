@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-26T22:00:11.1113622+00:00",
-    "fetched_at": "2026-09-26T22:00:49.469265+00:00",
+    "generated_at": "2026-09-26T22:15:11.1104076+00:00",
+    "fetched_at": "2026-09-26T22:15:34.283939+00:00",
     "total_entries": 835
   },
   "entries": [
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 71,
-      "achieved_at": "2026-09-26T04:56:05.442485+00:00",
+      "prestige_level": 72,
+      "achieved_at": "2026-09-26T22:08:49.07175+00:00",
       "badge_id": ""
     },
     {
@@ -280,19 +280,19 @@
     },
     {
       "rank": 35,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-26T22:09:21.482138+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 36,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
       "achieved_at": "2026-09-03T04:44:54.903499+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 36,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-23T05:53:20.630485+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 37,
