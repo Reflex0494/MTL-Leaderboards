@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-26T23:15:11.1100014+00:00",
-    "fetched_at": "2026-09-26T23:15:27.746288+00:00",
+    "generated_at": "2026-09-26T23:30:11.1106422+00:00",
+    "fetched_at": "2026-09-26T23:30:38.014619+00:00",
     "total_entries": 835
   },
   "entries": [
@@ -272,19 +272,19 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 53,
+      "achieved_at": "2026-09-26T23:20:13.669561+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 35,
       "steam_id": "76561198050855635",
       "display_name": "UnlikelyFloof",
       "prestige_level": 52,
       "achieved_at": "2026-09-24T01:17:55.78132+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-26T22:09:21.482138+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 36,
