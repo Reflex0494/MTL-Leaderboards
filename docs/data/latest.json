@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-26T14:30:11.1121234+00:00",
-    "fetched_at": "2026-09-26T14:30:40.064246+00:00",
+    "generated_at": "2026-09-26T14:45:11.1116593+00:00",
+    "fetched_at": "2026-09-26T14:45:31.490067+00:00",
     "total_entries": 832
   },
   "entries": [
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-26T14:32:12.766449+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 81,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 26,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
@@ -671,7 +679,7 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661 | TTV",
       "prestige_level": 25,
@@ -687,19 +695,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198055441918",
       "display_name": "LobsterDog",
       "prestige_level": 25,
       "achieved_at": "2026-09-17T21:05:32.6524+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 87,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-24T13:33:45.273828+00:00",
       "badge_id": ""
     },
     {
