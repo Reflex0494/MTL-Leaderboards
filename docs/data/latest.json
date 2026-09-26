@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-26T09:45:11.1125411+00:00",
-    "fetched_at": "2026-09-26T09:45:26.814129+00:00",
+    "generated_at": "2026-09-26T10:00:11.1131083+00:00",
+    "fetched_at": "2026-09-26T10:00:46.260045+00:00",
     "total_entries": 831
   },
   "entries": [
@@ -328,18 +328,18 @@
     },
     {
       "rank": 41,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198020887060",
+      "display_name": "TurboMotionZ",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-26T09:52:13.507101+00:00",
       "badge_id": ""
     },
     {
       "rank": 42,
-      "steam_id": "76561198020887060",
-      "display_name": "TurboMotionZ",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-09-24T10:26:12.916558+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
