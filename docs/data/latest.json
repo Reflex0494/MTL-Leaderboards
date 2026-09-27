@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T05:00:11.1120251+00:00",
-    "fetched_at": "2026-09-27T05:00:44.000571+00:00",
+    "generated_at": "2026-09-27T05:15:11.1134161+00:00",
+    "fetched_at": "2026-09-27T05:15:28.557242+00:00",
     "total_entries": 838
   },
   "entries": [
@@ -48,18 +48,18 @@
     },
     {
       "rank": 6,
-      "steam_id": "76561197991233795",
-      "display_name": "dvfaa",
-      "prestige_level": 105,
-      "achieved_at": "2026-09-26T03:47:49.571774+00:00",
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 106,
+      "achieved_at": "2026-09-27T05:09:03.820723+00:00",
       "badge_id": "s3_top21"
     },
     {
       "rank": 7,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
+      "steam_id": "76561197991233795",
+      "display_name": "dvfaa",
       "prestige_level": 105,
-      "achieved_at": "2026-09-26T09:37:43.898718+00:00",
+      "achieved_at": "2026-09-26T03:47:49.571774+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -336,18 +336,18 @@
     },
     {
       "rank": 42,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-27T05:06:14.922554+00:00",
       "badge_id": ""
     },
     {
       "rank": 43,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-09-26T16:43:22.163357+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
