@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T14:15:11.1118927+00:00",
-    "fetched_at": "2026-09-27T14:16:03.543494+00:00",
-    "total_entries": 848
+    "generated_at": "2026-09-27T14:30:11.1118003+00:00",
+    "fetched_at": "2026-09-27T14:30:38.164037+00:00",
+    "total_entries": 850
   },
   "entries": [
     {
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198162928860",
+      "display_name": "Locklin",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-27T14:21:35.691183+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198044622006",
       "display_name": "ThyMisfit",
       "prestige_level": 22,
       "achieved_at": "2026-09-11T04:34:29.45585+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198086061180",
-      "display_name": "Tervin",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-18T02:45:54.869464+00:00",
       "badge_id": ""
     }
   ]
