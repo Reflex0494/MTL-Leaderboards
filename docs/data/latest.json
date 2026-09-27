@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T17:30:11.1132111+00:00",
-    "fetched_at": "2026-09-27T17:30:38.740753+00:00",
-    "total_entries": 854
+    "generated_at": "2026-09-27T17:45:11.1128433+00:00",
+    "fetched_at": "2026-09-27T17:45:30.289785+00:00",
+    "total_entries": 855
   },
   "entries": [
     {
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198036311342",
+      "display_name": "Hazza",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-27T17:39:14.472089+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198186683954",
       "display_name": "TREBLIG",
       "prestige_level": 22,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561199012821096",
       "display_name": "Dixon mayaz",
       "prestige_level": 22,
       "achieved_at": "2026-09-06T02:46:47.768747+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198044622006",
-      "display_name": "ThyMisfit",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-11T04:34:29.45585+00:00",
       "badge_id": ""
     }
   ]
