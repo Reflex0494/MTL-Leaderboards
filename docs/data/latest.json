@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T08:15:11.1123135+00:00",
-    "fetched_at": "2026-09-27T08:15:28.871582+00:00",
+    "generated_at": "2026-09-27T08:30:11.1128608+00:00",
+    "fetched_at": "2026-09-27T08:30:39.096255+00:00",
     "total_entries": 841
   },
   "entries": [
@@ -352,6 +352,14 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-27T08:22:30.801729+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 45,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 44,
@@ -359,19 +367,11 @@
       "badge_id": ""
     },
     {
-      "rank": 45,
+      "rank": 46,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 44,
       "achieved_at": "2026-09-22T20:31:31.58256+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 46,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-26T22:19:42.538082+00:00",
       "badge_id": ""
     },
     {
