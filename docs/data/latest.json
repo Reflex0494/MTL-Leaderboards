@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T06:15:11.1117461+00:00",
-    "fetched_at": "2026-09-27T06:15:29.262671+00:00",
+    "generated_at": "2026-09-27T06:30:11.1117999+00:00",
+    "fetched_at": "2026-09-27T06:30:38.033468+00:00",
     "total_entries": 838
   },
   "entries": [
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 59,
-      "achieved_at": "2026-09-26T02:19:38.7211+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-09-27T06:22:41.153511+00:00",
       "badge_id": ""
     },
     {
@@ -320,6 +320,14 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-27T06:18:29.014994+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 41,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -327,19 +335,11 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 47,
       "achieved_at": "2026-09-26T09:52:13.507101+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 47,
-      "achieved_at": "2026-09-27T05:06:14.922554+00:00",
       "badge_id": ""
     },
     {
