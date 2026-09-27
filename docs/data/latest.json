@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T01:00:11.1108867+00:00",
-    "fetched_at": "2026-09-27T01:00:44.449736+00:00",
-    "total_entries": 836
+    "generated_at": "2026-09-27T01:15:11.111623+00:00",
+    "fetched_at": "2026-09-27T01:15:26.803808+00:00",
+    "total_entries": 837
   },
   "entries": [
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 38,
+      "achieved_at": "2026-09-27T01:11:44.543335+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -439,19 +447,11 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 37,
       "achieved_at": "2026-09-22T19:35:54.736347+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 37,
-      "achieved_at": "2026-09-26T21:15:59.841354+00:00",
       "badge_id": ""
     },
     {
