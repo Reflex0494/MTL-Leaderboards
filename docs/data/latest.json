@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T15:15:11.1124337+00:00",
-    "fetched_at": "2026-09-27T15:15:33.243323+00:00",
+    "generated_at": "2026-09-27T15:30:11.1124815+00:00",
+    "fetched_at": "2026-09-27T15:30:38.941955+00:00",
     "total_entries": 851
   },
   "entries": [
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198162928860",
+      "display_name": "Locklin",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-27T15:24:04.76809+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 23,
@@ -767,19 +775,11 @@
       "badge_id": "mod"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198256372677",
       "display_name": "Flo_12344",
       "prestige_level": 23,
       "achieved_at": "2026-09-26T09:34:06.307197+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 97,
-      "steam_id": "76561198162928860",
-      "display_name": "Locklin",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-27T14:21:35.691183+00:00",
       "badge_id": ""
     },
     {
