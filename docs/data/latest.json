@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T23:15:11.1109631+00:00",
-    "fetched_at": "2026-09-27T23:15:36.176872+00:00",
+    "generated_at": "2026-09-27T23:30:11.1107582+00:00",
+    "fetched_at": "2026-09-27T23:30:38.422960+00:00",
     "total_entries": 860
   },
   "entries": [
@@ -792,18 +792,18 @@
     },
     {
       "rank": 99,
-      "steam_id": "76561198186683954",
-      "display_name": "TREBLIG",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-02T14:41:29.018812+00:00",
+      "steam_id": "76561198013111370",
+      "display_name": "The Fragrance of Dark Coffee",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-27T23:21:18.291747+00:00",
       "badge_id": ""
     },
     {
       "rank": 100,
-      "steam_id": "76561199012821096",
-      "display_name": "Dixon mayaz",
+      "steam_id": "76561198186683954",
+      "display_name": "TREBLIG",
       "prestige_level": 22,
-      "achieved_at": "2026-09-06T02:46:47.768747+00:00",
+      "achieved_at": "2026-09-02T14:41:29.018812+00:00",
       "badge_id": ""
     }
   ]
