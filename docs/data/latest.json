@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-27T00:30:11.1118689+00:00",
-    "fetched_at": "2026-09-27T00:30:37.688197+00:00",
+    "generated_at": "2026-09-27T00:45:11.1114722+00:00",
+    "fetched_at": "2026-09-27T00:45:29.260146+00:00",
     "total_entries": 836
   },
   "entries": [
@@ -376,19 +376,19 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 44,
+      "achieved_at": "2026-09-27T00:35:07.831888+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 48,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
       "prestige_level": 43,
       "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-25T00:55:02.831947+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 49,
