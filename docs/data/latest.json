@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T16:30:11.1119101+00:00",
-    "fetched_at": "2026-09-28T16:30:41.573457+00:00",
+    "generated_at": "2026-09-28T16:45:11.111156+00:00",
+    "fetched_at": "2026-09-28T16:45:31.229347+00:00",
     "total_entries": 869
   },
   "entries": [
@@ -88,19 +88,19 @@
     },
     {
       "rank": 11,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 86,
+      "achieved_at": "2026-09-28T16:44:44.765135+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 12,
       "steam_id": "76561197985446261",
       "display_name": "SentientWaffle",
       "prestige_level": 85,
       "achieved_at": "2026-09-18T12:43:19.294095+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 12,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 85,
-      "achieved_at": "2026-09-28T15:09:25.724771+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 13,
