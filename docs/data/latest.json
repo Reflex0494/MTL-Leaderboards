@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T04:45:11.1113166+00:00",
-    "fetched_at": "2026-09-28T04:45:28.043526+00:00",
+    "generated_at": "2026-09-28T05:00:11.111266+00:00",
+    "fetched_at": "2026-09-28T05:00:50.255620+00:00",
     "total_entries": 862
   },
   "entries": [
@@ -728,6 +728,14 @@
     },
     {
       "rank": 91,
+      "steam_id": "76561198129173186",
+      "display_name": "Derp-Enaz",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-28T04:57:23.958956+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 92,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -735,7 +743,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 24,
@@ -767,19 +775,11 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198036311342",
       "display_name": "Hazza",
       "prestige_level": 24,
       "achieved_at": "2026-09-27T19:29:14.265261+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 97,
-      "steam_id": "76561198129173186",
-      "display_name": "Derp-Enaz",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-28T04:00:46.364539+00:00",
       "badge_id": ""
     },
     {
