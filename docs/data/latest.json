@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T13:00:11.1119874+00:00",
-    "fetched_at": "2026-09-28T13:00:52.089662+00:00",
+    "generated_at": "2026-09-28T13:15:11.1115577+00:00",
+    "fetched_at": "2026-09-28T13:15:33.151296+00:00",
     "total_entries": 869
   },
   "entries": [
@@ -786,8 +786,8 @@
       "rank": 98,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
-      "prestige_level": 23,
-      "achieved_at": "2026-09-23T19:43:23.527027+00:00",
+      "prestige_level": 24,
+      "achieved_at": "2026-09-28T13:03:03.666901+00:00",
       "badge_id": "mod"
     },
     {
