@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T03:00:11.1125841+00:00",
-    "fetched_at": "2026-09-28T03:00:47.637139+00:00",
+    "generated_at": "2026-09-28T03:15:11.1104666+00:00",
+    "fetched_at": "2026-09-28T03:15:29.062830+00:00",
     "total_entries": 860
   },
   "entries": [
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198186683954",
-      "display_name": "TREBLIG",
-      "prestige_level": 22,
-      "achieved_at": "2026-09-02T14:41:29.018812+00:00",
+      "steam_id": "76561198129173186",
+      "display_name": "Derp-Enaz",
+      "prestige_level": 23,
+      "achieved_at": "2026-09-28T03:10:24.514665+00:00",
       "badge_id": ""
     }
   ]
