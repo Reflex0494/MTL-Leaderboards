@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T20:30:11.1141669+00:00",
-    "fetched_at": "2026-09-28T20:30:42.555632+00:00",
+    "generated_at": "2026-09-28T20:45:11.1141734+00:00",
+    "fetched_at": "2026-09-28T20:45:29.665889+00:00",
     "total_entries": 872
   },
   "entries": [
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198129173186",
+      "display_name": "Derp-Enaz",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-28T20:44:55.117542+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -599,20 +607,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 29,
       "achieved_at": "2026-09-28T05:58:16.952944+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561198129173186",
-      "display_name": "Derp-Enaz",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-28T09:28:55.09368+00:00",
-      "badge_id": ""
     },
     {
       "rank": 77,
