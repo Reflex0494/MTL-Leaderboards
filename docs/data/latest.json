@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T10:30:11.1100799+00:00",
-    "fetched_at": "2026-09-28T10:30:38.323820+00:00",
+    "generated_at": "2026-09-28T10:45:11.1105201+00:00",
+    "fetched_at": "2026-09-28T10:45:29.903160+00:00",
     "total_entries": 865
   },
   "entries": [
@@ -170,8 +170,8 @@
       "rank": 21,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 74,
-      "achieved_at": "2026-09-27T09:41:23.957916+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-09-28T10:39:40.603712+00:00",
       "badge_id": ""
     },
     {
