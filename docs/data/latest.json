@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T15:15:11.1104642+00:00",
-    "fetched_at": "2026-09-28T15:15:31.710595+00:00",
+    "generated_at": "2026-09-28T15:45:11.1106775+00:00",
+    "fetched_at": "2026-09-28T15:45:31.025174+00:00",
     "total_entries": 869
   },
   "entries": [
@@ -648,18 +648,18 @@
     },
     {
       "rank": 81,
-      "steam_id": "76561198219933312",
-      "display_name": "KepilOtol",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-23T14:48:32.779984+00:00",
+      "steam_id": "76561198162928860",
+      "display_name": "Locklin",
+      "prestige_level": 28,
+      "achieved_at": "2026-09-28T15:35:12.740599+00:00",
       "badge_id": ""
     },
     {
       "rank": 82,
-      "steam_id": "76561198162928860",
-      "display_name": "Locklin",
+      "steam_id": "76561198219933312",
+      "display_name": "KepilOtol",
       "prestige_level": 27,
-      "achieved_at": "2026-09-27T18:36:00.713232+00:00",
+      "achieved_at": "2026-09-23T14:48:32.779984+00:00",
       "badge_id": ""
     },
     {
