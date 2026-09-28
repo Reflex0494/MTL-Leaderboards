@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T00:15:11.1123673+00:00",
-    "fetched_at": "2026-09-28T00:15:33.800549+00:00",
+    "generated_at": "2026-09-28T00:30:11.1122676+00:00",
+    "fetched_at": "2026-09-28T00:30:43.453961+00:00",
     "total_entries": 860
   },
   "entries": [
@@ -32,19 +32,19 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198145785941",
+      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
+      "prestige_level": 127,
+      "achieved_at": "2026-09-28T00:21:11.435527+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198054909698",
       "display_name": "Art",
       "prestige_level": 126,
       "achieved_at": "2026-09-25T13:44:49.899494+00:00",
       "badge_id": "s2_top21"
-    },
-    {
-      "rank": 5,
-      "steam_id": "76561198145785941",
-      "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
-      "prestige_level": 126,
-      "achieved_at": "2026-09-27T20:31:38.857587+00:00",
-      "badge_id": ""
     },
     {
       "rank": 6,
