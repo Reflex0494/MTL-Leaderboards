@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T17:30:11.111528+00:00",
-    "fetched_at": "2026-09-28T17:30:42.130089+00:00",
+    "generated_at": "2026-09-28T17:45:11.1111378+00:00",
+    "fetched_at": "2026-09-28T17:45:32.218093+00:00",
     "total_entries": 870
   },
   "entries": [
@@ -184,6 +184,14 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561198236341996",
+      "display_name": "BIGSILKY",
+      "prestige_level": 65,
+      "achieved_at": "2026-09-28T17:40:16.397747+00:00",
+      "badge_id": "s2_second"
+    },
+    {
+      "rank": 24,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 64,
@@ -191,20 +199,12 @@
       "badge_id": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561198144639373",
       "display_name": "Jasper",
       "prestige_level": 64,
       "achieved_at": "2026-09-28T00:48:57.296355+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561198236341996",
-      "display_name": "BIGSILKY",
-      "prestige_level": 64,
-      "achieved_at": "2026-09-28T07:27:01.519944+00:00",
-      "badge_id": "s2_second"
     },
     {
       "rank": 26,
