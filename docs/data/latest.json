@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T05:45:11.1099148+00:00",
-    "fetched_at": "2026-09-28T05:45:28.917350+00:00",
+    "generated_at": "2026-09-28T06:00:11.1105941+00:00",
+    "fetched_at": "2026-09-28T06:00:47.265927+00:00",
     "total_entries": 862
   },
   "entries": [
@@ -218,8 +218,8 @@
       "rank": 27,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
-      "prestige_level": 61,
-      "achieved_at": "2026-09-24T20:23:17.189522+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-09-28T05:52:11.383777+00:00",
       "badge_id": ""
     },
     {
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198026612151",
+      "display_name": "Smar19z",
+      "prestige_level": 29,
+      "achieved_at": "2026-09-28T05:58:16.952944+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 28,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 28,
@@ -623,20 +631,12 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198165404808",
       "display_name": "Spazious",
       "prestige_level": 28,
       "achieved_at": "2026-09-27T12:45:42.875221+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198026612151",
-      "display_name": "Smar19z",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-28T03:56:04.870087+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 80,
