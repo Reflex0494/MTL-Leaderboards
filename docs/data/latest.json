@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T19:15:11.1127287+00:00",
-    "fetched_at": "2026-09-28T19:15:30.838361+00:00",
+    "generated_at": "2026-09-28T19:30:11.1116207+00:00",
+    "fetched_at": "2026-09-28T19:30:41.092357+00:00",
     "total_entries": 872
   },
   "entries": [
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 48,
+      "achieved_at": "2026-09-28T19:24:31.932661+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -335,19 +343,11 @@
       "badge_id": ""
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 47,
       "achieved_at": "2026-09-26T09:52:13.507101+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 43,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 47,
-      "achieved_at": "2026-09-28T17:14:30.718033+00:00",
       "badge_id": ""
     },
     {
