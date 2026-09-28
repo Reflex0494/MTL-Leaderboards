@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-28T17:00:11.11085+00:00",
-    "fetched_at": "2026-09-28T17:00:49.178313+00:00",
-    "total_entries": 869
+    "generated_at": "2026-09-28T17:15:11.1101087+00:00",
+    "fetched_at": "2026-09-28T17:15:39.197355+00:00",
+    "total_entries": 870
   },
   "entries": [
     {
@@ -344,18 +344,18 @@
     },
     {
       "rank": 43,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 47,
+      "achieved_at": "2026-09-28T17:14:30.718033+00:00",
       "badge_id": ""
     },
     {
       "rank": 44,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-09-27T22:20:33.548951+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
