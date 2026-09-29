@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T00:15:11.1116203+00:00",
-    "fetched_at": "2026-09-29T00:15:29.909701+00:00",
+    "generated_at": "2026-09-29T00:30:11.1120329+00:00",
+    "fetched_at": "2026-09-29T00:30:43.173755+00:00",
     "total_entries": 873
   },
   "entries": [
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
-      "prestige_level": 61,
-      "achieved_at": "2026-09-27T17:23:39.855316+00:00",
+      "prestige_level": 62,
+      "achieved_at": "2026-09-29T00:22:01.593523+00:00",
       "badge_id": ""
     },
     {
@@ -368,19 +368,19 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 45,
+      "achieved_at": "2026-09-29T00:24:09.72391+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 47,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 44,
       "achieved_at": "2026-09-19T05:31:39.237682+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 47,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-27T00:35:07.831888+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 48,
