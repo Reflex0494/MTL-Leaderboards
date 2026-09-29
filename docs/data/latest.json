@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T19:00:11.1125402+00:00",
-    "fetched_at": "2026-09-29T19:00:49.237214+00:00",
-    "total_entries": 878
+    "generated_at": "2026-09-29T19:15:11.1131044+00:00",
+    "fetched_at": "2026-09-29T19:15:32.689582+00:00",
+    "total_entries": 879
   },
   "entries": [
     {
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198009437251",
+      "display_name": "ellie",
+      "prestige_level": 25,
+      "achieved_at": "2026-09-29T19:08:04.981298+00:00",
+      "badge_id": "mod"
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -751,7 +759,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198068953694",
       "display_name": "BREAD BOY",
       "prestige_level": 24,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198341901597",
       "display_name": "SeanLoh",
       "prestige_level": 24,
@@ -783,20 +791,12 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198036311342",
       "display_name": "Hazza",
       "prestige_level": 24,
       "achieved_at": "2026-09-27T19:29:14.265261+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 99,
-      "steam_id": "76561198009437251",
-      "display_name": "ellie",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-28T13:03:03.666901+00:00",
-      "badge_id": "mod"
     },
     {
       "rank": 100,
