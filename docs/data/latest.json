@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T19:15:11.1131044+00:00",
-    "fetched_at": "2026-09-29T19:15:32.689582+00:00",
+    "generated_at": "2026-09-29T19:30:11.1124082+00:00",
+    "fetched_at": "2026-09-29T19:30:41.877312+00:00",
     "total_entries": 879
   },
   "entries": [
@@ -202,8 +202,8 @@
       "rank": 25,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 65,
-      "achieved_at": "2026-09-28T20:09:39.158061+00:00",
+      "prestige_level": 66,
+      "achieved_at": "2026-09-29T19:16:35.87302+00:00",
       "badge_id": ""
     },
     {
@@ -216,18 +216,18 @@
     },
     {
       "rank": 27,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 62,
-      "achieved_at": "2026-09-28T05:52:11.383777+00:00",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 63,
+      "achieved_at": "2026-09-29T19:25:23.241431+00:00",
       "badge_id": ""
     },
     {
       "rank": 28,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
       "prestige_level": 62,
-      "achieved_at": "2026-09-29T00:22:01.593523+00:00",
+      "achieved_at": "2026-09-28T05:52:11.383777+00:00",
       "badge_id": ""
     },
     {
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198162928860",
+      "display_name": "Locklin",
+      "prestige_level": 31,
+      "achieved_at": "2026-09-29T19:19:15.936758+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -591,19 +599,11 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 75,
-      "steam_id": "76561198162928860",
-      "display_name": "Locklin",
-      "prestige_level": 30,
-      "achieved_at": "2026-09-29T17:06:37.229756+00:00",
       "badge_id": ""
     },
     {
