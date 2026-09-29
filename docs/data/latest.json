@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T04:30:11.1106871+00:00",
-    "fetched_at": "2026-09-29T04:30:40.091558+00:00",
+    "generated_at": "2026-09-29T04:45:11.1124797+00:00",
+    "fetched_at": "2026-09-29T04:45:27.425708+00:00",
     "total_entries": 875
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 110,
-      "achieved_at": "2026-09-29T03:12:49.854845+00:00",
+      "prestige_level": 111,
+      "achieved_at": "2026-09-29T04:33:25.473225+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198129173186",
+      "display_name": "Derp-Enaz",
+      "prestige_level": 34,
+      "achieved_at": "2026-09-29T04:37:43.118681+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 33,
@@ -495,19 +503,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198207785195",
       "display_name": "Chad McGee",
       "prestige_level": 33,
       "achieved_at": "2026-09-19T18:56:23.277002+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198129173186",
-      "display_name": "Derp-Enaz",
-      "prestige_level": 33,
-      "achieved_at": "2026-09-29T02:25:31.35107+00:00",
       "badge_id": ""
     },
     {
