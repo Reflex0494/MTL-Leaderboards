@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T00:30:11.1120329+00:00",
-    "fetched_at": "2026-09-29T00:30:43.173755+00:00",
+    "generated_at": "2026-09-29T00:45:11.112354+00:00",
+    "fetched_at": "2026-09-29T00:45:30.709924+00:00",
     "total_entries": 873
   },
   "entries": [
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-29T00:32:26.441751+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 39,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
@@ -311,20 +319,12 @@
       "badge_id": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 49,
       "achieved_at": "2026-09-25T07:30:03.248751+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-28T01:09:25.102677+00:00",
-      "badge_id": ""
     },
     {
       "rank": 41,
