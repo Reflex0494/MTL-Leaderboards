@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T17:00:11.1122914+00:00",
-    "fetched_at": "2026-09-29T17:00:50.362538+00:00",
+    "generated_at": "2026-09-29T17:15:11.1119847+00:00",
+    "fetched_at": "2026-09-29T17:15:33.537343+00:00",
     "total_entries": 877
   },
   "entries": [
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198162928860",
+      "display_name": "Locklin",
+      "prestige_level": 30,
+      "achieved_at": "2026-09-29T17:06:37.229756+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -607,20 +615,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 29,
       "achieved_at": "2026-09-28T05:58:16.952944+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561198162928860",
-      "display_name": "Locklin",
-      "prestige_level": 29,
-      "achieved_at": "2026-09-28T20:16:41.097493+00:00",
-      "badge_id": ""
     },
     {
       "rank": 78,
