@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T02:15:11.1112343+00:00",
-    "fetched_at": "2026-09-29T02:15:28.975950+00:00",
+    "generated_at": "2026-09-29T02:30:11.1114815+00:00",
+    "fetched_at": "2026-09-29T02:30:37.212107+00:00",
     "total_entries": 873
   },
   "entries": [
@@ -296,19 +296,19 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561198095887617",
+      "display_name": "Jimbo",
+      "prestige_level": 51,
+      "achieved_at": "2026-09-29T02:25:08.328169+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
       "achieved_at": "2026-09-07T02:17:01.933486+00:00",
       "badge_id": "s1_top21"
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198095887617",
-      "display_name": "Jimbo",
-      "prestige_level": 50,
-      "achieved_at": "2026-09-29T00:32:26.441751+00:00",
-      "badge_id": ""
     },
     {
       "rank": 39,
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198129173186",
+      "display_name": "Derp-Enaz",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-29T02:25:31.35107+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 32,
@@ -527,19 +535,11 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
       "achieved_at": "2026-09-13T23:13:33.644997+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198129173186",
-      "display_name": "Derp-Enaz",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-29T01:12:01.384919+00:00",
       "badge_id": ""
     },
     {
