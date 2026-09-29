@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T23:15:11.1124532+00:00",
-    "fetched_at": "2026-09-29T23:15:29.450842+00:00",
+    "generated_at": "2026-09-29T23:30:11.1115518+00:00",
+    "fetched_at": "2026-09-29T23:30:41.424192+00:00",
     "total_entries": 880
   },
   "entries": [
@@ -312,6 +312,14 @@
     },
     {
       "rank": 39,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 50,
+      "achieved_at": "2026-09-29T23:19:53.641416+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 40,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
@@ -319,20 +327,12 @@
       "badge_id": ""
     },
     {
-      "rank": 40,
+      "rank": 41,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 49,
       "achieved_at": "2026-09-25T07:30:03.248751+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 41,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-29T16:46:21.679295+00:00",
-      "badge_id": ""
     },
     {
       "rank": 42,
