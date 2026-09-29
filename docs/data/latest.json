@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-29T05:30:11.1111462+00:00",
-    "fetched_at": "2026-09-29T05:30:35.449395+00:00",
+    "generated_at": "2026-09-29T05:45:11.120634+00:00",
+    "fetched_at": "2026-09-29T05:45:30.545375+00:00",
     "total_entries": 875
   },
   "entries": [
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198052055706",
+      "display_name": "OG",
+      "prestige_level": 41,
+      "achieved_at": "2026-09-29T05:45:03.551162+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 51,
       "steam_id": "76561198072191381",
       "display_name": "InkdAnarchy",
       "prestige_level": 40,
@@ -407,19 +415,11 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198257899621",
       "display_name": "Blood Money",
       "prestige_level": 40,
       "achieved_at": "2026-09-29T02:41:07.213926+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198052055706",
-      "display_name": "OG",
-      "prestige_level": 40,
-      "achieved_at": "2026-09-29T02:46:14.16031+00:00",
       "badge_id": ""
     },
     {
