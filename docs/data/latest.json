@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-30T00:15:11.1120837+00:00",
-    "fetched_at": "2026-09-30T00:15:31.616398+00:00",
+    "generated_at": "2026-09-30T00:30:11.1125285+00:00",
+    "fetched_at": "2026-09-30T00:30:41.898061+00:00",
     "total_entries": 882
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 111,
-      "achieved_at": "2026-09-29T04:33:25.473225+00:00",
+      "prestige_level": 112,
+      "achieved_at": "2026-09-30T00:25:42.614978+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561198014380387",
-      "display_name": "GaliiLoN",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
+      "prestige_level": 64,
+      "achieved_at": "2026-09-30T00:18:22.546158+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
+      "steam_id": "76561198014380387",
+      "display_name": "GaliiLoN",
       "prestige_level": 63,
-      "achieved_at": "2026-09-29T19:25:23.241431+00:00",
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
