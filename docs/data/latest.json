@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-30T14:00:11.1125853+00:00",
-    "fetched_at": "2026-09-30T14:00:50.657844+00:00",
+    "generated_at": "2026-09-30T14:15:11.1114511+00:00",
+    "fetched_at": "2026-09-30T14:15:29.854995+00:00",
     "total_entries": 886
   },
   "entries": [
@@ -90,8 +90,8 @@
       "rank": 11,
       "steam_id": "76561198020856278",
       "display_name": "Jokerister",
-      "prestige_level": 88,
-      "achieved_at": "2026-09-29T15:47:09.50958+00:00",
+      "prestige_level": 89,
+      "achieved_at": "2026-09-30T14:05:05.767383+00:00",
       "badge_id": "s1_top21"
     },
     {
@@ -672,6 +672,14 @@
     },
     {
       "rank": 84,
+      "steam_id": "76561198013111370",
+      "display_name": "The Fragrance of Dark Coffee",
+      "prestige_level": 27,
+      "achieved_at": "2026-09-30T14:14:43.484725+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 85,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -679,7 +687,7 @@
       "badge_id": ""
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198060560653",
       "display_name": "Floofs",
       "prestige_level": 26,
@@ -703,19 +711,11 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198097403574",
       "display_name": "Deprez",
       "prestige_level": 26,
       "achieved_at": "2026-09-29T12:21:23.722475+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 89,
-      "steam_id": "76561198013111370",
-      "display_name": "The Fragrance of Dark Coffee",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-30T13:31:29.373009+00:00",
       "badge_id": ""
     },
     {
