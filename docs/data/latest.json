@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-30T16:45:11.1118039+00:00",
-    "fetched_at": "2026-09-30T16:45:27.919518+00:00",
+    "generated_at": "2026-09-30T17:00:11.111495+00:00",
+    "fetched_at": "2026-09-30T17:00:50.474714+00:00",
     "total_entries": 887
   },
   "entries": [
@@ -64,19 +64,19 @@
     },
     {
       "rank": 8,
+      "steam_id": "76561198123871725",
+      "display_name": "QCDfluffer",
+      "prestige_level": 103,
+      "achieved_at": "2026-09-30T16:49:16.982675+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 9,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
       "prestige_level": 102,
       "achieved_at": "2026-09-14T11:43:12.895455+00:00",
       "badge_id": "s3_third"
-    },
-    {
-      "rank": 9,
-      "steam_id": "76561198123871725",
-      "display_name": "QCDfluffer",
-      "prestige_level": 102,
-      "achieved_at": "2026-09-30T12:22:30.218476+00:00",
-      "badge_id": ""
     },
     {
       "rank": 10,
