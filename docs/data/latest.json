@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-30T13:30:11.1115838+00:00",
-    "fetched_at": "2026-09-30T13:30:46.131128+00:00",
+    "generated_at": "2026-09-30T13:45:11.1119402+00:00",
+    "fetched_at": "2026-09-30T13:45:31.106166+00:00",
     "total_entries": 886
   },
   "entries": [
@@ -712,6 +712,14 @@
     },
     {
       "rank": 89,
+      "steam_id": "76561198013111370",
+      "display_name": "The Fragrance of Dark Coffee",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-30T13:31:29.373009+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 90,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661 | TTV",
       "prestige_level": 25,
@@ -727,7 +735,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198055441918",
       "display_name": "LobsterDog",
       "prestige_level": 25,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198077575239",
       "display_name": "Daddy Pegasie",
       "prestige_level": 25,
@@ -743,20 +751,12 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 25,
       "achieved_at": "2026-09-29T19:08:04.981298+00:00",
       "badge_id": "mod"
-    },
-    {
-      "rank": 94,
-      "steam_id": "76561198013111370",
-      "display_name": "The Fragrance of Dark Coffee",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-29T22:25:44.714564+00:00",
-      "badge_id": ""
     },
     {
       "rank": 95,
