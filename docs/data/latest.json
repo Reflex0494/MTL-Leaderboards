@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-30T20:30:11.111435+00:00",
-    "fetched_at": "2026-09-30T20:30:37.743455+00:00",
+    "generated_at": "2026-09-30T20:45:11.1115969+00:00",
+    "fetched_at": "2026-09-30T20:45:28.983633+00:00",
     "total_entries": 887
   },
   "entries": [
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198171507451",
+      "display_name": "evergreen",
+      "prestige_level": 33,
+      "achieved_at": "2026-09-30T20:35:04.411681+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 32,
@@ -543,19 +551,11 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
       "achieved_at": "2026-09-13T23:13:33.644997+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198171507451",
-      "display_name": "evergreen",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-29T22:02:04.491568+00:00",
       "badge_id": ""
     },
     {
@@ -728,6 +728,14 @@
     },
     {
       "rank": 91,
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 26,
+      "achieved_at": "2026-09-30T20:39:19.427584+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 92,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
@@ -735,7 +743,7 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561198115990249",
       "display_name": "Not Catualus \u2661 | TTV",
       "prestige_level": 25,
@@ -743,7 +751,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198055441918",
       "display_name": "LobsterDog",
       "prestige_level": 25,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198009437251",
       "display_name": "ellie",
       "prestige_level": 25,
@@ -759,19 +767,11 @@
       "badge_id": "mod"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198036311342",
       "display_name": "Hazza",
       "prestige_level": 25,
       "achieved_at": "2026-09-30T08:27:59.556672+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 96,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-30T19:47:13.982574+00:00",
       "badge_id": ""
     },
     {
