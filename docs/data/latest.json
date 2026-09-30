@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-30T20:45:11.1115969+00:00",
-    "fetched_at": "2026-09-30T20:45:28.983633+00:00",
+    "generated_at": "2026-09-30T21:00:11.1118259+00:00",
+    "fetched_at": "2026-09-30T21:00:46.913020+00:00",
     "total_entries": 887
   },
   "entries": [
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 52,
+      "achieved_at": "2026-09-30T20:55:19.160714+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
@@ -295,19 +303,11 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 51,
       "achieved_at": "2026-09-29T02:25:08.328169+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 51,
-      "achieved_at": "2026-09-30T18:22:29.414896+00:00",
       "badge_id": ""
     },
     {
