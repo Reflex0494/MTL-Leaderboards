@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-09-30T14:30:11.1120818+00:00",
-    "fetched_at": "2026-09-30T14:30:58.123155+00:00",
+    "generated_at": "2026-09-30T14:45:11.1124403+00:00",
+    "fetched_at": "2026-09-30T14:45:30.369906+00:00",
     "total_entries": 886
   },
   "entries": [
@@ -105,9 +105,9 @@
     {
       "rank": 13,
       "steam_id": "76561197985446261",
-      "display_name": "SentientWaffle",
-      "prestige_level": 85,
-      "achieved_at": "2026-09-18T12:43:19.294095+00:00",
+      "display_name": "Cyrus",
+      "prestige_level": 86,
+      "achieved_at": "2026-09-30T14:41:06.232083+00:00",
       "badge_id": ""
     },
     {
