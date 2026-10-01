@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-01T22:45:11.1120917+00:00",
-    "fetched_at": "2026-10-01T22:45:26.761051+00:00",
+    "generated_at": "2026-10-01T23:00:11.1117424+00:00",
+    "fetched_at": "2026-10-01T23:00:43.775215+00:00",
     "total_entries": 899
   },
   "entries": [
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 25,
+      "achieved_at": "2026-10-01T22:49:14.191415+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198000796327",
       "display_name": "Nemm",
       "prestige_level": 24,
@@ -783,7 +791,7 @@
       "badge_id": "og"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198020771315",
       "display_name": "Captain",
       "prestige_level": 24,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198158890740",
       "display_name": "[NOC]-Needer",
       "prestige_level": 24,
       "achieved_at": "2026-09-07T18:04:32.478225+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198068953694",
-      "display_name": "BREAD BOY",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-09T03:18:24.488552+00:00",
       "badge_id": ""
     }
   ]
