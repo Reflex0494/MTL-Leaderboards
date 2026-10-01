@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-01T14:00:11.111454+00:00",
-    "fetched_at": "2026-10-01T14:00:50.065247+00:00",
+    "generated_at": "2026-10-01T14:15:11.1126982+00:00",
+    "fetched_at": "2026-10-01T14:15:30.293574+00:00",
     "total_entries": 897
   },
   "entries": [
@@ -632,6 +632,14 @@
     },
     {
       "rank": 79,
+      "steam_id": "76561198097403574",
+      "display_name": "Deprez",
+      "prestige_level": 29,
+      "achieved_at": "2026-10-01T14:12:11.511661+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 80,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 28,
@@ -655,19 +663,11 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 28,
       "achieved_at": "2026-09-24T23:20:05.395491+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561198097403574",
-      "display_name": "Deprez",
-      "prestige_level": 28,
-      "achieved_at": "2026-10-01T13:26:07.607565+00:00",
       "badge_id": ""
     },
     {
@@ -696,6 +696,14 @@
     },
     {
       "rank": 87,
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 27,
+      "achieved_at": "2026-10-01T14:09:24.121342+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 88,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
@@ -719,19 +727,11 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198060560653",
       "display_name": "Floofs",
       "prestige_level": 26,
       "achieved_at": "2026-09-27T12:10:01.436545+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 91,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-30T20:39:19.427584+00:00",
       "badge_id": ""
     },
     {
