@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-01T04:45:11.1125647+00:00",
-    "fetched_at": "2026-10-01T04:45:28.649073+00:00",
+    "generated_at": "2026-10-01T05:00:11.1130178+00:00",
+    "fetched_at": "2026-10-01T05:00:49.015976+00:00",
     "total_entries": 893
   },
   "entries": [
@@ -50,8 +50,8 @@
       "rank": 6,
       "steam_id": "76561197975191379",
       "display_name": "verb",
-      "prestige_level": 114,
-      "achieved_at": "2026-10-01T01:47:16.679209+00:00",
+      "prestige_level": 115,
+      "achieved_at": "2026-10-01T04:55:05.149619+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561198077575239",
+      "display_name": "Daddy Pegasie",
+      "prestige_level": 29,
+      "achieved_at": "2026-10-01T04:47:53.042596+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 28,
@@ -647,19 +655,11 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 28,
       "achieved_at": "2026-09-24T23:20:05.395491+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 82,
-      "steam_id": "76561198077575239",
-      "display_name": "Daddy Pegasie",
-      "prestige_level": 28,
-      "achieved_at": "2026-10-01T03:37:21.246633+00:00",
       "badge_id": ""
     },
     {
