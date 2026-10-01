@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-01T08:30:11.1116617+00:00",
-    "fetched_at": "2026-10-01T08:30:35.375859+00:00",
+    "generated_at": "2026-10-01T08:45:11.1113196+00:00",
+    "fetched_at": "2026-10-01T08:45:30.210445+00:00",
     "total_entries": 893
   },
   "entries": [
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 33,
+      "achieved_at": "2026-10-01T08:35:26.296798+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 32,
@@ -551,19 +559,11 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
       "achieved_at": "2026-09-13T23:13:33.644997+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-30T11:09:53.197493+00:00",
       "badge_id": ""
     },
     {
