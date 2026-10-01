@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-01T13:00:11.1116879+00:00",
-    "fetched_at": "2026-10-01T13:00:48.215517+00:00",
-    "total_entries": 895
+    "generated_at": "2026-10-01T13:15:11.1106727+00:00",
+    "fetched_at": "2026-10-01T13:15:33.681221+00:00",
+    "total_entries": 896
   },
   "entries": [
     {
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561198123871725",
       "display_name": "QCDfluffer",
-      "prestige_level": 104,
-      "achieved_at": "2026-10-01T08:49:12.904127+00:00",
+      "prestige_level": 105,
+      "achieved_at": "2026-10-01T13:03:24.742876+00:00",
       "badge_id": ""
     },
     {
