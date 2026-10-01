@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-01T05:15:11.1120739+00:00",
-    "fetched_at": "2026-10-01T05:15:31.313900+00:00",
+    "generated_at": "2026-10-01T05:30:11.113987+00:00",
+    "fetched_at": "2026-10-01T05:30:40.492160+00:00",
     "total_entries": 893
   },
   "entries": [
@@ -250,8 +250,8 @@
       "rank": 31,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
-      "prestige_level": 56,
-      "achieved_at": "2026-09-24T06:48:35.874386+00:00",
+      "prestige_level": 57,
+      "achieved_at": "2026-10-01T05:23:22.817516+00:00",
       "badge_id": ""
     },
     {
