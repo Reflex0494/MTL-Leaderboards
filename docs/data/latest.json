@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-01T17:15:11.1128442+00:00",
-    "fetched_at": "2026-10-01T17:15:28.610316+00:00",
+    "generated_at": "2026-10-01T17:30:11.1127454+00:00",
+    "fetched_at": "2026-10-01T17:30:40.000691+00:00",
     "total_entries": 898
   },
   "entries": [
@@ -280,18 +280,18 @@
     },
     {
       "rank": 35,
-      "steam_id": "76561198050855635",
-      "display_name": "UnlikelyFloof",
-      "prestige_level": 52,
-      "achieved_at": "2026-09-24T01:17:55.78132+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 53,
+      "achieved_at": "2026-10-01T17:17:56.453075+00:00",
       "badge_id": ""
     },
     {
       "rank": 36,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
+      "steam_id": "76561198050855635",
+      "display_name": "UnlikelyFloof",
       "prestige_level": 52,
-      "achieved_at": "2026-09-30T20:55:19.160714+00:00",
+      "achieved_at": "2026-09-24T01:17:55.78132+00:00",
       "badge_id": ""
     },
     {
