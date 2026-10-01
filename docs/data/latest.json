@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-01T01:15:11.112502+00:00",
-    "fetched_at": "2026-10-01T01:15:29.908402+00:00",
+    "generated_at": "2026-10-01T01:30:11.1123593+00:00",
+    "fetched_at": "2026-10-01T01:30:36.150035+00:00",
     "total_entries": 889
   },
   "entries": [
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 69,
-      "achieved_at": "2026-09-30T19:14:00.103834+00:00",
+      "prestige_level": 70,
+      "achieved_at": "2026-10-01T01:16:20.713535+00:00",
       "badge_id": "s2_second"
     },
     {
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198077575239",
+      "display_name": "Daddy Pegasie",
+      "prestige_level": 27,
+      "achieved_at": "2026-10-01T01:22:27.774951+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
@@ -711,19 +719,11 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198060560653",
       "display_name": "Floofs",
       "prestige_level": 26,
       "achieved_at": "2026-09-27T12:10:01.436545+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 90,
-      "steam_id": "76561198077575239",
-      "display_name": "Daddy Pegasie",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-30T20:26:23.533636+00:00",
       "badge_id": ""
     },
     {
