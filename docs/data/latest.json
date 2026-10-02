@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T11:45:11.1121296+00:00",
-    "fetched_at": "2026-10-02T11:45:27.614295+00:00",
+    "generated_at": "2026-10-02T12:00:11.1123655+00:00",
+    "fetched_at": "2026-10-02T12:00:49.662657+00:00",
     "total_entries": 901
   },
   "entries": [
@@ -32,19 +32,19 @@
     },
     {
       "rank": 4,
+      "steam_id": "76561198054909698",
+      "display_name": "Art",
+      "prestige_level": 130,
+      "achieved_at": "2026-10-02T11:48:49.35806+00:00",
+      "badge_id": "s2_top21"
+    },
+    {
+      "rank": 5,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
       "prestige_level": 129,
       "achieved_at": "2026-09-29T14:45:49.069664+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 5,
-      "steam_id": "76561198054909698",
-      "display_name": "Art",
-      "prestige_level": 129,
-      "achieved_at": "2026-10-02T08:23:52.110517+00:00",
-      "badge_id": "s2_top21"
     },
     {
       "rank": 6,
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198097403574",
+      "display_name": "Deprez",
+      "prestige_level": 31,
+      "achieved_at": "2026-10-02T11:47:53.163323+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -599,19 +607,11 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561198097403574",
-      "display_name": "Deprez",
-      "prestige_level": 30,
-      "achieved_at": "2026-10-02T10:59:44.196737+00:00",
       "badge_id": ""
     },
     {
