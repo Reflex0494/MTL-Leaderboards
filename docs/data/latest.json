@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T03:15:11.1113066+00:00",
-    "fetched_at": "2026-10-02T03:15:29.468731+00:00",
+    "generated_at": "2026-10-02T03:30:11.1119752+00:00",
+    "fetched_at": "2026-10-02T03:30:36.399209+00:00",
     "total_entries": 901
   },
   "entries": [
@@ -152,6 +152,14 @@
     },
     {
       "rank": 19,
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 76,
+      "achieved_at": "2026-10-02T03:26:51.500621+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 20,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 75,
@@ -159,20 +167,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "steam_id": "76561198076913774",
       "display_name": "Earl Sinclair",
       "prestige_level": 75,
       "achieved_at": "2026-09-23T03:13:04.486162+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 21,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 75,
-      "achieved_at": "2026-09-28T10:39:40.603712+00:00",
-      "badge_id": ""
     },
     {
       "rank": 22,
