@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T15:45:11.1121081+00:00",
-    "fetched_at": "2026-10-02T15:45:30.629019+00:00",
+    "generated_at": "2026-10-02T16:00:11.1116877+00:00",
+    "fetched_at": "2026-10-02T16:00:49.880752+00:00",
     "total_entries": 903
   },
   "entries": [
@@ -80,19 +80,19 @@
     },
     {
       "rank": 10,
+      "steam_id": "76561198020856278",
+      "display_name": "Jokerister",
+      "prestige_level": 93,
+      "achieved_at": "2026-10-02T15:55:20.56499+00:00",
+      "badge_id": "s1_top21"
+    },
+    {
+      "rank": 11,
       "steam_id": "76561198877830009",
       "display_name": "ryski",
       "prestige_level": 92,
       "achieved_at": "2026-09-21T04:27:29.643609+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 11,
-      "steam_id": "76561198020856278",
-      "display_name": "Jokerister",
-      "prestige_level": 92,
-      "achieved_at": "2026-10-02T14:57:33.207497+00:00",
-      "badge_id": "s1_top21"
     },
     {
       "rank": 12,
@@ -178,8 +178,8 @@
       "rank": 22,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 72,
-      "achieved_at": "2026-10-02T14:54:42.137611+00:00",
+      "prestige_level": 73,
+      "achieved_at": "2026-10-02T15:57:10.752869+00:00",
       "badge_id": ""
     },
     {
