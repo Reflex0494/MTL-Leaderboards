@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T19:30:11.1131449+00:00",
-    "fetched_at": "2026-10-02T19:30:38.656442+00:00",
+    "generated_at": "2026-10-02T19:45:11.1138922+00:00",
+    "fetched_at": "2026-10-02T19:45:28.667361+00:00",
     "total_entries": 910
   },
   "entries": [
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 29,
+      "achieved_at": "2026-10-02T19:37:46.349095+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 28,
@@ -671,20 +679,12 @@
       "badge_id": ""
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 28,
       "achieved_at": "2026-09-24T23:20:05.395491+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 28,
-      "achieved_at": "2026-10-02T05:25:16.264001+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 86,
