@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T16:30:11.1126685+00:00",
-    "fetched_at": "2026-10-02T16:30:41.616518+00:00",
+    "generated_at": "2026-10-02T16:45:11.1123534+00:00",
+    "fetched_at": "2026-10-02T16:45:31.288699+00:00",
     "total_entries": 903
   },
   "entries": [
@@ -178,16 +178,16 @@
       "rank": 22,
       "steam_id": "76561197990174892",
       "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 73,
-      "achieved_at": "2026-10-02T15:57:10.752869+00:00",
+      "prestige_level": 74,
+      "achieved_at": "2026-10-02T16:44:02.685139+00:00",
       "badge_id": ""
     },
     {
       "rank": 23,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 71,
-      "achieved_at": "2026-10-01T01:48:48.327699+00:00",
+      "prestige_level": 72,
+      "achieved_at": "2026-10-02T16:39:10.766392+00:00",
       "badge_id": "s2_second"
     },
     {
