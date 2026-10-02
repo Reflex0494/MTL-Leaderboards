@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T05:15:11.1100039+00:00",
-    "fetched_at": "2026-10-02T05:15:27.209443+00:00",
+    "generated_at": "2026-10-02T05:30:11.1110772+00:00",
+    "fetched_at": "2026-10-02T05:30:38.173569+00:00",
     "total_entries": 901
   },
   "entries": [
@@ -56,19 +56,19 @@
     },
     {
       "rank": 7,
+      "steam_id": "76561198123871725",
+      "display_name": "QCDfluffer",
+      "prestige_level": 107,
+      "achieved_at": "2026-10-02T05:21:34.429457+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 8,
       "steam_id": "76561197991233795",
       "display_name": "dvfaa",
       "prestige_level": 106,
       "achieved_at": "2026-09-29T06:52:20.168547+00:00",
       "badge_id": "s3_top21"
-    },
-    {
-      "rank": 8,
-      "steam_id": "76561198123871725",
-      "display_name": "QCDfluffer",
-      "prestige_level": 106,
-      "achieved_at": "2026-10-02T01:32:56.76642+00:00",
-      "badge_id": ""
     },
     {
       "rank": 9,
@@ -680,6 +680,14 @@
     },
     {
       "rank": 85,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 28,
+      "achieved_at": "2026-10-02T05:25:16.264001+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 86,
       "steam_id": "76561198219933312",
       "display_name": "KepilOtol",
       "prestige_level": 27,
@@ -687,7 +695,7 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 27,
@@ -695,20 +703,12 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198013111370",
       "display_name": "The Fragrance of Dark Coffee",
       "prestige_level": 27,
       "achieved_at": "2026-09-30T14:14:43.484725+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 88,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 27,
-      "achieved_at": "2026-10-02T02:42:25.430105+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 89,
