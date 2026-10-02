@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T22:15:11.1129109+00:00",
-    "fetched_at": "2026-10-02T22:15:27.171690+00:00",
-    "total_entries": 918
+    "generated_at": "2026-10-02T22:30:11.1114171+00:00",
+    "fetched_at": "2026-10-02T22:30:36.449544+00:00",
+    "total_entries": 919
   },
   "entries": [
     {
@@ -232,19 +232,19 @@
     },
     {
       "rank": 29,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 59,
+      "achieved_at": "2026-10-02T22:28:41.491806+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 30,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
       "prestige_level": 58,
       "achieved_at": "2026-09-12T23:14:24.7832+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 58,
-      "achieved_at": "2026-10-01T01:59:52.429199+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 31,
