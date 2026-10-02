@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T21:30:11.1121544+00:00",
-    "fetched_at": "2026-10-02T21:30:39.738226+00:00",
+    "generated_at": "2026-10-02T21:45:11.1132822+00:00",
+    "fetched_at": "2026-10-02T21:45:28.985393+00:00",
     "total_entries": 915
   },
   "entries": [
@@ -465,9 +465,9 @@
     {
       "rank": 58,
       "steam_id": "76561198129173186",
-      "display_name": "Derp-Enaz",
-      "prestige_level": 36,
-      "achieved_at": "2026-09-29T11:37:58.392121+00:00",
+      "display_name": "Burns",
+      "prestige_level": 37,
+      "achieved_at": "2026-10-02T21:35:55.877552+00:00",
       "badge_id": ""
     },
     {
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 30,
+      "achieved_at": "2026-10-02T21:43:06.629873+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -631,7 +639,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 29,
@@ -639,20 +647,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198077575239",
       "display_name": "Daddy Pegasie",
       "prestige_level": 29,
       "achieved_at": "2026-10-01T04:47:53.042596+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 29,
-      "achieved_at": "2026-10-02T19:37:46.349095+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 82,
