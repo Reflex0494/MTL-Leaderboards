@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-02T18:15:11.1130169+00:00",
-    "fetched_at": "2026-10-02T18:15:27.095064+00:00",
-    "total_entries": 905
+    "generated_at": "2026-10-02T18:30:11.1122794+00:00",
+    "fetched_at": "2026-10-02T18:30:36.530050+00:00",
+    "total_entries": 906
   },
   "entries": [
     {
@@ -264,18 +264,18 @@
     },
     {
       "rank": 33,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
-      "prestige_level": 54,
-      "achieved_at": "2026-09-26T00:32:57.948485+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 55,
+      "achieved_at": "2026-10-02T18:18:28.167596+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
       "prestige_level": 54,
-      "achieved_at": "2026-10-01T20:06:32.594039+00:00",
+      "achieved_at": "2026-09-26T00:32:57.948485+00:00",
       "badge_id": ""
     },
     {
