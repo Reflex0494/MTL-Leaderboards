@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T06:15:11.1136206+00:00",
-    "fetched_at": "2026-10-03T06:15:27.033445+00:00",
+    "generated_at": "2026-10-03T06:30:11.1133887+00:00",
+    "fetched_at": "2026-10-03T06:30:35.596267+00:00",
     "total_entries": 948
   },
   "entries": [
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 34,
+      "achieved_at": "2026-10-03T06:20:30.21244+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 63,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 33,
@@ -503,7 +511,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561198207785195",
       "display_name": "Chad McGee",
       "prestige_level": 33,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198162928860",
       "display_name": "Locklin",
       "prestige_level": 33,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198171507451",
       "display_name": "evergreen",
       "prestige_level": 33,
@@ -527,20 +535,12 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198165404808",
       "display_name": "Spazious",
       "prestige_level": 33,
       "achieved_at": "2026-10-01T08:35:26.296798+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 33,
-      "achieved_at": "2026-10-03T04:45:34.833237+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 68,
