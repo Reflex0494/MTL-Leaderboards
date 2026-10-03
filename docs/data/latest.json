@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T01:15:11.113337+00:00",
-    "fetched_at": "2026-10-03T01:15:28.817576+00:00",
-    "total_entries": 930
+    "generated_at": "2026-10-03T01:30:11.1123346+00:00",
+    "fetched_at": "2026-10-03T01:30:39.226716+00:00",
+    "total_entries": 933
   },
   "entries": [
     {
@@ -186,8 +186,8 @@
       "rank": 23,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 73,
-      "achieved_at": "2026-10-02T17:20:58.035108+00:00",
+      "prestige_level": 74,
+      "achieved_at": "2026-10-03T01:26:18.638753+00:00",
       "badge_id": "s2_second"
     },
     {
@@ -434,8 +434,8 @@
       "rank": 54,
       "steam_id": "76561198129173186",
       "display_name": "Burns",
-      "prestige_level": 39,
-      "achieved_at": "2026-10-03T00:27:57.681175+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-10-03T01:23:23.959341+00:00",
       "badge_id": ""
     },
     {
