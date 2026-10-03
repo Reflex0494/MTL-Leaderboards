@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T01:30:11.1123346+00:00",
-    "fetched_at": "2026-10-03T01:30:39.226716+00:00",
+    "generated_at": "2026-10-03T01:45:11.1133804+00:00",
+    "fetched_at": "2026-10-03T01:45:27.407652+00:00",
     "total_entries": 933
   },
   "entries": [
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 31,
+      "achieved_at": "2026-10-03T01:35:11.204458+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
@@ -615,20 +623,12 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
       "prestige_level": 30,
       "achieved_at": "2026-10-02T18:02:55.628297+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 30,
-      "achieved_at": "2026-10-02T21:43:06.629873+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 79,
