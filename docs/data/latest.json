@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T18:45:11.1123986+00:00",
-    "fetched_at": "2026-10-03T18:45:27.056529+00:00",
+    "generated_at": "2026-10-03T19:00:11.1139514+00:00",
+    "fetched_at": "2026-10-03T19:00:43.958086+00:00",
     "total_entries": 972
   },
   "entries": [
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
-      "prestige_level": 59,
-      "achieved_at": "2026-10-02T22:28:41.491806+00:00",
+      "prestige_level": 60,
+      "achieved_at": "2026-10-03T18:47:50.350596+00:00",
       "badge_id": "og"
     },
     {
