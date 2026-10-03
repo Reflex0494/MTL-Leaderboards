@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T04:45:11.1135891+00:00",
-    "fetched_at": "2026-10-03T04:45:30.215736+00:00",
+    "generated_at": "2026-10-03T05:00:11.112647+00:00",
+    "fetched_at": "2026-10-03T05:00:42.060045+00:00",
     "total_entries": 940
   },
   "entries": [
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 33,
+      "achieved_at": "2026-10-03T04:45:34.833237+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 32,
@@ -559,20 +567,12 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
       "achieved_at": "2026-09-13T23:13:33.644997+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 32,
-      "achieved_at": "2026-10-03T03:19:04.739346+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 72,
