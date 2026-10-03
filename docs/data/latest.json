@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T02:45:11.1147641+00:00",
-    "fetched_at": "2026-10-03T02:45:29.511756+00:00",
-    "total_entries": 934
+    "generated_at": "2026-10-03T03:00:11.112483+00:00",
+    "fetched_at": "2026-10-03T03:00:46.722997+00:00",
+    "total_entries": 936
   },
   "entries": [
     {
@@ -400,18 +400,18 @@
     },
     {
       "rank": 50,
-      "steam_id": "76561198147621685",
-      "display_name": "PunkoBunko",
-      "prestige_level": 41,
-      "achieved_at": "2026-09-17T10:43:25.013735+00:00",
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 42,
+      "achieved_at": "2026-10-03T02:53:25.55225+00:00",
       "badge_id": ""
     },
     {
       "rank": 51,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
+      "steam_id": "76561198147621685",
+      "display_name": "PunkoBunko",
       "prestige_level": 41,
-      "achieved_at": "2026-09-30T22:54:55.206633+00:00",
+      "achieved_at": "2026-09-17T10:43:25.013735+00:00",
       "badge_id": ""
     },
     {
