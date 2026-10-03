@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T00:15:11.1128558+00:00",
-    "fetched_at": "2026-10-03T00:15:29.360111+00:00",
-    "total_entries": 925
+    "generated_at": "2026-10-03T00:30:11.1151077+00:00",
+    "fetched_at": "2026-10-03T00:30:38.043836+00:00",
+    "total_entries": 926
   },
   "entries": [
     {
@@ -352,19 +352,19 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 47,
+      "achieved_at": "2026-10-03T00:15:44.934796+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 45,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 46,
       "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 45,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 46,
-      "achieved_at": "2026-10-01T00:21:37.42767+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 46,
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198129173186",
+      "display_name": "Burns",
+      "prestige_level": 39,
+      "achieved_at": "2026-10-03T00:27:57.681175+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -439,19 +447,11 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
       "achieved_at": "2026-09-03T08:07:01.167447+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198129173186",
-      "display_name": "Burns",
-      "prestige_level": 38,
-      "achieved_at": "2026-10-02T23:07:15.065128+00:00",
       "badge_id": ""
     },
     {
