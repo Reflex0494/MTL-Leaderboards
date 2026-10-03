@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T19:30:11.1122124+00:00",
-    "fetched_at": "2026-10-03T19:30:35.227028+00:00",
-    "total_entries": 974
+    "generated_at": "2026-10-03T19:45:11.1120982+00:00",
+    "fetched_at": "2026-10-03T19:45:26.043307+00:00",
+    "total_entries": 975
   },
   "entries": [
     {
@@ -456,18 +456,18 @@
     },
     {
       "rank": 57,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
+      "steam_id": "76561199100481765",
+      "display_name": "Himari",
+      "prestige_level": 38,
+      "achieved_at": "2026-10-03T19:32:27.342328+00:00",
       "badge_id": ""
     },
     {
       "rank": 58,
-      "steam_id": "76561199100481765",
-      "display_name": "Himari",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 37,
-      "achieved_at": "2026-09-22T19:35:54.736347+00:00",
+      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
     },
     {
