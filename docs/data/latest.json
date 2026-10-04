@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-04T02:30:11.112459+00:00",
-    "fetched_at": "2026-10-04T02:30:37.024043+00:00",
-    "total_entries": 991
+    "generated_at": "2026-10-04T02:45:11.1130347+00:00",
+    "fetched_at": "2026-10-04T02:45:27.037528+00:00",
+    "total_entries": 994
   },
   "entries": [
     {
@@ -442,8 +442,8 @@
       "rank": 55,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
-      "prestige_level": 39,
-      "achieved_at": "2026-10-03T22:59:26.261691+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-10-04T02:40:00.890146+00:00",
       "badge_id": ""
     },
     {
