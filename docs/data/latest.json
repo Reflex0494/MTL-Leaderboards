@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-04T09:45:11.1128408+00:00",
-    "fetched_at": "2026-10-04T09:45:26.744298+00:00",
+    "generated_at": "2026-10-04T10:00:11.11356+00:00",
+    "fetched_at": "2026-10-04T10:00:43.509126+00:00",
     "total_entries": 1009
   },
   "entries": [
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 39,
+      "achieved_at": "2026-10-04T09:48:14.281384+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -455,20 +463,12 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
       "achieved_at": "2026-09-03T08:07:01.167447+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 38,
-      "achieved_at": "2026-10-04T08:15:49.1117+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 59,
