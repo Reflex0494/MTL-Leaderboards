@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-03T23:45:11.1121559+00:00",
-    "fetched_at": "2026-10-03T23:45:27.211049+00:00",
-    "total_entries": 987
+    "generated_at": "2026-10-04T00:00:11.1139433+00:00",
+    "fetched_at": "2026-10-04T00:00:45.689241+00:00",
+    "total_entries": 988
   },
   "entries": [
     {
@@ -234,8 +234,8 @@
       "rank": 29,
       "steam_id": "76561198044950368",
       "display_name": "Spoi",
-      "prestige_level": 60,
-      "achieved_at": "2026-10-03T18:47:50.350596+00:00",
+      "prestige_level": 61,
+      "achieved_at": "2026-10-03T23:52:37.13164+00:00",
       "badge_id": "og"
     },
     {
@@ -410,8 +410,8 @@
       "rank": 51,
       "steam_id": "76561198129173186",
       "display_name": "Burns",
-      "prestige_level": 42,
-      "achieved_at": "2026-10-03T03:24:51.295291+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-10-03T23:48:56.8124+00:00",
       "badge_id": ""
     },
     {
