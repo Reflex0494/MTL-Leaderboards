@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-04T06:30:11.112713+00:00",
-    "fetched_at": "2026-10-04T06:30:37.890830+00:00",
-    "total_entries": 1004
+    "generated_at": "2026-10-04T06:45:11.1130761+00:00",
+    "fetched_at": "2026-10-04T06:45:29.568080+00:00",
+    "total_entries": 1005
   },
   "entries": [
     {
@@ -432,18 +432,18 @@
     },
     {
       "rank": 54,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
+      "steam_id": "76561199100481765",
+      "display_name": "Himari",
+      "prestige_level": 41,
+      "achieved_at": "2026-10-04T06:43:33.633132+00:00",
       "badge_id": ""
     },
     {
       "rank": 55,
-      "steam_id": "76561199100481765",
-      "display_name": "Himari",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 40,
-      "achieved_at": "2026-10-04T02:40:00.890146+00:00",
+      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
       "badge_id": ""
     },
     {
