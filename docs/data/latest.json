@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-04T03:15:11.1108224+00:00",
-    "fetched_at": "2026-10-04T03:15:36.821706+00:00",
+    "generated_at": "2026-10-04T03:30:11.1120624+00:00",
+    "fetched_at": "2026-10-04T03:30:38.501593+00:00",
     "total_entries": 996
   },
   "entries": [
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 35,
+      "achieved_at": "2026-10-04T03:20:24.010398+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -495,20 +503,12 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
       "achieved_at": "2026-09-11T14:25:29.828115+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 34,
-      "achieved_at": "2026-10-03T06:20:30.21244+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 64,
