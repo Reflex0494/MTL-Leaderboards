@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-04T01:15:11.1119681+00:00",
-    "fetched_at": "2026-10-04T01:15:28.217095+00:00",
-    "total_entries": 988
+    "generated_at": "2026-10-04T01:30:11.1125389+00:00",
+    "fetched_at": "2026-10-04T01:30:36.236847+00:00",
+    "total_entries": 989
   },
   "entries": [
     {
@@ -392,18 +392,18 @@
     },
     {
       "rank": 49,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 44,
+      "achieved_at": "2026-10-04T01:23:23.898574+00:00",
       "badge_id": ""
     },
     {
       "rank": 50,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-10-03T23:15:58.66802+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
