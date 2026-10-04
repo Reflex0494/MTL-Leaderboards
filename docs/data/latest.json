@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-04T08:15:11.11249+00:00",
-    "fetched_at": "2026-10-04T08:15:27.270476+00:00",
+    "generated_at": "2026-10-04T08:30:11.1113719+00:00",
+    "fetched_at": "2026-10-04T08:30:36.504854+00:00",
     "total_entries": 1006
   },
   "entries": [
@@ -464,19 +464,19 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 38,
+      "achieved_at": "2026-10-04T08:15:49.1117+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
       "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 37,
-      "achieved_at": "2026-10-04T06:23:21.577801+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 60,
