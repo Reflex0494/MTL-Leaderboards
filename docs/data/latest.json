@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-05T20:46:11.1128166+00:00",
-    "fetched_at": "2026-10-05T20:46:13.690222+00:00",
+    "generated_at": "2026-10-05T21:30:11.1124101+00:00",
+    "fetched_at": "2026-10-05T21:31:04.536499+00:00",
     "total_entries": 1050
   },
   "entries": [
@@ -136,6 +136,14 @@
     },
     {
       "rank": 17,
+      "steam_id": "76561197990174892",
+      "display_name": "=-Dirty|Leader-=",
+      "prestige_level": 77,
+      "achieved_at": "2026-10-05T21:27:43.273251+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 18,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 76,
@@ -143,7 +151,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 76,
@@ -151,19 +159,11 @@
       "badge_id": ""
     },
     {
-      "rank": 19,
+      "rank": 20,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 76,
       "achieved_at": "2026-09-17T10:03:56.054564+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 20,
-      "steam_id": "76561197990174892",
-      "display_name": "=-Dirty|Leader-=",
-      "prestige_level": 76,
-      "achieved_at": "2026-10-02T21:21:58.142719+00:00",
       "badge_id": ""
     },
     {
@@ -616,6 +616,14 @@
     },
     {
       "rank": 77,
+      "steam_id": "76561198036311342",
+      "display_name": "Hazza",
+      "prestige_level": 31,
+      "achieved_at": "2026-10-05T20:55:36.900175+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 78,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -623,19 +631,11 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 79,
-      "steam_id": "76561198036311342",
-      "display_name": "Hazza",
-      "prestige_level": 30,
-      "achieved_at": "2026-10-05T19:16:43.773959+00:00",
       "badge_id": ""
     },
     {
