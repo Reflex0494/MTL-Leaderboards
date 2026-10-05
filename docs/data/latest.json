@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-05T21:30:11.1124101+00:00",
-    "fetched_at": "2026-10-05T21:31:04.536499+00:00",
+    "generated_at": "2026-10-05T21:45:11.1136232+00:00",
+    "fetched_at": "2026-10-05T21:45:29.343420+00:00",
     "total_entries": 1050
   },
   "entries": [
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 59,
+      "achieved_at": "2026-10-05T21:30:26.31187+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561198119588380",
       "display_name": "w1ll1am1564",
       "prestige_level": 58,
@@ -247,19 +255,11 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 58,
       "achieved_at": "2026-10-04T10:54:43.789806+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 58,
-      "achieved_at": "2026-10-05T18:56:14.51585+00:00",
       "badge_id": ""
     },
     {
@@ -384,6 +384,14 @@
     },
     {
       "rank": 48,
+      "steam_id": "76561198129173186",
+      "display_name": "Burns",
+      "prestige_level": 45,
+      "achieved_at": "2026-10-05T21:36:22.119121+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 49,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 44,
@@ -391,19 +399,11 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198257899621",
       "display_name": "Blood Money",
       "prestige_level": 44,
       "achieved_at": "2026-10-04T01:23:23.898574+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 50,
-      "steam_id": "76561198129173186",
-      "display_name": "Burns",
-      "prestige_level": 44,
-      "achieved_at": "2026-10-05T20:24:19.437002+00:00",
       "badge_id": ""
     },
     {
