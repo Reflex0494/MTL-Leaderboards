@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-05T17:45:11.1128851+00:00",
-    "fetched_at": "2026-10-05T17:45:29.920746+00:00",
-    "total_entries": 1043
+    "generated_at": "2026-10-05T18:00:11.1127057+00:00",
+    "fetched_at": "2026-10-05T18:00:48.026491+00:00",
+    "total_entries": 1045
   },
   "entries": [
     {
@@ -264,18 +264,18 @@
     },
     {
       "rank": 33,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
+      "steam_id": "76561197961894696",
+      "display_name": "DonkeyDuff",
+      "prestige_level": 56,
+      "achieved_at": "2026-10-05T17:56:27.645281+00:00",
       "badge_id": ""
     },
     {
       "rank": 34,
-      "steam_id": "76561197961894696",
-      "display_name": "DonkeyDuff",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
       "prestige_level": 55,
-      "achieved_at": "2026-10-05T16:48:08.03099+00:00",
+      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
       "badge_id": ""
     },
     {
@@ -418,8 +418,8 @@
       "rank": 52,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
-      "prestige_level": 42,
-      "achieved_at": "2026-10-05T00:12:40.436594+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-10-05T17:59:06.201452+00:00",
       "badge_id": ""
     },
     {
