@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-05T22:01:11.1144275+00:00",
-    "fetched_at": "2026-10-05T22:01:20.209443+00:00",
+    "generated_at": "2026-10-05T22:15:11.1133654+00:00",
+    "fetched_at": "2026-10-05T22:15:31.343596+00:00",
     "total_entries": 1050
   },
   "entries": [
@@ -392,18 +392,18 @@
     },
     {
       "rank": 49,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 45,
+      "achieved_at": "2026-10-05T22:13:06.913312+00:00",
       "badge_id": ""
     },
     {
       "rank": 50,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
       "prestige_level": 44,
-      "achieved_at": "2026-10-04T01:23:23.898574+00:00",
+      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
       "badge_id": ""
     },
     {
