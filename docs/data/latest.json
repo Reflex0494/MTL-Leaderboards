@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-05T20:16:11.1121157+00:00",
-    "fetched_at": "2026-10-05T20:16:23.785024+00:00",
-    "total_entries": 1048
+    "generated_at": "2026-10-05T20:46:11.1128166+00:00",
+    "fetched_at": "2026-10-05T20:46:13.690222+00:00",
+    "total_entries": 1050
   },
   "entries": [
     {
@@ -400,18 +400,18 @@
     },
     {
       "rank": 50,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561198129173186",
+      "display_name": "Burns",
+      "prestige_level": 44,
+      "achieved_at": "2026-10-05T20:24:19.437002+00:00",
       "badge_id": ""
     },
     {
       "rank": 51,
-      "steam_id": "76561198129173186",
-      "display_name": "Burns",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-10-03T23:48:56.8124+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
