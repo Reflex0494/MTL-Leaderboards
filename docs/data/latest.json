@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-05T00:00:11.114197+00:00",
-    "fetched_at": "2026-10-05T00:00:47.003489+00:00",
+    "generated_at": "2026-10-05T00:15:11.1142299+00:00",
+    "fetched_at": "2026-10-05T00:15:29.128778+00:00",
     "total_entries": 1033
   },
   "entries": [
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561199100481765",
+      "display_name": "Himari",
+      "prestige_level": 42,
+      "achieved_at": "2026-10-05T00:12:40.436594+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 41,
@@ -423,19 +431,11 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 41,
       "achieved_at": "2026-10-01T02:13:49.089969+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561199100481765",
-      "display_name": "Himari",
-      "prestige_level": 41,
-      "achieved_at": "2026-10-04T06:43:33.633132+00:00",
       "badge_id": ""
     },
     {
