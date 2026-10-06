@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-06T13:00:11.1118496+00:00",
-    "fetched_at": "2026-10-06T13:00:47.649882+00:00",
+    "generated_at": "2026-10-06T13:15:11.1119301+00:00",
+    "fetched_at": "2026-10-06T13:15:29.279974+00:00",
     "total_entries": 1055
   },
   "entries": [
@@ -224,19 +224,19 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 63,
+      "achieved_at": "2026-10-06T13:12:49.650768+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 29,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 62,
       "achieved_at": "2026-09-28T05:52:11.383777+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 29,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 62,
-      "achieved_at": "2026-10-05T06:02:00.666642+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 30,
