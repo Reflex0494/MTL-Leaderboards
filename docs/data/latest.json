@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-06T17:45:11.1155889+00:00",
-    "fetched_at": "2026-10-06T17:45:29.633254+00:00",
+    "generated_at": "2026-10-06T18:00:11.1117435+00:00",
+    "fetched_at": "2026-10-06T18:00:45.808284+00:00",
     "total_entries": 1056
   },
   "entries": [
@@ -384,18 +384,18 @@
     },
     {
       "rank": 48,
-      "steam_id": "76561198129173186",
-      "display_name": "Burns",
-      "prestige_level": 45,
-      "achieved_at": "2026-10-05T21:36:22.119121+00:00",
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 46,
+      "achieved_at": "2026-10-06T17:45:58.971468+00:00",
       "badge_id": ""
     },
     {
       "rank": 49,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
+      "steam_id": "76561198129173186",
+      "display_name": "Burns",
       "prestige_level": 45,
-      "achieved_at": "2026-10-05T22:13:06.913312+00:00",
+      "achieved_at": "2026-10-05T21:36:22.119121+00:00",
       "badge_id": ""
     },
     {
