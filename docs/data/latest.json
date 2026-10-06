@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-06T13:45:11.1124221+00:00",
-    "fetched_at": "2026-10-06T13:45:29.547527+00:00",
+    "generated_at": "2026-10-06T14:00:11.1132361+00:00",
+    "fetched_at": "2026-10-06T14:00:51.309757+00:00",
     "total_entries": 1055
   },
   "entries": [
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198123871725",
       "display_name": "QCDfluffer",
-      "prestige_level": 114,
-      "achieved_at": "2026-10-05T07:07:52.111068+00:00",
+      "prestige_level": 116,
+      "achieved_at": "2026-10-06T13:51:59.843497+00:00",
       "badge_id": ""
     },
     {
@@ -216,19 +216,19 @@
     },
     {
       "rank": 27,
+      "steam_id": "76561198044950368",
+      "display_name": "Spoi",
+      "prestige_level": 64,
+      "achieved_at": "2026-10-06T13:56:51.318571+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 28,
       "steam_id": "76561198014380387",
       "display_name": "GaliiLoN",
       "prestige_level": 63,
       "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 28,
-      "steam_id": "76561198044950368",
-      "display_name": "Spoi",
-      "prestige_level": 63,
-      "achieved_at": "2026-10-06T13:12:49.650768+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 29,
