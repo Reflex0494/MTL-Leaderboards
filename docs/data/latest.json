@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-07T18:15:11.1128526+00:00",
-    "fetched_at": "2026-10-07T18:15:28.746643+00:00",
+    "generated_at": "2026-10-07T18:30:11.1132331+00:00",
+    "fetched_at": "2026-10-07T18:30:40.345196+00:00",
     "total_entries": 1076
   },
   "entries": [
@@ -194,8 +194,8 @@
       "rank": 24,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
-      "prestige_level": 74,
-      "achieved_at": "2026-10-06T21:42:00.559072+00:00",
+      "prestige_level": 75,
+      "achieved_at": "2026-10-07T18:18:11.801741+00:00",
       "badge_id": ""
     },
     {
