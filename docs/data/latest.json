@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-07T18:30:11.1132331+00:00",
-    "fetched_at": "2026-10-07T18:30:40.345196+00:00",
-    "total_entries": 1076
+    "generated_at": "2026-10-07T18:45:11.1141695+00:00",
+    "fetched_at": "2026-10-07T18:45:29.708297+00:00",
+    "total_entries": 1077
   },
   "entries": [
     {
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198036311342",
+      "display_name": "Hazza",
+      "prestige_level": 32,
+      "achieved_at": "2026-10-07T18:32:43.100191+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 31,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 31,
@@ -607,19 +615,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198095288801",
       "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
       "prestige_level": 31,
       "achieved_at": "2026-09-22T12:10:29.701151+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 77,
-      "steam_id": "76561198036311342",
-      "display_name": "Hazza",
-      "prestige_level": 31,
-      "achieved_at": "2026-10-05T20:55:36.900175+00:00",
       "badge_id": ""
     },
     {
