@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-07T22:00:11.1128099+00:00",
-    "fetched_at": "2026-10-07T22:00:46.107636+00:00",
+    "generated_at": "2026-10-07T22:15:11.1119271+00:00",
+    "fetched_at": "2026-10-07T22:15:28.876410+00:00",
     "total_entries": 1077
   },
   "entries": [
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 50,
+      "achieved_at": "2026-10-07T22:12:03.597987+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 42,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
@@ -335,7 +343,7 @@
       "badge_id": ""
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 49,
@@ -343,20 +351,12 @@
       "badge_id": "og"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 49,
       "achieved_at": "2026-10-07T00:06:26.941076+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 49,
-      "achieved_at": "2026-10-07T14:11:52.898979+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 45,
