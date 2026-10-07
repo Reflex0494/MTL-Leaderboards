@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-07T09:45:11.1137409+00:00",
-    "fetched_at": "2026-10-07T09:45:28.843266+00:00",
+    "generated_at": "2026-10-07T10:00:11.113713+00:00",
+    "fetched_at": "2026-10-07T10:00:45.905156+00:00",
     "total_entries": 1070
   },
   "entries": [
@@ -376,6 +376,14 @@
     },
     {
       "rank": 47,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 47,
+      "achieved_at": "2026-10-07T09:52:12.477561+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 48,
       "steam_id": "76561199613979883",
       "display_name": "Arlant",
       "prestige_level": 46,
@@ -383,20 +391,12 @@
       "badge_id": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "steam_id": "76561198257899621",
       "display_name": "Blood Money",
       "prestige_level": 46,
       "achieved_at": "2026-10-06T17:45:58.971468+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 49,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 46,
-      "achieved_at": "2026-10-07T08:49:22.117294+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 50,
