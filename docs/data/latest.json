@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-07T12:15:11.1148471+00:00",
-    "fetched_at": "2026-10-07T12:15:29.762714+00:00",
-    "total_entries": 1070
+    "generated_at": "2026-10-07T12:30:11.1137108+00:00",
+    "fetched_at": "2026-10-07T12:30:38.020643+00:00",
+    "total_entries": 1071
   },
   "entries": [
     {
@@ -58,8 +58,8 @@
       "rank": 7,
       "steam_id": "76561198123871725",
       "display_name": "QCDfluffer",
-      "prestige_level": 118,
-      "achieved_at": "2026-10-07T08:20:30.01784+00:00",
+      "prestige_level": 119,
+      "achieved_at": "2026-10-07T12:24:01.349843+00:00",
       "badge_id": ""
     },
     {
@@ -352,6 +352,14 @@
     },
     {
       "rank": 44,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 48,
+      "achieved_at": "2026-10-07T12:23:52.991929+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 45,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -359,7 +367,7 @@
       "badge_id": ""
     },
     {
-      "rank": 45,
+      "rank": 46,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 47,
@@ -367,20 +375,12 @@
       "badge_id": ""
     },
     {
-      "rank": 46,
+      "rank": 47,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 47,
       "achieved_at": "2026-10-06T05:54:46.326998+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 47,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 47,
-      "achieved_at": "2026-10-07T09:52:12.477561+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 48,
@@ -458,8 +458,8 @@
       "rank": 57,
       "steam_id": "76561198165404808",
       "display_name": "Spazious",
-      "prestige_level": 39,
-      "achieved_at": "2026-10-05T11:19:04.245574+00:00",
+      "prestige_level": 40,
+      "achieved_at": "2026-10-07T12:20:27.211228+00:00",
       "badge_id": ""
     },
     {
