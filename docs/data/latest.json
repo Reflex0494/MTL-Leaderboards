@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-07T22:45:11.1119253+00:00",
-    "fetched_at": "2026-10-07T22:46:04.911156+00:00",
+    "generated_at": "2026-10-07T23:00:11.1114189+00:00",
+    "fetched_at": "2026-10-07T23:00:43.278133+00:00",
     "total_entries": 1077
   },
   "entries": [
@@ -384,18 +384,18 @@
     },
     {
       "rank": 48,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 47,
+      "achieved_at": "2026-10-07T22:59:13.298523+00:00",
       "badge_id": ""
     },
     {
       "rank": 49,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-10-06T17:45:58.971468+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
