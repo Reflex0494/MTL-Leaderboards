@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T09:30:11.1110128+00:00",
-    "fetched_at": "2026-10-08T09:30:39.877179+00:00",
+    "generated_at": "2026-10-08T09:45:11.1117522+00:00",
+    "fetched_at": "2026-10-08T09:45:29.524029+00:00",
     "total_entries": 1084
   },
   "entries": [
@@ -448,18 +448,18 @@
     },
     {
       "rank": 56,
-      "steam_id": "76561198072191381",
-      "display_name": "InkdAnarchy",
-      "prestige_level": 40,
-      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 41,
+      "achieved_at": "2026-10-08T09:41:10.649959+00:00",
       "badge_id": ""
     },
     {
       "rank": 57,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
+      "steam_id": "76561198072191381",
+      "display_name": "InkdAnarchy",
       "prestige_level": 40,
-      "achieved_at": "2026-10-07T12:20:27.211228+00:00",
+      "achieved_at": "2026-08-29T18:03:11.965518+00:00",
       "badge_id": ""
     },
     {
