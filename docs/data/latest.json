@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T02:15:11.1113983+00:00",
-    "fetched_at": "2026-10-08T02:15:28.649754+00:00",
+    "generated_at": "2026-10-08T02:30:11.1116371+00:00",
+    "fetched_at": "2026-10-08T02:30:38.001036+00:00",
     "total_entries": 1078
   },
   "entries": [
@@ -296,6 +296,14 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 52,
+      "achieved_at": "2026-10-08T02:20:06.958293+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
@@ -303,20 +311,12 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 51,
       "achieved_at": "2026-09-29T02:25:08.328169+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 39,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 51,
-      "achieved_at": "2026-10-08T00:20:25.535953+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 40,
