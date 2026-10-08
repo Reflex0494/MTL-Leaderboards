@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T04:15:11.1119216+00:00",
-    "fetched_at": "2026-10-08T04:15:28.680223+00:00",
+    "generated_at": "2026-10-08T04:30:11.1128375+00:00",
+    "fetched_at": "2026-10-08T04:30:47.650231+00:00",
     "total_entries": 1080
   },
   "entries": [
@@ -288,19 +288,19 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 53,
+      "achieved_at": "2026-10-08T04:17:39.817039+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198050855635",
       "display_name": "UnlikelyFloof",
       "prestige_level": 52,
       "achieved_at": "2026-09-24T01:17:55.78132+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 37,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 52,
-      "achieved_at": "2026-10-08T02:20:06.958293+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 38,
