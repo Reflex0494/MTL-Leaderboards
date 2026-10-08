@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T11:00:11.1118016+00:00",
-    "fetched_at": "2026-10-08T11:00:47.276974+00:00",
+    "generated_at": "2026-10-08T11:15:11.1120684+00:00",
+    "fetched_at": "2026-10-08T11:15:27.821461+00:00",
     "total_entries": 1084
   },
   "entries": [
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 78,
-      "achieved_at": "2026-10-06T04:09:09.729279+00:00",
+      "prestige_level": 79,
+      "achieved_at": "2026-10-08T11:09:42.339406+00:00",
       "badge_id": ""
     },
     {
@@ -800,11 +800,11 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198000796327",
-      "display_name": "Nemm",
-      "prestige_level": 24,
-      "achieved_at": "2026-09-04T09:47:25.257518+00:00",
-      "badge_id": "og"
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 25,
+      "achieved_at": "2026-10-08T11:12:32.226462+00:00",
+      "badge_id": ""
     }
   ]
 }
