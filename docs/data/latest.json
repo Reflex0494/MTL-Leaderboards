@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T14:45:11.1140908+00:00",
-    "fetched_at": "2026-10-08T14:45:35.857689+00:00",
+    "generated_at": "2026-10-08T15:00:11.1122537+00:00",
+    "fetched_at": "2026-10-08T15:00:52.370560+00:00",
     "total_entries": 1087
   },
   "entries": [
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 27,
+      "achieved_at": "2026-10-08T14:47:26.652021+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -751,19 +759,11 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
       "achieved_at": "2026-09-15T16:45:02.481532+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 95,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
-      "prestige_level": 26,
-      "achieved_at": "2026-10-08T13:13:33.855703+00:00",
       "badge_id": ""
     },
     {
