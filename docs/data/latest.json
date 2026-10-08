@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T20:45:11.1114664+00:00",
-    "fetched_at": "2026-10-08T20:45:28.438190+00:00",
+    "generated_at": "2026-10-08T21:00:11.1112097+00:00",
+    "fetched_at": "2026-10-08T21:00:47.601032+00:00",
     "total_entries": 1088
   },
   "entries": [
@@ -552,6 +552,14 @@
     },
     {
       "rank": 69,
+      "steam_id": "76561198321234198",
+      "display_name": "mmffkk000",
+      "prestige_level": 33,
+      "achieved_at": "2026-10-08T20:58:52.510321+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 70,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
       "achieved_at": "2026-09-08T06:44:47.923006+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198321234198",
-      "display_name": "mmffkk000",
-      "prestige_level": 32,
-      "achieved_at": "2026-09-11T21:45:50.854012+00:00",
       "badge_id": ""
     },
     {
