@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T07:45:11.1110623+00:00",
-    "fetched_at": "2026-10-08T07:45:29.022285+00:00",
+    "generated_at": "2026-10-08T08:00:11.1117695+00:00",
+    "fetched_at": "2026-10-08T08:00:44.004830+00:00",
     "total_entries": 1084
   },
   "entries": [
@@ -272,19 +272,19 @@
     },
     {
       "rank": 34,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 56,
+      "achieved_at": "2026-10-08T07:52:34.563186+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 35,
       "steam_id": "76561198016501100",
       "display_name": "CrastTM",
       "prestige_level": 55,
       "achieved_at": "2026-09-07T05:51:47.661701+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 35,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 55,
-      "achieved_at": "2026-10-08T06:45:48.750589+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 36,
