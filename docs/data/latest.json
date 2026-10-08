@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T18:15:11.1128992+00:00",
-    "fetched_at": "2026-10-08T18:15:36.857608+00:00",
+    "generated_at": "2026-10-08T18:30:11.1131623+00:00",
+    "fetched_at": "2026-10-08T18:30:42.494748+00:00",
     "total_entries": 1088
   },
   "entries": [
@@ -696,6 +696,14 @@
     },
     {
       "rank": 87,
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 28,
+      "achieved_at": "2026-10-08T18:20:06.900517+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 88,
       "steam_id": "76561198219933312",
       "display_name": "KepilOtol",
       "prestige_level": 27,
@@ -703,7 +711,7 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 27,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198013111370",
       "display_name": "The Fragrance of Dark Coffee",
       "prestige_level": 27,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561198060560653",
       "display_name": "Floofs",
       "prestige_level": 27,
@@ -727,19 +735,11 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198224175832",
       "display_name": "CHUDder Cheese",
       "prestige_level": 27,
       "achieved_at": "2026-10-08T01:05:53.080308+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 92,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
-      "prestige_level": 27,
-      "achieved_at": "2026-10-08T14:47:26.652021+00:00",
       "badge_id": ""
     },
     {
