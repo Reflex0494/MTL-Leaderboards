@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-08T00:30:11.1117679+00:00",
-    "fetched_at": "2026-10-08T00:30:42.692132+00:00",
+    "generated_at": "2026-10-08T00:45:11.1127384+00:00",
+    "fetched_at": "2026-10-08T00:45:27.172267+00:00",
     "total_entries": 1078
   },
   "entries": [
@@ -336,6 +336,14 @@
     },
     {
       "rank": 42,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 50,
+      "achieved_at": "2026-10-08T00:40:47.288798+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 43,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
@@ -343,19 +351,11 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198079792374",
       "display_name": "N-ko",
       "prestige_level": 49,
       "achieved_at": "2026-09-25T07:30:03.248751+00:00",
-      "badge_id": "og"
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 49,
-      "achieved_at": "2026-10-07T00:06:26.941076+00:00",
       "badge_id": "og"
     },
     {
