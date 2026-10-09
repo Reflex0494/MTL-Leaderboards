@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-09T08:30:11.1113217+00:00",
-    "fetched_at": "2026-10-09T08:30:40.222854+00:00",
+    "generated_at": "2026-10-09T08:45:11.1117125+00:00",
+    "fetched_at": "2026-10-09T08:45:27.507640+00:00",
     "total_entries": 1095
   },
   "entries": [
@@ -228,7 +228,7 @@
       "display_name": "[US]OmicroN",
       "prestige_level": 64,
       "achieved_at": "2026-10-09T08:15:30.888618+00:00",
-      "badge_id": ""
+      "badge_id": "s3_top21"
     },
     {
       "rank": 29,
@@ -560,6 +560,14 @@
     },
     {
       "rank": 70,
+      "steam_id": "76561198036311342",
+      "display_name": "Hazza",
+      "prestige_level": 33,
+      "achieved_at": "2026-10-09T08:37:47.745238+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 71,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -567,7 +575,7 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -575,7 +583,7 @@
       "badge_id": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
@@ -583,19 +591,11 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198097403574",
       "display_name": "Deprez",
       "prestige_level": 32,
       "achieved_at": "2026-10-03T10:13:31.953474+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 74,
-      "steam_id": "76561198036311342",
-      "display_name": "Hazza",
-      "prestige_level": 32,
-      "achieved_at": "2026-10-07T18:32:43.100191+00:00",
       "badge_id": ""
     },
     {
@@ -648,6 +648,14 @@
     },
     {
       "rank": 81,
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 30,
+      "achieved_at": "2026-10-09T08:39:33.202729+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 82,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -655,19 +663,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198077575239",
       "display_name": "Daddy Pegasie",
       "prestige_level": 29,
       "achieved_at": "2026-10-01T04:47:53.042596+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
-      "prestige_level": 29,
-      "achieved_at": "2026-10-08T18:53:57.297884+00:00",
       "badge_id": ""
     },
     {
