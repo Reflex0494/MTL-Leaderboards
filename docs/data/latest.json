@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-09T09:45:11.1134097+00:00",
-    "fetched_at": "2026-10-09T09:45:32.238398+00:00",
+    "generated_at": "2026-10-09T10:00:11.1136975+00:00",
+    "fetched_at": "2026-10-09T10:00:44.597888+00:00",
     "total_entries": 1096
   },
   "entries": [
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 42,
+      "achieved_at": "2026-10-09T09:57:21.298385+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 41,
@@ -439,19 +447,11 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 41,
       "achieved_at": "2026-10-01T02:13:49.089969+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
-      "prestige_level": 41,
-      "achieved_at": "2026-10-08T09:41:10.649959+00:00",
       "badge_id": ""
     },
     {
