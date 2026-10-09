@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-09T04:00:11.1133601+00:00",
-    "fetched_at": "2026-10-09T04:00:43.939024+00:00",
-    "total_entries": 1092
+    "generated_at": "2026-10-09T04:15:11.1137942+00:00",
+    "fetched_at": "2026-10-09T04:15:34.532795+00:00",
+    "total_entries": 1093
   },
   "entries": [
     {
@@ -240,18 +240,18 @@
     },
     {
       "rank": 30,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 60,
-      "achieved_at": "2026-10-06T19:20:53.164367+00:00",
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 61,
+      "achieved_at": "2026-10-09T04:04:10.001723+00:00",
       "badge_id": ""
     },
     {
       "rank": 31,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
       "prestige_level": 60,
-      "achieved_at": "2026-10-09T01:10:12.450859+00:00",
+      "achieved_at": "2026-10-06T19:20:53.164367+00:00",
       "badge_id": ""
     },
     {
