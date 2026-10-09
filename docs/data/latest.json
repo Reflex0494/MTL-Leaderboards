@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-09T08:15:11.1124153+00:00",
-    "fetched_at": "2026-10-09T08:15:31.631076+00:00",
+    "generated_at": "2026-10-09T08:30:11.1113217+00:00",
+    "fetched_at": "2026-10-09T08:30:40.222854+00:00",
     "total_entries": 1095
   },
   "entries": [
@@ -224,18 +224,18 @@
     },
     {
       "rank": 28,
-      "steam_id": "76561198014380387",
-      "display_name": "GaliiLoN",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 64,
+      "achieved_at": "2026-10-09T08:15:30.888618+00:00",
       "badge_id": ""
     },
     {
       "rank": 29,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
+      "steam_id": "76561198014380387",
+      "display_name": "GaliiLoN",
       "prestige_level": 63,
-      "achieved_at": "2026-10-09T07:07:24.795383+00:00",
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
