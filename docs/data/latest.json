@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-09T22:30:11.1126189+00:00",
-    "fetched_at": "2026-10-09T22:30:37.250392+00:00",
+    "generated_at": "2026-10-09T22:45:11.1122925+00:00",
+    "fetched_at": "2026-10-09T22:45:29.459234+00:00",
     "total_entries": 1100
   },
   "entries": [
@@ -368,6 +368,14 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
+      "prestige_level": 48,
+      "achieved_at": "2026-10-09T22:36:39.897569+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 47,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 47,
       "achieved_at": "2026-09-26T09:52:13.507101+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 47,
-      "achieved_at": "2026-10-06T05:54:46.326998+00:00",
       "badge_id": ""
     },
     {
