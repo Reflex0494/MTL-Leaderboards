@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-09T00:00:11.1141553+00:00",
-    "fetched_at": "2026-10-09T00:00:47.343078+00:00",
+    "generated_at": "2026-10-09T00:15:11.113757+00:00",
+    "fetched_at": "2026-10-09T00:15:30.014288+00:00",
     "total_entries": 1089
   },
   "entries": [
@@ -360,6 +360,14 @@
     },
     {
       "rank": 45,
+      "steam_id": "76561198257899621",
+      "display_name": "Blood Money",
+      "prestige_level": 48,
+      "achieved_at": "2026-10-09T00:09:31.205248+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 46,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -367,7 +375,7 @@
       "badge_id": ""
     },
     {
-      "rank": 46,
+      "rank": 47,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 47,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 47,
       "achieved_at": "2026-10-06T05:54:46.326998+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198257899621",
-      "display_name": "Blood Money",
-      "prestige_level": 47,
-      "achieved_at": "2026-10-07T22:59:13.298523+00:00",
       "badge_id": ""
     },
     {
