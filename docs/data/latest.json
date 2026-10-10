@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-10T00:00:11.1122523+00:00",
-    "fetched_at": "2026-10-10T00:00:44.465069+00:00",
+    "generated_at": "2026-10-10T00:15:11.1130201+00:00",
+    "fetched_at": "2026-10-10T00:15:37.308159+00:00",
     "total_entries": 1100
   },
   "entries": [
@@ -656,6 +656,14 @@
     },
     {
       "rank": 82,
+      "steam_id": "76561198224175832",
+      "display_name": "CHUDder Cheese",
+      "prestige_level": 30,
+      "achieved_at": "2026-10-10T00:01:30.477109+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 83,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -663,19 +671,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198077575239",
       "display_name": "Daddy Pegasie",
       "prestige_level": 29,
       "achieved_at": "2026-10-01T04:47:53.042596+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561198224175832",
-      "display_name": "CHUDder Cheese",
-      "prestige_level": 29,
-      "achieved_at": "2026-10-09T02:46:54.728432+00:00",
       "badge_id": ""
     },
     {
