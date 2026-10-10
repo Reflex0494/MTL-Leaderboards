@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-10T19:30:11.1109825+00:00",
-    "fetched_at": "2026-10-10T19:30:35.922395+00:00",
+    "generated_at": "2026-10-10T19:45:11.1140533+00:00",
+    "fetched_at": "2026-10-10T19:45:26.389663+00:00",
     "total_entries": 1105
   },
   "entries": [
@@ -528,6 +528,22 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 34,
+      "achieved_at": "2026-10-10T19:37:04.919512+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
+      "steam_id": "76561198036311342",
+      "display_name": "Hazza",
+      "prestige_level": 34,
+      "achieved_at": "2026-10-10T19:37:56.362531+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 33,
@@ -535,7 +551,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 67,
+      "rank": 69,
       "steam_id": "76561198207785195",
       "display_name": "Chad McGee",
       "prestige_level": 33,
@@ -543,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 70,
       "steam_id": "76561198162928860",
       "display_name": "Locklin",
       "prestige_level": 33,
@@ -551,27 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 71,
       "steam_id": "76561198171507451",
       "display_name": "evergreen",
       "prestige_level": 33,
       "achieved_at": "2026-09-30T20:35:04.411681+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198036311342",
-      "display_name": "Hazza",
-      "prestige_level": 33,
-      "achieved_at": "2026-10-09T08:37:47.745238+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
-      "prestige_level": 33,
-      "achieved_at": "2026-10-10T12:55:20.994289+00:00",
       "badge_id": ""
     },
     {
