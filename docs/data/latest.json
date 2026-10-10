@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-10T10:30:11.1147264+00:00",
-    "fetched_at": "2026-10-10T10:30:39.552229+00:00",
+    "generated_at": "2026-10-10T10:45:11.1153413+00:00",
+    "fetched_at": "2026-10-10T10:45:29.516016+00:00",
     "total_entries": 1103
   },
   "entries": [
@@ -434,8 +434,8 @@
       "rank": 54,
       "steam_id": "76561198165404808",
       "display_name": "Spazious",
-      "prestige_level": 42,
-      "achieved_at": "2026-10-09T09:57:21.298385+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-10-10T10:37:37.856362+00:00",
       "badge_id": ""
     },
     {
