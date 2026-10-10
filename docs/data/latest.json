@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-10T17:15:11.1134877+00:00",
-    "fetched_at": "2026-10-10T17:15:26.558873+00:00",
+    "generated_at": "2026-10-10T17:30:11.1114802+00:00",
+    "fetched_at": "2026-10-10T17:30:36.635061+00:00",
     "total_entries": 1104
   },
   "entries": [
@@ -680,6 +680,14 @@
     },
     {
       "rank": 85,
+      "steam_id": "76561198237373514",
+      "display_name": "ghouls",
+      "prestige_level": 29,
+      "achieved_at": "2026-10-10T17:26:38.148202+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 86,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -687,19 +695,11 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
       "achieved_at": "2026-09-14T04:51:40.563141+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 87,
-      "steam_id": "76561198237373514",
-      "display_name": "ghouls",
-      "prestige_level": 28,
-      "achieved_at": "2026-09-24T23:10:45.403403+00:00",
       "badge_id": ""
     },
     {
