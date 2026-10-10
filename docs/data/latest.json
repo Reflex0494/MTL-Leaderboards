@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-10T20:45:11.1136735+00:00",
-    "fetched_at": "2026-10-10T20:45:27.359828+00:00",
+    "generated_at": "2026-10-10T21:00:11.1126714+00:00",
+    "fetched_at": "2026-10-10T21:00:43.823477+00:00",
     "total_entries": 1105
   },
   "entries": [
@@ -504,6 +504,14 @@
     },
     {
       "rank": 63,
+      "steam_id": "76561198036311342",
+      "display_name": "Hazza",
+      "prestige_level": 35,
+      "achieved_at": "2026-10-10T20:51:36.209432+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 64,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -511,7 +519,7 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 34,
@@ -527,19 +535,11 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561197994407869",
       "display_name": "Goldmind",
       "prestige_level": 34,
       "achieved_at": "2026-10-10T19:37:04.919512+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 67,
-      "steam_id": "76561198036311342",
-      "display_name": "Hazza",
-      "prestige_level": 34,
-      "achieved_at": "2026-10-10T19:37:56.362531+00:00",
       "badge_id": ""
     },
     {
