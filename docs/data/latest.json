@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-10T19:45:11.1140533+00:00",
-    "fetched_at": "2026-10-10T19:45:26.389663+00:00",
+    "generated_at": "2026-10-10T20:00:11.1127146+00:00",
+    "fetched_at": "2026-10-10T20:00:42.219670+00:00",
     "total_entries": 1105
   },
   "entries": [
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198100486641",
+      "display_name": "Degree",
+      "prestige_level": 27,
+      "achieved_at": "2026-10-10T19:53:07.750006+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -759,19 +767,11 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
       "achieved_at": "2026-09-15T16:45:02.481532+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 96,
-      "steam_id": "76561198100486641",
-      "display_name": "Degree",
-      "prestige_level": 26,
-      "achieved_at": "2026-10-09T20:12:31.877844+00:00",
       "badge_id": ""
     },
     {
