@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-11T09:45:11.113625+00:00",
-    "fetched_at": "2026-10-11T09:45:27.460842+00:00",
+    "generated_at": "2026-10-11T10:00:11.1140646+00:00",
+    "fetched_at": "2026-10-11T10:00:46.302012+00:00",
     "total_entries": 1111
   },
   "entries": [
@@ -514,8 +514,8 @@
       "rank": 64,
       "steam_id": "76561197994407869",
       "display_name": "Goldmind",
-      "prestige_level": 35,
-      "achieved_at": "2026-10-11T08:53:32.631051+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-10-11T09:57:29.708548+00:00",
       "badge_id": ""
     },
     {
