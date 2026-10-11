@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-11T07:45:11.1127695+00:00",
-    "fetched_at": "2026-10-11T07:45:27.206282+00:00",
-    "total_entries": 1109
+    "generated_at": "2026-10-11T08:00:11.1134765+00:00",
+    "fetched_at": "2026-10-11T08:00:47.641042+00:00",
+    "total_entries": 1110
   },
   "entries": [
     {
@@ -40,19 +40,19 @@
     },
     {
       "rank": 5,
+      "steam_id": "76561197975191379",
+      "display_name": "verb",
+      "prestige_level": 130,
+      "achieved_at": "2026-10-11T07:54:17.131627+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 6,
       "steam_id": "76561198145785941",
       "display_name": "\u3112\u5344\u03a3\u3112\u03a3\u5c3aMI\u041f\u039b\u3112\u03a3\u5c3a",
       "prestige_level": 129,
       "achieved_at": "2026-09-29T14:45:49.069664+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 6,
-      "steam_id": "76561197975191379",
-      "display_name": "verb",
-      "prestige_level": 129,
-      "achieved_at": "2026-10-10T08:36:42.191185+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 7,
