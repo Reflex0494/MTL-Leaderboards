@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-10T23:45:11.1129468+00:00",
-    "fetched_at": "2026-10-10T23:45:27.545238+00:00",
+    "generated_at": "2026-10-11T00:00:11.1128518+00:00",
+    "fetched_at": "2026-10-11T00:00:51.511200+00:00",
     "total_entries": 1106
   },
   "entries": [
@@ -506,8 +506,8 @@
       "rank": 63,
       "steam_id": "76561198036311342",
       "display_name": "Hazza",
-      "prestige_level": 36,
-      "achieved_at": "2026-10-10T22:26:05.284792+00:00",
+      "prestige_level": 37,
+      "achieved_at": "2026-10-10T23:46:22.60137+00:00",
       "badge_id": ""
     },
     {
