@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-11T19:15:11.1127469+00:00",
-    "fetched_at": "2026-10-11T19:15:28.056198+00:00",
+    "generated_at": "2026-10-11T19:30:11.1125847+00:00",
+    "fetched_at": "2026-10-11T19:30:38.453864+00:00",
     "total_entries": 1119
   },
   "entries": [
@@ -240,6 +240,14 @@
     },
     {
       "rank": 30,
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 63,
+      "achieved_at": "2026-10-11T19:29:53.914853+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 31,
       "steam_id": "76561197990927956",
       "display_name": "Disorder",
       "prestige_level": 62,
@@ -247,19 +255,11 @@
       "badge_id": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "steam_id": "76561198015442060",
       "display_name": "War Eeyore",
       "prestige_level": 62,
       "achieved_at": "2026-10-09T21:22:47.548104+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 32,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
-      "prestige_level": 62,
-      "achieved_at": "2026-10-10T17:34:00.892582+00:00",
       "badge_id": ""
     },
     {
