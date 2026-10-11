@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-11T15:30:11.1133246+00:00",
-    "fetched_at": "2026-10-11T15:30:36.478326+00:00",
-    "total_entries": 1117
+    "generated_at": "2026-10-11T15:45:11.1127263+00:00",
+    "fetched_at": "2026-10-11T15:45:28.188519+00:00",
+    "total_entries": 1118
   },
   "entries": [
     {
@@ -472,6 +472,14 @@
     },
     {
       "rank": 59,
+      "steam_id": "76561198036311342",
+      "display_name": "Hazza",
+      "prestige_level": 39,
+      "achieved_at": "2026-10-11T15:33:46.644836+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 60,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -479,19 +487,11 @@
       "badge_id": ""
     },
     {
-      "rank": 60,
+      "rank": 61,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
       "achieved_at": "2026-09-03T08:07:01.167447+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 61,
-      "steam_id": "76561198036311342",
-      "display_name": "Hazza",
-      "prestige_level": 38,
-      "achieved_at": "2026-10-11T01:13:14.338432+00:00",
       "badge_id": ""
     },
     {
