@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-12T14:45:11.1125571+00:00",
-    "fetched_at": "2026-10-12T14:45:27.622828+00:00",
+    "generated_at": "2026-10-12T15:00:11.1124477+00:00",
+    "fetched_at": "2026-10-12T15:00:51.432610+00:00",
     "total_entries": 1123
   },
   "entries": [
@@ -424,18 +424,18 @@
     },
     {
       "rank": 53,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 45,
+      "achieved_at": "2026-10-12T14:56:47.71339+00:00",
       "badge_id": ""
     },
     {
       "rank": 54,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
       "prestige_level": 44,
-      "achieved_at": "2026-10-12T12:19:38.604897+00:00",
+      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
       "badge_id": ""
     },
     {
