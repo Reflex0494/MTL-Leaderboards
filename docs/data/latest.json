@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-12T01:00:11.1129071+00:00",
-    "fetched_at": "2026-10-12T01:00:45.850166+00:00",
+    "generated_at": "2026-10-12T01:15:11.1121092+00:00",
+    "fetched_at": "2026-10-12T01:15:30.527874+00:00",
     "total_entries": 1122
   },
   "entries": [
@@ -304,6 +304,14 @@
     },
     {
       "rank": 38,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 52,
+      "achieved_at": "2026-10-12T01:09:59.72366+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 39,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
@@ -311,20 +319,12 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 51,
       "achieved_at": "2026-09-29T02:25:08.328169+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 40,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 51,
-      "achieved_at": "2026-10-10T00:35:09.04003+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 41,
