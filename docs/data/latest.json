@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-12T07:15:11.112391+00:00",
-    "fetched_at": "2026-10-12T07:15:31.493298+00:00",
+    "generated_at": "2026-10-12T07:30:11.1116738+00:00",
+    "fetched_at": "2026-10-12T07:30:37.522367+00:00",
     "total_entries": 1123
   },
   "entries": [
@@ -26,8 +26,8 @@
       "rank": 3,
       "steam_id": "76561198058294530",
       "display_name": "Jann Ivan",
-      "prestige_level": 133,
-      "achieved_at": "2026-10-01T07:35:54.333166+00:00",
+      "prestige_level": 134,
+      "achieved_at": "2026-10-12T07:17:26.583871+00:00",
       "badge_id": "s3_top21"
     },
     {
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 80,
-      "achieved_at": "2026-10-10T06:43:50.18115+00:00",
+      "prestige_level": 81,
+      "achieved_at": "2026-10-12T07:28:44.321483+00:00",
       "badge_id": ""
     },
     {
