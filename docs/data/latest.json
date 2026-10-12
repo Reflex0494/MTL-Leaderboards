@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-12T09:00:11.1125668+00:00",
-    "fetched_at": "2026-10-12T09:01:01.350383+00:00",
+    "generated_at": "2026-10-12T09:15:11.1132394+00:00",
+    "fetched_at": "2026-10-12T09:15:30.890064+00:00",
     "total_entries": 1123
   },
   "entries": [
@@ -184,6 +184,14 @@
     },
     {
       "rank": 23,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 76,
+      "achieved_at": "2026-10-12T09:15:07.676416+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 24,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 75,
@@ -191,20 +199,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "steam_id": "76561198076913774",
       "display_name": "Earl Sinclair",
       "prestige_level": 75,
       "achieved_at": "2026-09-23T03:13:04.486162+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 25,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 75,
-      "achieved_at": "2026-10-10T13:18:43.324144+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 26,
