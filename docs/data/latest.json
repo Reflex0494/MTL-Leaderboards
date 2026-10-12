@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-12T15:00:11.1124477+00:00",
-    "fetched_at": "2026-10-12T15:00:51.432610+00:00",
-    "total_entries": 1123
+    "generated_at": "2026-10-12T15:15:11.1131191+00:00",
+    "fetched_at": "2026-10-12T15:15:33.033354+00:00",
+    "total_entries": 1124
   },
   "entries": [
     {
@@ -152,6 +152,14 @@
     },
     {
       "rank": 19,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 77,
+      "achieved_at": "2026-10-12T15:11:29.467452+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 20,
       "steam_id": "76561198028639677",
       "display_name": "Axzid",
       "prestige_level": 76,
@@ -159,7 +167,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "steam_id": "76561197967629639",
       "display_name": "WillFM",
       "prestige_level": 76,
@@ -167,7 +175,7 @@
       "badge_id": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "steam_id": "76561198088236961",
       "display_name": "Kn0z",
       "prestige_level": 76,
@@ -175,20 +183,12 @@
       "badge_id": ""
     },
     {
-      "rank": 22,
+      "rank": 23,
       "steam_id": "76561198239903508",
       "display_name": "(\u3063\u25d4\u25e1\u25d4)\u3063 \u2665 Bayuhb \u2665",
       "prestige_level": 76,
       "achieved_at": "2026-10-11T16:07:01.669485+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 23,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 76,
-      "achieved_at": "2026-10-12T09:15:07.676416+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 24,
