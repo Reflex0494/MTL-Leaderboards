@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-13T10:00:11.1134952+00:00",
-    "fetched_at": "2026-10-13T10:00:51.908766+00:00",
+    "generated_at": "2026-10-13T10:15:11.1121149+00:00",
+    "fetched_at": "2026-10-13T10:15:30.062997+00:00",
     "total_entries": 1132
   },
   "entries": [
@@ -472,18 +472,18 @@
     },
     {
       "rank": 59,
-      "steam_id": "76561198036311342",
-      "display_name": "Hazza",
-      "prestige_level": 39,
-      "achieved_at": "2026-10-11T15:33:46.644836+00:00",
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 40,
+      "achieved_at": "2026-10-13T10:10:26.279758+00:00",
       "badge_id": ""
     },
     {
       "rank": 60,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
+      "steam_id": "76561198036311342",
+      "display_name": "Hazza",
       "prestige_level": 39,
-      "achieved_at": "2026-10-13T09:15:55.207419+00:00",
+      "achieved_at": "2026-10-11T15:33:46.644836+00:00",
       "badge_id": ""
     },
     {
