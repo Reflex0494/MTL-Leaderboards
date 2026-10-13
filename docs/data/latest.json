@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-13T20:30:11.1152983+00:00",
-    "fetched_at": "2026-10-13T20:30:40.463213+00:00",
+    "generated_at": "2026-10-13T20:45:11.113108+00:00",
+    "fetched_at": "2026-10-13T20:45:36.953690+00:00",
     "total_entries": 1134
   },
   "entries": [
@@ -240,18 +240,18 @@
     },
     {
       "rank": 30,
-      "steam_id": "76561198014380387",
-      "display_name": "GaliiLoN",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 64,
+      "achieved_at": "2026-10-13T20:41:41.503498+00:00",
       "badge_id": ""
     },
     {
       "rank": 31,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
+      "steam_id": "76561198014380387",
+      "display_name": "GaliiLoN",
       "prestige_level": 63,
-      "achieved_at": "2026-10-13T18:15:39.308722+00:00",
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
