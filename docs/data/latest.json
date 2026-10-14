@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-14T22:45:11.1149624+00:00",
-    "fetched_at": "2026-10-14T22:45:29.969056+00:00",
+    "generated_at": "2026-10-14T23:00:11.1149687+00:00",
+    "fetched_at": "2026-10-14T23:00:46.049771+00:00",
     "total_entries": 1155
   },
   "entries": [
@@ -224,6 +224,14 @@
     },
     {
       "rank": 28,
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 66,
+      "achieved_at": "2026-10-14T22:58:26.59534+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 29,
       "steam_id": "76561198111662640",
       "display_name": "DUDE",
       "prestige_level": 65,
@@ -231,19 +239,11 @@
       "badge_id": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "steam_id": "76561198828214516",
       "display_name": "Nickthecasual25",
       "prestige_level": 65,
       "achieved_at": "2026-10-14T16:56:26.782556+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 30,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
-      "prestige_level": 65,
-      "achieved_at": "2026-10-14T20:59:32.821392+00:00",
       "badge_id": ""
     },
     {
