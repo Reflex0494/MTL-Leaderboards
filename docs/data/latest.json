@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-14T02:45:11.1123249+00:00",
-    "fetched_at": "2026-10-14T02:45:30.408329+00:00",
+    "generated_at": "2026-10-14T03:00:11.1123172+00:00",
+    "fetched_at": "2026-10-14T03:00:48.588912+00:00",
     "total_entries": 1134
   },
   "entries": [
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 51,
+      "achieved_at": "2026-10-14T02:49:49.417259+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
@@ -335,7 +343,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561198052055706",
       "display_name": "OG",
       "prestige_level": 50,
@@ -343,19 +351,11 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198257899621",
       "display_name": "Blood Money",
       "prestige_level": 50,
       "achieved_at": "2026-10-11T20:41:21.774811+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
-      "prestige_level": 50,
-      "achieved_at": "2026-10-13T15:09:22.692127+00:00",
       "badge_id": ""
     },
     {
