@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-14T14:30:11.1145257+00:00",
-    "fetched_at": "2026-10-14T14:30:42.139887+00:00",
-    "total_entries": 1144
+    "generated_at": "2026-10-14T14:45:11.1144194+00:00",
+    "fetched_at": "2026-10-14T14:45:40.908234+00:00",
+    "total_entries": 1145
   },
   "entries": [
     {
@@ -456,6 +456,14 @@
     },
     {
       "rank": 57,
+      "steam_id": "76561198036311342",
+      "display_name": "Dindu Nuffin",
+      "prestige_level": 42,
+      "achieved_at": "2026-10-14T14:35:47.964458+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 58,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 41,
@@ -463,19 +471,11 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 41,
       "achieved_at": "2026-10-01T02:13:49.089969+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561198036311342",
-      "display_name": "Hazza",
-      "prestige_level": 41,
-      "achieved_at": "2026-10-13T19:15:36.903907+00:00",
       "badge_id": ""
     },
     {
