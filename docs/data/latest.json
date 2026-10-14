@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-14T20:30:11.1146802+00:00",
-    "fetched_at": "2026-10-14T20:30:37.466009+00:00",
+    "generated_at": "2026-10-14T20:45:11.114694+00:00",
+    "fetched_at": "2026-10-14T20:45:34.912106+00:00",
     "total_entries": 1154
   },
   "entries": [
@@ -448,18 +448,18 @@
     },
     {
       "rank": 56,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
-      "prestige_level": 42,
-      "achieved_at": "2026-10-14T12:37:16.773259+00:00",
+      "steam_id": "76561198036311342",
+      "display_name": "Dindu Nuffin",
+      "prestige_level": 43,
+      "achieved_at": "2026-10-14T20:36:41.178402+00:00",
       "badge_id": ""
     },
     {
       "rank": 57,
-      "steam_id": "76561198036311342",
-      "display_name": "Dindu Nuffin",
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
       "prestige_level": 42,
-      "achieved_at": "2026-10-14T14:35:47.964458+00:00",
+      "achieved_at": "2026-10-14T12:37:16.773259+00:00",
       "badge_id": ""
     },
     {
@@ -576,6 +576,14 @@
     },
     {
       "rank": 72,
+      "steam_id": "76561198224175832",
+      "display_name": "CHUDder Cheese",
+      "prestige_level": 33,
+      "achieved_at": "2026-10-14T20:35:08.708711+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 73,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -583,7 +591,7 @@
       "badge_id": ""
     },
     {
-      "rank": 73,
+      "rank": 74,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
@@ -599,19 +607,11 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198097403574",
       "display_name": "Deprez",
       "prestige_level": 32,
       "achieved_at": "2026-10-03T10:13:31.953474+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 76,
-      "steam_id": "76561198224175832",
-      "display_name": "CHUDder Cheese",
-      "prestige_level": 32,
-      "achieved_at": "2026-10-11T04:31:23.211527+00:00",
       "badge_id": ""
     },
     {
