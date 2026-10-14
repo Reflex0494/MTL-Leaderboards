@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-14T12:15:11.1173187+00:00",
-    "fetched_at": "2026-10-14T12:15:31.048703+00:00",
+    "generated_at": "2026-10-14T12:30:11.1137763+00:00",
+    "fetched_at": "2026-10-14T12:30:41.102067+00:00",
     "total_entries": 1142
   },
   "entries": [
@@ -400,18 +400,18 @@
     },
     {
       "rank": 50,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 47,
+      "achieved_at": "2026-10-14T12:15:32.744908+00:00",
       "badge_id": ""
     },
     {
       "rank": 51,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-10-13T12:35:58.345146+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
