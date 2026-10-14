@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-14T12:30:11.1137763+00:00",
-    "fetched_at": "2026-10-14T12:30:41.102067+00:00",
+    "generated_at": "2026-10-14T12:45:11.1144362+00:00",
+    "fetched_at": "2026-10-14T12:45:30.569392+00:00",
     "total_entries": 1142
   },
   "entries": [
@@ -448,6 +448,14 @@
     },
     {
       "rank": 56,
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 42,
+      "achieved_at": "2026-10-14T12:37:16.773259+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 57,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 41,
@@ -455,7 +463,7 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 41,
@@ -463,19 +471,11 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198036311342",
       "display_name": "Hazza",
       "prestige_level": 41,
       "achieved_at": "2026-10-13T19:15:36.903907+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
-      "prestige_level": 41,
-      "achieved_at": "2026-10-14T11:52:08.812988+00:00",
       "badge_id": ""
     },
     {
