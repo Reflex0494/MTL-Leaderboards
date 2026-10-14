@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-14T14:45:11.1144194+00:00",
-    "fetched_at": "2026-10-14T14:45:40.908234+00:00",
+    "generated_at": "2026-10-14T15:01:11.1134634+00:00",
+    "fetched_at": "2026-10-14T15:01:18.261695+00:00",
     "total_entries": 1145
   },
   "entries": [
@@ -312,6 +312,14 @@
     },
     {
       "rank": 39,
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 52,
+      "achieved_at": "2026-10-14T14:51:12.798115+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 40,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
@@ -319,19 +327,11 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 51,
       "achieved_at": "2026-09-29T02:25:08.328169+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 41,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
-      "prestige_level": 51,
-      "achieved_at": "2026-10-14T02:49:49.417259+00:00",
       "badge_id": ""
     },
     {
