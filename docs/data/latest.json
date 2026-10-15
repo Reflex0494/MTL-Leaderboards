@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-15T11:00:11.1143925+00:00",
-    "fetched_at": "2026-10-15T11:00:48.630592+00:00",
+    "generated_at": "2026-10-15T11:15:11.1149944+00:00",
+    "fetched_at": "2026-10-15T11:15:29.037229+00:00",
     "total_entries": 1173
   },
   "entries": [
@@ -440,6 +440,14 @@
     },
     {
       "rank": 55,
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 44,
+      "achieved_at": "2026-10-15T11:06:13.219978+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 56,
       "steam_id": "76561198103510824",
       "display_name": "N8IVPride",
       "prestige_level": 43,
@@ -447,19 +455,11 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561198036311342",
       "display_name": "Dindu Nuffin",
       "prestige_level": 43,
       "achieved_at": "2026-10-14T20:36:41.178402+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 57,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
-      "prestige_level": 43,
-      "achieved_at": "2026-10-15T10:22:10.883126+00:00",
       "badge_id": ""
     },
     {
