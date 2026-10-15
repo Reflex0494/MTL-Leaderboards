@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-15T09:00:11.1150844+00:00",
-    "fetched_at": "2026-10-15T09:00:51.025443+00:00",
+    "generated_at": "2026-10-15T09:15:11.1140338+00:00",
+    "fetched_at": "2026-10-15T09:15:33.016635+00:00",
     "total_entries": 1172
   },
   "entries": [
@@ -384,6 +384,14 @@
     },
     {
       "rank": 48,
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 48,
+      "achieved_at": "2026-10-15T09:10:23.918612+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 49,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -391,19 +399,11 @@
       "badge_id": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 47,
       "achieved_at": "2026-09-26T09:52:13.507101+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 50,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
-      "prestige_level": 47,
-      "achieved_at": "2026-10-14T12:15:32.744908+00:00",
       "badge_id": ""
     },
     {
