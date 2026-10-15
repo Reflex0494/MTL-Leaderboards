@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-15T17:45:11.11408+00:00",
-    "fetched_at": "2026-10-15T17:45:29.202986+00:00",
-    "total_entries": 1176
+    "generated_at": "2026-10-15T18:00:11.116302+00:00",
+    "fetched_at": "2026-10-15T18:00:54.305954+00:00",
+    "total_entries": 1177
   },
   "entries": [
     {
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561198015442060",
       "display_name": "War Eeyore",
-      "prestige_level": 66,
-      "achieved_at": "2026-10-14T22:58:26.59534+00:00",
+      "prestige_level": 67,
+      "achieved_at": "2026-10-15T17:46:40.199248+00:00",
       "badge_id": ""
     },
     {
