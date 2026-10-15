@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-15T21:30:11.1126289+00:00",
-    "fetched_at": "2026-10-15T21:30:37.778060+00:00",
+    "generated_at": "2026-10-15T21:45:11.1134122+00:00",
+    "fetched_at": "2026-10-15T21:45:27.060337+00:00",
     "total_entries": 1183
   },
   "entries": [
@@ -520,6 +520,14 @@
     },
     {
       "rank": 65,
+      "steam_id": "76561198224175832",
+      "display_name": "CHUDder Cheese",
+      "prestige_level": 35,
+      "achieved_at": "2026-10-15T21:32:24.542635+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 66,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -535,19 +543,11 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 34,
       "achieved_at": "2026-10-08T21:34:43.772143+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198224175832",
-      "display_name": "CHUDder Cheese",
-      "prestige_level": 34,
-      "achieved_at": "2026-10-15T20:18:52.643076+00:00",
       "badge_id": ""
     },
     {
