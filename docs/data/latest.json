@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-15T14:15:11.1136775+00:00",
-    "fetched_at": "2026-10-15T14:15:32.868479+00:00",
+    "generated_at": "2026-10-15T14:30:11.1145131+00:00",
+    "fetched_at": "2026-10-15T14:30:42.416273+00:00",
     "total_entries": 1173
   },
   "entries": [
@@ -288,6 +288,14 @@
     },
     {
       "rank": 36,
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 54,
+      "achieved_at": "2026-10-15T14:18:17.114139+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 37,
       "steam_id": "76561198075415107",
       "display_name": "Gamos",
       "prestige_level": 53,
@@ -295,20 +303,12 @@
       "badge_id": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
       "prestige_level": 53,
       "achieved_at": "2026-10-15T00:41:16.557883+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
-      "prestige_level": 53,
-      "achieved_at": "2026-10-15T13:46:32.668316+00:00",
-      "badge_id": ""
     },
     {
       "rank": 39,
