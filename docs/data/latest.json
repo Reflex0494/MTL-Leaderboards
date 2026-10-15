@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-15T20:15:11.1142778+00:00",
-    "fetched_at": "2026-10-15T20:15:34.264796+00:00",
-    "total_entries": 1178
+    "generated_at": "2026-10-15T20:30:11.1149572+00:00",
+    "fetched_at": "2026-10-15T20:30:45.620217+00:00",
+    "total_entries": 1179
   },
   "entries": [
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198224175832",
+      "display_name": "CHUDder Cheese",
+      "prestige_level": 34,
+      "achieved_at": "2026-10-15T20:18:52.643076+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 33,
@@ -551,7 +559,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198207785195",
       "display_name": "Chad McGee",
       "prestige_level": 33,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198162928860",
       "display_name": "Locklin",
       "prestige_level": 33,
@@ -567,19 +575,11 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198171507451",
       "display_name": "evergreen",
       "prestige_level": 33,
       "achieved_at": "2026-09-30T20:35:04.411681+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561198224175832",
-      "display_name": "CHUDder Cheese",
-      "prestige_level": 33,
-      "achieved_at": "2026-10-14T20:35:08.708711+00:00",
       "badge_id": ""
     },
     {
