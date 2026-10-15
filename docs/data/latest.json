@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-15T00:30:11.1136883+00:00",
-    "fetched_at": "2026-10-15T00:30:39.119662+00:00",
-    "total_entries": 1156
+    "generated_at": "2026-10-15T00:45:11.1149993+00:00",
+    "fetched_at": "2026-10-15T00:45:29.057713+00:00",
+    "total_entries": 1157
   },
   "entries": [
     {
@@ -296,19 +296,19 @@
     },
     {
       "rank": 37,
+      "steam_id": "76561198027179351",
+      "display_name": "[Desgo.",
+      "prestige_level": 53,
+      "achieved_at": "2026-10-15T00:41:16.557883+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 38,
       "steam_id": "76561198050855635",
       "display_name": "UnlikelyFloof",
       "prestige_level": 52,
       "achieved_at": "2026-09-24T01:17:55.78132+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 38,
-      "steam_id": "76561198027179351",
-      "display_name": "[Desgo.",
-      "prestige_level": 52,
-      "achieved_at": "2026-10-12T01:09:59.72366+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 39,
