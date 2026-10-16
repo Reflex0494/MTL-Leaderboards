@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T17:45:11.1130055+00:00",
-    "fetched_at": "2026-10-16T17:45:28.204261+00:00",
+    "generated_at": "2026-10-16T18:00:11.1133206+00:00",
+    "fetched_at": "2026-10-16T18:00:49.989508+00:00",
     "total_entries": 1194
   },
   "entries": [
@@ -448,18 +448,18 @@
     },
     {
       "rank": 56,
-      "steam_id": "76561198103510824",
-      "display_name": "N8IVPride",
-      "prestige_level": 43,
-      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
+      "steam_id": "76561198036311342",
+      "display_name": "Dindu Nuffin",
+      "prestige_level": 44,
+      "achieved_at": "2026-10-16T17:54:25.183744+00:00",
       "badge_id": ""
     },
     {
       "rank": 57,
-      "steam_id": "76561198036311342",
-      "display_name": "Dindu Nuffin",
+      "steam_id": "76561198103510824",
+      "display_name": "N8IVPride",
       "prestige_level": 43,
-      "achieved_at": "2026-10-14T20:36:41.178402+00:00",
+      "achieved_at": "2026-09-02T01:43:18.676142+00:00",
       "badge_id": ""
     },
     {
