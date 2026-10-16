@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T18:45:11.113914+00:00",
-    "fetched_at": "2026-10-16T18:45:31.356224+00:00",
+    "generated_at": "2026-10-16T19:00:11.1122945+00:00",
+    "fetched_at": "2026-10-16T19:00:49.116793+00:00",
     "total_entries": 1194
   },
   "entries": [
@@ -584,6 +584,14 @@
     },
     {
       "rank": 73,
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 33,
+      "achieved_at": "2026-10-16T18:58:11.291033+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 74,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -591,7 +599,7 @@
       "badge_id": ""
     },
     {
-      "rank": 74,
+      "rank": 75,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -599,7 +607,7 @@
       "badge_id": ""
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198097403574",
       "display_name": "Deprez",
       "prestige_level": 32,
@@ -615,20 +623,12 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 32,
       "achieved_at": "2026-10-11T05:45:00.029238+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
-      "prestige_level": 32,
-      "achieved_at": "2026-10-16T17:17:21.945256+00:00",
-      "badge_id": ""
     },
     {
       "rank": 79,
