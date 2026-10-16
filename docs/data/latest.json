@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T17:00:11.1129282+00:00",
-    "fetched_at": "2026-10-16T17:00:50.339581+00:00",
+    "generated_at": "2026-10-16T17:15:11.1122731+00:00",
+    "fetched_at": "2026-10-16T17:15:30.181083+00:00",
     "total_entries": 1194
   },
   "entries": [
@@ -112,19 +112,19 @@
     },
     {
       "rank": 14,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 84,
+      "achieved_at": "2026-10-16T17:00:27.413808+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 15,
       "steam_id": "76561198099253753",
       "display_name": "schrock",
       "prestige_level": 83,
       "achieved_at": "2026-09-28T02:51:26.256052+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 15,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 83,
-      "achieved_at": "2026-10-16T09:44:59.789722+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 16,
