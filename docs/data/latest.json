@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T09:30:11.1132402+00:00",
-    "fetched_at": "2026-10-16T09:30:41.999742+00:00",
+    "generated_at": "2026-10-16T09:45:11.1132201+00:00",
+    "fetched_at": "2026-10-16T09:45:30.091786+00:00",
     "total_entries": 1189
   },
   "entries": [
@@ -120,6 +120,14 @@
     },
     {
       "rank": 15,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 83,
+      "achieved_at": "2026-10-16T09:44:59.789722+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 16,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
       "prestige_level": 82,
@@ -127,19 +135,11 @@
       "badge_id": "s2_second"
     },
     {
-      "rank": 16,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 82,
-      "achieved_at": "2026-10-16T05:29:25.150127+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 17,
       "steam_id": "76561198062569823",
       "display_name": "Cocker Reptagoon",
-      "prestige_level": 81,
-      "achieved_at": "2026-10-12T07:28:44.321483+00:00",
+      "prestige_level": 82,
+      "achieved_at": "2026-10-16T09:35:01.494794+00:00",
       "badge_id": ""
     },
     {
@@ -376,18 +376,18 @@
     },
     {
       "rank": 47,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 48,
-      "achieved_at": "2026-10-09T22:36:39.897569+00:00",
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 49,
+      "achieved_at": "2026-10-16T09:43:42.290306+00:00",
       "badge_id": ""
     },
     {
       "rank": 48,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
       "prestige_level": 48,
-      "achieved_at": "2026-10-15T09:10:23.918612+00:00",
+      "achieved_at": "2026-10-09T22:36:39.897569+00:00",
       "badge_id": ""
     },
     {
