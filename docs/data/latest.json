@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T14:30:11.1127956+00:00",
-    "fetched_at": "2026-10-16T14:30:43.334956+00:00",
+    "generated_at": "2026-10-16T14:45:11.1138593+00:00",
+    "fetched_at": "2026-10-16T14:45:29.167644+00:00",
     "total_entries": 1192
   },
   "entries": [
@@ -704,6 +704,14 @@
     },
     {
       "rank": 88,
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 29,
+      "achieved_at": "2026-10-16T14:37:45.990228+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 89,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -711,7 +719,7 @@
       "badge_id": ""
     },
     {
-      "rank": 89,
+      "rank": 90,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
@@ -719,7 +727,7 @@
       "badge_id": ""
     },
     {
-      "rank": 90,
+      "rank": 91,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 28,
@@ -727,19 +735,11 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561199362604620",
       "display_name": "Drogon",
       "prestige_level": 28,
       "achieved_at": "2026-10-16T10:03:15.67645+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 92,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
-      "prestige_level": 28,
-      "achieved_at": "2026-10-16T13:54:02.740326+00:00",
       "badge_id": ""
     },
     {
