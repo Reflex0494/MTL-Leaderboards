@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T07:45:11.1136975+00:00",
-    "fetched_at": "2026-10-16T07:45:28.086670+00:00",
+    "generated_at": "2026-10-16T08:00:11.1140393+00:00",
+    "fetched_at": "2026-10-16T08:00:49.401740+00:00",
     "total_entries": 1189
   },
   "entries": [
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561199362604620",
+      "display_name": "Drogon",
+      "prestige_level": 27,
+      "achieved_at": "2026-10-16T07:51:14.442554+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198000293865",
       "display_name": "ScatmanMcDerpy",
       "prestige_level": 26,
       "achieved_at": "2026-09-15T16:45:02.481532+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198157642252",
-      "display_name": "GoodEvening",
-      "prestige_level": 26,
-      "achieved_at": "2026-10-15T20:11:11.533158+00:00",
       "badge_id": ""
     }
   ]
