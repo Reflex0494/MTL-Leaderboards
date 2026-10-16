@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T21:45:11.1128379+00:00",
-    "fetched_at": "2026-10-16T21:45:29.368902+00:00",
+    "generated_at": "2026-10-16T22:00:11.1126159+00:00",
+    "fetched_at": "2026-10-16T22:00:47.774376+00:00",
     "total_entries": 1195
   },
   "entries": [
@@ -520,18 +520,18 @@
     },
     {
       "rank": 65,
-      "steam_id": "76561198224175832",
-      "display_name": "CHUDder Cheese",
-      "prestige_level": 35,
-      "achieved_at": "2026-10-15T21:32:24.542635+00:00",
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 36,
+      "achieved_at": "2026-10-16T21:56:23.493648+00:00",
       "badge_id": ""
     },
     {
       "rank": 66,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
+      "steam_id": "76561198224175832",
+      "display_name": "CHUDder Cheese",
       "prestige_level": 35,
-      "achieved_at": "2026-10-16T21:09:10.843219+00:00",
+      "achieved_at": "2026-10-15T21:32:24.542635+00:00",
       "badge_id": ""
     },
     {
