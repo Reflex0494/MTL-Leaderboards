@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T21:00:11.1132194+00:00",
-    "fetched_at": "2026-10-16T21:00:50.772209+00:00",
+    "generated_at": "2026-10-16T21:15:11.1126991+00:00",
+    "fetched_at": "2026-10-16T21:15:29.527670+00:00",
     "total_entries": 1195
   },
   "entries": [
@@ -528,6 +528,14 @@
     },
     {
       "rank": 66,
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 35,
+      "achieved_at": "2026-10-16T21:09:10.843219+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 67,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -535,7 +543,7 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -543,19 +551,11 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 34,
       "achieved_at": "2026-10-08T21:34:43.772143+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 69,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
-      "prestige_level": 34,
-      "achieved_at": "2026-10-16T20:10:25.344804+00:00",
       "badge_id": ""
     },
     {
