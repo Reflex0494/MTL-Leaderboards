@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T00:15:11.1130161+00:00",
-    "fetched_at": "2026-10-16T00:15:30.224290+00:00",
+    "generated_at": "2026-10-16T00:30:11.1160775+00:00",
+    "fetched_at": "2026-10-16T00:30:40.715132+00:00",
     "total_entries": 1183
   },
   "entries": [
@@ -792,19 +792,19 @@
     },
     {
       "rank": 99,
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 26,
+      "achieved_at": "2026-10-16T00:17:10.264913+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 100,
       "steam_id": "76561198652837951",
       "display_name": "TheGreatDandini",
       "prestige_level": 25,
       "achieved_at": "2026-09-08T19:39:03.180222+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198115990249",
-      "display_name": "Not Catualus \u2661 | TTV",
-      "prestige_level": 25,
-      "achieved_at": "2026-09-15T11:35:07.911616+00:00",
-      "badge_id": "og"
     }
   ]
 }
