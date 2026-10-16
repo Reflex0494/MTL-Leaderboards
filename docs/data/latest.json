@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T14:00:11.1123133+00:00",
-    "fetched_at": "2026-10-16T14:00:50.348487+00:00",
+    "generated_at": "2026-10-16T14:15:11.1127521+00:00",
+    "fetched_at": "2026-10-16T14:15:30.105514+00:00",
     "total_entries": 1191
   },
   "entries": [
@@ -368,19 +368,19 @@
     },
     {
       "rank": 46,
+      "steam_id": "76561198079792374",
+      "display_name": "N-ko",
+      "prestige_level": 50,
+      "achieved_at": "2026-10-16T14:11:12.899459+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 47,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
       "achieved_at": "2026-09-10T07:33:28.070898+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 47,
-      "steam_id": "76561198079792374",
-      "display_name": "N-ko",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-25T07:30:03.248751+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 48,
