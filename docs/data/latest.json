@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T09:45:11.1132201+00:00",
-    "fetched_at": "2026-10-16T09:45:30.091786+00:00",
+    "generated_at": "2026-10-16T10:00:11.1140764+00:00",
+    "fetched_at": "2026-10-16T10:00:50.869206+00:00",
     "total_entries": 1189
   },
   "entries": [
@@ -672,6 +672,14 @@
     },
     {
       "rank": 84,
+      "steam_id": "76561198238729656",
+      "display_name": "macry",
+      "prestige_level": 30,
+      "achieved_at": "2026-10-16T09:56:58.757765+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 85,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -679,7 +687,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "steam_id": "76561198077575239",
       "display_name": "Daddy Pegasie",
       "prestige_level": 29,
@@ -687,20 +695,12 @@
       "badge_id": ""
     },
     {
-      "rank": 86,
+      "rank": 87,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 29,
       "achieved_at": "2026-10-10T17:26:38.148202+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 87,
-      "steam_id": "76561198238729656",
-      "display_name": "macry",
-      "prestige_level": 29,
-      "achieved_at": "2026-10-16T09:10:40.992024+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 88,
