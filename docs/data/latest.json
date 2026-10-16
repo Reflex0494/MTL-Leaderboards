@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T12:15:11.112936+00:00",
-    "fetched_at": "2026-10-16T12:15:30.436820+00:00",
+    "generated_at": "2026-10-16T12:30:11.1135913+00:00",
+    "fetched_at": "2026-10-16T12:30:44.294156+00:00",
     "total_entries": 1190
   },
   "entries": [
@@ -280,18 +280,18 @@
     },
     {
       "rank": 35,
-      "steam_id": "76561198016501100",
-      "display_name": "CrastTM",
-      "prestige_level": 55,
-      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 56,
+      "achieved_at": "2026-10-16T12:17:26.187852+00:00",
       "badge_id": ""
     },
     {
       "rank": 36,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
+      "steam_id": "76561198016501100",
+      "display_name": "CrastTM",
       "prestige_level": 55,
-      "achieved_at": "2026-10-16T11:46:38.915714+00:00",
+      "achieved_at": "2026-09-07T05:51:47.661701+00:00",
       "badge_id": ""
     },
     {
@@ -416,6 +416,14 @@
     },
     {
       "rank": 52,
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 46,
+      "achieved_at": "2026-10-16T12:19:21.341482+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 53,
       "steam_id": "76561198129173186",
       "display_name": "Burns",
       "prestige_level": 45,
@@ -423,19 +431,11 @@
       "badge_id": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 45,
       "achieved_at": "2026-10-06T23:15:56.475714+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 54,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
-      "prestige_level": 45,
-      "achieved_at": "2026-10-16T11:22:02.074039+00:00",
       "badge_id": ""
     },
     {
