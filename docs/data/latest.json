@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T05:15:11.1112278+00:00",
-    "fetched_at": "2026-10-16T05:15:29.260118+00:00",
+    "generated_at": "2026-10-16T05:30:11.1148921+00:00",
+    "fetched_at": "2026-10-16T05:30:38.450628+00:00",
     "total_entries": 1189
   },
   "entries": [
@@ -128,18 +128,18 @@
     },
     {
       "rank": 16,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
-      "prestige_level": 81,
-      "achieved_at": "2026-10-12T07:28:44.321483+00:00",
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 82,
+      "achieved_at": "2026-10-16T05:29:25.150127+00:00",
       "badge_id": ""
     },
     {
       "rank": 17,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
       "prestige_level": 81,
-      "achieved_at": "2026-10-15T09:51:51.163417+00:00",
+      "achieved_at": "2026-10-12T07:28:44.321483+00:00",
       "badge_id": ""
     },
     {
