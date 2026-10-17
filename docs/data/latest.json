@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-17T18:45:11.1133082+00:00",
-    "fetched_at": "2026-10-17T18:45:33.404907+00:00",
+    "generated_at": "2026-10-17T19:00:11.1133753+00:00",
+    "fetched_at": "2026-10-17T19:00:47.485617+00:00",
     "total_entries": 1206
   },
   "entries": [
@@ -130,8 +130,8 @@
       "rank": 16,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 82,
-      "achieved_at": "2026-10-15T01:28:38.542608+00:00",
+      "prestige_level": 83,
+      "achieved_at": "2026-10-17T18:58:22.941247+00:00",
       "badge_id": "s2_second"
     },
     {
@@ -464,6 +464,14 @@
     },
     {
       "rank": 58,
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 42,
+      "achieved_at": "2026-10-17T18:49:45.171512+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 59,
       "steam_id": "76561198147621685",
       "display_name": "PunkoBunko",
       "prestige_level": 41,
@@ -471,19 +479,11 @@
       "badge_id": ""
     },
     {
-      "rank": 59,
+      "rank": 60,
       "steam_id": "76561199046246823",
       "display_name": "Liric",
       "prestige_level": 41,
       "achieved_at": "2026-10-01T02:13:49.089969+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 60,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
-      "prestige_level": 41,
-      "achieved_at": "2026-10-17T14:43:57.767333+00:00",
       "badge_id": ""
     },
     {
