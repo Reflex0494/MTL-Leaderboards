@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-17T05:45:11.1143196+00:00",
-    "fetched_at": "2026-10-17T05:45:32.386882+00:00",
+    "generated_at": "2026-10-17T06:00:11.1130235+00:00",
+    "fetched_at": "2026-10-17T06:00:49.480023+00:00",
     "total_entries": 1197
   },
   "entries": [
@@ -744,6 +744,14 @@
     },
     {
       "rank": 93,
+      "steam_id": "76561198155493819",
+      "display_name": "CraftMaster163",
+      "prestige_level": 28,
+      "achieved_at": "2026-10-17T05:58:49.354032+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 94,
       "steam_id": "76561198219933312",
       "display_name": "KepilOtol",
       "prestige_level": 27,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 27,
@@ -759,7 +767,7 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198013111370",
       "display_name": "The Fragrance of Dark Coffee",
       "prestige_level": 27,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561198060560653",
       "display_name": "Floofs",
       "prestige_level": 27,
@@ -775,19 +783,11 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198100486641",
       "display_name": "Degree",
       "prestige_level": 27,
       "achieved_at": "2026-10-10T19:53:07.750006+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 98,
-      "steam_id": "76561198155493819",
-      "display_name": "CraftMaster163",
-      "prestige_level": 27,
-      "achieved_at": "2026-10-17T04:28:56.749719+00:00",
       "badge_id": ""
     },
     {
