@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-17T18:30:11.1129088+00:00",
-    "fetched_at": "2026-10-17T18:30:38.572800+00:00",
+    "generated_at": "2026-10-17T18:45:11.1133082+00:00",
+    "fetched_at": "2026-10-17T18:45:33.404907+00:00",
     "total_entries": 1206
   },
   "entries": [
@@ -232,18 +232,18 @@
     },
     {
       "rank": 29,
-      "steam_id": "76561198111662640",
-      "display_name": "DUDE",
-      "prestige_level": 65,
-      "achieved_at": "2026-09-30T18:25:53.509409+00:00",
+      "steam_id": "76561198828214516",
+      "display_name": "Nickthecasual25",
+      "prestige_level": 66,
+      "achieved_at": "2026-10-17T18:38:35.53687+00:00",
       "badge_id": ""
     },
     {
       "rank": 30,
-      "steam_id": "76561198828214516",
-      "display_name": "Nickthecasual25",
+      "steam_id": "76561198111662640",
+      "display_name": "DUDE",
       "prestige_level": 65,
-      "achieved_at": "2026-10-14T16:56:26.782556+00:00",
+      "achieved_at": "2026-09-30T18:25:53.509409+00:00",
       "badge_id": ""
     },
     {
