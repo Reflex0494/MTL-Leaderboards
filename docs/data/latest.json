@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-17T21:45:11.1122796+00:00",
-    "fetched_at": "2026-10-17T21:45:30.635503+00:00",
-    "total_entries": 1208
+    "generated_at": "2026-10-17T22:00:11.1138392+00:00",
+    "fetched_at": "2026-10-17T22:00:48.026281+00:00",
+    "total_entries": 1209
   },
   "entries": [
     {
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198155493819",
+      "display_name": "CraftMaster163",
+      "prestige_level": 30,
+      "achieved_at": "2026-10-17T21:46:03.443732+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -695,7 +703,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561198077575239",
       "display_name": "Daddy Pegasie",
       "prestige_level": 29,
@@ -703,19 +711,11 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 29,
       "achieved_at": "2026-10-10T17:26:38.148202+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 89,
-      "steam_id": "76561198155493819",
-      "display_name": "CraftMaster163",
-      "prestige_level": 29,
-      "achieved_at": "2026-10-17T17:58:04.498457+00:00",
       "badge_id": ""
     },
     {
