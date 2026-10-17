@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-16T23:45:11.1141074+00:00",
-    "fetched_at": "2026-10-16T23:45:29.511145+00:00",
+    "generated_at": "2026-10-17T00:00:11.1131122+00:00",
+    "fetched_at": "2026-10-17T00:00:50.302845+00:00",
     "total_entries": 1195
   },
   "entries": [
@@ -440,18 +440,18 @@
     },
     {
       "rank": 55,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
+      "steam_id": "76561198036311342",
+      "display_name": "Dindu Nuffin",
+      "prestige_level": 45,
+      "achieved_at": "2026-10-16T23:51:35.146286+00:00",
       "badge_id": ""
     },
     {
       "rank": 56,
-      "steam_id": "76561198036311342",
-      "display_name": "Dindu Nuffin",
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
       "prestige_level": 44,
-      "achieved_at": "2026-10-16T17:54:25.183744+00:00",
+      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
       "badge_id": ""
     },
     {
