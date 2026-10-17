@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-17T02:00:11.1134788+00:00",
-    "fetched_at": "2026-10-17T02:00:48.369727+00:00",
+    "generated_at": "2026-10-17T02:15:11.1132538+00:00",
+    "fetched_at": "2026-10-17T02:15:30.373110+00:00",
     "total_entries": 1195
   },
   "entries": [
@@ -488,6 +488,14 @@
     },
     {
       "rank": 61,
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 39,
+      "achieved_at": "2026-10-17T02:06:21.707631+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 62,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -495,19 +503,11 @@
       "badge_id": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
       "achieved_at": "2026-09-03T08:07:01.167447+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 63,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
-      "prestige_level": 38,
-      "achieved_at": "2026-10-17T00:15:20.139831+00:00",
       "badge_id": ""
     },
     {
@@ -640,6 +640,14 @@
     },
     {
       "rank": 80,
+      "steam_id": "76561198238729656",
+      "display_name": "macry",
+      "prestige_level": 32,
+      "achieved_at": "2026-10-17T02:10:23.204351+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 81,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 31,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 31,
@@ -655,20 +663,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198095288801",
       "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
       "prestige_level": 31,
       "achieved_at": "2026-09-22T12:10:29.701151+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 83,
-      "steam_id": "76561198238729656",
-      "display_name": "macry",
-      "prestige_level": 31,
-      "achieved_at": "2026-10-17T01:10:02.862973+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 84,
