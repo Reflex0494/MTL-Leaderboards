@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-17T10:45:11.1128294+00:00",
-    "fetched_at": "2026-10-17T10:45:29.018065+00:00",
+    "generated_at": "2026-10-17T11:00:11.111705+00:00",
+    "fetched_at": "2026-10-17T11:00:48.770963+00:00",
     "total_entries": 1201
   },
   "entries": [
@@ -104,19 +104,19 @@
     },
     {
       "rank": 13,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 87,
+      "achieved_at": "2026-10-17T10:51:21.698356+00:00",
+      "badge_id": "s3_top21"
+    },
+    {
+      "rank": 14,
       "steam_id": "76561197985446261",
       "display_name": "Cyrus",
       "prestige_level": 86,
       "achieved_at": "2026-09-30T14:41:06.232083+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 14,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 86,
-      "achieved_at": "2026-10-17T07:48:17.408295+00:00",
-      "badge_id": "s3_top21"
     },
     {
       "rank": 15,
@@ -424,6 +424,14 @@
     },
     {
       "rank": 53,
+      "steam_id": "76561198036311342",
+      "display_name": "Dindu Nuffin",
+      "prestige_level": 46,
+      "achieved_at": "2026-10-17T10:58:41.465349+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 54,
       "steam_id": "76561198129173186",
       "display_name": "Burns",
       "prestige_level": 45,
@@ -431,19 +439,11 @@
       "badge_id": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 45,
       "achieved_at": "2026-10-06T23:15:56.475714+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 55,
-      "steam_id": "76561198036311342",
-      "display_name": "Dindu Nuffin",
-      "prestige_level": 45,
-      "achieved_at": "2026-10-16T23:51:35.146286+00:00",
       "badge_id": ""
     },
     {
