@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-17T04:15:11.11481+00:00",
-    "fetched_at": "2026-10-17T04:15:29.068934+00:00",
+    "generated_at": "2026-10-17T04:30:11.1132501+00:00",
+    "fetched_at": "2026-10-17T04:30:38.303983+00:00",
     "total_entries": 1196
   },
   "entries": [
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198155493819",
+      "display_name": "CraftMaster163",
+      "prestige_level": 27,
+      "achieved_at": "2026-10-17T04:28:56.749719+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198010421170",
       "display_name": "Lubricants",
       "prestige_level": 26,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198026534468",
       "display_name": "[\u0445] Badziy",
       "prestige_level": 26,
       "achieved_at": "2026-09-08T18:32:56.633984+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198000293865",
-      "display_name": "ScatmanMcDerpy",
-      "prestige_level": 26,
-      "achieved_at": "2026-09-15T16:45:02.481532+00:00",
       "badge_id": ""
     }
   ]
