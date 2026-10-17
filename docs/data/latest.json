@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-17T20:15:11.1137195+00:00",
-    "fetched_at": "2026-10-17T20:15:29.686017+00:00",
-    "total_entries": 1206
+    "generated_at": "2026-10-17T20:30:11.1143004+00:00",
+    "fetched_at": "2026-10-17T20:30:38.610075+00:00",
+    "total_entries": 1207
   },
   "entries": [
     {
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198036311342",
+      "display_name": "Dindu Nuffin",
+      "prestige_level": 48,
+      "achieved_at": "2026-10-17T20:17:50.368577+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 51,
       "steam_id": "76561198034504272",
       "display_name": "Kotsugawa",
       "prestige_level": 47,
@@ -407,19 +415,11 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561198020887060",
       "display_name": "TurboMotionZ",
       "prestige_level": 47,
       "achieved_at": "2026-09-26T09:52:13.507101+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198036311342",
-      "display_name": "Dindu Nuffin",
-      "prestige_level": 47,
-      "achieved_at": "2026-10-17T12:51:41.957276+00:00",
       "badge_id": ""
     },
     {
@@ -466,8 +466,8 @@
       "rank": 58,
       "steam_id": "76561198952370183",
       "display_name": "friendly",
-      "prestige_level": 42,
-      "achieved_at": "2026-10-17T18:49:45.171512+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-10-17T20:22:04.624293+00:00",
       "badge_id": ""
     },
     {
