@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-18T11:30:11.112448+00:00",
-    "fetched_at": "2026-10-18T11:30:38.136732+00:00",
+    "generated_at": "2026-10-18T11:45:11.1130535+00:00",
+    "fetched_at": "2026-10-18T11:45:30.071079+00:00",
     "total_entries": 1216
   },
   "entries": [
@@ -376,18 +376,18 @@
     },
     {
       "rank": 47,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 50,
+      "achieved_at": "2026-10-18T11:36:33.331708+00:00",
       "badge_id": ""
     },
     {
       "rank": 48,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
       "prestige_level": 49,
-      "achieved_at": "2026-10-18T10:52:24.67826+00:00",
+      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
       "badge_id": ""
     },
     {
