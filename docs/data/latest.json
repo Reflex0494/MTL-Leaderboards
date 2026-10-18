@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-18T10:45:11.1132825+00:00",
-    "fetched_at": "2026-10-18T10:45:27.466795+00:00",
+    "generated_at": "2026-10-18T11:00:11.1113176+00:00",
+    "fetched_at": "2026-10-18T11:00:48.006308+00:00",
     "total_entries": 1216
   },
   "entries": [
@@ -384,18 +384,18 @@
     },
     {
       "rank": 48,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 48,
-      "achieved_at": "2026-10-09T22:36:39.897569+00:00",
+      "steam_id": "76561197994407869",
+      "display_name": "Goldmind",
+      "prestige_level": 49,
+      "achieved_at": "2026-10-18T10:52:24.67826+00:00",
       "badge_id": ""
     },
     {
       "rank": 49,
-      "steam_id": "76561197994407869",
-      "display_name": "Goldmind",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
       "prestige_level": 48,
-      "achieved_at": "2026-10-17T11:40:45.218774+00:00",
+      "achieved_at": "2026-10-09T22:36:39.897569+00:00",
       "badge_id": ""
     },
     {
@@ -720,6 +720,14 @@
     },
     {
       "rank": 90,
+      "steam_id": "76561199362604620",
+      "display_name": "Drogon",
+      "prestige_level": 29,
+      "achieved_at": "2026-10-18T10:58:09.746546+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 91,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -727,7 +735,7 @@
       "badge_id": ""
     },
     {
-      "rank": 91,
+      "rank": 92,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
@@ -735,19 +743,11 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 28,
       "achieved_at": "2026-09-24T23:20:05.395491+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 93,
-      "steam_id": "76561199362604620",
-      "display_name": "Drogon",
-      "prestige_level": 28,
-      "achieved_at": "2026-10-16T10:03:15.67645+00:00",
       "badge_id": ""
     },
     {
