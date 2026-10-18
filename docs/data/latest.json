@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-18T21:30:11.1165956+00:00",
-    "fetched_at": "2026-10-18T21:30:38.219949+00:00",
+    "generated_at": "2026-10-18T21:45:11.1120289+00:00",
+    "fetched_at": "2026-10-18T21:45:30.154115+00:00",
     "total_entries": 1223
   },
   "entries": [
@@ -448,18 +448,18 @@
     },
     {
       "rank": 56,
-      "steam_id": "76561198211658841",
-      "display_name": "Zetazy",
-      "prestige_level": 44,
-      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 45,
+      "achieved_at": "2026-10-18T21:39:19.871904+00:00",
       "badge_id": ""
     },
     {
       "rank": 57,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
+      "steam_id": "76561198211658841",
+      "display_name": "Zetazy",
       "prestige_level": 44,
-      "achieved_at": "2026-10-18T20:10:09.320988+00:00",
+      "achieved_at": "2026-09-19T05:31:39.237682+00:00",
       "badge_id": ""
     },
     {
