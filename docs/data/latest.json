@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-18T22:00:11.1141253+00:00",
-    "fetched_at": "2026-10-18T22:00:46.996344+00:00",
+    "generated_at": "2026-10-18T22:15:11.1145217+00:00",
+    "fetched_at": "2026-10-18T22:15:29.331943+00:00",
     "total_entries": 1223
   },
   "entries": [
@@ -384,18 +384,18 @@
     },
     {
       "rank": 48,
-      "steam_id": "76561197987741108",
-      "display_name": "Pookie",
-      "prestige_level": 49,
-      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
+      "steam_id": "76561198036311342",
+      "display_name": "Dindu Nuffin",
+      "prestige_level": 50,
+      "achieved_at": "2026-10-18T22:12:33.887085+00:00",
       "badge_id": ""
     },
     {
       "rank": 49,
-      "steam_id": "76561198036311342",
-      "display_name": "Dindu Nuffin",
+      "steam_id": "76561197987741108",
+      "display_name": "Pookie",
       "prestige_level": 49,
-      "achieved_at": "2026-10-18T19:22:39.139865+00:00",
+      "achieved_at": "2026-09-10T07:33:28.070898+00:00",
       "badge_id": ""
     },
     {
