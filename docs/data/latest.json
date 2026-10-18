@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-18T19:15:11.1118721+00:00",
-    "fetched_at": "2026-10-18T19:15:29.627609+00:00",
+    "generated_at": "2026-10-18T19:30:11.112914+00:00",
+    "fetched_at": "2026-10-18T19:30:40.319486+00:00",
     "total_entries": 1222
   },
   "entries": [
@@ -392,18 +392,18 @@
     },
     {
       "rank": 49,
-      "steam_id": "76561197980332226",
-      "display_name": "Freddy Spaghetti",
-      "prestige_level": 48,
-      "achieved_at": "2026-10-09T22:36:39.897569+00:00",
+      "steam_id": "76561198036311342",
+      "display_name": "Dindu Nuffin",
+      "prestige_level": 49,
+      "achieved_at": "2026-10-18T19:22:39.139865+00:00",
       "badge_id": ""
     },
     {
       "rank": 50,
-      "steam_id": "76561198036311342",
-      "display_name": "Dindu Nuffin",
+      "steam_id": "76561197980332226",
+      "display_name": "Freddy Spaghetti",
       "prestige_level": 48,
-      "achieved_at": "2026-10-17T20:17:50.368577+00:00",
+      "achieved_at": "2026-10-09T22:36:39.897569+00:00",
       "badge_id": ""
     },
     {
