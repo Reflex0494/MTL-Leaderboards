@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T21:15:11.1140164+00:00",
-    "fetched_at": "2026-10-19T21:15:33.483826+00:00",
-    "total_entries": 1238
+    "generated_at": "2026-10-19T21:30:11.115165+00:00",
+    "fetched_at": "2026-10-19T21:30:40.467347+00:00",
+    "total_entries": 1239
   },
   "entries": [
     {
@@ -208,18 +208,18 @@
     },
     {
       "rank": 26,
-      "steam_id": "76561198144639373",
-      "display_name": "Jasper",
-      "prestige_level": 69,
-      "achieved_at": "2026-09-30T19:44:52.715369+00:00",
+      "steam_id": "76561198015442060",
+      "display_name": "War Eeyore",
+      "prestige_level": 70,
+      "achieved_at": "2026-10-19T21:24:36.683637+00:00",
       "badge_id": ""
     },
     {
       "rank": 27,
-      "steam_id": "76561198015442060",
-      "display_name": "War Eeyore",
+      "steam_id": "76561198144639373",
+      "display_name": "Jasper",
       "prestige_level": 69,
-      "achieved_at": "2026-10-19T19:09:04.878143+00:00",
+      "achieved_at": "2026-09-30T19:44:52.715369+00:00",
       "badge_id": ""
     },
     {
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198165039378",
+      "display_name": "Danya",
+      "prestige_level": 29,
+      "achieved_at": "2026-10-19T21:28:20.259518+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -743,7 +751,7 @@
       "badge_id": ""
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
@@ -751,19 +759,11 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 28,
       "achieved_at": "2026-09-24T23:20:05.395491+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 95,
-      "steam_id": "76561198165039378",
-      "display_name": "Danya",
-      "prestige_level": 28,
-      "achieved_at": "2026-10-19T20:06:55.82136+00:00",
       "badge_id": ""
     },
     {
