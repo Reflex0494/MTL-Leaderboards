@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T03:30:11.1127352+00:00",
-    "fetched_at": "2026-10-19T03:30:41.265995+00:00",
+    "generated_at": "2026-10-19T03:45:11.1122918+00:00",
+    "fetched_at": "2026-10-19T03:45:29.035527+00:00",
     "total_entries": 1224
   },
   "entries": [
@@ -108,7 +108,7 @@
       "display_name": "[US]OmicroN",
       "prestige_level": 92,
       "achieved_at": "2026-10-18T17:17:31.569851+00:00",
-      "badge_id": "s3_top21"
+      "badge_id": ""
     },
     {
       "rank": 14,
@@ -122,8 +122,8 @@
       "rank": 15,
       "steam_id": "76561198236341996",
       "display_name": "BIGSILKY",
-      "prestige_level": 84,
-      "achieved_at": "2026-10-17T22:11:09.225677+00:00",
+      "prestige_level": 85,
+      "achieved_at": "2026-10-19T03:45:03.315745+00:00",
       "badge_id": "s2_second"
     },
     {
