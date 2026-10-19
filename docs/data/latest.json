@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T09:30:11.11504+00:00",
-    "fetched_at": "2026-10-19T09:30:41.389988+00:00",
+    "generated_at": "2026-10-19T09:45:11.1126506+00:00",
+    "fetched_at": "2026-10-19T09:45:27.775169+00:00",
     "total_entries": 1226
   },
   "entries": [
@@ -88,18 +88,18 @@
     },
     {
       "rank": 11,
-      "steam_id": "76561197998278124",
-      "display_name": "AleksiOn",
-      "prestige_level": 94,
-      "achieved_at": "2026-10-18T18:10:07.410342+00:00",
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 95,
+      "achieved_at": "2026-10-19T09:43:29.579462+00:00",
       "badge_id": ""
     },
     {
       "rank": 12,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
+      "steam_id": "76561197998278124",
+      "display_name": "AleksiOn",
       "prestige_level": 94,
-      "achieved_at": "2026-10-19T07:33:17.007323+00:00",
+      "achieved_at": "2026-10-18T18:10:07.410342+00:00",
       "badge_id": ""
     },
     {
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561198238729656",
+      "display_name": "macry",
+      "prestige_level": 35,
+      "achieved_at": "2026-10-19T09:44:28.6853+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -543,7 +551,7 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -551,20 +559,12 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 34,
       "achieved_at": "2026-10-08T21:34:43.772143+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 70,
-      "steam_id": "76561198238729656",
-      "display_name": "macry",
-      "prestige_level": 34,
-      "achieved_at": "2026-10-18T23:33:32.106666+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 71,
