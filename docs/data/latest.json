@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T05:15:11.1132409+00:00",
-    "fetched_at": "2026-10-19T05:15:29.509605+00:00",
+    "generated_at": "2026-10-19T05:30:11.1117962+00:00",
+    "fetched_at": "2026-10-19T05:30:38.980515+00:00",
     "total_entries": 1225
   },
   "entries": [
@@ -96,18 +96,18 @@
     },
     {
       "rank": 12,
-      "steam_id": "76561198877830009",
-      "display_name": "ryski",
-      "prestige_level": 92,
-      "achieved_at": "2026-09-21T04:27:29.643609+00:00",
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 93,
+      "achieved_at": "2026-10-19T05:30:04.241857+00:00",
       "badge_id": ""
     },
     {
       "rank": 13,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
+      "steam_id": "76561198877830009",
+      "display_name": "ryski",
       "prestige_level": 92,
-      "achieved_at": "2026-10-18T17:17:31.569851+00:00",
+      "achieved_at": "2026-09-21T04:27:29.643609+00:00",
       "badge_id": ""
     },
     {
