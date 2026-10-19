@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T07:15:11.1129616+00:00",
-    "fetched_at": "2026-10-19T07:15:32.591352+00:00",
+    "generated_at": "2026-10-19T07:30:11.1137198+00:00",
+    "fetched_at": "2026-10-19T07:30:38.522908+00:00",
     "total_entries": 1225
   },
   "entries": [
@@ -656,6 +656,14 @@
     },
     {
       "rank": 82,
+      "steam_id": "76561199362604620",
+      "display_name": "Drogon",
+      "prestige_level": 32,
+      "achieved_at": "2026-10-19T07:29:45.717491+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 83,
       "steam_id": "76561198050651475",
       "display_name": "Fresh 1026",
       "prestige_level": 31,
@@ -663,7 +671,7 @@
       "badge_id": ""
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561197974466515",
       "display_name": "Mini Mongo",
       "prestige_level": 31,
@@ -671,19 +679,11 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "steam_id": "76561198095288801",
       "display_name": "\u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0439 \u0432\u044b\u043a\u0438\u0434\u044b\u0448",
       "prestige_level": 31,
       "achieved_at": "2026-09-22T12:10:29.701151+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 85,
-      "steam_id": "76561199362604620",
-      "display_name": "Drogon",
-      "prestige_level": 31,
-      "achieved_at": "2026-10-18T13:16:49.596527+00:00",
       "badge_id": ""
     },
     {
