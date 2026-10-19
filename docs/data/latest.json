@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T20:00:11.1135846+00:00",
-    "fetched_at": "2026-10-19T20:00:51.529095+00:00",
-    "total_entries": 1236
+    "generated_at": "2026-10-19T20:15:11.1141167+00:00",
+    "fetched_at": "2026-10-19T20:15:30.714121+00:00",
+    "total_entries": 1238
   },
   "entries": [
     {
@@ -92,7 +92,7 @@
       "display_name": "[US]OmicroN",
       "prestige_level": 95,
       "achieved_at": "2026-10-19T09:43:29.579462+00:00",
-      "badge_id": ""
+      "badge_id": "s3_top21"
     },
     {
       "rank": 12,
@@ -424,18 +424,18 @@
     },
     {
       "rank": 53,
-      "steam_id": "76561199613979883",
-      "display_name": "Arlant",
-      "prestige_level": 46,
-      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 47,
+      "achieved_at": "2026-10-19T20:12:07.061918+00:00",
       "badge_id": ""
     },
     {
       "rank": 54,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
+      "steam_id": "76561199613979883",
+      "display_name": "Arlant",
       "prestige_level": 46,
-      "achieved_at": "2026-10-19T18:39:23.57899+00:00",
+      "achieved_at": "2026-09-08T14:00:11.292523+00:00",
       "badge_id": ""
     },
     {
@@ -760,6 +760,14 @@
     },
     {
       "rank": 95,
+      "steam_id": "76561198165039378",
+      "display_name": "Danya",
+      "prestige_level": 28,
+      "achieved_at": "2026-10-19T20:06:55.82136+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 96,
       "steam_id": "76561198219933312",
       "display_name": "KepilOtol",
       "prestige_level": 27,
@@ -767,7 +775,7 @@
       "badge_id": ""
     },
     {
-      "rank": 96,
+      "rank": 97,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 27,
@@ -775,7 +783,7 @@
       "badge_id": ""
     },
     {
-      "rank": 97,
+      "rank": 98,
       "steam_id": "76561198013111370",
       "display_name": "The Fragrance of Dark Coffee",
       "prestige_level": 27,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198060560653",
       "display_name": "Floofs",
       "prestige_level": 27,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561198100486641",
       "display_name": "Degree",
       "prestige_level": 27,
       "achieved_at": "2026-10-10T19:53:07.750006+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198012831449",
-      "display_name": "Spanjolen",
-      "prestige_level": 27,
-      "achieved_at": "2026-10-17T13:39:55.94847+00:00",
       "badge_id": ""
     }
   ]
