@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T11:15:11.1161098+00:00",
-    "fetched_at": "2026-10-19T11:15:30.673520+00:00",
+    "generated_at": "2026-10-19T11:30:11.1133677+00:00",
+    "fetched_at": "2026-10-19T11:30:40.866790+00:00",
     "total_entries": 1228
   },
   "entries": [
@@ -538,8 +538,8 @@
       "rank": 67,
       "steam_id": "76561198238729656",
       "display_name": "macry",
-      "prestige_level": 35,
-      "achieved_at": "2026-10-19T09:44:28.6853+00:00",
+      "prestige_level": 36,
+      "achieved_at": "2026-10-19T11:15:57.192175+00:00",
       "badge_id": "og"
     },
     {
