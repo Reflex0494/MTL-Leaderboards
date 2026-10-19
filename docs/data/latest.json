@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T01:30:11.1122684+00:00",
-    "fetched_at": "2026-10-19T01:30:40.055143+00:00",
-    "total_entries": 1223
+    "generated_at": "2026-10-19T01:45:11.1145477+00:00",
+    "fetched_at": "2026-10-19T01:45:30.462516+00:00",
+    "total_entries": 1224
   },
   "entries": [
     {
@@ -600,6 +600,14 @@
     },
     {
       "rank": 75,
+      "steam_id": "76561198155493819",
+      "display_name": "CraftMaster163",
+      "prestige_level": 33,
+      "achieved_at": "2026-10-19T01:42:06.6482+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 76,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -615,7 +623,7 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
@@ -623,7 +631,7 @@
       "badge_id": ""
     },
     {
-      "rank": 78,
+      "rank": 79,
       "steam_id": "76561198097403574",
       "display_name": "Deprez",
       "prestige_level": 32,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 32,
@@ -639,19 +647,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198148341152",
       "display_name": "Luca",
       "prestige_level": 32,
       "achieved_at": "2026-10-16T21:20:52.983865+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 81,
-      "steam_id": "76561198155493819",
-      "display_name": "CraftMaster163",
-      "prestige_level": 32,
-      "achieved_at": "2026-10-18T18:14:12.233297+00:00",
       "badge_id": ""
     },
     {
