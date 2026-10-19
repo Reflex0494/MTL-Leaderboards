@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T23:15:11.1146064+00:00",
-    "fetched_at": "2026-10-19T23:15:37.350551+00:00",
+    "generated_at": "2026-10-19T23:30:11.1150669+00:00",
+    "fetched_at": "2026-10-19T23:30:46.144017+00:00",
     "total_entries": 1240
   },
   "entries": [
@@ -688,6 +688,14 @@
     },
     {
       "rank": 86,
+      "steam_id": "76561198165039378",
+      "display_name": "Danya",
+      "prestige_level": 31,
+      "achieved_at": "2026-10-19T23:22:19.279058+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 87,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -695,7 +703,7 @@
       "badge_id": ""
     },
     {
-      "rank": 87,
+      "rank": 88,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
@@ -703,19 +711,11 @@
       "badge_id": ""
     },
     {
-      "rank": 88,
+      "rank": 89,
       "steam_id": "76561198143728007",
       "display_name": "tommer",
       "prestige_level": 30,
       "achieved_at": "2026-10-19T18:52:09.39058+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 89,
-      "steam_id": "76561198165039378",
-      "display_name": "Danya",
-      "prestige_level": 30,
-      "achieved_at": "2026-10-19T22:39:35.892706+00:00",
       "badge_id": ""
     },
     {
