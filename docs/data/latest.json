@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T05:00:11.1134121+00:00",
-    "fetched_at": "2026-10-19T05:00:48.779466+00:00",
+    "generated_at": "2026-10-19T05:15:11.1132409+00:00",
+    "fetched_at": "2026-10-19T05:15:29.509605+00:00",
     "total_entries": 1225
   },
   "entries": [
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198010421170",
-      "display_name": "Lubricants",
-      "prestige_level": 26,
-      "achieved_at": "2026-08-25T22:41:15.334693+00:00",
+      "steam_id": "76561198143728007",
+      "display_name": "tommer",
+      "prestige_level": 27,
+      "achieved_at": "2026-10-19T05:11:49.399453+00:00",
       "badge_id": ""
     }
   ]
