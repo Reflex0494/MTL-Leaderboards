@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-19T18:30:11.1149543+00:00",
-    "fetched_at": "2026-10-19T18:30:43.484199+00:00",
-    "total_entries": 1233
+    "generated_at": "2026-10-19T18:45:11.1141319+00:00",
+    "fetched_at": "2026-10-19T18:45:34.401471+00:00",
+    "total_entries": 1234
   },
   "entries": [
     {
@@ -432,6 +432,14 @@
     },
     {
       "rank": 54,
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 46,
+      "achieved_at": "2026-10-19T18:39:23.57899+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 55,
       "steam_id": "76561198129173186",
       "display_name": "Burns",
       "prestige_level": 45,
@@ -439,19 +447,11 @@
       "badge_id": ""
     },
     {
-      "rank": 55,
+      "rank": 56,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 45,
       "achieved_at": "2026-10-06T23:15:56.475714+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 56,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
-      "prestige_level": 45,
-      "achieved_at": "2026-10-18T21:39:19.871904+00:00",
       "badge_id": ""
     },
     {
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561198155493819",
+      "display_name": "CraftMaster163",
+      "prestige_level": 35,
+      "achieved_at": "2026-10-19T18:45:05.05242+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -559,19 +567,11 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 34,
       "achieved_at": "2026-10-08T21:34:43.772143+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 71,
-      "steam_id": "76561198155493819",
-      "display_name": "CraftMaster163",
-      "prestige_level": 34,
-      "achieved_at": "2026-10-19T08:24:22.175966+00:00",
       "badge_id": ""
     },
     {
