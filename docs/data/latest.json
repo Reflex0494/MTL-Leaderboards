@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-20T14:30:11.1156413+00:00",
-    "fetched_at": "2026-10-20T14:30:45.109072+00:00",
+    "generated_at": "2026-10-20T14:45:11.115686+00:00",
+    "fetched_at": "2026-10-20T14:45:31.223949+00:00",
     "total_entries": 1251
   },
   "entries": [
@@ -248,18 +248,18 @@
     },
     {
       "rank": 31,
-      "steam_id": "76561198014380387",
-      "display_name": "GaliiLoN",
-      "prestige_level": 63,
-      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 64,
+      "achieved_at": "2026-10-20T14:37:03.606162+00:00",
       "badge_id": ""
     },
     {
       "rank": 32,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
+      "steam_id": "76561198014380387",
+      "display_name": "GaliiLoN",
       "prestige_level": 63,
-      "achieved_at": "2026-10-20T14:07:15.749819+00:00",
+      "achieved_at": "2026-08-27T00:08:17.911233+00:00",
       "badge_id": ""
     },
     {
