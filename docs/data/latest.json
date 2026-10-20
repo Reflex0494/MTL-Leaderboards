@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-20T07:15:11.1139266+00:00",
-    "fetched_at": "2026-10-20T07:15:30.071401+00:00",
-    "total_entries": 1250
+    "generated_at": "2026-10-20T07:30:11.1145801+00:00",
+    "fetched_at": "2026-10-20T07:30:39.679468+00:00",
+    "total_entries": 1251
   },
   "entries": [
     {
@@ -624,6 +624,14 @@
     },
     {
       "rank": 78,
+      "steam_id": "76561198143728007",
+      "display_name": "tommer",
+      "prestige_level": 33,
+      "achieved_at": "2026-10-20T07:29:14.153651+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 79,
       "steam_id": "76561198067437754",
       "display_name": "bilibull",
       "prestige_level": 32,
@@ -631,7 +639,7 @@
       "badge_id": ""
     },
     {
-      "rank": 79,
+      "rank": 80,
       "steam_id": "76561198025349919",
       "display_name": "Feel Like Im Fuckin This Fallguy",
       "prestige_level": 32,
@@ -639,7 +647,7 @@
       "badge_id": ""
     },
     {
-      "rank": 80,
+      "rank": 81,
       "steam_id": "76561198255262863",
       "display_name": "< blank >",
       "prestige_level": 32,
@@ -647,7 +655,7 @@
       "badge_id": ""
     },
     {
-      "rank": 81,
+      "rank": 82,
       "steam_id": "76561198097403574",
       "display_name": "Deprez",
       "prestige_level": 32,
@@ -655,7 +663,7 @@
       "badge_id": ""
     },
     {
-      "rank": 82,
+      "rank": 83,
       "steam_id": "76561198026612151",
       "display_name": "Smar19z",
       "prestige_level": 32,
@@ -663,19 +671,11 @@
       "badge_id": "og"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "steam_id": "76561198148341152",
       "display_name": "Luca",
       "prestige_level": 32,
       "achieved_at": "2026-10-16T21:20:52.983865+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 84,
-      "steam_id": "76561198143728007",
-      "display_name": "tommer",
-      "prestige_level": 32,
-      "achieved_at": "2026-10-20T06:10:01.029562+00:00",
       "badge_id": ""
     },
     {
