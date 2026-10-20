@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-20T18:15:11.1136115+00:00",
-    "fetched_at": "2026-10-20T18:15:32.207337+00:00",
+    "generated_at": "2026-10-20T18:30:11.113483+00:00",
+    "fetched_at": "2026-10-20T18:30:43.790558+00:00",
     "total_entries": 1253
   },
   "entries": [
@@ -544,18 +544,18 @@
     },
     {
       "rank": 68,
-      "steam_id": "76561199362604620",
-      "display_name": "Drogon",
-      "prestige_level": 36,
-      "achieved_at": "2026-10-20T04:58:47.091978+00:00",
+      "steam_id": "76561198165039378",
+      "display_name": "Danya",
+      "prestige_level": 37,
+      "achieved_at": "2026-10-20T18:19:58.065319+00:00",
       "badge_id": ""
     },
     {
       "rank": 69,
-      "steam_id": "76561198165039378",
-      "display_name": "Danya",
+      "steam_id": "76561199362604620",
+      "display_name": "Drogon",
       "prestige_level": 36,
-      "achieved_at": "2026-10-20T16:10:08.969318+00:00",
+      "achieved_at": "2026-10-20T04:58:47.091978+00:00",
       "badge_id": ""
     },
     {
