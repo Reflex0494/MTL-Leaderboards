@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-20T14:00:11.1160685+00:00",
-    "fetched_at": "2026-10-20T14:00:55.113411+00:00",
+    "generated_at": "2026-10-20T14:15:11.1166048+00:00",
+    "fetched_at": "2026-10-20T14:15:31.814665+00:00",
     "total_entries": 1251
   },
   "entries": [
@@ -256,18 +256,18 @@
     },
     {
       "rank": 32,
-      "steam_id": "76561197990927956",
-      "display_name": "Disorder",
-      "prestige_level": 62,
-      "achieved_at": "2026-09-28T05:52:11.383777+00:00",
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 63,
+      "achieved_at": "2026-10-20T14:07:15.749819+00:00",
       "badge_id": ""
     },
     {
       "rank": 33,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
+      "steam_id": "76561197990927956",
+      "display_name": "Disorder",
       "prestige_level": 62,
-      "achieved_at": "2026-10-19T15:23:20.294967+00:00",
+      "achieved_at": "2026-09-28T05:52:11.383777+00:00",
       "badge_id": ""
     },
     {
@@ -592,6 +592,14 @@
     },
     {
       "rank": 74,
+      "steam_id": "76561198165039378",
+      "display_name": "Danya",
+      "prestige_level": 34,
+      "achieved_at": "2026-10-20T14:10:55.542714+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 75,
       "steam_id": "76561199055511626",
       "display_name": "DadBotMatias",
       "prestige_level": 33,
@@ -599,7 +607,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "steam_id": "76561198207785195",
       "display_name": "Chad McGee",
       "prestige_level": 33,
@@ -607,7 +615,7 @@
       "badge_id": ""
     },
     {
-      "rank": 76,
+      "rank": 77,
       "steam_id": "76561198162928860",
       "display_name": "Locklin",
       "prestige_level": 33,
@@ -615,19 +623,11 @@
       "badge_id": ""
     },
     {
-      "rank": 77,
+      "rank": 78,
       "steam_id": "76561198171507451",
       "display_name": "evergreen",
       "prestige_level": 33,
       "achieved_at": "2026-09-30T20:35:04.411681+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 78,
-      "steam_id": "76561198165039378",
-      "display_name": "Danya",
-      "prestige_level": 33,
-      "achieved_at": "2026-10-20T02:08:17.796241+00:00",
       "badge_id": ""
     },
     {
