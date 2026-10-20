@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-20T04:45:11.1147683+00:00",
-    "fetched_at": "2026-10-20T04:45:29.150850+00:00",
+    "generated_at": "2026-10-20T05:00:11.1137749+00:00",
+    "fetched_at": "2026-10-20T05:00:51.833241+00:00",
     "total_entries": 1250
   },
   "entries": [
@@ -544,6 +544,14 @@
     },
     {
       "rank": 68,
+      "steam_id": "76561199362604620",
+      "display_name": "Drogon",
+      "prestige_level": 36,
+      "achieved_at": "2026-10-20T04:58:47.091978+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 69,
       "steam_id": "76561198155493819",
       "display_name": "CraftMaster163",
       "prestige_level": 35,
@@ -551,7 +559,7 @@
       "badge_id": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "steam_id": "76561198426141872",
       "display_name": "G_behindert",
       "prestige_level": 34,
@@ -559,7 +567,7 @@
       "badge_id": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "steam_id": "76561198979808101",
       "display_name": "yeee",
       "prestige_level": 34,
@@ -567,19 +575,11 @@
       "badge_id": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "steam_id": "76561198321234198",
       "display_name": "mmffkk000",
       "prestige_level": 34,
       "achieved_at": "2026-10-08T21:34:43.772143+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 72,
-      "steam_id": "76561199362604620",
-      "display_name": "Drogon",
-      "prestige_level": 34,
-      "achieved_at": "2026-10-19T10:59:18.337997+00:00",
       "badge_id": ""
     },
     {
