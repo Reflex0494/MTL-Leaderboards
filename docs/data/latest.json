@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-20T16:00:11.1123288+00:00",
-    "fetched_at": "2026-10-20T16:00:49.228644+00:00",
+    "generated_at": "2026-10-20T16:15:11.112746+00:00",
+    "fetched_at": "2026-10-20T16:15:29.778227+00:00",
     "total_entries": 1252
   },
   "entries": [
@@ -552,18 +552,18 @@
     },
     {
       "rank": 69,
-      "steam_id": "76561198155493819",
-      "display_name": "CraftMaster163",
-      "prestige_level": 35,
-      "achieved_at": "2026-10-19T18:45:05.05242+00:00",
+      "steam_id": "76561198165039378",
+      "display_name": "Danya",
+      "prestige_level": 36,
+      "achieved_at": "2026-10-20T16:10:08.969318+00:00",
       "badge_id": ""
     },
     {
       "rank": 70,
-      "steam_id": "76561198165039378",
-      "display_name": "Danya",
+      "steam_id": "76561198155493819",
+      "display_name": "CraftMaster163",
       "prestige_level": 35,
-      "achieved_at": "2026-10-20T14:46:58.582308+00:00",
+      "achieved_at": "2026-10-19T18:45:05.05242+00:00",
       "badge_id": ""
     },
     {
