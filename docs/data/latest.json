@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-20T01:00:11.1150124+00:00",
-    "fetched_at": "2026-10-20T01:00:52.871441+00:00",
+    "generated_at": "2026-10-20T01:15:11.1159515+00:00",
+    "fetched_at": "2026-10-20T01:15:32.438128+00:00",
     "total_entries": 1246
   },
   "entries": [
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198224175832",
+      "display_name": "CHUDder Cheese",
+      "prestige_level": 38,
+      "achieved_at": "2026-10-20T01:08:10.767179+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -519,20 +527,12 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 37,
       "achieved_at": "2026-10-09T14:51:20.736037+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 66,
-      "steam_id": "76561198224175832",
-      "display_name": "CHUDder Cheese",
-      "prestige_level": 37,
-      "achieved_at": "2026-10-19T03:50:27.183972+00:00",
-      "badge_id": ""
     },
     {
       "rank": 67,
