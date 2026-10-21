@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-21T12:15:11.1126337+00:00",
-    "fetched_at": "2026-10-21T12:15:32.781853+00:00",
+    "generated_at": "2026-10-21T12:30:11.114273+00:00",
+    "fetched_at": "2026-10-21T12:30:40.462475+00:00",
     "total_entries": 1260
   },
   "entries": [
@@ -496,6 +496,14 @@
     },
     {
       "rank": 62,
+      "steam_id": "76561198238729656",
+      "display_name": "macry",
+      "prestige_level": 39,
+      "achieved_at": "2026-10-21T12:21:32.936042+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 63,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -503,7 +511,7 @@
       "badge_id": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -511,20 +519,12 @@
       "badge_id": ""
     },
     {
-      "rank": 64,
+      "rank": 65,
       "steam_id": "76561198224175832",
       "display_name": "CHUDder Cheese",
       "prestige_level": 38,
       "achieved_at": "2026-10-20T01:08:10.767179+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 65,
-      "steam_id": "76561198238729656",
-      "display_name": "macry",
-      "prestige_level": 38,
-      "achieved_at": "2026-10-20T02:38:08.909669+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 66,
