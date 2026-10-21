@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-21T21:15:11.1148477+00:00",
-    "fetched_at": "2026-10-21T21:15:33.363703+00:00",
+    "generated_at": "2026-10-21T21:30:11.1129036+00:00",
+    "fetched_at": "2026-10-21T21:30:37.531701+00:00",
     "total_entries": 1263
   },
   "entries": [
@@ -98,8 +98,8 @@
       "rank": 12,
       "steam_id": "76561197998278124",
       "display_name": "AleksiOn",
-      "prestige_level": 95,
-      "achieved_at": "2026-10-20T15:59:21.261132+00:00",
+      "prestige_level": 96,
+      "achieved_at": "2026-10-21T21:17:04.782492+00:00",
       "badge_id": ""
     },
     {
