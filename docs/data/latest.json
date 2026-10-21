@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-21T06:15:11.1128773+00:00",
-    "fetched_at": "2026-10-21T06:15:30.809099+00:00",
+    "generated_at": "2026-10-21T06:30:11.1115418+00:00",
+    "fetched_at": "2026-10-21T06:30:40.711067+00:00",
     "total_entries": 1260
   },
   "entries": [
@@ -560,18 +560,18 @@
     },
     {
       "rank": 70,
-      "steam_id": "76561198155493819",
-      "display_name": "CraftMaster163",
-      "prestige_level": 35,
-      "achieved_at": "2026-10-19T18:45:05.05242+00:00",
+      "steam_id": "76561198143728007",
+      "display_name": "tommer",
+      "prestige_level": 36,
+      "achieved_at": "2026-10-21T06:24:15.259144+00:00",
       "badge_id": ""
     },
     {
       "rank": 71,
-      "steam_id": "76561198143728007",
-      "display_name": "tommer",
+      "steam_id": "76561198155493819",
+      "display_name": "CraftMaster163",
       "prestige_level": 35,
-      "achieved_at": "2026-10-21T05:03:42.51713+00:00",
+      "achieved_at": "2026-10-19T18:45:05.05242+00:00",
       "badge_id": ""
     },
     {
