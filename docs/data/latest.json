@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-21T07:45:11.1120796+00:00",
-    "fetched_at": "2026-10-21T07:45:33.071001+00:00",
+    "generated_at": "2026-10-21T08:00:11.1118768+00:00",
+    "fetched_at": "2026-10-21T08:00:48.963629+00:00",
     "total_entries": 1260
   },
   "entries": [
@@ -72,19 +72,19 @@
     },
     {
       "rank": 9,
+      "steam_id": "76561197978386457",
+      "display_name": "[US]OmicroN",
+      "prestige_level": 103,
+      "achieved_at": "2026-10-21T07:58:40.443132+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 10,
       "steam_id": "76561198020717966",
       "display_name": "Reflex?",
       "prestige_level": 102,
       "achieved_at": "2026-09-14T11:43:12.895455+00:00",
       "badge_id": "s3_third"
-    },
-    {
-      "rank": 10,
-      "steam_id": "76561197978386457",
-      "display_name": "[US]OmicroN",
-      "prestige_level": 102,
-      "achieved_at": "2026-10-21T03:55:58.987143+00:00",
-      "badge_id": ""
     },
     {
       "rank": 11,
