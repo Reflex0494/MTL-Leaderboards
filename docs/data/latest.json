@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-22T09:45:11.1131692+00:00",
-    "fetched_at": "2026-10-22T09:45:31.508351+00:00",
+    "generated_at": "2026-10-22T10:00:11.1125561+00:00",
+    "fetched_at": "2026-10-22T10:00:54.968803+00:00",
     "total_entries": 1272
   },
   "entries": [
@@ -328,6 +328,14 @@
     },
     {
       "rank": 41,
+      "steam_id": "76561198952370183",
+      "display_name": "friendly",
+      "prestige_level": 52,
+      "achieved_at": "2026-10-22T09:46:10.845724+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 42,
       "steam_id": "76561198360531319",
       "display_name": "SCOTT_LAROT",
       "prestige_level": 51,
@@ -335,7 +343,7 @@
       "badge_id": "s2_top21"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "steam_id": "76561198095887617",
       "display_name": "Jimbo",
       "prestige_level": 51,
@@ -343,19 +351,11 @@
       "badge_id": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "steam_id": "76561198036311342",
       "display_name": "Dindu Nuffin",
       "prestige_level": 51,
       "achieved_at": "2026-10-20T15:07:40.447015+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 44,
-      "steam_id": "76561198952370183",
-      "display_name": "friendly",
-      "prestige_level": 51,
-      "achieved_at": "2026-10-20T19:13:48.097205+00:00",
       "badge_id": ""
     },
     {
