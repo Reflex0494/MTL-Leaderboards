@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-22T05:30:11.1134899+00:00",
-    "fetched_at": "2026-10-22T05:30:40.112555+00:00",
-    "total_entries": 1269
+    "generated_at": "2026-10-22T05:45:11.1137693+00:00",
+    "fetched_at": "2026-10-22T05:45:29.846959+00:00",
+    "total_entries": 1270
   },
   "entries": [
     {
@@ -544,18 +544,18 @@
     },
     {
       "rank": 68,
-      "steam_id": "76561198348565591",
-      "display_name": "IFellOff",
-      "prestige_level": 37,
-      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
+      "steam_id": "76561198143728007",
+      "display_name": "tommer",
+      "prestige_level": 38,
+      "achieved_at": "2026-10-22T05:36:29.992967+00:00",
       "badge_id": ""
     },
     {
       "rank": 69,
-      "steam_id": "76561198143728007",
-      "display_name": "tommer",
+      "steam_id": "76561198348565591",
+      "display_name": "IFellOff",
       "prestige_level": 37,
-      "achieved_at": "2026-10-22T04:24:56.140426+00:00",
+      "achieved_at": "2026-08-25T23:40:27.143731+00:00",
       "badge_id": ""
     },
     {
