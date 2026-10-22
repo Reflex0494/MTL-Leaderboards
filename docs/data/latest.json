@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-22T19:15:11.1150418+00:00",
-    "fetched_at": "2026-10-22T19:15:33.923175+00:00",
-    "total_entries": 1272
+    "generated_at": "2026-10-22T19:30:11.112638+00:00",
+    "fetched_at": "2026-10-22T19:30:44.203398+00:00",
+    "total_entries": 1273
   },
   "entries": [
     {
@@ -512,6 +512,14 @@
     },
     {
       "rank": 64,
+      "steam_id": "76561198165039378",
+      "display_name": "Danya",
+      "prestige_level": 39,
+      "achieved_at": "2026-10-22T19:17:49.191266+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 65,
       "steam_id": "76561198119563776",
       "display_name": "Pois",
       "prestige_level": 38,
@@ -519,7 +527,7 @@
       "badge_id": ""
     },
     {
-      "rank": 65,
+      "rank": 66,
       "steam_id": "76561199478338551",
       "display_name": "| Whimsey |",
       "prestige_level": 38,
@@ -527,7 +535,7 @@
       "badge_id": ""
     },
     {
-      "rank": 66,
+      "rank": 67,
       "steam_id": "76561198224175832",
       "display_name": "CHUDder Cheese",
       "prestige_level": 38,
@@ -535,20 +543,12 @@
       "badge_id": ""
     },
     {
-      "rank": 67,
+      "rank": 68,
       "steam_id": "76561197969063615",
       "display_name": "CallMyDad",
       "prestige_level": 38,
       "achieved_at": "2026-10-21T14:13:30.609125+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 68,
-      "steam_id": "76561198165039378",
-      "display_name": "Danya",
-      "prestige_level": 38,
-      "achieved_at": "2026-10-22T04:15:46.976675+00:00",
-      "badge_id": ""
     },
     {
       "rank": 69,
