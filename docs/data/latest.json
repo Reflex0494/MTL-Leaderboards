@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-22T04:15:11.113677+00:00",
-    "fetched_at": "2026-10-22T04:15:30.145320+00:00",
+    "generated_at": "2026-10-22T04:30:11.1153005+00:00",
+    "fetched_at": "2026-10-22T04:30:39.038136+00:00",
     "total_entries": 1269
   },
   "entries": [
@@ -536,6 +536,14 @@
     },
     {
       "rank": 67,
+      "steam_id": "76561198165039378",
+      "display_name": "Danya",
+      "prestige_level": 38,
+      "achieved_at": "2026-10-22T04:15:46.976675+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 68,
       "steam_id": "76561198348565591",
       "display_name": "IFellOff",
       "prestige_level": 37,
@@ -543,27 +551,19 @@
       "badge_id": ""
     },
     {
-      "rank": 68,
-      "steam_id": "76561198165039378",
-      "display_name": "Danya",
-      "prestige_level": 37,
-      "achieved_at": "2026-10-20T18:19:58.065319+00:00",
-      "badge_id": ""
-    },
-    {
       "rank": 69,
-      "steam_id": "76561199362604620",
-      "display_name": "Drogon",
-      "prestige_level": 36,
-      "achieved_at": "2026-10-20T04:58:47.091978+00:00",
+      "steam_id": "76561198143728007",
+      "display_name": "tommer",
+      "prestige_level": 37,
+      "achieved_at": "2026-10-22T04:24:56.140426+00:00",
       "badge_id": ""
     },
     {
       "rank": 70,
-      "steam_id": "76561198143728007",
-      "display_name": "tommer",
+      "steam_id": "76561199362604620",
+      "display_name": "Drogon",
       "prestige_level": 36,
-      "achieved_at": "2026-10-21T06:24:15.259144+00:00",
+      "achieved_at": "2026-10-20T04:58:47.091978+00:00",
       "badge_id": ""
     },
     {
