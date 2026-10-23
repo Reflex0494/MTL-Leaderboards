@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-23T03:15:11.1146331+00:00",
-    "fetched_at": "2026-10-23T03:15:29.167663+00:00",
+    "generated_at": "2026-10-23T03:30:11.1135301+00:00",
+    "fetched_at": "2026-10-23T03:30:40.335568+00:00",
     "total_entries": 1277
   },
   "entries": [
@@ -784,6 +784,14 @@
     },
     {
       "rank": 98,
+      "steam_id": "76561198065302297",
+      "display_name": "David The Fox",
+      "prestige_level": 28,
+      "achieved_at": "2026-10-23T03:29:50.545925+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 99,
       "steam_id": "76561198219933312",
       "display_name": "KepilOtol",
       "prestige_level": 27,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561197974754170",
       "display_name": "Vaupell",
       "prestige_level": 27,
       "achieved_at": "2026-09-27T21:57:42.000977+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198013111370",
-      "display_name": "The Fragrance of Dark Coffee",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-30T14:14:43.484725+00:00",
       "badge_id": ""
     }
   ]
