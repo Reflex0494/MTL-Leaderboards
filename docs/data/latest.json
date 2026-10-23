@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-23T12:00:11.1136734+00:00",
-    "fetched_at": "2026-10-23T12:00:53.827837+00:00",
+    "generated_at": "2026-10-23T12:15:11.1130281+00:00",
+    "fetched_at": "2026-10-23T12:15:30.759853+00:00",
     "total_entries": 1281
   },
   "entries": [
@@ -226,8 +226,8 @@
       "rank": 28,
       "steam_id": "76561198039356798",
       "display_name": "mtw95",
-      "prestige_level": 68,
-      "achieved_at": "2026-10-22T13:49:05.735852+00:00",
+      "prestige_level": 69,
+      "achieved_at": "2026-10-23T12:13:09.214246+00:00",
       "badge_id": ""
     },
     {
