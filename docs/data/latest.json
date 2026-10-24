@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-24T20:00:11.1130133+00:00",
-    "fetched_at": "2026-10-24T20:00:50.038955+00:00",
+    "generated_at": "2026-10-24T20:15:11.1138222+00:00",
+    "fetched_at": "2026-10-24T20:15:34.029434+00:00",
     "total_entries": 1300
   },
   "entries": [
@@ -736,6 +736,14 @@
     },
     {
       "rank": 92,
+      "steam_id": "76561198100143465",
+      "display_name": "Kuzgundev",
+      "prestige_level": 30,
+      "achieved_at": "2026-10-24T20:12:57.984296+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 93,
       "steam_id": "76561198136863936",
       "display_name": "BusterBear",
       "prestige_level": 29,
@@ -743,7 +751,7 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "steam_id": "76561198077575239",
       "display_name": "Daddy Pegasie",
       "prestige_level": 29,
@@ -751,7 +759,7 @@
       "badge_id": ""
     },
     {
-      "rank": 94,
+      "rank": 95,
       "steam_id": "76561198237373514",
       "display_name": "ghouls",
       "prestige_level": 29,
@@ -759,19 +767,11 @@
       "badge_id": ""
     },
     {
-      "rank": 95,
+      "rank": 96,
       "steam_id": "76561198065302297",
       "display_name": "David The Fox",
       "prestige_level": 29,
       "achieved_at": "2026-10-23T04:20:45.785204+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 96,
-      "steam_id": "76561198100143465",
-      "display_name": "Kuzgundev",
-      "prestige_level": 29,
-      "achieved_at": "2026-10-24T17:23:25.614735+00:00",
       "badge_id": ""
     },
     {
