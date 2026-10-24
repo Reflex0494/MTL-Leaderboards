@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-24T12:45:11.1158861+00:00",
-    "fetched_at": "2026-10-24T12:45:34.833140+00:00",
+    "generated_at": "2026-10-24T13:00:11.1143868+00:00",
+    "fetched_at": "2026-10-24T13:00:50.567837+00:00",
     "total_entries": 1294
   },
   "entries": [
@@ -66,8 +66,8 @@
       "rank": 8,
       "steam_id": "76561197978386457",
       "display_name": "[US]OmicroN",
-      "prestige_level": 112,
-      "achieved_at": "2026-10-24T09:31:03.795457+00:00",
+      "prestige_level": 113,
+      "achieved_at": "2026-10-24T12:57:22.97861+00:00",
       "badge_id": "s3_top21"
     },
     {
