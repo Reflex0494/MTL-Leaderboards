@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-24T10:30:11.1159049+00:00",
-    "fetched_at": "2026-10-24T10:30:40.784796+00:00",
+    "generated_at": "2026-10-24T10:45:11.1141369+00:00",
+    "fetched_at": "2026-10-24T10:45:30.818851+00:00",
     "total_entries": 1294
   },
   "entries": [
@@ -456,6 +456,14 @@
     },
     {
       "rank": 57,
+      "steam_id": "76561198238729656",
+      "display_name": "macry",
+      "prestige_level": 45,
+      "achieved_at": "2026-10-24T10:37:44.610957+00:00",
+      "badge_id": "og"
+    },
+    {
+      "rank": 58,
       "steam_id": "76561198211658841",
       "display_name": "Zetazy",
       "prestige_level": 44,
@@ -463,20 +471,12 @@
       "badge_id": ""
     },
     {
-      "rank": 58,
+      "rank": 59,
       "steam_id": "76561198143728007",
       "display_name": "tommer",
       "prestige_level": 44,
       "achieved_at": "2026-10-24T06:53:47.025507+00:00",
       "badge_id": ""
-    },
-    {
-      "rank": 59,
-      "steam_id": "76561198238729656",
-      "display_name": "macry",
-      "prestige_level": 44,
-      "achieved_at": "2026-10-24T08:39:02.191293+00:00",
-      "badge_id": "og"
     },
     {
       "rank": 60,
