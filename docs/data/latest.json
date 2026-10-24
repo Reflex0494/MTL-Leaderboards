@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-24T12:15:11.1144862+00:00",
-    "fetched_at": "2026-10-24T12:15:33.225238+00:00",
+    "generated_at": "2026-10-24T12:30:11.1140284+00:00",
+    "fetched_at": "2026-10-24T12:30:47.972636+00:00",
     "total_entries": 1294
   },
   "entries": [
@@ -360,6 +360,14 @@
     },
     {
       "rank": 45,
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 51,
+      "achieved_at": "2026-10-24T12:24:06.52662+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 46,
       "steam_id": "76561198825962496",
       "display_name": "\u7ee7\u7eed\u5bfb\u627e",
       "prestige_level": 50,
@@ -367,7 +375,7 @@
       "badge_id": "s1_top21"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "steam_id": "76561198052055706",
       "display_name": "OG",
       "prestige_level": 50,
@@ -375,19 +383,11 @@
       "badge_id": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "steam_id": "76561198257899621",
       "display_name": "Blood Money",
       "prestige_level": 50,
       "achieved_at": "2026-10-11T20:41:21.774811+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 48,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
-      "prestige_level": 50,
-      "achieved_at": "2026-10-16T13:50:35.021635+00:00",
       "badge_id": ""
     },
     {
