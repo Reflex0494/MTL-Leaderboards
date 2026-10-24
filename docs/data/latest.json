@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-24T04:30:11.1140099+00:00",
-    "fetched_at": "2026-10-24T04:30:42.520044+00:00",
+    "generated_at": "2026-10-24T04:45:11.1142884+00:00",
+    "fetched_at": "2026-10-24T04:45:31.457505+00:00",
     "total_entries": 1290
   },
   "entries": [
@@ -482,8 +482,8 @@
       "rank": 60,
       "steam_id": "76561198143728007",
       "display_name": "tommer",
-      "prestige_level": 42,
-      "achieved_at": "2026-10-24T02:43:33.96444+00:00",
+      "prestige_level": 43,
+      "achieved_at": "2026-10-24T04:33:24.714463+00:00",
       "badge_id": ""
     },
     {
