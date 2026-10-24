@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-24T18:00:11.1131384+00:00",
-    "fetched_at": "2026-10-24T18:00:51.123742+00:00",
+    "generated_at": "2026-10-24T18:15:11.1126613+00:00",
+    "fetched_at": "2026-10-24T18:15:32.847365+00:00",
     "total_entries": 1299
   },
   "entries": [
@@ -68,7 +68,7 @@
       "display_name": "[US]OmicroN",
       "prestige_level": 113,
       "achieved_at": "2026-10-24T12:57:22.97861+00:00",
-      "badge_id": "s3_top21"
+      "badge_id": ""
     },
     {
       "rank": 9,
