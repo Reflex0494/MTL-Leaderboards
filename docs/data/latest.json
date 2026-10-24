@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-24T16:15:11.1124665+00:00",
-    "fetched_at": "2026-10-24T16:15:29.924163+00:00",
+    "generated_at": "2026-10-24T16:30:11.1122618+00:00",
+    "fetched_at": "2026-10-24T16:30:43.747418+00:00",
     "total_entries": 1294
   },
   "entries": [
@@ -800,10 +800,10 @@
     },
     {
       "rank": 100,
-      "steam_id": "76561198219933312",
-      "display_name": "KepilOtol",
-      "prestige_level": 27,
-      "achieved_at": "2026-09-23T14:48:32.779984+00:00",
+      "steam_id": "76561198100143465",
+      "display_name": "Kuzgundev",
+      "prestige_level": 28,
+      "achieved_at": "2026-10-24T16:23:08.294161+00:00",
       "badge_id": ""
     }
   ]
