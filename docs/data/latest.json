@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-24T02:45:11.1132414+00:00",
-    "fetched_at": "2026-10-24T02:45:30.335311+00:00",
+    "generated_at": "2026-10-24T03:00:11.1142638+00:00",
+    "fetched_at": "2026-10-24T03:00:52.866736+00:00",
     "total_entries": 1290
   },
   "entries": [
@@ -120,18 +120,18 @@
     },
     {
       "rank": 15,
-      "steam_id": "76561197985446261",
-      "display_name": "Cyrus",
-      "prestige_level": 86,
-      "achieved_at": "2026-09-30T14:41:06.232083+00:00",
+      "steam_id": "76561198062569823",
+      "display_name": "Cocker Reptagoon",
+      "prestige_level": 87,
+      "achieved_at": "2026-10-24T02:57:05.145724+00:00",
       "badge_id": ""
     },
     {
       "rank": 16,
-      "steam_id": "76561198062569823",
-      "display_name": "Cocker Reptagoon",
+      "steam_id": "76561197985446261",
+      "display_name": "Cyrus",
       "prestige_level": 86,
-      "achieved_at": "2026-10-22T07:42:14.05746+00:00",
+      "achieved_at": "2026-09-30T14:41:06.232083+00:00",
       "badge_id": ""
     },
     {
