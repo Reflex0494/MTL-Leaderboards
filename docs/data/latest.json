@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-25T20:15:11.1139499+00:00",
-    "fetched_at": "2026-10-25T20:15:33.635657+00:00",
+    "generated_at": "2026-10-25T20:30:11.112885+00:00",
+    "fetched_at": "2026-10-25T20:30:45.635969+00:00",
     "total_entries": 1316
   },
   "entries": [
@@ -776,6 +776,14 @@
     },
     {
       "rank": 97,
+      "steam_id": "76561198145951512",
+      "display_name": "VegetasSpec",
+      "prestige_level": 29,
+      "achieved_at": "2026-10-25T20:19:43.670741+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 98,
       "steam_id": "76561198043224364",
       "display_name": "Icekoolr",
       "prestige_level": 28,
@@ -783,7 +791,7 @@
       "badge_id": ""
     },
     {
-      "rank": 98,
+      "rank": 99,
       "steam_id": "76561198063303488",
       "display_name": "Kweekus",
       "prestige_level": 28,
@@ -791,19 +799,11 @@
       "badge_id": ""
     },
     {
-      "rank": 99,
+      "rank": 100,
       "steam_id": "76561197997275874",
       "display_name": "sheepmee",
       "prestige_level": 28,
       "achieved_at": "2026-09-24T23:20:05.395491+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 100,
-      "steam_id": "76561198012831449",
-      "display_name": "Spanjolen",
-      "prestige_level": 28,
-      "achieved_at": "2026-10-24T13:29:54.498504+00:00",
       "badge_id": ""
     }
   ]
