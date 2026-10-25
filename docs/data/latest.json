@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-25T03:30:11.1137602+00:00",
-    "fetched_at": "2026-10-25T03:30:43.125490+00:00",
-    "total_entries": 1306
+    "generated_at": "2026-10-25T03:45:11.1117893+00:00",
+    "fetched_at": "2026-10-25T03:45:32.977294+00:00",
+    "total_entries": 1307
   },
   "entries": [
     {
@@ -440,6 +440,14 @@
     },
     {
       "rank": 55,
+      "steam_id": "76561198143728007",
+      "display_name": "tommer",
+      "prestige_level": 46,
+      "achieved_at": "2026-10-25T03:41:53.265427+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 56,
       "steam_id": "76561198129173186",
       "display_name": "Burns",
       "prestige_level": 45,
@@ -447,7 +455,7 @@
       "badge_id": ""
     },
     {
-      "rank": 56,
+      "rank": 57,
       "steam_id": "76561199100481765",
       "display_name": "Himari",
       "prestige_level": 45,
@@ -455,20 +463,12 @@
       "badge_id": ""
     },
     {
-      "rank": 57,
+      "rank": 58,
       "steam_id": "76561198238729656",
       "display_name": "macry",
       "prestige_level": 45,
       "achieved_at": "2026-10-24T10:37:44.610957+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 58,
-      "steam_id": "76561198143728007",
-      "display_name": "tommer",
-      "prestige_level": 45,
-      "achieved_at": "2026-10-25T01:39:08.56597+00:00",
-      "badge_id": ""
     },
     {
       "rank": 59,
