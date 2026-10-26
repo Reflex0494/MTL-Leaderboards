@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-26T04:00:11.1135227+00:00",
-    "fetched_at": "2026-10-26T04:00:53.178323+00:00",
+    "generated_at": "2026-10-26T04:15:11.1144881+00:00",
+    "fetched_at": "2026-10-26T04:15:32.587373+00:00",
     "total_entries": 1325
   },
   "entries": [
@@ -728,6 +728,14 @@
     },
     {
       "rank": 91,
+      "steam_id": "76561198145951512",
+      "display_name": "VegetasSpec",
+      "prestige_level": 31,
+      "achieved_at": "2026-10-26T04:03:43.690351+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 92,
       "steam_id": "76561198014221839",
       "display_name": "Drunken.Canadian",
       "prestige_level": 30,
@@ -735,19 +743,11 @@
       "badge_id": ""
     },
     {
-      "rank": 92,
+      "rank": 93,
       "steam_id": "76561197990084841",
       "display_name": ".vistalu",
       "prestige_level": 30,
       "achieved_at": "2026-09-06T01:38:14.145264+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 93,
-      "steam_id": "76561198145951512",
-      "display_name": "VegetasSpec",
-      "prestige_level": 30,
-      "achieved_at": "2026-10-25T21:14:55.364417+00:00",
       "badge_id": ""
     },
     {
