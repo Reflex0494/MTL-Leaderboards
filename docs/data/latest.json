@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-26T21:15:11.1140324+00:00",
-    "fetched_at": "2026-10-26T21:15:37.618237+00:00",
+    "generated_at": "2026-10-26T21:30:11.1146175+00:00",
+    "fetched_at": "2026-10-26T21:30:55.666275+00:00",
     "total_entries": 1332
   },
   "entries": [
@@ -560,18 +560,18 @@
     },
     {
       "rank": 70,
-      "steam_id": "76561199362604620",
-      "display_name": "Drogon",
-      "prestige_level": 36,
-      "achieved_at": "2026-10-20T04:58:47.091978+00:00",
+      "steam_id": "76561198121017385",
+      "display_name": "piiks",
+      "prestige_level": 37,
+      "achieved_at": "2026-10-26T21:20:21.629275+00:00",
       "badge_id": ""
     },
     {
       "rank": 71,
-      "steam_id": "76561198121017385",
-      "display_name": "piiks",
+      "steam_id": "76561199362604620",
+      "display_name": "Drogon",
       "prestige_level": 36,
-      "achieved_at": "2026-10-26T18:38:30.13366+00:00",
+      "achieved_at": "2026-10-20T04:58:47.091978+00:00",
       "badge_id": ""
     },
     {
