@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-26T17:30:11.1138777+00:00",
-    "fetched_at": "2026-10-26T17:30:47.481412+00:00",
+    "generated_at": "2026-10-26T17:45:11.1139845+00:00",
+    "fetched_at": "2026-10-26T17:45:35.928823+00:00",
     "total_entries": 1332
   },
   "entries": [
@@ -200,6 +200,14 @@
     },
     {
       "rank": 25,
+      "steam_id": "76561198039356798",
+      "display_name": "mtw95",
+      "prestige_level": 76,
+      "achieved_at": "2026-10-26T17:37:43.285044+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 26,
       "steam_id": "76561197976793673",
       "display_name": "Omeletil",
       "prestige_level": 75,
@@ -207,20 +215,12 @@
       "badge_id": "s3_top21"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "steam_id": "76561198076913774",
       "display_name": "Earl Sinclair",
       "prestige_level": 75,
       "achieved_at": "2026-09-23T03:13:04.486162+00:00",
       "badge_id": "og"
-    },
-    {
-      "rank": 27,
-      "steam_id": "76561198039356798",
-      "display_name": "mtw95",
-      "prestige_level": 75,
-      "achieved_at": "2026-10-26T16:16:49.524632+00:00",
-      "badge_id": ""
     },
     {
       "rank": 28,
