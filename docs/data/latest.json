@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-26T00:15:11.1127108+00:00",
-    "fetched_at": "2026-10-26T00:15:37.899044+00:00",
+    "generated_at": "2026-10-26T00:30:11.1126425+00:00",
+    "fetched_at": "2026-10-26T00:30:43.554641+00:00",
     "total_entries": 1319
   },
   "entries": [
@@ -290,8 +290,8 @@
       "rank": 36,
       "steam_id": "76561198027179351",
       "display_name": "[Desgo.",
-      "prestige_level": 57,
-      "achieved_at": "2026-10-24T00:40:30.427875+00:00",
+      "prestige_level": 58,
+      "achieved_at": "2026-10-26T00:23:15.035876+00:00",
       "badge_id": "og"
     },
     {
