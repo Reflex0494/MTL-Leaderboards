@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-26T18:30:11.1136483+00:00",
-    "fetched_at": "2026-10-26T18:30:46.736574+00:00",
+    "generated_at": "2026-10-26T18:45:11.1145343+00:00",
+    "fetched_at": "2026-10-26T18:45:35.372676+00:00",
     "total_entries": 1332
   },
   "entries": [
@@ -568,18 +568,18 @@
     },
     {
       "rank": 71,
-      "steam_id": "76561198155493819",
-      "display_name": "CraftMaster163",
-      "prestige_level": 35,
-      "achieved_at": "2026-10-19T18:45:05.05242+00:00",
+      "steam_id": "76561198121017385",
+      "display_name": "piiks",
+      "prestige_level": 36,
+      "achieved_at": "2026-10-26T18:38:30.13366+00:00",
       "badge_id": ""
     },
     {
       "rank": 72,
-      "steam_id": "76561198121017385",
-      "display_name": "piiks",
+      "steam_id": "76561198155493819",
+      "display_name": "CraftMaster163",
       "prestige_level": 35,
-      "achieved_at": "2026-10-25T22:38:11.074687+00:00",
+      "achieved_at": "2026-10-19T18:45:05.05242+00:00",
       "badge_id": ""
     },
     {
