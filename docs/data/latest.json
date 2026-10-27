@@ -1,9 +1,9 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-27T02:15:11.1128801+00:00",
-    "fetched_at": "2026-10-27T02:15:33.910263+00:00",
-    "total_entries": 1334
+    "generated_at": "2026-10-27T02:30:11.1140315+00:00",
+    "fetched_at": "2026-10-27T02:30:46.609417+00:00",
+    "total_entries": 1335
   },
   "entries": [
     {
@@ -400,6 +400,14 @@
     },
     {
       "rank": 50,
+      "steam_id": "76561198143728007",
+      "display_name": "tommer",
+      "prestige_level": 50,
+      "achieved_at": "2026-10-27T02:16:26.763229+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 51,
       "steam_id": "76561197987741108",
       "display_name": "Pookie",
       "prestige_level": 49,
@@ -407,19 +415,11 @@
       "badge_id": ""
     },
     {
-      "rank": 51,
+      "rank": 52,
       "steam_id": "76561197980332226",
       "display_name": "Freddy Spaghetti",
       "prestige_level": 49,
       "achieved_at": "2026-10-20T22:34:00.06677+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 52,
-      "steam_id": "76561198143728007",
-      "display_name": "tommer",
-      "prestige_level": 49,
-      "achieved_at": "2026-10-27T00:05:39.975021+00:00",
       "badge_id": ""
     },
     {
