@@ -1,8 +1,8 @@
 {
   "snapshot": {
     "season": "s4",
-    "generated_at": "2026-10-27T08:30:11.1149538+00:00",
-    "fetched_at": "2026-10-27T08:30:44.975074+00:00",
+    "generated_at": "2026-10-27T08:45:11.1143731+00:00",
+    "fetched_at": "2026-10-27T08:45:39.244734+00:00",
     "total_entries": 1336
   },
   "entries": [
@@ -320,6 +320,14 @@
     },
     {
       "rank": 40,
+      "steam_id": "76561198165404808",
+      "display_name": "Spazious",
+      "prestige_level": 53,
+      "achieved_at": "2026-10-27T08:43:09.730413+00:00",
+      "badge_id": ""
+    },
+    {
+      "rank": 41,
       "steam_id": "76561198050855635",
       "display_name": "UnlikelyFloof",
       "prestige_level": 52,
@@ -327,19 +335,11 @@
       "badge_id": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "steam_id": "76561197994407869",
       "display_name": "Goldmind",
       "prestige_level": 52,
       "achieved_at": "2026-10-19T11:30:19.520656+00:00",
-      "badge_id": ""
-    },
-    {
-      "rank": 42,
-      "steam_id": "76561198165404808",
-      "display_name": "Spazious",
-      "prestige_level": 52,
-      "achieved_at": "2026-10-24T19:06:04.027705+00:00",
       "badge_id": ""
     },
     {
